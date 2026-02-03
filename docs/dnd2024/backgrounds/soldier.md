@@ -1,6 +1,8 @@
 # Soldier
 <!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
 
+Source: Player's Handbook
+
 You began training for war as soon as you reached adulthood and carry precious few memories of life before you took up arms. Battle is in your blood. Sometimes you catch yourself reflexively performing the basic fighting exercises you learned first. Eventually, you put that training to use on the battlefield, protecting the realm by waging war.
 
 ## Benefits

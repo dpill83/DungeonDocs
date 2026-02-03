@@ -2,28 +2,47 @@
 
 <!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
 
+<div align="center">
+  <img src="https://www.wargamer.com/wp-content/sites/wargamer/2023/06/dnd-dhampir-5e-sorin.jpg" alt="Elegant dhampir with flowing white hair and glowing eyes in a moonlit castle" width="900"/>
+</div>
 
-Dhampirs are living people who possess vampiric prowess but are cursed with macabre hunger. Most dhampirs thirst for blood, but some gain sustenance from dreams, life energy, or other vital sources. Dhampirs must choose whether to fight to control their hunger or give in to predatory urges.
+Dhampirs are living people who possess vampiric prowess but are cursed with macabre hunger. Most dhampirs thirst for blood, but some gain sustenance from dreams, life energy, or other vital sources. Dhampirs must choose whether to fight to control their hunger or give in to predatory urges.  
+
 Dhampirs often arise from encounters with vampires; some are the descendants of a powerful vampire, while others are partially transformed by a vampire’s bite. All manner of macabre bargains and necromantic influences might also give rise to a dhampir. Regardless of their origins, dhampirs exhibit their vampiric nature in various ways, including increased speed and a life-draining bite.
-Dhampir Traits
-Creature Type:
-Humanoid
-Size:
-Medium (about 4–7 feet tall) or Small (about 2–4 feet tall), chosen when you select this species
-Speed:
-35 feet
+
+## Dhampir Traits
+
+| Trait         | Description                                                                 |
+| ------------- | --------------------------------------------------------------------------- |
+| Creature Type | Humanoid                                                                    |
+| Size          | Medium (about 4–7 feet tall) or Small (about 2–4 feet tall), chosen when you select this species |
+| Speed         | 35 feet                                                                     |
+
 As a Dhampir, you have these special traits.
-Darkvision.
+
+**Darkvision**  
 You have Darkvision with a range of 60 feet.
-Spider Climb.
+
+**Spider Climb**  
+<div align="center">
+  <img src="https://dnddispatch.com/wp-content/uploads/2022/01/Dhampir-Race-5e.jpg" alt="Dhampir clinging to a ceiling upside down with bloody claws" width="800"/>
+</div>
+
 You have a Climb Speed equal to your Speed. When you reach character level 3, you can move up, down, and across vertical surfaces and along ceilings while leaving your hands free.
-Trace of Undeath.
+
+**Trace of Undeath**  
 You have Resistance to Necrotic damage.
-Vampiric Bite.
-When you use your Unarmed Strike and deal damage, you can choose to bite with your fangs. You deal Piercing damage equal to 1d4 plus your Constitution modifier instead of the normal damage of an Unarmed Strike.
-In addition, when you deal this damage to a creature that isn’t a Construct or an Undead, you can empower yourself in one of the following ways:
-Drain.
-You regain Hit Points equal to the Piercing damage dealt.
-Strengthen.
-You gain a bonus to the next ability check or attack roll you make within the next minute; the bonus is equal to the Piercing damage dealt.
-You can empower yourself with this trait a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.
+
+**Vampiric Bite**  
+<div align="center">
+  <img src="https://i0.wp.com/dungeonsanddragonsfan.com/wp-content/uploads/2025/12/dnd-dhampir-species-2025-4.png?fit=800%2C450&ssl=1" alt="Dhampir baring sharp fangs in aggressive hunger" width="800"/>
+</div>
+
+When you use your Unarmed Strike and deal damage, you can choose to bite with your fangs. You deal Piercing damage equal to 1d4 plus your Constitution modifier instead of the normal damage of an Unarmed Strike.  
+
+In addition, when you deal this damage to a creature that isn’t a Construct or an Undead, you can empower yourself by choosing one of the following options:
+
+- **Drain.** You regain Hit Points equal to the Piercing damage dealt.
+- **Strengthen.** You gain a bonus to the next ability check or attack roll you make within the next minute. The bonus equals the Piercing damage dealt.
+
+You can empower yourself a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.

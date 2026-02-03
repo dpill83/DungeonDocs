@@ -1,12 +1,12 @@
 site_name: DungeonDocs
-site_description: Searchable D&D reference from dnd5e.wikidot.com
-# Replace with your deployed URL (e.g. https://dungeon-docs.pages.dev)
-site_url: https://REPLACE_WITH_YOUR_WIKI_URL/
+site_description: Gather’s searchable rules reference
+# Set this after deploy, or remove it until you have the real URL
+# site_url: https://dungeondocs.pages.dev
 
 theme:
   name: material
   logo: images/DungeonDocs-logo.png
-  favicon: images/DungeonDocs-logo.png
+  favicon: images/DungeonDocs-favicon.png
   palette:
     - scheme: default
       primary: indigo
@@ -21,18 +21,122 @@ theme:
   features:
     - search.suggest
     - search.highlight
+    - navigation.instant
+    - navigation.tracking
 
 extra_css:
   - stylesheets/extra.css
 
 plugins:
-  - search
-
-nav:
-  - Home: index.md
-  - Backgrounds: dnd2024/backgrounds/index.md
+  - exclude:
+      glob:
+        - "dnd5e/**"
+  - search:
+      separator: '[\s\-]+'
 
 markdown_extensions:
   - tables
   - toc:
       permalink: true
+  - attr_list
+  - md_in_html
+
+nav:
+  - Home: index.md
+  - Backgrounds:
+    - All Backgrounds: dnd2024/backgrounds/index.md
+    - Aberrant Heir: dnd2024/backgrounds/aberrant-heir.md
+    - Acolyte: dnd2024/backgrounds/acolyte.md
+    - Archaeologist: dnd2024/backgrounds/archaeologist.md
+    - Artisan: dnd2024/backgrounds/artisan.md
+    - Carouser: dnd2024/backgrounds/carouser.md
+    - Charlatan: dnd2024/backgrounds/charlatan.md
+    - Chondathan Freebooter: dnd2024/backgrounds/chondathan-freebooter.md
+    - Criminal: dnd2024/backgrounds/criminal.md
+    - Dead Magic Dweller: dnd2024/backgrounds/dead-magic-dweller.md
+    - Dragon Cultist: dnd2024/backgrounds/dragon-cultist.md
+    - Emerald Enclave Caretaker: dnd2024/backgrounds/emerald-enclave-caretaker.md
+    - Entertainer: dnd2024/backgrounds/entertainer.md
+    - Farmer: dnd2024/backgrounds/farmer.md
+    - Flaming Fist Mercenary: dnd2024/backgrounds/flaming-fist-mercenary.md
+    - Genie Touched: dnd2024/backgrounds/genie-touched.md
+    - Guard: dnd2024/backgrounds/guard.md
+    - Guide: dnd2024/backgrounds/guide.md
+    - Harper: dnd2024/backgrounds/harper.md
+    - Hermit: dnd2024/backgrounds/hermit.md
+    - House Agent: dnd2024/backgrounds/house-agent.md
+    - House Cannith Heir: dnd2024/backgrounds/house-cannith-heir.md
+    - House Deneith Heir: dnd2024/backgrounds/house-deneith-heir.md
+    - House Ghallanda Heir: dnd2024/backgrounds/house-ghallanda-heir.md
+    - House Jorasco Heir: dnd2024/backgrounds/house-jorasco-heir.md
+    - House Kundarak Heir: dnd2024/backgrounds/house-kundarak-heir.md
+    - House Lyrandar Heir: dnd2024/backgrounds/house-lyrandar-heir.md
+    - House Medani Heir: dnd2024/backgrounds/house-medani-heir.md
+    - House Orien Heir: dnd2024/backgrounds/house-orien-heir.md
+    - House Phiarlan Heir: dnd2024/backgrounds/house-phiarlan-heir.md
+    - House Sivis Heir: dnd2024/backgrounds/house-sivis-heir.md
+    - House Tharashk Heir: dnd2024/backgrounds/house-tharashk-heir.md
+    - House Thuranni Heir: dnd2024/backgrounds/house-thuranni-heir.md
+    - House Vadalis Heir: dnd2024/backgrounds/house-vadalis-heir.md
+    - Ice Fisher: dnd2024/backgrounds/ice-fisher.md
+    - Inquisitive: dnd2024/backgrounds/inquisitive.md
+    - Knight of the Gauntlet: dnd2024/backgrounds/knight-of-the-gauntlet.md
+    - Lords Alliance Vassal: dnd2024/backgrounds/lords-alliance-vassal.md
+    - Lorwyn Expert: dnd2024/backgrounds/lorwyn-expert.md
+    - Merchant: dnd2024/backgrounds/merchant.md
+    - Moonwell Pilgrim: dnd2024/backgrounds/moonwell-pilgrim.md
+    - Mulhorandi Tomb Raider: dnd2024/backgrounds/mulhorandi-tomb-raider.md
+    - Mythalkeeper: dnd2024/backgrounds/mythalkeeper.md
+    - Noble: dnd2024/backgrounds/noble.md
+    - Purple Dragon Squire: dnd2024/backgrounds/purple-dragon-squire.md
+    - Rashemi Wanderer: dnd2024/backgrounds/rashemi-wanderer.md
+    - Sage: dnd2024/backgrounds/sage.md
+    - Sailor: dnd2024/backgrounds/sailor.md
+    - Scribe: dnd2024/backgrounds/scribe.md
+    - Shadowmasters Exile: dnd2024/backgrounds/shadowmasters-exile.md
+    - Shadowmoor Expert: dnd2024/backgrounds/shadowmoor-expert.md
+    - Soldier: dnd2024/backgrounds/soldier.md
+    - Spellfire Initiate: dnd2024/backgrounds/spellfire-initiate.md
+    - Vampire Devotee: dnd2024/backgrounds/vampire-devotee.md
+    - Vampire Survivor: dnd2024/backgrounds/vampire-survivor.md
+    - Wayfarer: dnd2024/backgrounds/wayfarer.md
+    - Zhentarim Mercenary: dnd2024/backgrounds/zhentarim-mercenary.md
+  - Classes:
+    - Artificer: dnd2024/classes/artificer/main.md
+    - Barbarian: dnd2024/classes/barbarian/main.md
+    - Bard: dnd2024/classes/bard/main.md
+    - Cleric: dnd2024/classes/cleric/main.md
+    - Druid: dnd2024/classes/druid/main.md
+    - Fighter: dnd2024/classes/fighter/main.md
+    - Monk: dnd2024/classes/monk/main.md
+    - Paladin: dnd2024/classes/paladin/main.md
+    - Ranger: dnd2024/classes/ranger/main.md
+    - Rogue: dnd2024/classes/rogue/main.md
+    - Sorcerer: dnd2024/classes/sorcerer/main.md
+    - Warlock: dnd2024/classes/warlock/main.md
+    - Wizard: dnd2024/classes/wizard/main.md
+    - Multiclassing: dnd2024/classes/multiclassing.md
+  - Feats: dnd2024/feats/index.md
+  - Species:
+    - All Species: dnd2024/species/all.md
+    - Aasimar: dnd2024/species/aasimar.md
+    - Boggart: dnd2024/species/boggart.md
+    - Changeling: dnd2024/species/changeling.md
+    - Dhampir: dnd2024/species/dhampir.md
+    - Dragonborn: dnd2024/species/dragonborn.md
+    - Dwarf: dnd2024/species/dwarf.md
+    - Elf: dnd2024/species/elf.md
+    - Faerie: dnd2024/species/faerie.md
+    - Flamekin: dnd2024/species/flamekin.md
+    - Gnome: dnd2024/species/gnome.md
+    - Goliath: dnd2024/species/goliath.md
+    - Halfling: dnd2024/species/halfling.md
+    - Human: dnd2024/species/human.md
+    - Kalashtar: dnd2024/species/kalashtar.md
+    - Khoravar: dnd2024/species/khoravar.md
+    - Lorwyn Changeling: dnd2024/species/lorwyn-changeling.md
+    - Orc: dnd2024/species/orc.md
+    - Rimekin: dnd2024/species/rimekin.md
+    - Shifter: dnd2024/species/shifter.md
+    - Tiefling: dnd2024/species/tiefling.md
+    - Warforged: dnd2024/species/warforged.md

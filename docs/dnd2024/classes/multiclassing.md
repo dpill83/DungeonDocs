@@ -16,14 +16,14 @@ Add together the Hit Dice granted by all your classes to form your pool of Hit D
 Proficiency Bonus
 Your Proficiency Bonus is based on your total character level, not your level in a particular class, as shown in the Character Advancement table. For example, if you are a level 3 Fighter / level 2 Rogue, you have the Proficiency Bonus of a level 5 character, which is +3.
 Proficiencies
-When you gain your first level in a class other than your initial class, you gain only some of the new class’s starting proficiencies, as detailed in each class's description in chapter 3.
+When you gain your first level in a class other than your initial class, you gain only some of the new class's starting proficiencies, as detailed in each class's description in chapter 3.
 Class Features
 When you gain a new level in a class, you get its features for that level. A few features have additional rules when you're multiclassing. Check the information about multiclassing included in each of your classes' descriptions.
 Special rules apply to Extra Attack, Spellcasting, and features (such as Unarmored Defense) that give you alternative ways to calculate your Armor Class.
 Armor Class
-If you have multiple ways to calculate your Armor Class, you can benefit from only one at a time. For example, a Monk/Sorcerer with a Monk’s Unarmored Defense feature and a Sorcerer’s Draconic Resilience feature must choose only one of those features as a way to calculate Armor Class.
+If you have multiple ways to calculate your Armor Class, you can benefit from only one at a time. For example, a Monk/Sorcerer with a Monk's Unarmored Defense feature and a Sorcerer's Draconic Resilience feature must choose only one of those features as a way to calculate Armor Class.
 Extra Attack
-If you gain the Extra Attack feature from more than one class, the features don't stack. You can’t make more than two attacks with this feature unless you have a feature that says you can (such as the Fighter's Two Extra Attacks feature).
+If you gain the Extra Attack feature from more than one class, the features don't stack. You can't make more than two attacks with this feature unless you have a feature that says you can (such as the Fighter's Two Extra Attacks feature).
 Similarly, the Warlock's Thirsting Blade invocation, which grants you the Extra Attack feature with your pact weapon, doesn't give you additional attacks if you also have Extra Attack.
 Spellcasting
 Your capacity for spellcasting depends partly on your combined levels in all your spellcasting classes and partly on your individual levels in those classes. Once you have the Spellcasting feature from more than one class, use the rules below. If you multiclass but have the Spellcasting feature from only one class, follow the rules for that class.
@@ -252,6 +252,6 @@ Then look up this total level in the Level column of the Multiclass Spellcaster 
 This table might give you spell slots of a higher level than the spells you prepare. You can use those slots but only to cast your lower-level spells. If a lower-level spell that you cast, like
 Burning Hands
 , has an enhanced effect when cast at a higher level, you can use the enhanced effect as normal.
-For example, if you are a level 4 Ranger / level 3 Sorcerer, you count as a level 5 character when determining your spell slots, counting all your levels as a Sorcerer and half your Ranger levels. As shown in the Multiclass Spellcaster table, you have four level 1 spell slots, three level 2 slots, and two level 3 slots. However, you can’t prepare any level 3 spells, nor can you prepare any level 2 Ranger spells. You can use the spell slots of those levels to cast the spells you do prepare—and potentially enhance their effects.
+For example, if you are a level 4 Ranger / level 3 Sorcerer, you count as a level 5 character when determining your spell slots, counting all your levels as a Sorcerer and half your Ranger levels. As shown in the Multiclass Spellcaster table, you have four level 1 spell slots, three level 2 slots, and two level 3 slots. However, you can't prepare any level 3 spells, nor can you prepare any level 2 Ranger spells. You can use the spell slots of those levels to cast the spells you do prepare—and potentially enhance their effects.
 Pact Magic.
 If you have the Pact Magic feature from the Warlock class and the Spellcasting feature, you can use the spell slots you gain from Pact Magic to cast spells you have prepared from classes with the Spellcasting feature, and you can use the spellslots you gain from the Spellcasting feature to cast Warlock spells you have prepared.

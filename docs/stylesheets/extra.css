@@ -1,3 +1,42 @@
+/* Logo: limit size and respect transparent background */
+.md-header__button.md-logo {
+  background: transparent !important;
+  padding: 0.2rem 0;
+}
+.md-header__button.md-logo img,
+.md-header__button.md-logo svg {
+  height: 2rem;
+  width: auto;
+  max-width: 10rem;
+  display: block;
+}
+
+/* Home hero: logo spans full width above content and TOC */
+.home-hero {
+  width: 100vw;
+  max-width: 100vw;
+  margin-left: calc(50% - 50vw);
+  margin-right: calc(50% - 50vw);
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+.home-hero .home-logo {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Home page logo: smaller size, transparent background */
+.md-typeset .home-logo {
+  max-height: 12rem;
+  width: auto;
+  background: transparent !important;
+}
+.md-typeset p:has(> .home-logo),
+.md-typeset figure:has(> .home-logo),
+.md-typeset figure:has(> a > .home-logo) {
+  background: transparent !important;
+}
+
 /* Table styling for Benefits and other reference tables */
 .md-typeset table {
   width: 100%;

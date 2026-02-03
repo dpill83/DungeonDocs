@@ -1,49 +1,69 @@
-# All
+# Species
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+<div align="center">
+  <img src="https://static0.srcdn.com/wordpress/wp-content/uploads/2024/08/d-d-species-2024-player-s-handbook.jpg" alt="Diverse adventuring party representing various D&D species" width="900"/>
+</div>
 
+When you choose your character's species, you determine whether they're human or a member of a fantastical race like dragonborn or gnome. A character's species defines their game traits—the mechanical benefits and characteristics they gain from their ancestry.
 
-When you choose your character’s species, you determine whether your character is a human or a member of a fantastical species, such as dragonborn or gnome.
-The peoples of the D&D multiverse hail from different worlds and include many kinds of sapient life forms. A player character’s species is the set of game traits that an adventurer gains from being one of those life forms.
-Some species can trace their origin to a single world, plane of existence, or god, while other species first appeared in multiple realms at once. Whatever a species' genesis, its members have spread across the multiverse and contribute to many different cultures.
-Members of most species live for about 80 years, with exceptions noted in the text about the species in this chapter. Regardless of life span, members of all species reach physical maturity at about the same age. Your character can be any age that isn't beyond their species' normal life span.
-Parts of a Species
-A species includes the following parts.
-Creature Type.
-A character’s species determines the character’s creature type, which is described in the rules glossary. Every species in this chapter is Humanoid; playable non-Humanoid species appear in other D&D books.
-Size.
-Your character’s species determines the character's size. Individuals within a species cover a wide range of heights, and some species include such diversity of size that you can choose whether your character is Small or Medium.
-Speed.
-Your character’s species determines the character’s Speed.
-Special Traits.
-Each species gives a character special traits - unique characteristics based on the species' physiology or magical nature. When you choose a species, your character gets all the special traits listed for it. Some traits involve making a choice from a handful of options.
-Quick Overview
-Common
-Eberron
-Lorwyn
-Exotic
-Name
-Aasimar
-Dragonborn
-Dwarf
-Elf
-Gnome
-Goliath
-Halfling
-Human
-Orc
-Tiefling
-Name
-Changeling
-Kalashtar
-Khoravar
-Shifter
-Warforged
-Name
-Boggart
-Faerie
-Flamekin
-Lorwyn Changeling
-Rimekin
-Name
-Dhampir
+Species in the D&D multiverse originate from different worlds, planes, and gods, though members have spread across the realms and contributed to many cultures. Most species members live roughly 80 years (with exceptions noted in their descriptions), and all species reach physical maturity at approximately the same age. Your character can be any age within their species' normal life span.
+
+## Parts of a Species
+
+Every species provides the following:
+
+| Component | Details |
+|-----------|---------|
+| **Creature Type** | Your species determines your creature type (described in the rules glossary). All playable species in this chapter are Humanoid. |
+| **Size** | Your species determines your size category. Most species are Medium, though some can be Small or Medium—you choose. |
+| **Speed** | Your species determines your walking speed in feet. |
+| **Special Traits** | Each species grants unique traits reflecting its physiology or magical nature. You gain all listed traits for your species, and some offer choices. |
+
+## Common Species
+
+<div align="center">
+  <img src="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/10/dungeons-dragons-5e-2024-every-available-species-in-the-updated-player-handbook.jpg" alt="Core species from the 2024 Player's Handbook" width="900"/>
+</div>
+
+- **[Aasimar](aasimar.md)**
+- **[Dragonborn](dragonborn.md)**
+- **[Dwarf](dwarf.md)**
+- **[Elf](elf.md)**
+- **[Gnome](gnome.md)**
+- **[Goliath](goliath.md)**
+- **[Halfling](halfling.md)**
+- **[Human](human.md)**
+- **[Orc](orc.md)**
+- **[Tiefling](tiefling.md)**
+
+## Eberron Species
+
+<div align="center">
+  <img src="https://cannibalhalflinggaming.com/wp-content/uploads/2019/11/29749932-5895-4db1-b014-35e3e0a66829.jpeg" alt="Eberron species including warforged and shifter" width="800"/>
+</div>
+
+- **[Changeling](changeling.md)**
+- **[Kalashtar](kalashtar.md)**
+- **[Khoravar](khoravar.md)**
+- **[Shifter](shifter.md)**
+- **[Warforged](warforged.md)**
+
+## Lorwyn Species
+
+<div align="center">
+  <img src="https://static0.cbrimages.com/wordpress/wp-content/uploads/2023/08/magic-the-gathering-races-of-lorwyn.jpg" alt="Lorwyn-inspired species including flamekin and faerie" width="800"/>
+</div>
+
+- **[Boggart](boggart.md)**
+- **[Faerie](faerie.md)**
+- **[Flamekin](flamekin.md)**
+- **[Lorwyn Changeling](lorwyn-changeling.md)**
+- **[Rimekin](rimekin.md)**
+
+## Exotic Species
+
+<div align="center">
+  <img src="https://www.wargamer.com/wp-content/sites/wargamer/2023/06/dnd-dhampir-5e-sorin.jpg" alt="Dhampir lineage" width="700"/>
+</div>
+
+- **[Dhampir](dhampir.md)**

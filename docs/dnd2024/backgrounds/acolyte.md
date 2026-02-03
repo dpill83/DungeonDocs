@@ -1,6 +1,8 @@
 # Acolyte
 <!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
 
+Source: Player's Handbook
+
 You devoted yourself to service in a temple, either nestled in a town or secluded in a sacred grove. There you performed rites in honor of a god or pantheon. You served under a priest and studied religion. Thanks to your priest's instruction and your own devotion, you also learned how to channel a modicum of divine power in service to your place of worship and the people who prayed there.
 
 ## Benefits

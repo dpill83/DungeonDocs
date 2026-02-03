@@ -1,6 +1,8 @@
 # Wayfarer
 <!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
 
+Source: Player's Handbook
+
 You grew up on the streets surrounded by similarly ill-fated castoffs, a few of them friends and a few of them rivals. You slept where you could and did odd jobs for food. At times, when the hunger became unbearable, you resorted to theft. Still, you never lost your pride and never abandoned hope. Fate is not yet finished with you.
 
 ## Benefits

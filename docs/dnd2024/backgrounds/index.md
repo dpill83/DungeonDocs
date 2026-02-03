@@ -1,27 +1,44 @@
 # D&D Backgrounds
 
-Backgrounds from the D&D rules.
+Your character's background represents the formative experiences—the place, people, and occupation—that shaped who they were before embarking on a life of adventure. Each background includes a brief narrative you can customize with your own details and flourishes.
 
-## All backgrounds
+## Parts of a Background
 
-- [Aberrant Heir](aberrant-heir.md)
+Every background provides the following:
+
+| Component | Details |
+|-----------|---------|
+| **Ability Scores** | Choose how to distribute three ability score increases: boost one score by 2 and another by 1, or increase all three by 1. No score can exceed 20. |
+| **Feat** | You gain a specified Origin feat (see chapter 5). |
+| **Skill Proficiencies** | You become proficient in two specified skills. |
+| **Tool Proficiency** | You gain proficiency with one tool, either a specific one or one selected from the Artisan's Tools category. |
+| **Equipment** | You choose either a specific equipment package or 50 GP to spend as you wish. |
+
+## Common
+
+Source: Player's Handbook
+
 - [Acolyte](acolyte.md)
-- [Archaeologist](archaeologist.md)
 - [Artisan](artisan.md)
-- [Carouser](carouser.md)
 - [Charlatan](charlatan.md)
-- [Chondathan Freebooter](chondathan-freebooter.md)
 - [Criminal](criminal.md)
-- [Dead Magic Dweller](dead-magic-dweller.md)
-- [Dragon Cultist](dragon-cultist.md)
-- [Emerald Enclave Caretaker](emerald-enclave-caretaker.md)
 - [Entertainer](entertainer.md)
 - [Farmer](farmer.md)
-- [Flaming Fist Mercenary](flaming-fist-mercenary.md)
-- [Genie Touched](genie-touched.md)
 - [Guard](guard.md)
-- [Harper](harper.md)
+- [Guide](guide.md)
 - [Hermit](hermit.md)
+- [Merchant](merchant.md)
+- [Noble](noble.md)
+- [Sage](sage.md)
+- [Sailor](sailor.md)
+- [Scribe](scribe.md)
+- [Soldier](soldier.md)
+- [Wayfarer](wayfarer.md)
+
+## Eberron
+
+- [Aberrant Heir](aberrant-heir.md)
+- [Archaeologist](archaeologist.md)
 - [House Agent](house-agent.md)
 - [House Cannith Heir](house-cannith-heir.md)
 - [House Deneith Heir](house-deneith-heir.md)
@@ -36,26 +53,33 @@ Backgrounds from the D&D rules.
 - [House Tharashk Heir](house-tharashk-heir.md)
 - [House Thuranni Heir](house-thuranni-heir.md)
 - [House Vadalis Heir](house-vadalis-heir.md)
-- [Ice Fisher](ice-fisher.md)
 - [Inquisitive](inquisitive.md)
+
+## Faerûn
+
+- [Chondathan Freebooter](chondathan-freebooter.md)
+- [Dead Magic Dweller](dead-magic-dweller.md)
+- [Dragon Cultist](dragon-cultist.md)
+- [Emerald Enclave Caretaker](emerald-enclave-caretaker.md)
+- [Flaming Fist Mercenary](flaming-fist-mercenary.md)
+- [Genie Touched](genie-touched.md)
+- [Harper](harper.md)
+- [Ice Fisher](ice-fisher.md)
 - [Knight of the Gauntlet](knight-of-the-gauntlet.md)
 - [Lords' Alliance Vassal](lords-alliance-vassal.md)
-- [Lorwyn Expert](lorwyn-expert.md)
-- [Merchant](merchant.md)
 - [Moonwell Pilgrim](moonwell-pilgrim.md)
 - [Mulhorandi Tomb Raider](mulhorandi-tomb-raider.md)
 - [Mythalkeeper](mythalkeeper.md)
-- [Noble](noble.md)
 - [Purple Dragon Squire](purple-dragon-squire.md)
 - [Rashemi Wanderer](rashemi-wanderer.md)
-- [Sage](sage.md)
-- [Sailor](sailor.md)
-- [Scribe](scribe.md)
 - [Shadowmasters' Exile](shadowmasters-exile.md)
-- [Shadowmoor Expert](shadowmoor-expert.md)
-- [Soldier](soldier.md)
 - [Spellfire Initiate](spellfire-initiate.md)
+- [Zhentarim Mercenary](zhentarim-mercenary.md)
+
+## Exotic
+
+- [Carouser](carouser.md)
+- [Lorwyn Expert](lorwyn-expert.md)
+- [Shadowmoor Expert](shadowmoor-expert.md)
 - [Vampire Devotee](vampire-devotee.md)
 - [Vampire Survivor](vampire-survivor.md)
-- [Wayfarer](wayfarer.md)
-- [Zhentarim Mercenary](zhentarim-mercenary.md)

@@ -1,6 +1,8 @@
 # Farmer
 <!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
 
+Source: Player's Handbook
+
 You grew up close to the land. Years tending animals and cultivating the earth rewarded you with patience and good health. You have a keen appreciation for nature’s bounty alongside a healthy respect for nature's wrath.
 
 ## Benefits
