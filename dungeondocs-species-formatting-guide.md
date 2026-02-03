@@ -20,6 +20,11 @@ This document serves as the **canonical style guide and "seed"** for formatting 
    - Header image: 800–900 width.
    - Section images: 700–800 width.
    - Choose images that thematically match the content exactly.
+   - **Do not use images from these URLs** (they return access denied):  
+     - `https://cdnb.artstation.com`  
+     - `https://static.wikia.nocookie.net/`
+     - `https://i.pinimg.com`
+     Use alternative image sources instead.
 
 5. **Structure Pattern** (apply to every species page)
 

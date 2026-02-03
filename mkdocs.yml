@@ -102,19 +102,104 @@ nav:
     - Wayfarer: dnd2024/backgrounds/wayfarer.md
     - Zhentarim Mercenary: dnd2024/backgrounds/zhentarim-mercenary.md
   - Classes:
-    - Artificer: dnd2024/classes/artificer/main.md
-    - Barbarian: dnd2024/classes/barbarian/main.md
-    - Bard: dnd2024/classes/bard/main.md
-    - Cleric: dnd2024/classes/cleric/main.md
-    - Druid: dnd2024/classes/druid/main.md
-    - Fighter: dnd2024/classes/fighter/main.md
-    - Monk: dnd2024/classes/monk/main.md
-    - Paladin: dnd2024/classes/paladin/main.md
-    - Ranger: dnd2024/classes/ranger/main.md
-    - Rogue: dnd2024/classes/rogue/main.md
-    - Sorcerer: dnd2024/classes/sorcerer/main.md
-    - Warlock: dnd2024/classes/warlock/main.md
-    - Wizard: dnd2024/classes/wizard/main.md
+    - Artificer:
+      - Artificer: dnd2024/classes/artificer/main.md
+      - Alchemist: dnd2024/classes/artificer/alchemist.md
+      - Armorer: dnd2024/classes/artificer/armorer.md
+      - Artillerist: dnd2024/classes/artificer/artillerist.md
+      - Battle Smith: dnd2024/classes/artificer/battle-smith.md
+      - Cartographer: dnd2024/classes/artificer/cartographer.md
+      - Spell List: dnd2024/classes/artificer/spell-list.md
+    - Barbarian:
+      - Barbarian: dnd2024/classes/barbarian/main.md
+      - Path of the Berserker: dnd2024/classes/barbarian/path-of-the-berserker.md
+      - Path of the Wild Heart: dnd2024/classes/barbarian/path-of-the-wild-heart.md
+      - Path of the World Tree: dnd2024/classes/barbarian/path-of-the-world-tree.md
+      - Path of the Zealot: dnd2024/classes/barbarian/path-of-the-zealot.md
+    - Bard:
+      - Bard: dnd2024/classes/bard/main.md
+      - College of Dance: dnd2024/classes/bard/college-of-dance.md
+      - College of Glamour: dnd2024/classes/bard/college-of-glamour.md
+      - College of Lore: dnd2024/classes/bard/college-of-lore.md
+      - College of the Moon: dnd2024/classes/bard/college-of-the-moon.md
+      - College of Valor: dnd2024/classes/bard/college-of-valor.md
+      - Spell List: dnd2024/classes/bard/spell-list.md
+    - Cleric:
+      - Cleric: dnd2024/classes/cleric/main.md
+      - Knowledge Domain: dnd2024/classes/cleric/knowledge-domain.md
+      - Life Domain: dnd2024/classes/cleric/life-domain.md
+      - Light Domain: dnd2024/classes/cleric/light-domain.md
+      - Trickery Domain: dnd2024/classes/cleric/trickery-domain.md
+      - War Domain: dnd2024/classes/cleric/war-domain.md
+      - Spell List: dnd2024/classes/cleric/spell-list.md
+    - Druid:
+      - Druid: dnd2024/classes/druid/main.md
+      - Circle of the Land: dnd2024/classes/druid/circle-of-the-land.md
+      - Circle of the Moon: dnd2024/classes/druid/circle-of-the-moon.md
+      - Circle of the Sea: dnd2024/classes/druid/circle-of-the-sea.md
+      - Circle of the Stars: dnd2024/classes/druid/circle-of-the-stars.md
+      - Spell List: dnd2024/classes/druid/spell-list.md
+    - Fighter:
+      - Fighter: dnd2024/classes/fighter/main.md
+      - Banneret: dnd2024/classes/fighter/banneret.md
+      - Battle Master: dnd2024/classes/fighter/battle-master.md
+      - Champion: dnd2024/classes/fighter/champion.md
+      - Eldritch Knight: dnd2024/classes/fighter/eldritch-knight.md
+      - Psi Warrior: dnd2024/classes/fighter/psi-warrior.md
+    - Monk:
+      - Monk: dnd2024/classes/monk/main.md
+      - Warrior of Mercy: dnd2024/classes/monk/warrior-of-mercy.md
+      - Warrior of Shadow: dnd2024/classes/monk/warrior-of-shadow.md
+      - Warrior of the Elements: dnd2024/classes/monk/warrior-of-the-elements.md
+      - Warrior of the Open Hand: dnd2024/classes/monk/warrior-of-the-open-hand.md
+    - Paladin:
+      - Paladin: dnd2024/classes/paladin/main.md
+      - Oath of Devotion: dnd2024/classes/paladin/oath-of-devotion.md
+      - Oath of Glory: dnd2024/classes/paladin/oath-of-glory.md
+      - Oath of the Ancients: dnd2024/classes/paladin/oath-of-the-ancients.md
+      - Oath of the Noble Genies: dnd2024/classes/paladin/oath-of-the-noble-genies.md
+      - Oath of Vengeance: dnd2024/classes/paladin/oath-of-vengeance.md
+      - Spell List: dnd2024/classes/paladin/spell-list.md
+    - Ranger:
+      - Ranger: dnd2024/classes/ranger/main.md
+      - Beast Master: dnd2024/classes/ranger/beast-master.md
+      - Fey Wanderer: dnd2024/classes/ranger/fey-wanderer.md
+      - Gloom Stalker: dnd2024/classes/ranger/gloom-stalker.md
+      - Hunter: dnd2024/classes/ranger/hunter.md
+      - Winter Walker: dnd2024/classes/ranger/winter-walker.md
+      - Spell List: dnd2024/classes/ranger/spell-list.md
+    - Rogue:
+      - Rogue: dnd2024/classes/rogue/main.md
+      - Arcane Trickster: dnd2024/classes/rogue/arcane-trickster.md
+      - Assassin: dnd2024/classes/rogue/assassin.md
+      - Scion of the Three: dnd2024/classes/rogue/scion-of-the-three.md
+      - Soulknife: dnd2024/classes/rogue/soulknife.md
+      - Thief: dnd2024/classes/rogue/thief.md
+    - Sorcerer:
+      - Sorcerer: dnd2024/classes/sorcerer/main.md
+      - Aberrant Sorcery: dnd2024/classes/sorcerer/aberrant-sorcery.md
+      - Clockwork Sorcery: dnd2024/classes/sorcerer/clockwork-sorcery.md
+      - Draconic Sorcery: dnd2024/classes/sorcerer/draconic-sorcery.md
+      - Metamagic: dnd2024/classes/sorcerer/metamagic.md
+      - Spellfire Sorcery: dnd2024/classes/sorcerer/spellfire-sorcery.md
+      - Wild Magic Sorcery: dnd2024/classes/sorcerer/wild-magic-sorcery.md
+      - Spell List: dnd2024/classes/sorcerer/spell-list.md
+    - Warlock:
+      - Warlock: dnd2024/classes/warlock/main.md
+      - Archfey Patron: dnd2024/classes/warlock/archfey-patron.md
+      - Celestial Patron: dnd2024/classes/warlock/celestial-patron.md
+      - Eldritch Invocation: dnd2024/classes/warlock/eldritch-invocation.md
+      - Fiend Patron: dnd2024/classes/warlock/fiend-patron.md
+      - Great Old One Patron: dnd2024/classes/warlock/great-old-one-patron.md
+      - Spell List: dnd2024/classes/warlock/spell-list.md
+    - Wizard:
+      - Wizard: dnd2024/classes/wizard/main.md
+      - Abjurer: dnd2024/classes/wizard/abjurer.md
+      - Bladesinger: dnd2024/classes/wizard/bladesinger.md
+      - Diviner: dnd2024/classes/wizard/diviner.md
+      - Evoker: dnd2024/classes/wizard/evoker.md
+      - Illusionist: dnd2024/classes/wizard/illusionist.md
+      - Spell List: dnd2024/classes/wizard/spell-list.md
     - Multiclassing: dnd2024/classes/multiclassing.md
   - Feats: dnd2024/feats/index.md
   - Species:
