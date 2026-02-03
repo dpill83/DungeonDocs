@@ -23,6 +23,7 @@ theme:
     - search.highlight
     - navigation.instant
     - navigation.tracking
+    - navigation.indexes
 
 extra_css:
   - stylesheets/extra.css
@@ -103,7 +104,7 @@ nav:
     - Zhentarim Mercenary: dnd2024/backgrounds/zhentarim-mercenary.md
   - Classes:
     - Artificer:
-      - Artificer: dnd2024/classes/artificer/main.md
+      - dnd2024/classes/artificer/index.md
       - Alchemist: dnd2024/classes/artificer/alchemist.md
       - Armorer: dnd2024/classes/artificer/armorer.md
       - Artillerist: dnd2024/classes/artificer/artillerist.md
@@ -111,13 +112,13 @@ nav:
       - Cartographer: dnd2024/classes/artificer/cartographer.md
       - Spell List: dnd2024/classes/artificer/spell-list.md
     - Barbarian:
-      - Barbarian: dnd2024/classes/barbarian/main.md
+      - dnd2024/classes/barbarian/index.md
       - Path of the Berserker: dnd2024/classes/barbarian/path-of-the-berserker.md
       - Path of the Wild Heart: dnd2024/classes/barbarian/path-of-the-wild-heart.md
       - Path of the World Tree: dnd2024/classes/barbarian/path-of-the-world-tree.md
       - Path of the Zealot: dnd2024/classes/barbarian/path-of-the-zealot.md
     - Bard:
-      - Bard: dnd2024/classes/bard/main.md
+      - dnd2024/classes/bard/index.md
       - College of Dance: dnd2024/classes/bard/college-of-dance.md
       - College of Glamour: dnd2024/classes/bard/college-of-glamour.md
       - College of Lore: dnd2024/classes/bard/college-of-lore.md
@@ -125,7 +126,7 @@ nav:
       - College of Valor: dnd2024/classes/bard/college-of-valor.md
       - Spell List: dnd2024/classes/bard/spell-list.md
     - Cleric:
-      - Cleric: dnd2024/classes/cleric/main.md
+      - dnd2024/classes/cleric/index.md
       - Knowledge Domain: dnd2024/classes/cleric/knowledge-domain.md
       - Life Domain: dnd2024/classes/cleric/life-domain.md
       - Light Domain: dnd2024/classes/cleric/light-domain.md
@@ -133,27 +134,27 @@ nav:
       - War Domain: dnd2024/classes/cleric/war-domain.md
       - Spell List: dnd2024/classes/cleric/spell-list.md
     - Druid:
-      - Druid: dnd2024/classes/druid/main.md
+      - dnd2024/classes/druid/index.md
       - Circle of the Land: dnd2024/classes/druid/circle-of-the-land.md
       - Circle of the Moon: dnd2024/classes/druid/circle-of-the-moon.md
       - Circle of the Sea: dnd2024/classes/druid/circle-of-the-sea.md
       - Circle of the Stars: dnd2024/classes/druid/circle-of-the-stars.md
       - Spell List: dnd2024/classes/druid/spell-list.md
     - Fighter:
-      - Fighter: dnd2024/classes/fighter/main.md
+      - dnd2024/classes/fighter/index.md
       - Banneret: dnd2024/classes/fighter/banneret.md
       - Battle Master: dnd2024/classes/fighter/battle-master.md
       - Champion: dnd2024/classes/fighter/champion.md
       - Eldritch Knight: dnd2024/classes/fighter/eldritch-knight.md
       - Psi Warrior: dnd2024/classes/fighter/psi-warrior.md
     - Monk:
-      - Monk: dnd2024/classes/monk/main.md
+      - dnd2024/classes/monk/index.md
       - Warrior of Mercy: dnd2024/classes/monk/warrior-of-mercy.md
       - Warrior of Shadow: dnd2024/classes/monk/warrior-of-shadow.md
       - Warrior of the Elements: dnd2024/classes/monk/warrior-of-the-elements.md
       - Warrior of the Open Hand: dnd2024/classes/monk/warrior-of-the-open-hand.md
     - Paladin:
-      - Paladin: dnd2024/classes/paladin/main.md
+      - dnd2024/classes/paladin/index.md
       - Oath of Devotion: dnd2024/classes/paladin/oath-of-devotion.md
       - Oath of Glory: dnd2024/classes/paladin/oath-of-glory.md
       - Oath of the Ancients: dnd2024/classes/paladin/oath-of-the-ancients.md
@@ -161,7 +162,7 @@ nav:
       - Oath of Vengeance: dnd2024/classes/paladin/oath-of-vengeance.md
       - Spell List: dnd2024/classes/paladin/spell-list.md
     - Ranger:
-      - Ranger: dnd2024/classes/ranger/main.md
+      - dnd2024/classes/ranger/index.md
       - Beast Master: dnd2024/classes/ranger/beast-master.md
       - Fey Wanderer: dnd2024/classes/ranger/fey-wanderer.md
       - Gloom Stalker: dnd2024/classes/ranger/gloom-stalker.md
@@ -169,14 +170,14 @@ nav:
       - Winter Walker: dnd2024/classes/ranger/winter-walker.md
       - Spell List: dnd2024/classes/ranger/spell-list.md
     - Rogue:
-      - Rogue: dnd2024/classes/rogue/main.md
+      - dnd2024/classes/rogue/index.md
       - Arcane Trickster: dnd2024/classes/rogue/arcane-trickster.md
       - Assassin: dnd2024/classes/rogue/assassin.md
       - Scion of the Three: dnd2024/classes/rogue/scion-of-the-three.md
       - Soulknife: dnd2024/classes/rogue/soulknife.md
       - Thief: dnd2024/classes/rogue/thief.md
     - Sorcerer:
-      - Sorcerer: dnd2024/classes/sorcerer/main.md
+      - dnd2024/classes/sorcerer/index.md
       - Aberrant Sorcery: dnd2024/classes/sorcerer/aberrant-sorcery.md
       - Clockwork Sorcery: dnd2024/classes/sorcerer/clockwork-sorcery.md
       - Draconic Sorcery: dnd2024/classes/sorcerer/draconic-sorcery.md
@@ -185,7 +186,7 @@ nav:
       - Wild Magic Sorcery: dnd2024/classes/sorcerer/wild-magic-sorcery.md
       - Spell List: dnd2024/classes/sorcerer/spell-list.md
     - Warlock:
-      - Warlock: dnd2024/classes/warlock/main.md
+      - dnd2024/classes/warlock/index.md
       - Archfey Patron: dnd2024/classes/warlock/archfey-patron.md
       - Celestial Patron: dnd2024/classes/warlock/celestial-patron.md
       - Eldritch Invocation: dnd2024/classes/warlock/eldritch-invocation.md
@@ -193,7 +194,7 @@ nav:
       - Great Old One Patron: dnd2024/classes/warlock/great-old-one-patron.md
       - Spell List: dnd2024/classes/warlock/spell-list.md
     - Wizard:
-      - Wizard: dnd2024/classes/wizard/main.md
+      - dnd2024/classes/wizard/index.md
       - Abjurer: dnd2024/classes/wizard/abjurer.md
       - Bladesinger: dnd2024/classes/wizard/bladesinger.md
       - Diviner: dnd2024/classes/wizard/diviner.md
