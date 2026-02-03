@@ -1,0 +1,6 @@
+# MkDocs build output
+site/
+
+# Scraped content (regenerate with crawl scripts)
+scraped-dnd5e/
+scraped-dnd2024/

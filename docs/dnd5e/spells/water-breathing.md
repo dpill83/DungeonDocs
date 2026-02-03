@@ -1,0 +1,16 @@
+# Water Breathing
+
+<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+
+
+This spell grants up to ten willing creatures you can see within range the ability to breathe underwater until the spell ends. Affected creatures also retain their normal mode of respiration.
+Spell Lists.
+Artificer
+,
+Druid
+,
+Ranger
+,
+Sorcerer
+,
+Wizard

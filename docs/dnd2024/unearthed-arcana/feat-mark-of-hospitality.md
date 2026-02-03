@@ -1,0 +1,40 @@
+# Feat Mark Of Hospitality
+
+<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+
+
+Dragonmark Feat (Prerequisite: Eberron Campaign, Can’t have another Dragonmark Feat)
+You gain the following benefits.
+Ever Hospitable.
+When you make a Charisma (Persuasion) check or an ability check using Brewer’s Supplies or Cook’s Utensils, you can roll 1d4 and add the number rolled to the ability check.
+Innkeeper’s Magic.
+You know the
+Prestidigitation
+cantrip. You also always have the
+Purify Food and Drink
+and
+Unseen Servant
+spells prepared. You can cast each spell once without a spell slot, and you regain the ability to cast it in that way when you finish a Long Rest. You can also cast these spells using any spell slots you have. Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells (choose when you select this feat).
+Spells of the Mark.
+If you have the Spellcasting or Pact Magic feature, the spells on the Mark of Hospitality Spells table are added to that feature’s spell list.
+Mark of Hospitality Spells
+Spell Level
+Spells
+1
+Goodberry
+,
+Sleep
+2
+Aid
+,
+Calm Emotions
+3
+Create Food and Water
+,
+Leomund's Tiny Hut
+4
+Aura of Purity
+,
+Mordenkainen's Private Sanctum
+5
+Hallow

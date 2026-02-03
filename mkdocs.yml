@@ -1,0 +1,38 @@
+site_name: DungeonDocs
+site_description: Searchable D&D reference from dnd5e.wikidot.com
+# Replace with your deployed URL (e.g. https://dungeon-docs.pages.dev)
+site_url: https://REPLACE_WITH_YOUR_WIKI_URL/
+
+theme:
+  name: material
+  logo: images/DungeonDocs-logo.png
+  favicon: images/DungeonDocs-logo.png
+  palette:
+    - scheme: default
+      primary: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - search.suggest
+    - search.highlight
+
+extra_css:
+  - stylesheets/extra.css
+
+plugins:
+  - search
+
+nav:
+  - Home: index.md
+  - Backgrounds: dnd2024/backgrounds/index.md
+
+markdown_extensions:
+  - tables
+  - toc:
+      permalink: true

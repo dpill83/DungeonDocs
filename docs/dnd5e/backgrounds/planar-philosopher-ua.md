@@ -1,0 +1,13 @@
+# Planar Philosopher Ua
+<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+
+You subscribe to a distinct philosophy that seeks to understand the nature of the planes or some hidden truth of the multiverse. You draw strength from your conviction and, perhaps, a network of like-minded believers. In your travels, you seek to deepen the depths of your understanding and spread your philosophy.
+Source: Unearthed Arcana 85 - Wonders of the Multiverse
+
+## Benefits
+
+| Feature                | Details                                      |
+|------------------------|----------------------------------------------|
+| **Skill Proficiencies** | Arcana<br>Persuasion |
+| **Languages** | Two of your choice |
+| **Equipment** | A set of common clothes Value: 5sp Weight: 3lbs <br>and a pouch Value: 5sp Weight: 1lb containing 10 gp comprised of coins from different worlds<br>planes. Feature Conviction You gain the Scion of the Outer Planes feat. In addition<br>members of organization provide you free<br>modest lodging<br>food at any of their holding or the homes of other faction members. Building a Planar Philosopher Character Some groups of planar philosophers might have preferences for or against certain types of characters<br>but by<br>large any character that upholds<br>furthers the beliefs of the group is welcome within its ranks. Suggested Characteristics. Adventurers who dedicate themselves to a particular philosophy toward the multiverse are welcomed among the faction that embraces those beliefs. The Planar Philosopher Personality Traits table suggests various traits you might adopt for your character<br>and which factions would welcome adventurers with those traits. Planar Philosopher Personality Traits d6 Personality Trait 1 I don’t venerate any gods; we can be as powerful or greater than them. 2 Experience is everything<br>live in the moment. 3 When things crumble<br>I find meaning in the ashes. 4 Life thrives through order; I won’t tolerate disruptions. 5 When others make plans<br>the multiverse laughs<br>so do I. 6 I know what’s right<br>and no one will stand in my way. Planar Philosopher Trinkets. When you make your character<br>you may roll once on the Planar Philosopher Trinkets table<br>instead of on the Trinkets table in the Player's Handbook <br>for your starting trinket. Planar Philosopher Trinkets d6 Trinket 1 A locket with a picture of my mentor<br>an inscription I can’t read 2 A bleached rat skull with colored glass beads in its eye sockets 3 A torn parchment with half a rebus puzzle painted on it 4 A bracelet of twisted razorvine stems 5 A fragment of verdigris-coated bronze blade 6 A smooth river stone covered in tiny<br>carved holy symbols |

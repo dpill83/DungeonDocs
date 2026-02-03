@@ -1,0 +1,6 @@
+# Tankard Of Sobriety
+
+<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+
+
+This tankard has a stern face sculpted into one side. You can drink ale, wine, or any other nonmagical alcoholic beverage poured into it without becoming inebriated. The tankard has no effect on magical liquids or harmful substances such as poison.

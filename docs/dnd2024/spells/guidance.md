@@ -1,0 +1,6 @@
+# Guidance
+
+<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+
+
+You touch a willing creature and choose a skill. Until the spell ends, the creature adds 1d4 to any ability check using the chosen skill.

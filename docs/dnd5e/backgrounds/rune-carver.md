@@ -1,0 +1,15 @@
+# Rune Carver
+<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+
+You’ve dedicated your life to studying runecraft. Whether you were taught by a master rune carver or learned by poring over ancient engravings, you can tap into the supernatural power held within runes.
+The art of runecraft was initially created by giants, but over time, the practice has been adopted by many peoples. As such, though Giant runes are the most commonly used, many rune carvers incorporate symbols from their native languages into the craft.
+Source: Bigby Presents - Glory of the Giants
+
+## Benefits
+
+| Feature                | Details                                      |
+|------------------------|----------------------------------------------|
+| **Skill Proficiencies** | History<br>Perception |
+| **Tool Proficiencies** | One set of artisan's tools |
+| **Languages** | Giant |
+| **Equipment** | A set of artisan’s tools (one of your choice)<br>a small knife<br>a whetstone Value: 1cp Weight: 1lb <br>a set of common clothes Value: 5sp Weight: 3lbs <br>and a pouch Value: 5sp Weight: 1lb containing 10 gp. Rune Styles Each rune carver has a unique style<br>preferred medium. To determine how you make your runes<br>you can roll on the Rune Style table.. Rune Style d6 Style 1 You inscribe runes in wax or clay with a fine metal needle. 2 You whittle pieces of wood into small figurines you mark with runes. 3 You engrave runes onto glass beads<br>thread them onto necklaces<br>bracelets. 4 You stitch your runes into the hems of clothing. 5 You carve runes on a set of animal bones you can throw in different formations. 6 You draw your runes into candles<br>melting the wax to smooth over the engravings. Feature Rune Shaper You gain the Rune Shaper feat. Building a Rune Carver Character Scholarly pursuits<br>ancient mysteries<br>or a fateful encounter might inspire a character to pursue the secrets of a rune carver. Suggested Characteristics. The Rune Carver Personality Traits table suggests a variety of traits you might adopt for your character. Rune Carver Personality Traits d6 Personality Trait 1 Is it practical to learn an ancient language that is rarely spoken? No. But is it fun? Very. 2 I learned one of my ancestors was a lauded rune carver whose story was lost to time. I seek to rekindle that legacy. 3 The old<br>traditional markings of runecraft look so boring. Why not give my runes some flair? 4 In my studies of runes<br>I strive to understand how great civilizations of the past fell<br>so that I may prevent it from happening to societies of the present. 5 Life may be a whirlwind of chaos around me<br>but whenever I create my runes<br>I feel at peace. 6 My brain struggles to process ink words written on paper<br>but the tactile feeling of carved runes makes my mind sing. |

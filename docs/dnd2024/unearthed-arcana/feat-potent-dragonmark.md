@@ -1,0 +1,12 @@
+# Feat Potent Dragonmark
+
+<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+
+
+You gain the following benefits.
+Ability Score Increase.
+Increase the spellcasting ability score used by your Dragonmark feat by 1, to a maximum of 20.
+Dragonmark Preparation.
+You always have the spells on your Dragonmark feat’s Spells of the Mark list (if any) prepared.
+Dragonmark Spellcasting.
+You have one spell slot to cast the spells granted by your Dragonmark feat. The spell slot’s level is one-half your level (round up), to a maximum of level 5. You regain the expended slot when you finish a Short or Long Rest. You can use this spell slot to cast only a spell that you have prepared because of your Dragonmark feat or the Dragonmark Preparation benefit of this feat.

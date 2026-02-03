@@ -1,0 +1,21 @@
+/* Table styling for Benefits and other reference tables */
+.md-typeset table {
+  width: 100%;
+}
+.md-typeset table:not([class]) th,
+.md-typeset table:not([class]) td {
+  padding: .5em .75em;
+  vertical-align: top;
+}
+.md-typeset td {
+  white-space: normal;
+}
+
+/* Tighter list spacing inside table cells (e.g. Equipment A/B) */
+.md-typeset td ul {
+  margin: 0;
+  padding-left: 1.2em;
+}
+.md-typeset td ul li {
+  margin: 0;
+}

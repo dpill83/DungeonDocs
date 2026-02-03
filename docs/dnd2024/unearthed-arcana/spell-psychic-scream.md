@@ -1,0 +1,8 @@
+# Spell Psychic Scream
+
+<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+
+
+You unleash the power of your mind to blast the intellect of up to ten creatures of your choice that you can see within range. Creatures that have an Intelligence score of 2 or lower are unaffected.
+Each target must make an Intelligence saving throw. On a failed save, a target takes 14d6 Psychic damage and has the Stunned condition. On a successful save, a target takes half as much damage only. If the target is reduced to 0 Hit Points by this damage, its head explodes, assuming it has one.
+At the end of each of its turns, the Stunned target repeats the save, ending the condition on itself on a success.
