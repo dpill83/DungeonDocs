@@ -12,6 +12,15 @@ The spells on the Druid spell list appear in the following tables.
 
 | Name            | School       | Spell Lists                              | Casting Time | Range    | Components | Duration      |
 |-----------------|--------------|------------------------------------------|--------------|----------|------------|---------------|
+| Druidcraft      | Transmutation| Druid                                    | Action       | 30 feet  | V, S       | Instantaneous |
+| Elementalism    | Transmutation| Artificer, Druid, Sorcerer, Wizard       | Action       | 30 feet  | V, S       | Instantaneous |
+| Guidance        | Divination   | Artificer, Cleric, Druid                 | Action       | Touch    | V, S       | C, up to 1 minute |
+| Mending         | Transmutation| Bard, Cleric, Druid, Sorcerer, Wizard    | 1 minute     | Touch    | V, S, M    | Instantaneous |
+| Message         | Transmutation| Artificer, Bard, Druid, Sorcerer, Wizard | Action       | 120 feet | S, M       | 1 round       |
+| Poison Spray    | Necromancy   | Artificer, Druid, Sorcerer, Warlock, Wizard | Action     | 30 feet  | V, S       | Instantaneous |
+| Produce Flame   | Conjuration  | Druid                                    | Bonus Action | Self     | V, S       | 10 minutes    |
+| Resistance      | Abjuration   | Artificer, Cleric, Druid                 | Action       | Touch    | V, S       | C, up to 1 minute |
+| Shillelagh      | Transmutation| Druid                                    | Bonus Action | Self     | V, S, M    | 1 minute      |
 | Spare the Dying | Necromancy   | Artificer, Cleric, Druid                 | Action       | 15 feet  | V, S       | Instantaneous |
 | Starry Wisp     | Evocation    | Bard, Druid                              | Action       | 60 feet  | V, S       | Instantaneous |
 | Thorn Whip      | Transmutation| Artificer, Druid                         | Action       | 30 feet  | V, S, M    | Instantaneous |
