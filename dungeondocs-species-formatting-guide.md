@@ -16,7 +16,8 @@ This document serves as the **canonical style guide and "seed"** for formatting 
 
 4. **Images**  
    - Always include relevant, high-quality artwork.
-   - Use `<div align="center">` with `<img src="URL" alt="descriptive alt text" width="NUMBER"/>`.
+   - Use **only** `<div align="center">` with `<img src="URL" alt="descriptive alt text" width="NUMBER"/>`. Do **not** use custom or assistant-specific markup (e.g. `<grok-card>`, `image_card`, `render_searched_image`, or any similar non-standard elements). Plain HTML `<img>` inside the approved `<div>` is required.
+   - **Image sources must be working links**: every `src` must resolve and render in the built site (no broken URLs, 404s, or hotlink-blocked/403 images).
    - Header image: 800–900 width.
    - Section images: 700–800 width.
    - Choose images that thematically match the content exactly.

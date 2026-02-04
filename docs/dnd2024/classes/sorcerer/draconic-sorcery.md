@@ -2,45 +2,51 @@
 
 <!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
 
+<div align="center">
+  <img src="https://external-preview.redd.it/am-i-the-only-one-who-hates-the-draconic-bloodline-design-v0-1LMjvW_EL7wzWfPCP3SVMk5qIz0O3AW7J5vOF_anM6o.png?auto=webp&s=af4abc37044626a43f15ef6f9be1797af9ac7ea2" alt="Draconic sorcerer with crystalline ice wings and glowing tattoos soaring through clouds" width="900"/>
+</div>
 
-Breathe the Magic of Dragons
+**Breathe the Magic of Dragons**  
 Your innate magic comes from the gift of a dragon. Perhaps an ancient dragon facing death bequeathed some of its magical power to you or your ancestor. You might have absorbed magic from a site infused with dragons’ power. Or perhaps you handled a treasure taken from a dragon’s hoard that was steeped in draconic power. Or you might have a dragon for an ancestor.
-Level 3: Draconic Resilience
-The magic in your body manifests physical traits of your draconic gift. Your Hit Point maximum increases by 3, and it increases by 1 whenever you gain another Sorcerer level.
+
+**Level 3: Draconic Resilience**  
+The magic in your body manifests physical traits of your draconic gift. Your Hit Point maximum increases by 3, and it increases by 1 whenever you gain another Sorcerer level.  
 Parts of you are also covered by dragon-like scales. While you aren’t wearing armor, your base Armor Class equals 10 plus your Dexterity and Charisma modifiers.
-Level 3: Draconic Spells
+
+<div align="center">
+  <img src="https://alcasthq.com/wp-content/uploads/2023/11/bg3-draconic-sorcerer.jpg" alt="Close-up of a draconic sorcerer with tough, glowing scales covering their skin" width="800"/>
+</div>
+
+**Level 3: Draconic Spells**  
 When you reach a Sorcerer level specified in the Draconic Spells table, you thereafter always have the listed spells prepared.
-Draconic Spells
-Sorcerer Level
-Spells
-3
-Alter Self
-,
-Chromatic Orb
-,
-Command
-,
-Dragon's Breath
-5
-Fear
-,
-Fly
-7
-Arcane Eye
-,
-Charm Monster
-9
-Legend Lore
-,
-Summon Dragon
-Level 6: Elemental Affinity
-Your draconic magic has an affinity with a damage type associated with dragons. Choose one of those types: Acid, Cold, Fire, Lightning, or Poison.
+
+| Sorcerer Level | Spells                                      |
+|----------------|---------------------------------------------|
+| 3              | Alter Self, Chromatic Orb, Command, Dragon's Breath |
+| 5              | Fear, Fly                                   |
+| 7              | Arcane Eye, Charm Monster                   |
+| 9              | Legend Lore, Summon Dragon                  |
+
+<div align="center">
+  <img src="https://i0.wp.com/nat1gaming.com/wp-content/uploads/2024/03/Magmatic-Channeler-Zendikar-Rising-MtG-Art.jpg?fit=1500%2C1102&ssl=1" alt="Draconic sorcerer channeling intense swirling fire magic" width="800"/>
+</div>
+
+**Level 6: Elemental Affinity**  
+Your draconic magic has an affinity with a damage type associated with dragons. Choose one of those types: Acid, Cold, Fire, Lightning, or Poison.  
 You have Resistance to that damage type, and when you cast a spell that deals damage of that type, you can add your Charisma modifier to one damage roll of that spell.
-Level 14: Dragon Wings
-As a Bonus Action, you can cause draconic wings to appear on your back. The wings last for 1 hour or until you dismiss them (no action required). For the duration, you have a Fly Speed of 60 feet.
+
+**Level 14: Dragon Wings**  
+As a Bonus Action, you can cause draconic wings to appear on your back. The wings last for 1 hour or until you dismiss them (no action required). For the duration, you have a Fly Speed of 60 feet.  
 Once you use this feature, you can’t use it again until you finish a Long Rest unless you spend 3 Sorcery Points (no action required) to restore your use of it.
-Level 18: Dragon Companion
-You can cast
-Summon Dragon
-without a Material component. You can also cast it once without a spell slot, and you regain the ability to cast it in this way when you finish a Long Rest.
+
+<div align="center">
+  <img src="/images/draconic-sorcery.png" alt="Draconic sorcerer manifesting crystalline wings in flight" width="800"/>
+</div>
+
+**Level 18: Dragon Companion**  
+You can cast Summon Dragon without a Material component. You can also cast it once without a spell slot, and you regain the ability to cast it in this way when you finish a Long Rest.  
 Whenever you start casting the spell, you can modify it so that it doesn’t require Concentration. If you do so, the spell’s duration becomes 1 minute for that casting.
+
+<div align="center">
+  <img src="https://static0.thegamerimages.com/wordpress/wp-content/uploads/2023/08/collage-maker-12-aug-2023-11-40-am-393.jpg" alt="Draconic sorcerer standing powerfully beside a massive dragon" width="800"/>
+</div>
