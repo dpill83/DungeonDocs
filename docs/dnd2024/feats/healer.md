@@ -1,10 +1,15 @@
 # Healer
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+<div align="center">
+  <img src="https://arcaneeye.com/wp-content/uploads/2022/03/Healer-5e.jpg" alt="Two armored battlefield medics, one channeling bright healing magic while the other carries a shield stocked with potions amid a fantasy war" width="900"/>
+</div>
 
+Source: Player's Handbook
 
 You gain the following benefits.
-Battle Medic.
+
+**Battle Medic**  
 If you have a Healer's Kit, you can expend one use of it and tend to a creature within 5 feet of yourself as a Utilize action. That creature can expend one of its Hit Point Dice, and you then roll that die. The creature regains a number of Hit Points equal to the roll plus your Proficiency Bonus.
-Healing Rerolls.
+
+**Healing Rerolls**  
 Whenever you roll a die to determine the number of Hit Points you restore with a spell or with this feat's Battle Medic benefit, you can reroll the die if it rolls a 1, and you must use the new roll.
