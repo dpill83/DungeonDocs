@@ -2,59 +2,73 @@
 
 <!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
 
+<div align="center">
+  <img src="https://i0.wp.com/dungeonmister.com/wp-content/uploads/2024/06/soulknife.jpg" alt="Psionic rogue with glowing eyes manifesting a blue psychic blade amid lightning" width="900"/>
+</div>
 
 A Soulknife strikes with the mind, cutting through barriers both physical and psychic. These Rogues discover psionic power within themselves and channel it to do their roguish work. As a Soulknife your psionic abilities might have haunted you since childhood, revealing their full potential only as you experienced the stress of adventure. Or you might have sought out an order of psychic adepts and spent years learning how to manifest your power.
-Level 3: Psionic Power
+
+## Soulknife Features
+
+**Psionic Power**  
 You harbor a wellspring of psionic energy within yourself. It is represented by your Psionic Energy Dice, which fuel certain powers you have from this subclass. The Soulknife Energy Dice table shows the number of these dice you have when you reach certain Rogue levels, and the table shows the die size.
-Soulknife Energy Dice
-Rogue Level
-Die Size
-Number
-3
-D6
-4
-5
-D8
-6
-9
-D8
-8
-11
-D10
-8
-13
-D10
-10
-17
-D12
-12
-Any features in this subclass that use a Psionic Energy Die use only the dice from this subclass. Some of your powers expend a Psionic Energy Die, as specified in the power's description, and you can't use the power if it requires you to use a die when your Psionic Energy Dice are all expended.
+
+| Rogue Level | Die Size | Number |
+|-------------|----------|--------|
+| 3           | d6       | 4      |
+| 5           | d8       | 6      |
+| 9           | d8       | 8      |
+| 11          | d10      | 8      |
+| 13          | d10      | 10     |
+| 17          | d12      | 12     |
+
+Any features in this subclass that use a Psionic Energy Die use only the dice from this subclass. Some of your powers expend a Psionic Energy Die, as specified in the power's description, and you can't use the power if it requires you to use a die when your Psionic Energy Dice are all expended.  
 You regain one of your expended Psionic Energy Dice when you finish a Short Rest, and you regain all of them when you finish a Long Rest.
-Psi-Bolstered Knack.
+
+**Psi-Bolstered Knack**  
 If you fail an ability check using a skill or tool with which you have proficiency, you can roll one Psionic Energy Die and add the number rolled to the check, potentially turning failure into success. The die is expended only if the roll then succeeds.
-Psychic Whispers.
+
+**Psychic Whispers**  
 You can establish telepathic communication between yourself and others. As a Magic action, choose one or more creatures you can see, up to a number of creatures equal to your Proficiency Bonus, and then roll one Psionic Energy Die. For a number of hours equal to the number rolled, the chosen creatures can speak telepathically to you, and you can speak telepathically with them. To send or receive a message (no action required), you and the other creature must be within 1 mile of each other. A creature can end the telepathic connection at any time (no action required).
-Level 3: Psychic Blades
-You can manifest shimmering blades of psychic energy. Whenever you take the Attack action or make an Opportunity Attack, you can manifest a Psychic Blade in your free hand and make the attack with that blade. The magic blade has the following traits:
-Weapon Category:
-Simple Melee
-Damage on a Hit:
-1d6 Psychic plus the ability modifier used for the attack roll
-Properties:
-Finesse, Thrown (range 60/120 feet)
-Mastery:
-Vex (you can use this property, and it doesn't count against the number of properties you can use with Weapon Mastery)
-The blade vanishes immediately after it hits or misses its target, and it leaves no mark if it deals damage.
+
+<div align="center">
+  <img src="https://static0.thegamerimages.com/wordpress/wp-content/uploads/2023/07/soulknife-spy-by-miguel-mercado-1.jpg" alt="Hooded Soulknife rogue manifesting a glowing psychic blade in a library" width="800"/>
+</div>
+
+**Psychic Blades**  
+You can manifest shimmering blades of psychic energy. Whenever you take the Attack action or make an Opportunity Attack, you can manifest a Psychic Blade in your free hand and make the attack with that blade. The magic blade has the following traits:  
+Weapon Category: Simple Melee  
+Damage on a Hit: 1d6 Psychic plus the ability modifier used for the attack roll  
+Properties: Finesse, Thrown (range 60/120 feet)  
+Mastery: Vex (you can use this property, and it doesn't count against the number of properties you can use with Weapon Mastery)  
+The blade vanishes immediately after it hits or misses its target, and it leaves no mark if it deals damage.  
 After you attack with the blade on your turn, you can make a melee or ranged attack with a second psychic blade as a Bonus Action on the same turn if your other hand is free to create it. The damage die of this bonus attack is 1d4 instead of 1d6.
-Level 9: Soul Blades
+
+<div align="center">
+  <img src="https://www.runicdice.com/cdn/shop/articles/Soulknife_Rogue_Guide_for_Beginners_Mastering_the_Psionic_Assassin_in_D_D_5e_1024x.png?v=1762785009" alt="Soulknife rogue channeling blue psionic energy in a moonlit alley" width="800"/>
+</div>
+
+**Soul Blades**  
 You can now use the following powers with your Psychic Blades.
-Homing Strikes.
+
+#### Homing Strikes
 If you make an attack roll with your Psychic Blade and miss the target, you can roll one Psionic Energy Die and add the number rolled to the attack roll. If this causes the attack to hit, the die is expended.
-Psychic Teleportation.
+
+#### Psychic Teleportation
 As a Bonus Action, you manifest a Psychic Blade, expend one Psionic Energy Die and roll it, and throw the blade at an unoccupied space you can see up to a number of feet away equal to 10 times the number rolled. You then teleport to that space, and the blade vanishes.
-Level 13: Psychic Veil
-You can weave a veil of psychic static to mask yourself. As a Magic action, you gain the Invisible condition for 1 hour or until you dismiss the effect (no action required). This invisibility ends early immediately after you deal damage to a creature or you force a creature to make a saving throw.
+
+<div align="center">
+  <img src="https://litrpgreads.com/wp-content/uploads/2025/02/DALL%C2%B7E-2025-02-19-13.49.29-An-epic-wide-vibrant-and-bold-comic-style-illustration-with-frayed-edges-featuring-a-lone-female-Soulknife-rogue-in-a-mysterious-dungeon.-She-is-i.webp" alt="Female Soulknife rogue wielding dual glowing psychic blades in a torchlit dungeon" width="800"/>
+</div>
+
+**Psychic Veil**  
+You can weave a veil of psychic static to mask yourself. As a Magic action, you gain the Invisible condition for 1 hour or until you dismiss the effect (no action required). This invisibility ends early immediately after you deal damage to a creature or you force a creature to make a saving throw.  
 Once you use this feature, you can't do so again until you finish a Long Rest unless you expend a Psionic Energy Die (no action required) to restore your use of it.
-Level 17: Rend Mind
-You can sweep your Psychic Blades through a creature's mind. When you use you Psychic Blades to deal Sneak Attack damage to a creature, you can force that target to make a Wisdom saving throw (DC 8 plus your Dexterity modifier and Proficiency Bonus). If the save fails, the target has the Stunned condition for 1 minute. The Stunned target repeats the save at the end of each of its turns, ending the effect on itself with a success.
+
+**Rend Mind**  
+You can sweep your Psychic Blades through a creature's mind. When you use you Psychic Blades to deal Sneak Attack damage to a creature, you can force that target to make a Wisdom saving throw (DC 8 plus your Dexterity modifier and Proficiency Bonus). If the save fails, the target has the Stunned condition for 1 minute. The Stunned target repeats the save at the end of each of its turns, ending the effect on itself with a success.  
 Once you use this feature, you can't do so again until you finish a Long Rest unless you expend three Psionic Energy Dice (no action required) to restore your use of it.
+
+<div align="center">
+  <img src="https://nat1gaming.com/wp-content/uploads/2024/07/Kaya-Spirits-Justice-Murders-at-Karlov-Manor-MtG-Art.jpg" alt="Soulknife rogue holding a glowing pink psychic blade at night" width="800"/>
+</div>
