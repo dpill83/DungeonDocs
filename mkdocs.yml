@@ -31,7 +31,6 @@ plugins:
   - exclude:
       glob:
         - "dnd5e/**"
-  - social
   - og_meta_plugin
   - search:
       separator: '[\s\-]+'
