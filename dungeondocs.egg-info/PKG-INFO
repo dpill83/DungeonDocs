@@ -1,0 +1,126 @@
+Metadata-Version: 2.4
+Name: dungeondocs
+Version: 0.1.0
+Summary: D&D reference site (MkDocs + og-meta plugin)
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+Provides-Extra: dev
+Requires-Dist: mkdocs>=1.5; extra == "dev"
+Requires-Dist: mkdocs-material>=9.0; extra == "dev"
+Requires-Dist: pytest; extra == "dev"
+
+# DungeonDocs
+
+A **searchable D&D reference** built from [dnd5e.wikidot.com](https://dnd5e.wikidot.com) and the D&D wiki. Content is scraped from Wikidot, converted to Markdown, and served as a static site with MkDocs Material (search, responsive layout, light/dark theme).
+
+---
+
+## What This Project Does
+
+1. **Scrape** – Fetches wiki pages from Wikidot and saves them as plain text in `scraped-dnd5e/` and `scraped-dnd2024/`.
+2. **Convert** – A single Python script (`scripts/txt_to_mkdocs.py`) turns those `.txt` files into structured Markdown under `docs/`, with consistent formatting (tables, headings, links).
+3. **Build** – MkDocs builds the `docs/` folder into a static site in `site/`, which you can serve locally or deploy.
+
+The **single converter** is `scripts/txt_to_mkdocs.py`. All batch files and documentation refer to this path.
+
+---
+
+## Project Structure
+
+| Path | Purpose |
+|------|---------|
+| `docs/` | Markdown source for the site (dnd5e, dnd2024, index, styles) |
+| `scripts/` | `txt_to_mkdocs.py` (converter), `scrape_dnd_wiki.py`, and crawl batch files |
+| `scraped-dnd5e/`, `scraped-dnd2024/` | Raw scraped `.txt` from Wikidot (created by crawl scripts) |
+| `site/` | Built static site (created by `mkdocs build`) |
+| `mkdocs.yml` | MkDocs config (theme, nav, plugins) |
+| `tests/` | Tests for the converter (e.g. `test_txt_to_mkdocs.py`) |
+
+---
+
+## Setup
+
+From the repo root:
+
+```bash
+pip install -r requirements.txt
+```
+
+Dependencies: `requests`, `beautifulsoup4`, `mkdocs`, `mkdocs-material`.
+
+---
+
+## Pipeline (Typical Workflow)
+
+1. **Scrape** – Run the crawl scripts (see [Crawl (Windows)](#crawl-windows)) to populate `scraped-dnd5e/` and/or `scraped-dnd2024/`.
+2. **Convert** – Run the converter to regenerate `docs/` from the scraped `.txt` files.
+3. **Build** – Run `mkdocs build` to produce `site/`.
+
+---
+
+## Commands (from repo root)
+
+**Convert scraped txt → markdown:**
+
+```bash
+python scripts/txt_to_mkdocs.py
+```
+
+**Serve the site locally** (port 8123 to avoid conflicts with other servers on 8000):
+
+Run `dev.bat` at repo root, or:
+
+```bash
+mkdocs serve -a 127.0.0.1:8123
+```
+
+Then open http://127.0.0.1:8123 (e.g. http://127.0.0.1:8123/dnd2024/backgrounds/acolyte/ for Acolyte). `dev.bat` stops any process already using port 8123 before starting.
+
+**Build static site:**
+
+```bash
+mkdocs build
+```
+
+Or use `convert_dungeon_docs.bat` to run convert then build. Output goes to `site/`.
+
+---
+
+## Crawl (Windows)
+
+From repo root, run the batch files in `scripts/`:
+
+| Script | Purpose |
+|--------|---------|
+| `scripts\crawl-dnd2024-wiki.bat` | Full crawl of D&D wiki → `scraped-dnd2024/` |
+| `scripts\crawl-dnd2024-wiki-resume.bat` | Resume crawl (skip existing files) |
+| `scripts\crawl-dnd5e-wiki.bat` | Full crawl of dnd5e.wikidot.com → `scraped-dnd5e/` |
+| `scripts\crawl-dnd5e-wiki-resume.bat` | Resume crawl (skip existing files) |
+
+---
+
+## Tests
+
+Smoke test: convert only the Acolyte background and assert Benefits table and Equipment format:
+
+```bash
+pytest tests/test_txt_to_mkdocs.py -v
+```
+
+---
+
+## Verifying the converter ran
+
+Each generated `.md` file includes a generator stamp under the title, e.g.:
+
+```html
+<!-- generated-by: scripts/txt_to_mkdocs.py v2025-02-03 -->
+```
+
+View page source (Ctrl+U) on any doc page and search for `generated-by` to confirm the stamp and date.
+
+---
+
+## Config
+
+- **`mkdocs.yml`** – Set `site_url` to your deployed URL before building for production. Also defines theme (Material), nav, and search.

@@ -1,27 +1,57 @@
 # Bladesinger
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+<div align="center">
+  <img src="https://i0.wp.com/dungeonsanddragonsfan.com/wp-content/uploads/2025/02/2024-dnd-bladesinger-hero-1.png" alt="Elegant female elf Bladesinger with braided hair wielding a glowing enchanted sword amid stormy mountains" width="900"/>
+</div>
 
-
-Wield Weapon and Wizardry in Elegant Tandem
+Wield Weapon and Wizardry in Elegant Tandem  
 Bladesingers master a tradition of wizardry that incorporates swordplay and dance. In combat, a Bladesinger uses intricate, elegant maneuvers that fend off harm and allow the Bladesinger to channel magic into devastating attacks and a cunning defense. Many who have observed a Bladesinger at work remember the display as one of the more beautiful experiences in their life—a glorious dance accompanied by a singing blade.
+
 Bladesinging is associated with the ancient elven societies that first mastered the art and coined the term. Even today, most Bladesingers still hail from old elven realms, such as Myth Drannor, or from non-elven societies that share land and history with elves, such as the Silver Marches. Wherever they hail from, Bladesingers take their talents all across the Realms to help common people and perform heroic deeds. Most communities greet the arrival of a Bladesinger as a good omen.
-Level 3: Bladesong
+
+## Level 3: Bladesong
+
 As a Bonus Action, you invoke an elven magic called the Bladesong, provided you aren’t wearing armor or using a Shield.
+
 The Bladesong lasts for 1 minute and ends early if you have the Incapacitated condition, if you don armor or a Shield, or if you use two hands to make an attack with a weapon. You can dismiss the Bladesong at any time (no action required).
+
 While the Bladesong is active, you gain the following benefits. You can invoke the Bladesong a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a Long Rest. You regain one expended use when you use Arcane Recovery.
-Agility.
+
+**Agility.**  
 You gain a bonus to your AC equal to your Intelligence modifier (minimum of +1), and your Speed increases by 10 feet. In addition, you have Advantage on Dexterity (Acrobatics) checks.
-Bladework.
+
+**Bladework.**  
 Whenever you attack with a weapon with which you have proficiency, you can use your Intelligence modifier for the attack and damage rolls instead of using Strength or Dexterity.
-Focus.
+
+**Focus.**  
 When you make a Constitution saving throw to maintain Concentration, you can add your Intelligence modifier to the total.
-Level 3: Training in War and Song
+
+<div align="center">
+  <img src="https://dnding.com/wp-content/uploads/2021/09/5E-DD-Bladesinging-Tashas-Cauldron-of-Everything.png" alt="Two elven Bladesingers in dynamic combat poses with enchanted blades and magical effects" width="800"/>
+</div>
+
+## Level 3: Training in War and Song
+
 You gain proficiency with all Melee Martial weapons that don’t have the Two-Handed or Heavy property. You can use a Melee weapon with which you have proficiency as a Spellcasting Focus for your Wizard spells.
+
 You also gain proficiency in one of the following skills of your choice: Acrobatics, Athletics, Performance, or Persuasion.
-Level 6: Extra Attack
+
+## Level 6: Extra Attack
+
 You can attack twice, instead of once, whenever you take the Attack action on your turn. Moreover, you can cast one of your Wizard cantrips that has a casting time of an action in place of one of those attacks.
-Level 10: Song of Defense
+
+<div align="center">
+  <img src="http://www.runicdice.com/cdn/shop/articles/Bladesinging_Wizard_Guide_for_Beginners_Mastering_the_Arcane_Duelist_in_D_D_5e_a7f6323e-4bd3-49a6-8a0f-9c2c58229415.png?v=1762972349" alt="Red-haired Bladesinger in flowing robes dancing with sword and swirling arcane magic" width="800"/>
+</div>
+
+## Level 10: Song of Defense
+
 When you take damage while your Bladesong is active, you can take a Reaction to expend one spell slot and reduce the damage taken by an amount equal to five times the spell slot’s level.
-Level 14: Song of Victory
+
+## Level 14: Song of Victory
+
 After you cast a spell that has a casting time of an action, you can make one attack with a weapon as a Bonus Action.
+
+<div align="center">
+  <img src="https://arcaneeye.com/wp-content/uploads/2020/11/bladesinger_build.jpg" alt="Blonde Bladesinger in red armor casting a fiery spell while holding a glowing sword" width="800"/>
+</div>

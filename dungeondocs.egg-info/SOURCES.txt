@@ -1,0 +1,10 @@
+README.md
+og_meta_plugin.py
+pyproject.toml
+dungeondocs.egg-info/PKG-INFO
+dungeondocs.egg-info/SOURCES.txt
+dungeondocs.egg-info/dependency_links.txt
+dungeondocs.egg-info/entry_points.txt
+dungeondocs.egg-info/requires.txt
+dungeondocs.egg-info/top_level.txt
+tests/test_txt_to_mkdocs.py

@@ -1,7 +1,6 @@
 site_name: DungeonDocs
 site_description: Gather’s searchable rules reference
-# Set this after deploy, or remove it until you have the real URL
-# site_url: https://dungeondocs.pages.dev
+site_url: https://dungeondocs.pages.dev
 
 theme:
   name: material
@@ -32,6 +31,8 @@ plugins:
   - exclude:
       glob:
         - "dnd5e/**"
+  - social
+  - og_meta_plugin
   - search:
       separator: '[\s\-]+'
 
@@ -189,9 +190,9 @@ nav:
       - dnd2024/classes/warlock/index.md
       - Archfey Patron: dnd2024/classes/warlock/archfey-patron.md
       - Celestial Patron: dnd2024/classes/warlock/celestial-patron.md
-      - Eldritch Invocation: dnd2024/classes/warlock/eldritch-invocation.md
       - Fiend Patron: dnd2024/classes/warlock/fiend-patron.md
       - Great Old One Patron: dnd2024/classes/warlock/great-old-one-patron.md
+      - Eldritch Invocation: dnd2024/classes/warlock/eldritch-invocation.md
       - Spell List: dnd2024/classes/warlock/spell-list.md
     - Wizard:
       - dnd2024/classes/wizard/index.md
