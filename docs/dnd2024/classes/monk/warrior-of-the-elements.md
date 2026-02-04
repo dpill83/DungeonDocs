@@ -3,7 +3,7 @@
 <!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
 
 <div align="center">
-  <img src="https://static0.cbrimages.com/wordpress/wp-content/uploads/2021/09/dnd-monk-four-elements.jpg" alt="Warrior of the Elements Monk surrounded by swirling fire, water, lightning, and wind" width="900"/>
+  <img src="https://www.runicdice.com/cdn/shop/articles/Way_of_the_Four_Elements_Monk_Guide_for_Beginners_Mastering_the_Elemental_Monk_in_D_D_5e.png?v=1763123050" alt="Monk mastering swirling fire, water, earth, and air elements" width="900"/>
 </div>
 
 **Wield Strikes and Bursts of Elemental Power**
@@ -13,7 +13,7 @@ Warriors of the Elements tap into the power of the Elemental Planes. Harnessing 
 ## Level 3: Elemental Attunement
 
 <div align="center">
-  <img src="https://www.dndbeyond.com/attachments/thumbnails/8/19/600/400/elements-attunement.jpg" alt="Warrior of the Elements extending elemental energy in strikes" width="750"/>
+  <img src="https://www.dndbeyond.com/attachments/11/438/four-elements-monk.jpg" alt="Elemental monk channeling fire and lightning through extended fists" width="750"/>
 </div>
 
 At the start of your turn, you can expend 1 Focus Point to imbue yourself with elemental energy. The energy lasts for 10 minutes or until you have the Incapacitated condition. You gain the following benefits while this feature is active.
@@ -29,7 +29,7 @@ You know the Elementalism spell. Wisdom is your spellcasting ability for it.
 ## Level 6: Elemental Burst
 
 <div align="center">
-  <img src="https://static0.thegamerimages.com/wordpress/wp-content/uploads/2021/08/dnd-monk-elements-burst.jpg" alt="Warrior of the Elements unleashing a massive elemental explosion" width="750"/>
+  <img src="https://thumbs.dreamstime.com/b/fiery-monk-d-illustration-346862105.jpg" alt="Monk unleashing explosive fire and elemental energy" width="750"/>
 </div>
 
 As a Magic action, you can expend 2 Focus Points to cause elemental energy to burst in a 20-foot-radius Sphere centered on a point within 120 feet of yourself. Choose a damage type: Acid, Cold, Fire, Lightning, or Thunder.
@@ -43,7 +43,7 @@ While your Elemental Attunement is active, you also have a Fly Speed and a Swim 
 ## Level 17: Elemental Epitome
 
 <div align="center">
-  <img src="https://cdna.artstation.com/p/assets/images/images/056/789/012/large/elemental-epitome.jpg" alt="Ultimate Warrior of the Elements radiating overwhelming elemental power" width="750"/>
+  <img src="http://www.runicdice.com/cdn/shop/articles/Way_of_the_Sun_Soul_Monk_Guide_for_Beginners_Mastering_the_Sun_Soul_Monk_in_D_D_5e.png?v=1763123094" alt="Radiant monk embodying ultimate elemental power with massive aura" width="750"/>
 </div>
 
 While your Elemental Attunement is active, you also gain the following benefits.
