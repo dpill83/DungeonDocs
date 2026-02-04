@@ -1,7 +1,7 @@
 # Wizard
 
 <div align="center">
-  <img src="https://dungeonsanddragonsfan.com/wp-content/uploads/2024/07/wizard-2024-dnd-5e-art.png" alt="Elegant wizard in flowing robes summoning arcane energy in an ancient study" width="900"/>
+  <img src="/images/wizard1.png" alt="Elegant wizard in flowing robes summoning arcane energy in an ancient study" width="900"/>
 </div>
 
 Wizards are defined by their exhaustive study of magic's inner workings. They cast spells of explosive fire, arcing lightning, subtle deception, and spectacular transformations. Their magic conjures monsters from other planes of existence, glimpses the future, or forms protective barriers. Their mightiest spells change one substance into another, call meteors from the sky, or open portals to other worlds.
@@ -35,7 +35,7 @@ Gain the Hit Point Die from the Core Wizard Traits table.
 Gain the Wizard's level 1 features, which are listed in the Wizard Features table. See the multiclassing rules in *multiclassing* to determine your available spell slots.
 
 <div align="center">
-  <img src="https://www.dungeonmastering.com/wp-content/uploads/2021/08/wizard-dnd-5e.png" alt="Bearded wizard poring over glowing spellbook in a candlelit tower library" width="800"/>
+  <img src="/images/wizard3.png" alt="Bearded wizard poring over glowing spellbook in a candlelit tower library" width="800"/>
 </div>
 
 ## Wizard Features
@@ -124,7 +124,7 @@ You can regain some of your magical energy by studying your spellbook. When you 
 Once you use this feature, you can't do so again until you finish a Long Rest.
 
 <div align="center">
-  <img src="https://arcaneeye.com/wp-content/uploads/2022/03/Wizard-5e.jpg" alt="Powerful wizard unleashing a massive fireball in battle" width="800"/>
+  <img src="/images/wizard4.png" alt="Powerful wizard unleashing a massive fireball in battle" width="800"/>
 </div>
 
 ## Level 2: Scholar

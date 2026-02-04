@@ -27,7 +27,7 @@ Whenever you attack with a weapon with which you have proficiency, you can use y
 When you make a Constitution saving throw to maintain Concentration, you can add your Intelligence modifier to the total.
 
 <div align="center">
-  <img src="https://dnding.com/wp-content/uploads/2021/09/5E-DD-Bladesinging-Tashas-Cauldron-of-Everything.png" alt="Two elven Bladesingers in dynamic combat poses with enchanted blades and magical effects" width="800"/>
+  <img src="/images/bladesinger.png" alt="Two elven Bladesingers in dynamic combat poses with enchanted blades and magical effects" width="800"/>
 </div>
 
 ## Level 3: Training in War and Song
