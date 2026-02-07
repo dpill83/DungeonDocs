@@ -27,6 +27,9 @@ theme:
 extra_css:
   - stylesheets/extra.css
 
+extra:
+  generator: false
+
 plugins:
   - exclude:
       glob:
@@ -202,7 +205,324 @@ nav:
       - Illusionist: dnd2024/classes/wizard/illusionist.md
       - Spell List: dnd2024/classes/wizard/spell-list.md
     - Multiclassing: dnd2024/classes/multiclassing.md
-  - Feats: dnd2024/feats/index.md
+  - Feats:
+    - All feats (A–Z):
+      - All Feats: dnd2024/feats/index.md
+      - Aberrant Dragonmark: dnd2024/feats/aberrant-dragonmark.md
+      - Ability Score Improvement: dnd2024/feats/ability-score-improvement.md
+      - Actor: dnd2024/feats/actor.md
+      - Alert: dnd2024/feats/alert.md
+      - Archery: dnd2024/feats/archery.md
+      - Athlete: dnd2024/feats/athlete.md
+      - Blind Fighting: dnd2024/feats/blind-fighting.md
+      - Bloodlust: dnd2024/feats/bloodlust.md
+      - Bomber: dnd2024/feats/bomber.md
+      - Boon Of Blazing Dawn: dnd2024/feats/boon-of-blazing-dawn.md
+      - Boon Of Bloodshed: dnd2024/feats/boon-of-bloodshed.md
+      - Boon Of Bountiful Health: dnd2024/feats/boon-of-bountiful-health.md
+      - Boon Of Combat Prowess: dnd2024/feats/boon-of-combat-prowess.md
+      - Boon Of Communication: dnd2024/feats/boon-of-communication.md
+      - Boon Of Desperate Resilience: dnd2024/feats/boon-of-desperate-resilience.md
+      - Boon Of Dimensional Travel: dnd2024/feats/boon-of-dimensional-travel.md
+      - Boon Of Energy Resistance: dnd2024/feats/boon-of-energy-resistance.md
+      - Boon Of Exquisite Radiance: dnd2024/feats/boon-of-exquisite-radiance.md
+      - Boon Of Fate: dnd2024/feats/boon-of-fate.md
+      - Boon Of Fluid Forms: dnd2024/feats/boon-of-fluid-forms.md
+      - Boon Of Fortitude: dnd2024/feats/boon-of-fortitude.md
+      - Boon Of Fortune S Favor: dnd2024/feats/boon-of-fortune-s-favor.md
+      - Boon Of Irresistible Offense: dnd2024/feats/boon-of-irresistible-offense.md
+      - Boon Of Looming Shadows: dnd2024/feats/boon-of-looming-shadows.md
+      - Boon Of Misty Escape: dnd2024/feats/boon-of-misty-escape.md
+      - Boon Of Poison Mastery: dnd2024/feats/boon-of-poison-mastery.md
+      - Boon Of Recovery: dnd2024/feats/boon-of-recovery.md
+      - Boon Of Revelry: dnd2024/feats/boon-of-revelry.md
+      - Boon Of Siberys: dnd2024/feats/boon-of-siberys.md
+      - Boon Of Skill: dnd2024/feats/boon-of-skill.md
+      - Boon Of Spell Recall: dnd2024/feats/boon-of-spell-recall.md
+      - Boon Of Terror: dnd2024/feats/boon-of-terror.md
+      - Boon Of The Bright Sun: dnd2024/feats/boon-of-the-bright-sun.md
+      - Boon Of The Furious Storm: dnd2024/feats/boon-of-the-furious-storm.md
+      - Boon Of The Night Spirit: dnd2024/feats/boon-of-the-night-spirit.md
+      - Boon Of The Soul Drinker: dnd2024/feats/boon-of-the-soul-drinker.md
+      - Boon Of Truesight: dnd2024/feats/boon-of-truesight.md
+      - Charger: dnd2024/feats/charger.md
+      - Chef: dnd2024/feats/chef.md
+      - Child Of The Sun: dnd2024/feats/child-of-the-sun.md
+      - Cloying Mists: dnd2024/feats/cloying-mists.md
+      - Cold Caster: dnd2024/feats/cold-caster.md
+      - Crafter: dnd2024/feats/crafter.md
+      - Crossbow Expert: dnd2024/feats/crossbow-expert.md
+      - Crusher: dnd2024/feats/crusher.md
+      - Cult Of The Dragon Initiate: dnd2024/feats/cult-of-the-dragon-initiate.md
+      - Defense: dnd2024/feats/defense.md
+      - Defensive Duelist: dnd2024/feats/defensive-duelist.md
+      - Delicious Pain: dnd2024/feats/delicious-pain.md
+      - Dragonscarred: dnd2024/feats/dragonscarred.md
+      - Dual Wielder: dnd2024/feats/dual-wielder.md
+      - Dueling: dnd2024/feats/dueling.md
+      - Durable: dnd2024/feats/durable.md
+      - Elemental Adept: dnd2024/feats/elemental-adept.md
+      - Emerald Enclave Fledgling: dnd2024/feats/emerald-enclave-fledgling.md
+      - Enclave Magic: dnd2024/feats/enclave-magic.md
+      - Fairy Trickster: dnd2024/feats/fairy-trickster.md
+      - Fey Touched: dnd2024/feats/fey-touched.md
+      - Genie Magic: dnd2024/feats/genie-magic.md
+      - Grappler: dnd2024/feats/grappler.md
+      - Great Weapon Fighting: dnd2024/feats/great-weapon-fighting.md
+      - Great Weapon Master: dnd2024/feats/great-weapon-master.md
+      - Greater Aberrant Mark: dnd2024/feats/greater-aberrant-mark.md
+      - Greater Mark Of Detection: dnd2024/feats/greater-mark-of-detection.md
+      - Greater Mark Of Finding: dnd2024/feats/greater-mark-of-finding.md
+      - Greater Mark Of Handling: dnd2024/feats/greater-mark-of-handling.md
+      - Greater Mark Of Healing: dnd2024/feats/greater-mark-of-healing.md
+      - Greater Mark Of Hospitality: dnd2024/feats/greater-mark-of-hospitality.md
+      - Greater Mark Of Making: dnd2024/feats/greater-mark-of-making.md
+      - Greater Mark Of Passage: dnd2024/feats/greater-mark-of-passage.md
+      - Greater Mark Of Scribing: dnd2024/feats/greater-mark-of-scribing.md
+      - Greater Mark Of Sentinel: dnd2024/feats/greater-mark-of-sentinel.md
+      - Greater Mark Of Shadow: dnd2024/feats/greater-mark-of-shadow.md
+      - Greater Mark Of Storm: dnd2024/feats/greater-mark-of-storm.md
+      - Greater Mark Of Warding: dnd2024/feats/greater-mark-of-warding.md
+      - Harper Agent: dnd2024/feats/harper-agent.md
+      - Harper Teamwork: dnd2024/feats/harper-teamwork.md
+      - Healer: dnd2024/feats/healer.md
+      - Heavily Armored: dnd2024/feats/heavily-armored.md
+      - Heavy Armor Master: dnd2024/feats/heavy-armor-master.md
+      - Inspiring Leader: dnd2024/feats/inspiring-leader.md
+      - Interception: dnd2024/feats/interception.md
+      - Keen Mind: dnd2024/feats/keen-mind.md
+      - Light Bringer: dnd2024/feats/light-bringer.md
+      - Lightly Armored: dnd2024/feats/lightly-armored.md
+      - Lordly Resolve: dnd2024/feats/lordly-resolve.md
+      - Lords Alliance Agent: dnd2024/feats/lords-alliance-agent.md
+      - Love Bites: dnd2024/feats/love-bites.md
+      - Lucky: dnd2024/feats/lucky.md
+      - Mage Slayer: dnd2024/feats/mage-slayer.md
+      - Magic Initiate: dnd2024/feats/magic-initiate.md
+      - Mark Of Detection: dnd2024/feats/mark-of-detection.md
+      - Mark Of Finding: dnd2024/feats/mark-of-finding.md
+      - Mark Of Handling: dnd2024/feats/mark-of-handling.md
+      - Mark Of Healing: dnd2024/feats/mark-of-healing.md
+      - Mark Of Hospitality: dnd2024/feats/mark-of-hospitality.md
+      - Mark Of Making: dnd2024/feats/mark-of-making.md
+      - Mark Of Passage: dnd2024/feats/mark-of-passage.md
+      - Mark Of Scribing: dnd2024/feats/mark-of-scribing.md
+      - Mark Of Sentinel: dnd2024/feats/mark-of-sentinel.md
+      - Mark Of Shadow: dnd2024/feats/mark-of-shadow.md
+      - Mark Of Storm: dnd2024/feats/mark-of-storm.md
+      - Mark Of Warding: dnd2024/feats/mark-of-warding.md
+      - Martial Weapon Training: dnd2024/feats/martial-weapon-training.md
+      - Medium Armor Master: dnd2024/feats/medium-armor-master.md
+      - Moderately Armored: dnd2024/feats/moderately-armored.md
+      - Mounted Combatant: dnd2024/feats/mounted-combatant.md
+      - Musician: dnd2024/feats/musician.md
+      - Mythal Touched: dnd2024/feats/mythal-touched.md
+      - Observant: dnd2024/feats/observant.md
+      - Order S Resilience: dnd2024/feats/order-s-resilience.md
+      - Piercer: dnd2024/feats/piercer.md
+      - Poisoner: dnd2024/feats/poisoner.md
+      - Polearm Master: dnd2024/feats/polearm-master.md
+      - Potent Dragonmark: dnd2024/feats/potent-dragonmark.md
+      - Protection: dnd2024/feats/protection.md
+      - Purple Dragon Commandant: dnd2024/feats/purple-dragon-commandant.md
+      - Purple Dragon Rook: dnd2024/feats/purple-dragon-rook.md
+      - Putrefy: dnd2024/feats/putrefy.md
+      - Rebuke: dnd2024/feats/rebuke.md
+      - Resilient: dnd2024/feats/resilient.md
+      - Ritual Caster: dnd2024/feats/ritual-caster.md
+      - Savage Attacker: dnd2024/feats/savage-attacker.md
+      - Sentinel: dnd2024/feats/sentinel.md
+      - Shadow Touched: dnd2024/feats/shadow-touched.md
+      - Shadowmoor Hexer: dnd2024/feats/shadowmoor-hexer.md
+      - Sharpshooter: dnd2024/feats/sharpshooter.md
+      - Shield Master: dnd2024/feats/shield-master.md
+      - Skill Expert: dnd2024/feats/skill-expert.md
+      - Skilled: dnd2024/feats/skilled.md
+      - Skulker: dnd2024/feats/skulker.md
+      - Slasher: dnd2024/feats/slasher.md
+      - Speedy: dnd2024/feats/speedy.md
+      - Spell Sniper: dnd2024/feats/spell-sniper.md
+      - Spellfire Adept: dnd2024/feats/spellfire-adept.md
+      - Spellfire Spark: dnd2024/feats/spellfire-spark.md
+      - Street Justice: dnd2024/feats/street-justice.md
+      - Tavern Brawler: dnd2024/feats/tavern-brawler.md
+      - Telekinetic: dnd2024/feats/telekinetic.md
+      - Telepathic: dnd2024/feats/telepathic.md
+      - Thrown Weapon Fighting: dnd2024/feats/thrown-weapon-fighting.md
+      - Tireless Reveler: dnd2024/feats/tireless-reveler.md
+      - Tough: dnd2024/feats/tough.md
+      - Treacherous Allure: dnd2024/feats/treacherous-allure.md
+      - Two Weapon Fighting: dnd2024/feats/two-weapon-fighting.md
+      - Tyro Of The Gauntlet: dnd2024/feats/tyro-of-the-gauntlet.md
+      - Unarmed Fighting: dnd2024/feats/unarmed-fighting.md
+      - Vampire Hunter: dnd2024/feats/vampire-hunter.md
+      - Vampire S Plaything: dnd2024/feats/vampire-s-plaything.md
+      - Vampire Touched: dnd2024/feats/vampire-touched.md
+      - War Caster: dnd2024/feats/war-caster.md
+      - Weapon Master: dnd2024/feats/weapon-master.md
+      - Zhentarim Ruffian: dnd2024/feats/zhentarim-ruffian.md
+      - Zhentarim Tactics: dnd2024/feats/zhentarim-tactics.md        
+    - Origin Feats:
+      - Alert: dnd2024/feats/alert.md
+      - Crafter: dnd2024/feats/crafter.md
+      - Healer: dnd2024/feats/healer.md
+      - Lucky: dnd2024/feats/lucky.md
+      - Magic Initiate: dnd2024/feats/magic-initiate.md
+      - Musician: dnd2024/feats/musician.md
+      - Savage Attacker: dnd2024/feats/savage-attacker.md
+      - Skilled: dnd2024/feats/skilled.md
+      - Tavern Brawler: dnd2024/feats/tavern-brawler.md
+      - Tough: dnd2024/feats/tough.md
+    - General Feats:
+      - Ability Score Improvement: dnd2024/feats/ability-score-improvement.md
+      - Actor: dnd2024/feats/actor.md
+      - Athlete: dnd2024/feats/athlete.md
+      - Bloodlust: dnd2024/feats/bloodlust.md
+      - Bomber: dnd2024/feats/bomber.md
+      - Charger: dnd2024/feats/charger.md
+      - Chef: dnd2024/feats/chef.md
+      - Child Of The Sun: dnd2024/feats/child-of-the-sun.md
+      - Cloying Mists: dnd2024/feats/cloying-mists.md
+      - Cold Caster: dnd2024/feats/cold-caster.md
+      - Crossbow Expert: dnd2024/feats/crossbow-expert.md
+      - Crusher: dnd2024/feats/crusher.md
+      - Cult Of The Dragon Initiate: dnd2024/feats/cult-of-the-dragon-initiate.md
+      - Defensive Duelist: dnd2024/feats/defensive-duelist.md
+      - Delicious Pain: dnd2024/feats/delicious-pain.md
+      - Dragonscarred: dnd2024/feats/dragonscarred.md
+      - Dual Wielder: dnd2024/feats/dual-wielder.md
+      - Durable: dnd2024/feats/durable.md
+      - Elemental Adept: dnd2024/feats/elemental-adept.md
+      - Emerald Enclave Fledgling: dnd2024/feats/emerald-enclave-fledgling.md
+      - Enclave Magic: dnd2024/feats/enclave-magic.md
+      - Fairy Trickster: dnd2024/feats/fairy-trickster.md
+      - Fey Touched: dnd2024/feats/fey-touched.md
+      - Genie Magic: dnd2024/feats/genie-magic.md
+      - Grappler: dnd2024/feats/grappler.md
+      - Great Weapon Master: dnd2024/feats/great-weapon-master.md
+      - Harper Agent: dnd2024/feats/harper-agent.md
+      - Harper Teamwork: dnd2024/feats/harper-teamwork.md
+      - Heavily Armored: dnd2024/feats/heavily-armored.md
+      - Heavy Armor Master: dnd2024/feats/heavy-armor-master.md
+      - Inspiring Leader: dnd2024/feats/inspiring-leader.md
+      - Keen Mind: dnd2024/feats/keen-mind.md
+      - Light Bringer: dnd2024/feats/light-bringer.md
+      - Lightly Armored: dnd2024/feats/lightly-armored.md
+      - Lordly Resolve: dnd2024/feats/lordly-resolve.md
+      - Lords Alliance Agent: dnd2024/feats/lords-alliance-agent.md
+      - Love Bites: dnd2024/feats/love-bites.md
+      - Mage Slayer: dnd2024/feats/mage-slayer.md
+      - Martial Weapon Training: dnd2024/feats/martial-weapon-training.md
+      - Medium Armor Master: dnd2024/feats/medium-armor-master.md
+      - Moderately Armored: dnd2024/feats/moderately-armored.md
+      - Mounted Combatant: dnd2024/feats/mounted-combatant.md
+      - Mythal Touched: dnd2024/feats/mythal-touched.md
+      - Observant: dnd2024/feats/observant.md
+      - Order S Resilience: dnd2024/feats/order-s-resilience.md
+      - Piercer: dnd2024/feats/piercer.md
+      - Poisoner: dnd2024/feats/poisoner.md
+      - Polearm Master: dnd2024/feats/polearm-master.md
+      - Purple Dragon Commandant: dnd2024/feats/purple-dragon-commandant.md
+      - Purple Dragon Rook: dnd2024/feats/purple-dragon-rook.md
+      - Putrefy: dnd2024/feats/putrefy.md
+      - Rebuke: dnd2024/feats/rebuke.md
+      - Resilient: dnd2024/feats/resilient.md
+      - Ritual Caster: dnd2024/feats/ritual-caster.md
+      - Sentinel: dnd2024/feats/sentinel.md
+      - Shadow Touched: dnd2024/feats/shadow-touched.md
+      - Shadowmoor Hexer: dnd2024/feats/shadowmoor-hexer.md
+      - Sharpshooter: dnd2024/feats/sharpshooter.md
+      - Shield Master: dnd2024/feats/shield-master.md
+      - Skill Expert: dnd2024/feats/skill-expert.md
+      - Skulker: dnd2024/feats/skulker.md
+      - Slasher: dnd2024/feats/slasher.md
+      - Speedy: dnd2024/feats/speedy.md
+      - Spell Sniper: dnd2024/feats/spell-sniper.md
+      - Spellfire Adept: dnd2024/feats/spellfire-adept.md
+      - Spellfire Spark: dnd2024/feats/spellfire-spark.md
+      - Street Justice: dnd2024/feats/street-justice.md
+      - Telekinetic: dnd2024/feats/telekinetic.md
+      - Telepathic: dnd2024/feats/telepathic.md
+      - Tireless Reveler: dnd2024/feats/tireless-reveler.md
+      - Treacherous Allure: dnd2024/feats/treacherous-allure.md
+      - Tyro Of The Gauntlet: dnd2024/feats/tyro-of-the-gauntlet.md
+      - Vampire Hunter: dnd2024/feats/vampire-hunter.md
+      - Vampire S Plaything: dnd2024/feats/vampire-s-plaything.md
+      - Vampire Touched: dnd2024/feats/vampire-touched.md
+      - War Caster: dnd2024/feats/war-caster.md
+      - Weapon Master: dnd2024/feats/weapon-master.md
+      - Zhentarim Ruffian: dnd2024/feats/zhentarim-ruffian.md
+      - Zhentarim Tactics: dnd2024/feats/zhentarim-tactics.md
+    - Fighting Style Feats:
+      - Archery: dnd2024/feats/archery.md
+      - Blind Fighting: dnd2024/feats/blind-fighting.md
+      - Defense: dnd2024/feats/defense.md
+      - Dueling: dnd2024/feats/dueling.md
+      - Great Weapon Fighting: dnd2024/feats/great-weapon-fighting.md
+      - Interception: dnd2024/feats/interception.md
+      - Protection: dnd2024/feats/protection.md
+      - Thrown Weapon Fighting: dnd2024/feats/thrown-weapon-fighting.md
+      - Two Weapon Fighting: dnd2024/feats/two-weapon-fighting.md
+      - Unarmed Fighting: dnd2024/feats/unarmed-fighting.md
+    - Epic Boon Feats:
+      - Boon Of Blazing Dawn: dnd2024/feats/boon-of-blazing-dawn.md
+      - Boon Of Bloodshed: dnd2024/feats/boon-of-bloodshed.md
+      - Boon Of Bountiful Health: dnd2024/feats/boon-of-bountiful-health.md
+      - Boon Of Combat Prowess: dnd2024/feats/boon-of-combat-prowess.md
+      - Boon Of Communication: dnd2024/feats/boon-of-communication.md
+      - Boon Of Desperate Resilience: dnd2024/feats/boon-of-desperate-resilience.md
+      - Boon Of Dimensional Travel: dnd2024/feats/boon-of-dimensional-travel.md
+      - Boon Of Energy Resistance: dnd2024/feats/boon-of-energy-resistance.md
+      - Boon Of Exquisite Radiance: dnd2024/feats/boon-of-exquisite-radiance.md
+      - Boon Of Fate: dnd2024/feats/boon-of-fate.md
+      - Boon Of Fluid Forms: dnd2024/feats/boon-of-fluid-forms.md
+      - Boon Of Fortitude: dnd2024/feats/boon-of-fortitude.md
+      - Boon Of Fortune S Favor: dnd2024/feats/boon-of-fortune-s-favor.md
+      - Boon Of Irresistible Offense: dnd2024/feats/boon-of-irresistible-offense.md
+      - Boon Of Looming Shadows: dnd2024/feats/boon-of-looming-shadows.md
+      - Boon Of Misty Escape: dnd2024/feats/boon-of-misty-escape.md
+      - Boon Of Poison Mastery: dnd2024/feats/boon-of-poison-mastery.md
+      - Boon Of Recovery: dnd2024/feats/boon-of-recovery.md
+      - Boon Of Revelry: dnd2024/feats/boon-of-revelry.md
+      - Boon Of Siberys: dnd2024/feats/boon-of-siberys.md
+      - Boon Of Skill: dnd2024/feats/boon-of-skill.md
+      - Boon Of Spell Recall: dnd2024/feats/boon-of-spell-recall.md
+      - Boon Of Terror: dnd2024/feats/boon-of-terror.md
+      - Boon Of The Bright Sun: dnd2024/feats/boon-of-the-bright-sun.md
+      - Boon Of The Furious Storm: dnd2024/feats/boon-of-the-furious-storm.md
+      - Boon Of The Night Spirit: dnd2024/feats/boon-of-the-night-spirit.md
+      - Boon Of The Soul Drinker: dnd2024/feats/boon-of-the-soul-drinker.md
+      - Boon Of Truesight: dnd2024/feats/boon-of-truesight.md
+    - Dragonmark Feats:
+      - Dragonmarks:
+        - Aberrant Dragonmark: dnd2024/feats/aberrant-dragonmark.md
+        - Potent Dragonmark: dnd2024/feats/potent-dragonmark.md
+        - Mark Of Detection: dnd2024/feats/mark-of-detection.md
+        - Mark Of Finding: dnd2024/feats/mark-of-finding.md
+        - Mark Of Handling: dnd2024/feats/mark-of-handling.md
+        - Mark Of Healing: dnd2024/feats/mark-of-healing.md
+        - Mark Of Hospitality: dnd2024/feats/mark-of-hospitality.md
+        - Mark Of Making: dnd2024/feats/mark-of-making.md
+        - Mark Of Passage: dnd2024/feats/mark-of-passage.md
+        - Mark Of Scribing: dnd2024/feats/mark-of-scribing.md
+        - Mark Of Sentinel: dnd2024/feats/mark-of-sentinel.md
+        - Mark Of Shadow: dnd2024/feats/mark-of-shadow.md
+        - Mark Of Storm: dnd2024/feats/mark-of-storm.md
+        - Mark Of Warding: dnd2024/feats/mark-of-warding.md
+      - Greater Dragonmarks:
+        - Greater Aberrant Mark: dnd2024/feats/greater-aberrant-mark.md
+        - Greater Mark Of Detection: dnd2024/feats/greater-mark-of-detection.md
+        - Greater Mark Of Finding: dnd2024/feats/greater-mark-of-finding.md
+        - Greater Mark Of Handling: dnd2024/feats/greater-mark-of-handling.md
+        - Greater Mark Of Healing: dnd2024/feats/greater-mark-of-healing.md
+        - Greater Mark Of Hospitality: dnd2024/feats/greater-mark-of-hospitality.md
+        - Greater Mark Of Making: dnd2024/feats/greater-mark-of-making.md
+        - Greater Mark Of Passage: dnd2024/feats/greater-mark-of-passage.md
+        - Greater Mark Of Scribing: dnd2024/feats/greater-mark-of-scribing.md
+        - Greater Mark Of Sentinel: dnd2024/feats/greater-mark-of-sentinel.md
+        - Greater Mark Of Shadow: dnd2024/feats/greater-mark-of-shadow.md
+        - Greater Mark Of Storm: dnd2024/feats/greater-mark-of-storm.md
+        - Greater Mark Of Warding: dnd2024/feats/greater-mark-of-warding.md
   - Species:
     - All Species: dnd2024/species/all.md
     - Aasimar: dnd2024/species/aasimar.md

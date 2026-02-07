@@ -1,12 +1,18 @@
-# Boon Of Bloodshed
+# Boon of Bloodshed
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+<div align="center">
+  <img src="https://www.gmbinder.com/images/IRNAjPS.jpeg" alt="A hulking warrior swinging a massive sword amid sprays of blood in fierce combat" width="900"/>
+</div>
 
+Source: Forgotten Realms: Heroes of Faerûn
 
 You gain the following benefits.
-Ability Score Increase.
+
+**Ability Score Increase.**  
 Increase one ability score of your choice by 1, to a maximum of 30.
-Killer’s Fortune.
+
+**Killer’s Fortune.**  
 When an enemy you can see is reduced to 0 Hit Points, you gain Advantage on the next attack roll you make before the end of your next turn.
-Power from Pain.
+
+**Power from Pain.**  
 Once per turn, when you make an attack roll while Bloodied, you can deal extra damage to the target equal to your Proficiency Bonus. The extra damage’s type is the same as the attack’s type.

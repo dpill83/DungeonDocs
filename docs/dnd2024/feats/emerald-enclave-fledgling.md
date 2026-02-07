@@ -1,12 +1,13 @@
 # Emerald Enclave Fledgling
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
-
+<div align="center">
+  <img src="https://static0.thegamerimages.com/wordpress/wp-content/uploads/2024/11/untitled-design-24.jpg" alt="A druid communing with wild animals in a forest, including bear, wolf, and boar" width="900"/>
+</div>
 
 You gain the following benefits.
-Speak with Animals.
-You always have the
-Speak with Animals
-spell prepared and can cast it with any spell slots you have. Intelligence, Wisdom, or Charisma is your spellcasting ability for this spell (choose when you select this feat). When you cast this spell as a Ritual, its duration is 8 hours.
-Tag Team.
+
+**Speak with Animals**  
+You always have the Speak with Animals spell prepared and can cast it with any spell slots you have. Intelligence, Wisdom, or Charisma is your spellcasting ability for this spell (choose when you select this feat). When you cast this spell as a Ritual, its duration is 8 hours.
+
+**Tag Team**  
 When you take the Help action, you can switch places with a willing ally within 5 feet of yourself as part of that same action. This movement doesn’t provoke Opportunity Attacks. You can’t use this benefit if the ally has the Incapacitated condition.

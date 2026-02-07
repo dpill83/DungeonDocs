@@ -16,3 +16,7 @@ Searchable reference for D&D rules content.
 - **[Feats](dnd2024/feats/index.md)** – Feats from the D&D rules
 
 Use the search bar to find content by name.
+
+---
+
+*Built with [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/).*

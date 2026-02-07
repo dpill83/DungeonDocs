@@ -1,14 +1,21 @@
 # Street Justice
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+<div align="center">
+  <img src="https://www.gmbinder.com/images/aZjhcIP.jpg" alt="A hooded rogue ambushing foes in a dark alley" width="900"/>
+</div>
 
+Source: Forgotten Realms: Heroes of Faerûn
 
 You gain the following benefits.
-Ability Score Increase.
+
+**Ability Score Increase**  
 Increase your Strength or Dexterity score by 1, to a maximum of 20.
-Headlock.
+
+**Headlock**  
 Your allies have Advantage on attack rolls against a creature Grappled by you.
-Sturdy Knot.
+
+**Sturdy Knot**  
 When you use Chain, Manacles, or Rope to bind a creature, add your Proficiency Bonus to the DC to escape or burst the Chain, Manacles, or Rope.
-Tough Talk.
+
+**Tough Talk**  
 A creature’s Hostile attitude doesn’t impose Disadvantage on your Charisma (Intimidation) checks to influence that creature.

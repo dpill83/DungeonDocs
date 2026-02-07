@@ -1,12 +1,16 @@
 # Elemental Adept
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
-
+<div align="center">
+  <img src="https://arcaneeye.com/wp-content/uploads/2022/03/elemental-adept-5e.webp" alt="A spellcaster commanding multiple elemental forces including fire, lightning, and ice" width="900"/>
+</div>
 
 You gain the following benefits.
-Ability Score Increase.
+
+**Ability Score Increase**  
 Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.
-Energy Mastery.
+
+**Energy Mastery**  
 Choose one of the following damage types: Acid, Cold, Fire, Lightning, or Thunder. Spells you cast ignore Resistance to damage of the chosen type. In addition, when you roll damage for a spell you cast that deals damage of that type, you can treat any 1 on a damage die as a 2.
-Repeatable.
+
+**Repeatable**  
 You can take this feat more than once, but you must choose a different damage type each time for Energy Mastery.

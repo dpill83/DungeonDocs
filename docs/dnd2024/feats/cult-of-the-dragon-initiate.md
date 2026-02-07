@@ -1,12 +1,16 @@
-# Cult Of The Dragon Initiate
+# Cult of the Dragon Initiate
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
-
+<div align="center">
+  <img src="https://5e.tools/img/adventure/HotDQ/083-tod-e-02.webp" alt="Cult of the Dragon cultists in dragon masks and purple robes attacking a village alongside a black dragon" width="900"/>
+</div>
 
 You gain the following benefits.
-Dragon’s Tongue.
+
+**Dragon’s Tongue**  
 You know Draconic. If you already know Draconic when you select this feat, you instead learn one language of your choice from the language tables in the Player’s Handbook or chapter 2 of this book.
-Dragon’s Terror.
+
+**Dragon’s Terror**  
 You can take a Magic action to instill terror in a creature you can see within 30 feet of yourself. The target must succeed on a Wisdom saving throw (DC 8 plus your Wisdom modifier and Proficiency Bonus) or have the Frightened condition until the end of your next turn. If the target succeeds on the save or when the effect ends for a target, the target is immune to this effect for 24 hours.
-Inspired by Fear.
+
+**Inspired by Fear**  
 When you cause a creature to have the Frightened condition and you are the source of its fear, you can gain Heroic Inspiration if you lack it. Once you use this benefit, you can’t use it again until you finish a Short or Long Rest.

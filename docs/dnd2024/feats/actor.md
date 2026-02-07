@@ -1,12 +1,16 @@
 # Actor
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
-
+<div align="center">
+  <img src="https://static0.cbrimages.com/wordpress/wp-content/uploads/2021/02/DD-Bard-College-of-Whispers.jpg" alt="A shadowy and intense Dungeons &amp; Dragons bard skilled in deception, impersonation, and mimicking voices" width="900"/>
+</div>
 
 You gain the following benefits.
-Ability Score Increase.
+
+**Ability Score Increase**  
 Increase your Charisma score by 1, to a maximum of 20.
-Impersonation.
+
+**Impersonation**  
 While you're disguised as a real or fictional person, you have Advantage on Charisma (Deception or Performance) checks to convince others that you are that person.
-Mimicry.
+
+**Mimicry**  
 You can mimic the sounds of other creatures, including speech. A creature that hears the mimicry must succeed on a Wisdom (Insight) check to determine the effect is faked (DC 8 plus your Charisma modifier and Proficiency Bonus).

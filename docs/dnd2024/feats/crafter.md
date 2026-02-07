@@ -28,4 +28,4 @@ When you finish a Long Rest, you can craft one piece of gear from the Fast Craft
 | Smith's Tools        | Ball Bearings, Bucket, Caltrops, Grappling Hook, Iron Pot |
 | Tinker's Tools       | Bell, Shovel, Tinder Box                          |
 | Weaver's Tools       | Basket, Rope, Net, Tent                           |
-| Woodcarver's Tools   | Club, Greatclub, Quarterstaff                     |
+| Woodcarver's Tools   | Club, Greatclub, Quarterstaff                     | 
