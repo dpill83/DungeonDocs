@@ -1,7 +1,10 @@
 # Mythallar Cloak
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Netherdeep*
 
+Wondrous Item, Rare, requires attunement
+
+Wondrous Item, Rare (requires attunement)
 
 This electric-blue cloak is studded with sewn-in crystals that are shards of a decommissioned mythallar. The cloak has 10 charges and regains 1d10 expended charges daily at dawn.
 While wearing the cloak, you can take a Bonus Action and expend 1 charge to activate the cloak’s magic. The magic lasts for 1 minute or until you end it early (no action required).

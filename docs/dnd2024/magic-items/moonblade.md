@@ -1,7 +1,10 @@
 # Moonblade
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Weapon, Legendary, requires attunement
+
+Weapon, Legendary (requires attunement)
 
 Weapon (Greatsword, Longsword, Rapier, Scimitar, or Shortsword), Legendary (Requires Attunement by a Creature of the Weapon’s Choice)
 Of all the magic items created by elves, one of the most prized and jealously guarded is a

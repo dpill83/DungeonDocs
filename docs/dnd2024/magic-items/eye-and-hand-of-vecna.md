@@ -1,7 +1,10 @@
-# Eye And Hand Of Vecna
+# Eye and Hand of Vecna
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Wondrous Item, Artifact, requires attunement
+
+Wondrous Item, Artifact (requires attunement)
 
 Vecna was a mighty wizard who, through magic and conquest, forged a terrible empire. For all his power, however, Vecna feared death and took steps to prevent his demise by becoming a lich.
 A treacherous lieutenant named Kas brought Vecna’s rule to an end in a terrible battle. Of Vecna, all that remained were one hand and one eye, grisly Artifacts that still seek to work Vecna’s will in the world.

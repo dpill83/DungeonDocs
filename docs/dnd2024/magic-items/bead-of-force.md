@@ -1,7 +1,8 @@
-# Bead Of Force
+# Bead of Force
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Wondrous Item, Rare
 
 This small black sphere measures 3/4 of an inch in diameter and weighs an ounce. Typically, 1d4 + 4
 Beads of Force

@@ -1,7 +1,8 @@
-# Oil Of Slipperiness
+# Oil of Slipperiness
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Potion, Uncommon
 
 One vial of this oil can cover one Medium or smaller creature, along with the equipment it’s wearing and carrying (one additional vial is required for each size category above Medium). Applying the oil takes 10 minutes. The affected creature then gains the effect of the
 Freedom of Movement

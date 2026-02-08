@@ -1,7 +1,8 @@
-# Potion Of Mind Reading
+# Potion of Mind Reading
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Potion, Rare
 
 When you drink this potion, you gain the effect of the
 Detect Thoughts

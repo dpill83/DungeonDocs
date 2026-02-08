@@ -1,7 +1,10 @@
 # Crown Of Horns
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Forgotten Realms: Adventures in Faerun*
 
+Wondrous Item, Artifact, requires attunement
+
+Wondrous Item, Artifact (requires attunement)
 
 contains the essence and intelligence of Myrkul, one of the Dead Three. This ghastly crown is a pale silver circlet with four curved bones set around its rim. On the crown's brow is set a black diamond whose depths swirl with weird, malignant energy.
 Myrkul created the

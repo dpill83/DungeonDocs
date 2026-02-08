@@ -1,7 +1,10 @@
 # Sylvan Talon
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Weapon, Common, requires attunement
+
+Weapon, Common (requires attunement)
 
 Weapon (Dagger, Rapier, Scimitar, Shortsword, Sickle, or Spear), Common (Requires Attunement)
 While this weapon is on your person, you understand the nonwritten communication of all Fey, and they understand yours.

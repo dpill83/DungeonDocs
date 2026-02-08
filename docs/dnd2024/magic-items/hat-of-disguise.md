@@ -1,6 +1,9 @@
-# Hat Of Disguise
+# Hat of Disguise
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Wondrous Item, Uncommon, requires attunement
+
+Wondrous Item, Uncommon (requires attunement)
 
 spell. The spell ends if the hat is removed.

@@ -1,7 +1,10 @@
-# Periapt Of Wound Closure
+# Periapt of Wound Closure
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Wondrous Item, Uncommon, requires attunement
+
+Wondrous Item, Uncommon (requires attunement)
 
 While wearing this pendant, you gain the following benefits.
 Life Preservation.

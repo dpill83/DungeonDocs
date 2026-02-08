@@ -1,7 +1,8 @@
 # Mechanical Wonder
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Forgotten Realms - Heroes of Faerun*
 
+Wondrous Item, Common
 
 is a semi-autonomous object imbued with magical power. Mechanical Wonders vary greatly in size and form depending on their function.
 A

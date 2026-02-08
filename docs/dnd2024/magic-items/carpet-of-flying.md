@@ -1,7 +1,8 @@
-# Carpet Of Flying
+# Carpet of Flying
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Wondrous Item, Very Rare
 
 You can make this carpet hover and fly by taking a Magic action and using the carpet’s command word. It moves according to your directions if you are within 30 feet of it.
 Four sizes of

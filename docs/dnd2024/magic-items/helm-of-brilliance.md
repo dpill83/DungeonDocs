@@ -1,7 +1,10 @@
-# Helm Of Brilliance
+# Helm of Brilliance
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Wondrous Item, Very Rare, requires attunement
+
+Wondrous Item, Very Rare (requires attunement)
 
 This helm is set with 1d10 diamonds, 2d10 rubies, 3d10 fire opals, and 4d10 opals. Any gem pried from the helm crumbles to dust. When all the gems are removed or destroyed, the helm loses its magic.
 You gain the following benefits while wearing the helm.

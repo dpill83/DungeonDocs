@@ -1,7 +1,10 @@
-# Hat Of Wizardry
+# Hat of Wizardry
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Wondrous Item, Common, requires attunement
+
+Wondrous Item, Common (requires attunement)
 
 This cone-shaped hat is adorned with moons and stars. While you are wearing it, you gain the following benefits.
 Spellcasting Focus.

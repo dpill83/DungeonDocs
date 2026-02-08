@@ -1,0 +1,7 @@
+# Cloak of the Manta Ray
+
+Source: *Unknown*
+
+Wondrous Item, Uncommon (requires attunement)
+
+While wearing this cloak, you can breathe underwater, and you have a Swim Speed of 60 feet.

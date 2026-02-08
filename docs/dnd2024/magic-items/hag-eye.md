@@ -1,7 +1,8 @@
 # Hag Eye
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Wondrous Item, Uncommon
 
 has 3 charges. While wearing or holding this item, you can expend 1 charge to cast
 Darkvision

@@ -1,6 +1,9 @@
-# Cloak Of Protection
+# Cloak of Protection
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Wondrous Item, Uncommon, requires attunement
+
+Wondrous Item, Uncommon (requires attunement)
 
 You gain a +1 bonus to Armor Class and saving throws while you wear this cloak.

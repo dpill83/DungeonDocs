@@ -1,7 +1,10 @@
-# Rod Of Alertness
+# Rod of Alertness
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Rod, Very Rare, requires attunement
+
+Rod, Very Rare (requires attunement)
 
 This rod has the following properties.
 Alertness.

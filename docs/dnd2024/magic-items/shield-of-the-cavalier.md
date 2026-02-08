@@ -1,7 +1,10 @@
-# Shield Of The Cavalier
+# Shield of the Cavalier
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Armor, Very Rare, requires attunement
+
+Armor, Very Rare (requires attunement)
 
 While holding this Shield, you have a +2 bonus to Armor Class. This bonus is in addition to the Shield’s normal bonus to AC.
 The Shield has the following additional properties that you can use while holding it.

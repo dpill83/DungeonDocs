@@ -1,6 +1,7 @@
-# Ring Of Water Walking
+# Ring of Water Walking
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Ring, Uncommon
 
 from it, targeting only yourself.

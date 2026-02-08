@@ -1,7 +1,10 @@
 # Harper Pin
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Forgotten Realms: Adventures in Faerun*
 
+Wondrous Item, Rarity Varies, requires attunement
+
+Wondrous Item, Rare (requires attunement)
 
 Wondrous Item, Uncommon (Silver) or Rare (Golden) (Requires Attunement)
 When you attune to this pin, choose a Harper persona (see the Forgotten Realms: Heroes of Faerûn for examples), including an alignment and a creature type. While wearing this pin, you register as that persona when targeted by magic to determine your creature type, alignment, or location.

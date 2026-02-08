@@ -1,7 +1,8 @@
-# Ring Of Three Wishes
+# Ring of Three Wishes
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Ring, Legendary
 
 While wearing this ring, you can expend 1 of its 3 charges to cast
 Wish

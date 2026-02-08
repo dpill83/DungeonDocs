@@ -1,7 +1,8 @@
-# Cape Of The Mountebank
+# Cape of the Mountebank
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Wondrous Item, Rare
 
 This cape smells faintly of brimstone. While wearing it, you can use it to cast
 Dimension Door

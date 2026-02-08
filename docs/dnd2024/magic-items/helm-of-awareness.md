@@ -1,8 +1,7 @@
-# Helm Of Awareness
+# Helm of Awareness
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Essentials from the Outer Planes*
 
-
-Source: Eberron - Forge of the Artificer
 Wondrous Item, Uncommon
+
 While wearing this helmet, you have Advantage on Initiative rolls.

@@ -1,7 +1,10 @@
-# Trident Of Fish Command
+# Trident of Fish Command
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Weapon, Uncommon, requires attunement
+
+Weapon, Uncommon (requires attunement)
 
 This magic weapon has 3 charges, and it regains 1d3 expended charges daily at dawn. While you carry it, you can expend 1 charge to cast
 Dominate Beast

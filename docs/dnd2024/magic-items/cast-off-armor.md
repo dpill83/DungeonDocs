@@ -1,6 +1,7 @@
-# Cast Off Armor
+# Cast-Off Armor
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Armor, Common
 
 You can doff this armor as a Magic action.

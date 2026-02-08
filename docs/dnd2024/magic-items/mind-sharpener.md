@@ -1,8 +1,9 @@
 # Mind Sharpener
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Essentials from the Outer Planes*
 
+Ring, Uncommon, requires attunement
 
-Source: Eberron - Forge of the Artificer
-Ring, Uncommon (Requires Attunement)
+Ring, Uncommon (requires attunement)
+
 The item has 4 charges. When you fail a Constitution saving throw to maintain Concentration, you can take a Reaction and expend 1 of the item’s charges to succeed instead. The item regains 1d4 expended charges daily at dawn.

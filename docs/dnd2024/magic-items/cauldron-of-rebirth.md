@@ -1,9 +1,11 @@
-# Cauldron Of Rebirth
+# Cauldron of Rebirth
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Wondrous Item, Very Rare, requires attunement
 
-Wondrous Item, Very Rare (Requires Attunement by a Druid or Warlock)
+Wondrous Item, Very Rare (requires attunement)
+
 This Tiny pot bears relief scenes of heroes on its cast-iron sides.
 You can use the cauldron as a Spellcasting Focus for your spells, and it functions as a suitable component for the
 Scrying

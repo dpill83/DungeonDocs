@@ -1,376 +1,92 @@
-# Consumable
+# Consumable Magic Items
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Magic items that are consumed or expended upon use.
 
+## Common
 
-Candle of the Deep
-Wondrous Item
--
-50 GP
-Mystery Key
-Wondrous Item
--
-50 GP
-Mythallar Bracelet
-Wondrous Item
--
-100 GP
-Perfume of Bewitching
-Wondrous Item
--
-50 GP
-Pot of Awakening
-Wondrous Item
--
-50 GP
-Potion of Climbing
-Potion
--
-50 GP
-Potion of Comprehension
-Potion
--
-50 GP
-Potion of Healing
-Potion
--
-Varies
-Spell Scroll
-Scroll
--
-Varies
-Walloping Ammunition
-Weapon
--
-50 GP
-Item Name
-Type
-Attuned
-Price
-Ammunition, +1, +2, or +3
-Weapon
--
-Varies
-Arcane Battery
-Wondrous Item
--
-200 GP
-Dust of Disappearance
-Wondrous Item
--
-200 GP
-Dust of Dryness
-Wondrous Item
--
-200 GP
-Dust of Sneezing and Choking
-Wondrous Item
--
-200 GP
-Elemental Gem
-Wondrous Item
--
-200 GP
-Gem of Brightness
-Wondrous Item
--
-200 GP
-Keoghtom's Ointment
-Wondrous Item
--
-200 GP
-Oil of Slipperiness
-Potion
--
-200 GP
-Philter of Love
-Potion
--
-200 GP
-Potion of Animal Friendship
-Potion
--
-200 GP
-Potion of Fire Breath
-Potion
--
-200 GP
-Potion of Giant Strength
-Potion
--
-Varies
-Potion of Growth
-Potion
-200 GP
-Potion of Healing
-Potion
--
-Varies
-Potion of Poison
-Potion
--
-200 GP
-Potion of Pugilism
-Potion
--
-200 GP
-Potion of Resistance
-Potion
--
-200 GP
-Potion of Water Breathing
-Potion
--
-200 GP
-Quaal's Feather Token
-Wondrous Item
--
-Varies
-Robe of Useful Items
-Wondrous Item
--
-200 GP
-Spell Scroll
-Scroll
--
-Varies
-Thayan Spell Tattoo
-Wondrous Item
-Attunement
-Special
-Item Name
-Type
-Attuned
-Price
-Ammunition, +1, +2, or +3
-Weapon
--
-Varies
-Bag of Beans
-Wondrous Item
--
-2,000 GP
-Bead of Force
-Wondrous Item
--
-2,000 GP
-Chime of Opening
-Wondrous Item
--
-2,000 GP
-Elixir of Health
-Potion
--
-2,000 GP
-Ioun Stone
-Wondrous Item
-Attunement
-Varies
-Necklace of Fireballs
-Wondrous Item
--
-2,000 GP
-Necklace of Prayer Beads
-Wondrous Item
-Attunement
-2,000 GP
-Oil of Etherealness
-Potion
--
-2,000 GP
-Potion of Clairvoyance
-Potion
--
-2,000 GP
-Potion of Diminution
-Potion
--
-2,000 GP
-Potion of Gaseous Form
-Potion
--
-2,000 GP
-Potion of Giant Strength
-Potion
--
-Varies
-Potion of Healing
-Potion
--
-Varies
-Potion of Heroism
-Potion
--
-2,000 GP
-Potion of Invisibility
-Potion
--
-2,000 GP
-Potion of Invulnerability
-Potion
--
-2,000 GP
-Potion of Mind Reading
-Potion
--
-2,000 GP
-Quaal's Feather Token
-Wondrous Item
--
-Varies
-Scroll of Protection
-Scroll
--
-2,000 GP
-Spell Scroll
-Scroll
--
-Varies
-Item Name
-Type
-Attuned
-Price
-Ammunition, +1, +2, or +3
-Weapon
--
-Varies
-Ammunition of Slaying
-Weapon
--
-20,000 GP
-Candle of Invocation
-Wondrous Item
-Attunement
-20,000 GP
-Efreeti Bottle
-Wondrous Item
--
-20,000 GP
-Helm of Brilliance
-Wondrous Item
-Attunement
-20,000 GP
-Ioun Stone
-Wondrous Item
-Attunement
-Varies
-Manual of Bodily Health
-Wondrous Item
--
-20,000 GP
-Manual of Gainful Exercise
-Wondrous Item
--
-20,000 GP
-Manual of Golems
-Wondrous Item
--
-20,000 GP
-Manual of Quickness of Action
-Wondrous Item
--
-20,000 GP
-Nolzur's Marvelous Pigments
-Wondrous Item
--
-20,000 GP
-Oil of Sharpness
-Potion
--
-20,000 GP
-Potion of Flying
-Potion
--
-20,000 GP
-Potion of Giant Strength
-Potion
--
-Varies
-Potion of Greater Invisibility
-Potion
--
-20,000 GP
-Potion of Healing
-Potion
--
-Varies
-Potion of Longevity
-Potion
--
-20,000 GP
-Potion of Speed
-Potion
--
-20,000 GP
-Potion of Vitality
-Potion
--
-20,000 GP
-Rod of Absorption
-Rod
-Attunement
-20,000 GP
-Spell Scroll
-Scroll
--
-Varies
-Tome of Clear Thought
-Wondrous Item
--
-20,000 GP
-Tome of Leadership and Influence
-Wondrous Item
--
-20,000 GP
-Tome of Understanding
-Wondrous Item
--
-20,000 GP
-Item Name
-Type
-Attuned
-Price
-Ioun Stone
-Wondrous Item
-Attunement
-Varies
-Potion of Giant Strength
-Potion
--
-Varies
-Ring of Three Wishes
-Ring
--
-100,000 GP
-Scroll of Titan Summoning
-Scroll
--
-100,000 GP
-Sovereign Glue
-Wondrous Item
--
-100,000 GP
-Spell Scroll
-Scroll
--
-Varies
-Talisman of Pure Good
-Wondrous Item
-Attunement
-100,000 GP
-Talisman of Ultimate Evil
-Wondrous Item
-Attunement
-100,000 GP
-Universal Solvent
-Wondrous Item
--
-100,000 GP
-Item Name
-Type
-Attuned
-Price
-Item Name
-Type
-Attuned
-Price
+| Item Name | Type | Attunement | Price |
+| --- | --- | --- | --- |
+| [Bead of Nourishment](bead-of-nourishment.md) | Wondrous Item | — | 50 GP |
+| [Bead of Refreshment](bead-of-refreshment.md) | Wondrous Item | — | 50 GP |
+| [Perfume of Bewitching](perfume-of-bewitching.md) | Wondrous Item | — | 50 GP |
+| [Pot of Awakening](pot-of-awakening.md) | Wondrous Item | — | 50 GP |
+| [Potion of Climbing](potion-of-climbing.md) | Potion | — | 50 GP |
+| [Potion of Comprehension](potion-of-comprehension.md) | Potion | — | 50 GP |
+| [Potion of Healing](potion-of-healing.md) | Potion | — | Varies |
+| [Spell Scroll](spell-scroll.md) | Scroll | — | Varies |
+| [Walloping Ammunition](walloping-ammunition.md) | Weapon | — | 50 GP |
+
+## Uncommon
+
+| Item Name | Type | Attunement | Price |
+| --- | --- | --- | --- |
+| [Ammunition, +1, +2, or +3](ammunition-1-2-or-3.md) | Weapon | — | Varies |
+| [Dust of Disappearance](dust-of-disappearance.md) | Wondrous Item | — | 200 GP |
+| [Dust of Dryness](dust-of-dryness.md) | Wondrous Item | — | 200 GP |
+| [Dust of Sneezing and Choking](dust-of-sneezing-and-choking.md) | Wondrous Item | — | 200 GP |
+| [Elemental Gem](elemental-gem.md) | Wondrous Item | — | 200 GP |
+| [Keoghtom's Ointment](keoghtom-s-ointment.md) | Wondrous Item | — | 200 GP |
+| [Oil of Slipperiness](oil-of-slipperiness.md) | Potion | — | 200 GP |
+| [Philter of Love](philter-of-love.md) | Potion | — | 200 GP |
+| [Potion of Animal Friendship](potion-of-animal-friendship.md) | Potion | — | 200 GP |
+| [Potion of Fire Breath](potion-of-fire-breath.md) | Potion | — | 200 GP |
+| [Potion of Giant Strength](potion-of-giant-strength.md) | Potion | — | Varies |
+| [Potion of Growth](potion-of-growth.md) | Potion | — | 200 GP |
+| [Potion of Healing](potion-of-healing.md) | Potion | — | Varies |
+| [Potion of Poison](potion-of-poison.md) | Potion | — | 200 GP |
+| [Potion of Pugilism](potion-of-pugilism.md) | Potion | — | 200 GP |
+| [Potion of Resistance](potion-of-resistance.md) | Potion | — | 200 GP |
+| [Potion of Water Breathing](potion-of-water-breathing.md) | Potion | — | 200 GP |
+| [Quaal's Feather Token](quaal-s-feather-token.md) | Wondrous Item | — | Varies |
+| [Spell Scroll](spell-scroll.md) | Scroll | — | Varies |
+
+## Rare
+
+| Item Name | Type | Attunement | Price |
+| --- | --- | --- | --- |
+| [Ammunition, +1, +2, or +3](ammunition-1-2-or-3.md) | Weapon | — | Varies |
+| [Bag of Beans](bag-of-beans.md) | Wondrous Item | — | 2,000 GP |
+| [Bead of Force](bead-of-force.md) | Wondrous Item | — | 2,000 GP |
+| [Chime of Opening](chime-of-opening.md) | Wondrous Item | — | 2,000 GP |
+| [Elixir of Health](elixir-of-health.md) | Potion | — | 2,000 GP |
+| [Necklace of Fireballs](necklace-of-fireballs.md) | Wondrous Item | — | 2,000 GP |
+| [Oil of Etherealness](oil-of-etherealness.md) | Potion | — | 2,000 GP |
+| [Potion of Clairvoyance](potion-of-clairvoyance.md) | Potion | — | 2,000 GP |
+| [Potion of Diminution](potion-of-diminution.md) | Potion | — | 2,000 GP |
+| [Potion of Gaseous Form](potion-of-gaseous-form.md) | Potion | — | 2,000 GP |
+| [Potion of Giant Strength](potion-of-giant-strength.md) | Potion | — | Varies |
+| [Potion of Healing](potion-of-healing.md) | Potion | — | Varies |
+| [Potion of Heroism](potion-of-heroism.md) | Potion | — | 2,000 GP |
+| [Potion of Invisibility](potion-of-invisibility.md) | Potion | — | 2,000 GP |
+| [Potion of Invulnerability](potion-of-invulnerability.md) | Potion | — | 2,000 GP |
+| [Potion of Mind Reading](potion-of-mind-reading.md) | Potion | — | 2,000 GP |
+| [Quaal's Feather Token](quaal-s-feather-token.md) | Wondrous Item | — | Varies |
+| [Scroll of Protection](scroll-of-protection.md) | Scroll | — | 2,000 GP |
+| [Spell Scroll](spell-scroll.md) | Scroll | — | Varies |
+
+## Very Rare
+
+| Item Name | Type | Attunement | Price |
+| --- | --- | --- | --- |
+| [Ammunition, +1, +2, or +3](ammunition-1-2-or-3.md) | Weapon | — | Varies |
+| [Ammunition of Slaying](ammunition-of-slaying.md) | Weapon | — | 20,000 GP |
+| [Nolzur's Marvelous Pigments](nolzur-s-marvelous-pigments.md) | Wondrous Item | — | 20,000 GP |
+| [Oil of Sharpness](oil-of-sharpness.md) | Potion | — | 20,000 GP |
+| [Potion of Flying](potion-of-flying.md) | Potion | — | 20,000 GP |
+| [Potion of Giant Strength](potion-of-giant-strength.md) | Potion | — | Varies |
+| [Potion of Greater Invisibility](potion-of-greater-invisibility.md) | Potion | — | 20,000 GP |
+| [Potion of Healing](potion-of-healing.md) | Potion | — | Varies |
+| [Potion of Longevity](potion-of-longevity.md) | Potion | — | 20,000 GP |
+| [Potion of Speed](potion-of-speed.md) | Potion | — | 20,000 GP |
+| [Potion of Vitality](potion-of-vitality.md) | Potion | — | 20,000 GP |
+| [Spell Scroll](spell-scroll.md) | Scroll | — | Varies |
+
+## Legendary
+
+| Item Name | Type | Attunement | Price |
+| --- | --- | --- | --- |
+| [Potion of Giant Strength](potion-of-giant-strength.md) | Potion | — | Varies |
+| [Scroll of Titan Summoning](scroll-of-titan-summoning.md) | Scroll | — | 100,000 GP |
+| [Sovereign Glue](sovereign-glue.md) | Wondrous Item | — | 100,000 GP |
+| [Spell Scroll](spell-scroll.md) | Scroll | — | Varies |
+| [Universal Solvent](universal-solvent.md) | Wondrous Item | — | 100,000 GP |

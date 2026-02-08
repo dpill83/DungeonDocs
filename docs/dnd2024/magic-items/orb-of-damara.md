@@ -1,7 +1,10 @@
-# Orb Of Damara
+# Orb of Damara
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Forgotten Realms: Adventures in Faerun*
 
+Wondrous Item, Artifact, requires attunement
+
+Wondrous Item, Artifact (requires attunement)
 
 A wizard named Damara created this orb while devising a way to become a dragon. Aided by a mysterious magician (actually an aspect of Tiamat in disguise), Damara eventually created an Artifact that would enable him to achieve his dream. Yet the potential power of his creation terrified Damara so much that he dared not use the orb. Instead, the wizard entombed himself with the Artifact to seal it away.
 The

@@ -1,7 +1,10 @@
-# Sword Of Sharpness
+# Sword of Sharpness
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Weapon, Very Rare, requires attunement
+
+Weapon, Very Rare (requires attunement)
 
 Weapon (Glaive, Greatsword, Longsword, or Scimitar), Very Rare (Requires Attunement)
 When you attack an object with this magic weapon and hit, maximize your weapon damage dice against the target.

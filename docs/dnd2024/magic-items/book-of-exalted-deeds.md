@@ -1,7 +1,10 @@
-# Book Of Exalted Deeds
+# Book of Exalted Deeds
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Wondrous Item, Artifact, requires attunement
+
+Wondrous Item, Artifact (requires attunement)
 
 The definitive treatise on all that is good in the multiverse, the
 Book of Exalted Deeds

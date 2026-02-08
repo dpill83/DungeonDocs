@@ -1,7 +1,10 @@
-# Weapon Of Warning
+# Weapon of Warning
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Weapon, Uncommon, requires attunement
+
+Weapon, Uncommon (requires attunement)
 
 Weapon (Any Simple or Martial), Uncommon (Requires Attunement)
 As long as this weapon is within your reach and you are attuned to it, you and allies within 30 feet of you gain the following benefits.

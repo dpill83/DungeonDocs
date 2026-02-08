@@ -1,7 +1,8 @@
-# Wand Of Magic Detection
+# Wand of Magic Detection
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Wand, Uncommon
 
 This wand has 3 charges. While holding it, you can expend 1 charge to cast
 Detect Magic

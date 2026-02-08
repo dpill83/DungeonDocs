@@ -1,7 +1,10 @@
-# Plate Armor Of Etherealness
+# Plate Armor of Etherealness
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Armor, Legendary, requires attunement
+
+Armor, Legendary (requires attunement)
 
 Armor (Half Plate Armor or Plate Armor), Legendary (Requires Attunement)
 While you’re wearing this armor, you can take a Magic action and use a command word to gain the effect of the

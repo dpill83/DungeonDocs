@@ -1,7 +1,8 @@
-# Potion Of Animal Friendship
+# Potion of Animal Friendship
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Potion, Uncommon
 
 When you drink this potion, you can cast the level 3 version of the
 Animal Friendship

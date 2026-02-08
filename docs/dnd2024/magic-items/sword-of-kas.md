@@ -1,7 +1,10 @@
-# Sword Of Kas
+# Sword of Kas
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Weapon, Artifact, requires attunement
+
+Weapon, Artifact (requires attunement)
 
 Kas was a powerful warrior who served Vecna and whose loyalty was rewarded with this sword. As Kas’s power grew, so did his hubris. The sword urged Kas to destroy Vecna and usurp his throne. Legend says Vecna’s destruction came at Kas’s hand, but Vecna also wrought his rebellious lieutenant’s doom, leaving only Kas’s sword behind.
 Bloodthirst.

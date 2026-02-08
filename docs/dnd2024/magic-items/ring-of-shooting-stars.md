@@ -1,7 +1,10 @@
-# Ring Of Shooting Stars
+# Ring of Shooting Stars
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Ring, Very Rare, requires attunement
+
+Ring, Very Rare (requires attunement)
 
 from the ring.
 The ring has 6 charges and regains 1d6 expended charges daily at dawn. You can expend its charges to use the properties below.

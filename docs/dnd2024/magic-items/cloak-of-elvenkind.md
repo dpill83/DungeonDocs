@@ -1,6 +1,9 @@
-# Cloak Of Elvenkind
+# Cloak of Elvenkind
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Wondrous Item, Uncommon, requires attunement
+
+Wondrous Item, Uncommon (requires attunement)
 
 While you wear this cloak, Wisdom (Perception) checks made to perceive you have Disadvantage, and you have Advantage on Dexterity (Stealth) checks.

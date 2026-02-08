@@ -1,7 +1,10 @@
 # Holy Avenger
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Wondrous Item, Legendary, requires attunement
+
+Wondrous Item, Legendary (requires attunement)
 
 Weapon (Any Simple or Martial), Legendary (Requires Attunement by a Paladin)
 You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon. When you hit a Fiend or an Undead with it, that creature takes an extra 2d10 Radiant damage.

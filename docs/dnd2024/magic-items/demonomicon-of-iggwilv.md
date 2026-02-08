@@ -1,7 +1,10 @@
-# Demonomicon Of Iggwilv
+# Demonomicon of Iggwilv
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Wondrous Item, Artifact, requires attunement
+
+Wondrous Item, Artifact (requires attunement)
 
 This treatise, composed by Iggwilv the archmage, documents the Abyss’s layers and inhabitants and is widely regarded as the most thorough and blasphemous tome of demonology in the multiverse. The tome recounts both the oldest and most current profanities of the Abyss and demons. Demons have attempted to censor the text, and while sections have been ripped from the book’s spine, the general chapters remain, ever revealing demonic secrets. Caged behind lines of script roils a secret piece of the Abyss itself, which keeps the book up-to-date, no matter how many pages are removed, and it longs to be more than mere reference material.
 Abyssal Lore.

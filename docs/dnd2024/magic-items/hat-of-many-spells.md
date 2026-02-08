@@ -1,7 +1,10 @@
-# Hat Of Many Spells
+# Hat of Many Spells
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Wondrous Item, Very Rare, requires attunement
+
+Wondrous Item, Very Rare (requires attunement)
 
 This pointed hat has the following properties.
 Spellcasting Focus.

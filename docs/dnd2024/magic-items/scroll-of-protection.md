@@ -1,7 +1,8 @@
-# Scroll Of Protection
+# Scroll of Protection
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Scroll, Rare
 
 works against creatures of a specific creature type chosen by the DM or determined by rolling on the following table.
 1d100

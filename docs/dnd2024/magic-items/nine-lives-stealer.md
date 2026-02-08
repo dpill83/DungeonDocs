@@ -1,7 +1,10 @@
 # Nine Lives Stealer
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Weapon, Very Rare, requires attunement
+
+Weapon, Very Rare (requires attunement)
 
 Weapon (Any Simple or Martial), Very Rare (Requires Attunement)
 You gain a +2 bonus to attack rolls and damage rolls made with this magic weapon.

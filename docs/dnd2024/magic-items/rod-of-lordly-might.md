@@ -1,7 +1,10 @@
-# Rod Of Lordly Might
+# Rod of Lordly Might
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Rod, Legendary, requires attunement
+
+Rod, Legendary (requires attunement)
 
 This rod has a flanged head, and it functions as a magic Mace that grants a +3 bonus to attack rolls and damage rolls made with it. The rod has properties associated with six different buttons that are set in a row along the haft. It has three other properties as well, detailed below.
 Buttons.

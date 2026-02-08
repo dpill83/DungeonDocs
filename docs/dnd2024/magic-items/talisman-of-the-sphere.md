@@ -1,7 +1,10 @@
-# Talisman Of The Sphere
+# Talisman of the Sphere
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Wondrous Item, Legendary, requires attunement
+
+Wondrous Item, Legendary (requires attunement)
 
 While holding or wearing this talisman, you have Advantage on any Intelligence (Arcana) check you make to control a
 Sphere of Annihilation

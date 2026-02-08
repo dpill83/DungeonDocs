@@ -1,6 +1,9 @@
-# Ring Of Regeneration
+# Ring of Regeneration
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Ring, Very Rare, requires attunement
+
+Ring, Very Rare (requires attunement)
 
 While wearing this ring, you regain 1d6 Hit Points every 10 minutes if you have at least 1 Hit Point. If you lose a body part, the ring causes the missing part to regrow and return to full functionality after 1d6 + 1 days if you have at least 1 Hit Point the whole time.

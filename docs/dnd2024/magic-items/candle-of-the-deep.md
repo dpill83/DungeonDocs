@@ -1,6 +1,7 @@
-# Candle Of The Deep
+# Candle of the Deep
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Wondrous Item, Common
 
 The flame of this candle isn’t extinguished when immersed in water. It gives off light and heat like a normal candle.

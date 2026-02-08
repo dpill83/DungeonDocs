@@ -1,7 +1,10 @@
-# Axe Of The Dwarvish Lords
+# Axe of the Dwarvish Lords
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Weapon, Artifact, requires attunement
+
+Weapon, Artifact (requires attunement)
 
 A young dwarf prince set out to forge a weapon that would be regarded as a symbol of unity among his people. Venturing deep under the mountains, deeper than any dwarf had ever delved, the prince came to the blazing heart of a great volcano. With the aid of Moradin, a god of creation, he first crafted four mighty tools: the Starmetal Pick, the Earthheart Forge, the Anvil of Songs, and the Shaping Hammer. With these tools, he forged the
 Axe of the Dwarvish Lords.

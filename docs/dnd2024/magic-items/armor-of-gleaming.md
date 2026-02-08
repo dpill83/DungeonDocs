@@ -1,6 +1,7 @@
-# Armor Of Gleaming
+# Armor of Gleaming
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Armor, Common
 
 This armor never gets dirty.

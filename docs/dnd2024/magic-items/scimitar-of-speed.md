@@ -1,6 +1,9 @@
-# Scimitar Of Speed
+# Scimitar of Speed
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Weapon, Very Rare, requires attunement
+
+Weapon, Very Rare (requires attunement)
 
 You gain a +2 bonus to attack rolls and damage rolls made with this magic weapon. In addition, you can make one attack with it as a Bonus Action on each of your turns.

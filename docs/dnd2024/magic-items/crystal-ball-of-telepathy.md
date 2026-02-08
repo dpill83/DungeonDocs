@@ -1,7 +1,10 @@
-# Crystal Ball Of Telepathy
+# Crystal Ball of Telepathy
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Wondrous Item, Legendary, requires attunement
+
+Wondrous Item, Legendary (requires attunement)
 
 (save DC 17) with it. In addition, you can communicate telepathically with creatures you can see within 30 feet of the spell’s sensor. You can also cast
 Suggestion

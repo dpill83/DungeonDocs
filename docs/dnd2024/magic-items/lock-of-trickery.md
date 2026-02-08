@@ -1,6 +1,7 @@
-# Lock Of Trickery
+# Lock of Trickery
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Wondrous Item, Common
 
 This lock appears to be an ordinary Lock (of the type described in chapter 6 of the Player’s Handbook) and comes with a single key. The tumblers in this lock magically adjust to thwart burglars. Dexterity checks made to pick the lock have Disadvantage.

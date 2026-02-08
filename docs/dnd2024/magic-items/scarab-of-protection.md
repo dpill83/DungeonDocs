@@ -1,7 +1,10 @@
-# Scarab Of Protection
+# Scarab of Protection
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Wondrous Item, Legendary, requires attunement
+
+Wondrous Item, Legendary (requires attunement)
 
 This beetle-shaped medallion provides three benefits while it is on your person.
 Defense.

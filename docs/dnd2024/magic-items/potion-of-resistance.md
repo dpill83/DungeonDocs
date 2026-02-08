@@ -1,7 +1,8 @@
-# Potion Of Resistance
+# Potion of Resistance
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Potion, Uncommon
 
 When you drink this potion, you have Resistance to one type of damage for 1 hour. The DM chooses the type or determines it randomly by rolling on the following table.
 1d10

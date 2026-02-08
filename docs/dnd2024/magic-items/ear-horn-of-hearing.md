@@ -1,6 +1,7 @@
-# Ear Horn Of Hearing
+# Ear Horn of Hearing
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Wondrous Item, Common
 
 While held up to your ear, this horn suppresses the effects of the Deafened condition on you.

@@ -1,9 +1,11 @@
-# Talisman Of Pure Good
+# Talisman of Pure Good
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Wondrous Item, Legendary, requires attunement
 
-Wondrous Item, Legendary (Requires Attunement by a Cleric or Paladin)
+Wondrous Item, Legendary (requires attunement)
+
 This talisman is a mighty symbol of goodness. A Fiend or an Undead that touches the talisman takes 8d6 Radiant damage and takes the damage again each time it ends its turn holding or carrying the talisman.
 Holy Symbol.
 You can use the talisman as a Holy Symbol. You gain a +2 bonus to spell attack rolls while you wear or hold it.

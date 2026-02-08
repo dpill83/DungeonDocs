@@ -1,7 +1,8 @@
-# Saddle Of The Cavalier
+# Saddle of the Cavalier
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Wondrous Item, Uncommon
 
 This saddle confers the following benefits while you are seated in it and astride a mount.
 Protected Mount.

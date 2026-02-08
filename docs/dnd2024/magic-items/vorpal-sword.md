@@ -1,7 +1,10 @@
 # Vorpal Sword
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Weapon, Legendary, requires attunement
+
+Weapon, Legendary (requires attunement)
 
 Weapon (Glaive, Greatsword, Longsword, or Scimitar), Legendary (Requires Attunement)
 You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon. In addition, the weapon ignores Resistance to Slashing damage.

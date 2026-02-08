@@ -1,7 +1,10 @@
-# Shield Of Missile Attraction
+# Shield of Missile Attraction
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Armor, Rare, requires attunement
+
+Armor, Rare (requires attunement)
 
 While holding this Shield, you have Resistance to damage from attacks made with Ranged weapons.
 Curse.

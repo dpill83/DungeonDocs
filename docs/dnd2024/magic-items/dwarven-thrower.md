@@ -1,7 +1,10 @@
 # Dwarven Thrower
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Weapon, Very Rare, requires attunement
+
+Weapon, Very Rare (requires attunement)
 
 Weapon (Warhammer), Very Rare (Requires Attunement by a Dwarf or a Creature Attuned to a
 Belt of Dwarvenkind

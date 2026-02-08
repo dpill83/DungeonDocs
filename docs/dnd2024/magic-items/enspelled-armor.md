@@ -1,7 +1,10 @@
 # Enspelled Armor
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Armor, Rarity Varies, requires attunement
+
+Armor, Legendary (requires attunement)
 
 Armor (Any Light, Medium, or Heavy), Rarity Varies (Requires Attunement)
 Bound into this armor is a spell of level 8 or lower. The spell is determined when the armor is created and must belong to the Abjuration or Illusion school of magic. The armor has 6 charges and regains 1d6 expended charges daily at dawn. While wearing the armor, you can expend 1 charge to cast its spell.

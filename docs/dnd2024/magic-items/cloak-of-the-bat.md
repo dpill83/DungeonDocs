@@ -1,7 +1,10 @@
-# Cloak Of The Bat
+# Cloak of the Bat
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Wondrous Item, Rare, requires attunement
+
+Wondrous Item, Rare (requires attunement)
 
 While wearing this cloak, you have Advantage on Dexterity (Stealth) checks. In an area of Dim Light or Darkness, you can grip the edges of the cloak and use it to gain a Fly Speed of 40 feet. If you ever fail to grip the cloak’s edges while flying in this way, or if you are no longer in Dim Light or Darkness, you lose this Fly Speed.
 While wearing the cloak in an area of Dim Light or Darkness, you can cast

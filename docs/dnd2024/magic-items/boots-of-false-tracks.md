@@ -1,6 +1,9 @@
-# Boots Of False Tracks
+# Boots of False Tracks
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Wondrous Item, Common, requires attunement
+
+Wondrous Item, Common (requires attunement)
 
 While wearing these boots, you can have them leave tracks like those of any kind of Humanoid of your size.

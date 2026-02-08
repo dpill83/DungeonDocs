@@ -1,7 +1,8 @@
-# Ammunition 1 2 Or 3
+# Ammunition, +1, +2, or +3
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Weapon, Rarity Varies
 
 Weapon (Any Ammunition), Uncommon(+1), Rare (+2), or Very Rare (+3)
 You have a bonus to attack rolls and damage rolls made with this piece of magic ammunition. The bonus is determined by the rarity of the ammunition. Once it hits a target, the ammunition is no longer magical.

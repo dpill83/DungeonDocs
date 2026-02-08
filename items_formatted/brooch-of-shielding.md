@@ -1,0 +1,9 @@
+# Brooch of Shielding
+
+Source: *Unknown*
+
+Wondrous Item, Uncommon (requires attunement)
+
+While wearing this brooch, you have Resistance to Force damage, and you have Immunity to damage from the
+Magic Missile
+spell.

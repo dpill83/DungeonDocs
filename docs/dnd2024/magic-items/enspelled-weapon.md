@@ -1,7 +1,10 @@
 # Enspelled Weapon
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Weapon, Rarity Varies, requires attunement
+
+Weapon, Legendary (requires attunement)
 
 Weapon (Any Simple or Martial), Rarity Varies (Requires Attunement)
 Bound into this weapon is a spell of level 8 or lower. The spell is determined when the weapon is created and must belong to the Conjuration, Divination, Evocation, Necromancy, or Transmutation school of magic. The weapon has 6 charges and regains 1d6 expended charges daily at dawn. While holding the weapon, you can expend 1 charge to cast its spell.

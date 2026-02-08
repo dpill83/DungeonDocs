@@ -1,7 +1,10 @@
 # Sun Blade
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Weapon, Rare, requires attunement
+
+Weapon, Rare (requires attunement)
 
 This item appears to be a sword hilt.
 Blade of Radiance.

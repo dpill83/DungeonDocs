@@ -1,7 +1,10 @@
-# Instrument Of The Bards
+# Instrument of the Bards
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Wondrous Item, Rarity Varies, requires attunement
+
+Wondrous Item, Legendary (requires attunement)
 
 Instrument of the Bards
 is superior to an ordinary instrument in every way. Seven types of these instruments exist, each named after a bard college. The Instruments of the Bards table lists the spells common to all instruments, as well as the spells specific to each one and its rarity. A creature that attempts to play the instrument without being attuned to it must succeed on a DC 15 Wisdom saving throw or take 2d4 Psychic damage.

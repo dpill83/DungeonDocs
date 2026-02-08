@@ -1,7 +1,10 @@
-# Sword Of Vengeance
+# Sword of Vengeance
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Weapon, Uncommon, requires attunement
+
+Weapon, Uncommon (requires attunement)
 
 Weapon (Glaive, Greatsword, Longsword, Rapier, Scimitar, or Shortsword), Uncommon (Requires Attunement)
 You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon.

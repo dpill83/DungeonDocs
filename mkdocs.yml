@@ -525,6 +525,21 @@ nav:
         - Greater Mark Of Shadow: dnd2024/feats/greater-mark-of-shadow.md
         - Greater Mark Of Storm: dnd2024/feats/greater-mark-of-storm.md
         - Greater Mark Of Warding: dnd2024/feats/greater-mark-of-warding.md
+  - Equipment:
+    - All Equipment: dnd2024/equipments/index.md
+    - Weapons: dnd2024/equipments/weapon.md
+    - Armor: dnd2024/equipments/armor.md
+    - Adventuring Gear: dnd2024/equipments/adventuring-gear.md
+    - Tools: dnd2024/equipments/tool.md
+    - Poisons: dnd2024/equipments/poison.md
+    - Mounts and Vehicles: dnd2024/equipments/mounts-and-vehicles.md
+    - Currency: dnd2024/equipments/currency.md
+    - Trinkets: dnd2024/equipments/trinket.md
+    - Crafting: dnd2024/equipments/crafting.md
+  - Magic Items:
+    - All Magic Items: dnd2024/magic-items/all.md
+    - Consumable Magic Items: dnd2024/magic-items/consumable.md
+    - Crafting Magical Items: dnd2024/magic-items/crafting-magical-items.md
   - Spells:
     - All Spells: dnd2024/spells/index.md
     - Abjuration Spells: dnd2024/spells/abjuration-school.md

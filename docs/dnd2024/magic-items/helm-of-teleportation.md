@@ -1,7 +1,10 @@
-# Helm Of Teleportation
+# Helm of Teleportation
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Wondrous Item, Rare, requires attunement
+
+Wondrous Item, Rare (requires attunement)
 
 This helm has 3 charges. While wearing it, you can expend 1 charge to cast
 Teleport

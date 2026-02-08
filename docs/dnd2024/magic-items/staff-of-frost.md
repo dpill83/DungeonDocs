@@ -1,9 +1,11 @@
-# Staff Of Frost
+# Staff of Frost
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Staff, Very Rare, requires attunement
 
-Staff, Very Rare (Requires Attunement by a Druid, Sorcerer, Warlock, or Wizard)
+Staff, Very Rare (requires attunement)
+
 You have Resistance to Cold damage while you hold this staff.
 Spells.
 The staff has 10 charges. While holding the staff, you can cast one of the spells on the following table from it, using your spell save DC. The table indicates how many charges you must expend to cast the spell.

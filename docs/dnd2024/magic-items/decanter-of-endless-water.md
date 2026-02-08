@@ -1,7 +1,8 @@
-# Decanter Of Endless Water
+# Decanter of Endless Water
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Wondrous Item, Uncommon
 
 This stoppered flask sloshes when shaken, as if it contains water. The decanter weighs 2 pounds.
 You can take a Magic action to remove the stopper and issue one of three command words, whereupon an amount of fresh water or salt water (your choice) pours out of the flask. The water stops pouring out at the start of your next turn. Choose from the following command words:

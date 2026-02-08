@@ -1,7 +1,10 @@
-# Boots Of The Winterlands
+# Boots of the Winterlands
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Wondrous Item, Uncommon, requires attunement
+
+Wondrous Item, Uncommon (requires attunement)
 
 These furred boots are snug and feel warm. While wearing them, you gain the following benefits.
 Cold Resistance.

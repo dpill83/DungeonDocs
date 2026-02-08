@@ -1,7 +1,10 @@
-# Armor Of Resistance
+# Armor of Resistance
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Armor, Rare, requires attunement
+
+Armor, Rare (requires attunement)
 
 Armor (Any Light, Medium, or Heavy), Rare (Requires Attunement)
 You have Resistance to one type of damage while you wear this armor. The DM chooses the type or determines it randomly by rolling on the following table.

@@ -1,7 +1,8 @@
 # Magen Handbell
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Netherdeep*
 
+Wondrous Item, Rare
 
 While holding this brass handbell, you can take a Magic action to ring it and summon a Terran Magen (see Netheril's Fall). The magen appears in an unoccupied space you choose within 30 feet of yourself, understands your languages, obeys your commands, and takes its turn immediately after you on your Initiative count. The magen disappears after 1 hour, when it dies, or when you dismiss it as a Bonus Action. The bell can’t be used this way again for 1d6 days.
 Berserk Magen

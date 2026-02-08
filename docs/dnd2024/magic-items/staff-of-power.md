@@ -1,9 +1,11 @@
-# Staff Of Power
+# Staff of Power
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Staff, Very Rare, requires attunement
 
-Staff, Very Rare (Requires Attunement by a Sorcerer, Warlock, or Wizard)
+Staff, Very Rare (requires attunement)
+
 This staff has 20 charges and can be wielded as a magic Quarterstaff that grants a +2 bonus to attack rolls and damage rolls made with it. While holding it, you gain a +2 bonus to Armor Class, saving throws, and spell attack rolls.
 Spells.
 While holding the staff, you can cast one of the spells on the following table from it, using your spell save DC. The table indicates how many charges you must expend to cast the spell.

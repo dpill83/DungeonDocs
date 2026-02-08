@@ -1,9 +1,11 @@
 # Spiked Shield
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Wanderer's Tales from the Witchlight Carnival*
 
+Armor, Uncommon, requires attunement
 
-Source: Welcome to the Hellfire Club
+Armor, Uncommon (requires attunement)
+
 Armor (shield), uncommon (requires attunement)
 Crude metal spikes adorn this magic Shield. It has the following properties that you can use while holding it.
 Shield Bash.

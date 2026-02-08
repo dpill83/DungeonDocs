@@ -1,7 +1,10 @@
 # Demon Armor
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Armor, Very Rare, requires attunement
+
+Armor, Very Rare (requires attunement)
 
 Armor (Any Light, Medium, or Heavy), Very Rare (Requires Attunement)
 While wearing this armor, you gain a +1 bonus to Armor Class, and you know Abyssal. In addition, the armor’s clawed gauntlets allow your Unarmed Strikes to deal 1d8 Slashing damage instead of the usual Bludgeoning damage, and you gain a +1 bonus to the attack and damage rolls of your Unarmed Strikes.

@@ -1,7 +1,8 @@
-# Quaal S Feather Token
+# Quaal's Feather Token
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Wondrous Item, Rarity Varies
 
 This object looks like a feather. Different types of feather tokens exist, each with a different single-use effect. The DM chooses the kind of token or determines it randomly by rolling on the Quaal’s Feather Tokens table. The type of token determines its rarity.
 Quaal’s Feather Tokens

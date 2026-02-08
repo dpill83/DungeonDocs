@@ -1,7 +1,10 @@
-# Brooch Of Shielding
+# Brooch of Shielding
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Wondrous Item, Uncommon, requires attunement
+
+Wondrous Item, Uncommon (requires attunement)
 
 While wearing this brooch, you have Resistance to Force damage, and you have Immunity to damage from the
 Magic Missile

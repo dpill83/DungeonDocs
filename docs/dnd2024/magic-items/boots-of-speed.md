@@ -1,7 +1,10 @@
-# Boots Of Speed
+# Boots of Speed
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Wondrous Item, Rare, requires attunement
+
+Wondrous Item, Rare (requires attunement)
 
 While you wear these boots, you can take a Bonus Action to click the boots’ heels together. If you do, the boots double your Speed, and any creature that makes an Opportunity Attack against you has Disadvantage on the attack roll. If you click your heels together again, you end the effect.
 When you’ve used the boots’ property for a total of 10 minutes, the magic ceases to function for you until you finish a Long Rest.

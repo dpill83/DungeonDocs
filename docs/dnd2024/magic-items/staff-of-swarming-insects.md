@@ -1,9 +1,11 @@
-# Staff Of Swarming Insects
+# Staff of Swarming Insects
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Staff, Rare, requires attunement
 
-Staff, Rare (Requires Attunement by a Bard, Cleric, Druid, Sorcerer, Warlock, or Wizard)
+Staff, Rare (requires attunement)
+
 This staff has 10 charges.
 Insect Cloud.
 While holding the staff, you can take a Magic action and expend 1 charge to cause a swarm of harmless flying insects to fill a 30-foot Emanation originating from you. The insects remain for 10 minutes, making the area Heavily Obscured for creatures other than you. A strong wind (like that created by

@@ -1,7 +1,9 @@
-# Pearl Of Power
+# Pearl of Power
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Wondrous Item, Uncommon, requires attunement
 
-Wondrous Item, Uncommon (Requires Attunement by a Spellcaster)
+Wondrous Item, Uncommon (requires attunement)
+
 While this pearl is on your person, you can take a Magic action to regain one expended spell slot of level 3 or lower. Once you use the pearl, it can’t be used again until the next dawn.

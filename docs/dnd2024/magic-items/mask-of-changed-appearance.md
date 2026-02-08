@@ -1,7 +1,8 @@
-# Mask Of Changed Appearance
+# Mask of Changed Appearance
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Netherdeep*
 
+Wondrous Item, Common
 
 This jeweled mask has 3 charges. As a Magic action, you can expend 1 charge and change your face’s appearance. You can’t make yourself look like a different person, but you can smooth or deepen your wrinkles, whiten your teeth, hide or accentuate bags under your eyes, or perform other minor cosmetic changes. While your appearance is changed, the mask has the Invisible condition. Your changed appearance lasts 1 hour.
 Regaining Charges.

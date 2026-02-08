@@ -1,7 +1,8 @@
-# Javelin Of Lightning
+# Javelin of Lightning
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Weapon, Uncommon
 
 Each time you make an attack roll with this magic weapon and hit, you can have it deal Lightning damage instead of Piercing damage.
 Lightning Bolt.

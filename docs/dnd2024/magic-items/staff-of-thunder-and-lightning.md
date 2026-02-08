@@ -1,7 +1,10 @@
-# Staff Of Thunder And Lightning
+# Staff of Thunder and Lightning
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Staff, Very Rare, requires attunement
+
+Staff, Very Rare (requires attunement)
 
 This staff can be wielded as a magic Quarterstaff that grants a +2 bonus to attack rolls and damage rolls made with it. It also has the following additional properties. Once one of these properties is used, it can’t be used again until the next dawn.
 Lightning.

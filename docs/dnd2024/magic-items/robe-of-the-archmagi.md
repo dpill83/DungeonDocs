@@ -1,9 +1,11 @@
-# Robe Of The Archmagi
+# Robe of the Archmagi
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Wondrous Item, Legendary, requires attunement
 
-Wondrous Item, Legendary (Requires Attunement by a Sorcerer, Warlock, or Wizard)
+Wondrous Item, Legendary (requires attunement)
+
 This elegant garment is made from exquisite cloth and adorned with runes.
 You gain these benefits while wearing the robe.
 Armor.

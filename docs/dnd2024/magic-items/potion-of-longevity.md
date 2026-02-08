@@ -1,7 +1,8 @@
-# Potion Of Longevity
+# Potion of Longevity
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Potion, Very Rare
 
 When you drink this potion, your physical age is reduced by 1d6 + 6 years, to a minimum of 13 years. Each time you subsequently drink a
 Potion of Longevity

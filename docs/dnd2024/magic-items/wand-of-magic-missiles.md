@@ -1,7 +1,8 @@
-# Wand Of Magic Missiles
+# Wand of Magic Missiles
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Wand, Uncommon
 
 This wand has 7 charges. While holding it, you can expend no more than 3 charges to cast
 Magic Missile

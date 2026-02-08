@@ -1,7 +1,10 @@
-# Wand Of Orcus
+# Wand of Orcus
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Wand, Artifact, requires attunement
+
+Wand, Artifact (requires attunement)
 
 Crafted and wielded by Orcus, this ghastly wand slips from the demon lord’s grasp from time to time. When it does, it magically appears wherever the demon lord senses an opportunity to achieve some fell goal.
 The wand is topped with a skull that once belonged to a human hero slain by Orcus. The wand can magically change in size to better conform to the grip of its user. All Holy Water within 10 feet of the wand is destroyed.

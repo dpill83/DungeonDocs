@@ -1,7 +1,10 @@
-# Cloak Of Arachnida
+# Cloak of Arachnida
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Wondrous Item, Very Rare, requires attunement
+
+Wondrous Item, Very Rare (requires attunement)
 
 This fine garment is made of black silk interwoven with faint, silvery threads. While wearing it, you gain the following benefits.
 Poison Resistance.

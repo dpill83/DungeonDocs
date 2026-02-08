@@ -1,7 +1,10 @@
-# Wand Of Binding
+# Wand of Binding
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Wand, Rare, requires attunement
+
+Wand, Rare (requires attunement)
 
 This wand has 7 charges.
 Spells.

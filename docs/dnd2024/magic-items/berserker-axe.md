@@ -1,7 +1,10 @@
 # Berserker Axe
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Weapon, Rare, requires attunement
+
+Weapon, Rare (requires attunement)
 
 Weapon (Battleaxe, Greataxe, or Halberd), Rare (Requires Attunement)
 You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon. In addition, while you are attuned to this weapon, your Hit Point maximum increases by 1 for each level you have attained.

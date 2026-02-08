@@ -1,6 +1,7 @@
-# Circlet Of Blasting
+# Circlet of Blasting
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Wondrous Item, Uncommon
 
 with it (+5 to hit). The circlet can’t cast this spell again until the next dawn.

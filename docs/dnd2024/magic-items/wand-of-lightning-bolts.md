@@ -1,7 +1,10 @@
-# Wand Of Lightning Bolts
+# Wand of Lightning Bolts
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Wand, Rare, requires attunement
+
+Wand, Rare (requires attunement)
 
 This wand has 7 charges. While holding it, you can expend no more than 3 charges to cast
 Lightning Bolt

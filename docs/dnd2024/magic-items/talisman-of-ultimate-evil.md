@@ -1,7 +1,10 @@
-# Talisman Of Ultimate Evil
+# Talisman of Ultimate Evil
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Wondrous Item, Legendary, requires attunement
+
+Wondrous Item, Legendary (requires attunement)
 
 This item symbolizes unrepentant evil. A creature that isn’t a Fiend or an Undead that touches the talisman takes 8d6 Necrotic damage and takes the damage again each time it ends its turn holding or carrying the talisman.
 Holy Symbol.

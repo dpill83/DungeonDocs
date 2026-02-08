@@ -1,9 +1,11 @@
-# Staff Of Charming
+# Staff of Charming
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Staff, Rare, requires attunement
 
-Staff, Rare (Requires Attunement by a Bard, Cleric, Druid, Sorcerer, Warlock, or Wizard)
+Staff, Rare (requires attunement)
+
 This staff has 10 charges. While holding the staff, you can use any of its properties:
 Cast Spell.
 You can expend 1 of the staff’s charges to cast

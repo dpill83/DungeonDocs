@@ -1,7 +1,8 @@
 # Rival Coin
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Wondrous Item, Common
 
 This gold coin has a creature embossed on each side. The two depicted creatures must be famous rivals or enemies of each other. For example, a
 Rival Coin

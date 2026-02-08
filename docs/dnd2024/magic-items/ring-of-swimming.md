@@ -1,6 +1,7 @@
-# Ring Of Swimming
+# Ring of Swimming
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Ring, Uncommon
 
 You have a Swim Speed of 40 feet while wearing this ring.

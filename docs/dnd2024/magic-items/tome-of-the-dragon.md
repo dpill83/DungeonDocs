@@ -1,7 +1,8 @@
-# Tome Of The Dragon
+# Tome of the Dragon
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Forgotten Realms: Adventures in Faerun*
 
+Wondrous Item, Legendary
 
 This heavy tome is bound in dragonhide and reinforced with thick bands of cold iron. The original copies were made by wyrmspeakers of the Cult of the Dragon and bear that cult’s symbol on their cover. The Tome of the Dragon contains the secret ritual to transform a dragon or a dead dragon’s body into a dracolich.
 To decipher and use the

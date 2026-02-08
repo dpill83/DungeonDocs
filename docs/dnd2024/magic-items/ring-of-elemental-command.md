@@ -1,7 +1,10 @@
-# Ring Of Elemental Command
+# Ring of Elemental Command
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Ring, Legendary, requires attunement
+
+Ring, Legendary (requires attunement)
 
 is linked to one of the four Elemental Planes. The DM chooses or randomly determines the linked plane. For example, a
 Ring of Elemental Command

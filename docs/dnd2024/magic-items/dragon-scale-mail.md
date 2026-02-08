@@ -1,7 +1,10 @@
 # Dragon Scale Mail
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Armor, Very Rare, requires attunement
+
+Armor, Very Rare (requires attunement)
 
 Dragon Scale Mail is made of the scales of one kind of dragon. Sometimes dragons collect their cast-off scales and gift them. Other times, hunters carefully preserve the hide of a dead dragon. In either case,
 Dragon Scale Mail

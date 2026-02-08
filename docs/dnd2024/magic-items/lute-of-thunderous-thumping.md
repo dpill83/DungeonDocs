@@ -1,7 +1,8 @@
-# Lute Of Thunderous Thumping
+# Lute of Thunderous Thumping
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Weapon, Very Rare
 
 This reinforced lute can be wielded as a magic Club that deals an extra 2d8 Thunder damage on a hit.
 Sing and Swing.

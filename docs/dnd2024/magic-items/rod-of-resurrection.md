@@ -1,7 +1,10 @@
-# Rod Of Resurrection
+# Rod of Resurrection
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Rod, Legendary, requires attunement
+
+Rod, Legendary (requires attunement)
 
 The rod has 5 charges. While you hold it, you can cast one of the following spells from it:
 Heal

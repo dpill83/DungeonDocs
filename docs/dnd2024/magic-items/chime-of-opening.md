@@ -1,7 +1,8 @@
-# Chime Of Opening
+# Chime of Opening
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Wondrous Item, Rare
 
 This hollow metal tube measures about 1 foot long and weighs 1 pound. As a Magic action, you can strike the chime to cast
 Knock

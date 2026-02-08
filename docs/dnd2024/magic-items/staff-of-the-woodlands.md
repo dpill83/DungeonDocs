@@ -1,7 +1,10 @@
-# Staff Of The Woodlands
+# Staff of the Woodlands
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Staff, Rare, requires attunement
+
+Staff, Rare (requires attunement)
 
 This staff has 6 charges and can be wielded as a magic Quarterstaff that grants a +2 bonus to attack rolls and damage rolls made with it. While holding it, you have a +2 bonus to spell attack rolls.
 Spells.

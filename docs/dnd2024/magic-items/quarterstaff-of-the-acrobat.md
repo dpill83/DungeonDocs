@@ -1,7 +1,10 @@
-# Quarterstaff Of The Acrobat
+# Quarterstaff of the Acrobat
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Weapon, Very Rare, requires attunement
+
+Weapon, Very Rare (requires attunement)
 
 You have a +2 bonus to attack rolls and damage rolls made with this magic weapon.
 While holding this weapon, you can cause it to emit green Dim Light out to 10 feet, either as a Bonus Action or after you roll Initiative, or you can extinguish the light as a Bonus Action.

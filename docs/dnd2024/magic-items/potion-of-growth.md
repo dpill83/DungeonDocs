@@ -1,7 +1,8 @@
-# Potion Of Growth
+# Potion of Growth
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Potion, Uncommon
 
 When you drink this potion, you gain the “enlarge” effect of the
 Enlarge/Reduce

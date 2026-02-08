@@ -1,7 +1,8 @@
-# Elixir Of Health
+# Elixir of Health
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Potion, Rare
 
 When you drink this potion, you are cured of all magical contagions. In addition, the following conditions end on you: Blinded, Deafened, Paralyzed, and Poisoned.
 The clear, red liquid has tiny bubbles of light in it.

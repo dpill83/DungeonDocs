@@ -1,7 +1,10 @@
 # Dark Shard Amulet
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Wondrous Item, Common, requires attunement
+
+Wondrous Item, Common (requires attunement)
 
 This amulet is fashioned from a shard of resilient material originating from an otherworldly realm. While you are wearing it, you gain the following benefits.
 Spellcasting Focus

@@ -1,6 +1,9 @@
-# Ring Of Free Action
+# Ring of Free Action
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Ring, Rare, requires attunement
+
+Ring, Rare (requires attunement)
 
 While you wear this ring, Difficult Terrain doesn’t cost you extra movement. In addition, magic can neither reduce any of your Speeds nor cause you to have the Paralyzed or Restrained condition.

@@ -1,7 +1,10 @@
-# Wand Of Web
+# Wand of Web
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Wand, Uncommon, requires attunement
+
+Wand, Uncommon (requires attunement)
 
 This wand has 7 charges. While holding it, you can expend 1 charge to cast
 Web

@@ -1,7 +1,10 @@
 # Wave
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Weapon, Artifact, requires attunement
+
+Weapon, Artifact (requires attunement)
 
 Held in the dungeon of White Plume Mountain,
 Wave

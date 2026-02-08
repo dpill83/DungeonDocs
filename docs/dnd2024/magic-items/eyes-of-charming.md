@@ -1,7 +1,10 @@
-# Eyes Of Charming
+# Eyes of Charming
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Wondrous Item, Uncommon, requires attunement
+
+Wondrous Item, Uncommon (requires attunement)
 
 These crystal lenses fit over the eyes. They have 3 charges. While wearing them, you can expend 1 or more charges to cast
 Charm Person

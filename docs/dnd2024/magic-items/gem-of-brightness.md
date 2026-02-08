@@ -1,7 +1,8 @@
-# Gem Of Brightness
+# Gem of Brightness
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Wondrous Item, Uncommon
 
 This prism has 50 charges. While you are holding it, you can take a Magic action and use one of three command words to cause one of the following effects:
 First Command Word.

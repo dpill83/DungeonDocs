@@ -1,6 +1,9 @@
-# Ring Of Feather Falling
+# Ring of Feather Falling
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Ring, Rare, requires attunement
+
+Ring, Rare (requires attunement)
 
 When you fall while wearing this ring, you descend 60 feet per round and take no damage from falling.

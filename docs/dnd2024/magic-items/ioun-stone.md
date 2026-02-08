@@ -1,7 +1,10 @@
 # Ioun Stone
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Dungeon Master's Guide (2024)*
 
+Wondrous Item, Rarity Varies, requires attunement
+
+Wondrous Item, Legendary (requires attunement)
 
 are named after Ioun, a god of knowledge and prophecy revered on some worlds. Many types of
 Ioun Stones
