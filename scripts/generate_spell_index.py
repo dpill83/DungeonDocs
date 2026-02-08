@@ -59,6 +59,12 @@ def normalize_name_to_key(name: str) -> str:
     return s
 
 
+def extract_display_name(cell: str) -> str:
+    """If cell is [Text](url), return Text; else return cell. Handles linked spell names."""
+    m = re.match(r"\[([^\]]+)\]\([^)]+\)", cell.strip())
+    return m.group(1).strip() if m else cell.strip()
+
+
 def slug_to_key(slug: str) -> str:
     """Convert filename slug to same key format as normalize_name_to_key."""
     return slug.replace("-", " ").lower()
@@ -139,14 +145,17 @@ def merge_spell_data(slug_map: dict[str, str]) -> dict[str, dict]:
 
     for path in spell_lists_paths:
         for level, name, school, spell_lists, casting_time, range_val, components, duration in parse_spell_list(path):
-            key = normalize_name_to_key(name)
+            display_name = extract_display_name(name)
+            key = normalize_name_to_key(display_name)
             slug = slug_map.get(key)
+            if not slug and " s " in key:
+                slug = slug_map.get(key.replace(" s ", "s "))
             if not slug:
                 continue
             if slug not in merged:
                 merged[slug] = {
                     "level": level,
-                    "name": name.strip(),
+                    "name": display_name,
                     "school": school.strip(),
                     "spell_lists": set(),
                     "casting_time": casting_time.strip(),
@@ -244,9 +253,38 @@ def table_row(display_name: str, slug: str, school: str, spell_lists: str, casti
     return f"| {link} | {escape_table_cell(school)} | {escape_table_cell(spell_lists)} | {escape_table_cell(casting_time)} | {escape_table_cell(range_val)} | {escape_table_cell(components)} | {escape_table_cell(duration)} |"
 
 
-def render_tabbed_tables(spells_by_level: dict[int, list[dict]], school_filter: str | None = None) -> str:
-    """Render level tabs; each tab has a table. If school_filter is set, only include that school."""
+def table_row_with_level(display_name: str, slug: str, level_label: str, school: str, spell_lists: str, casting_time: str, range_val: str, components: str, duration: str) -> str:
+    """Table row with Level column for the All tab."""
+    clean_name = display_name.strip()
+    if clean_name.startswith("**") and clean_name.endswith("**"):
+        clean_name = clean_name[2:-2].strip()
+    link = f"[{escape_table_cell(clean_name)}]({slug}.md)"
+    return f"| {link} | {escape_table_cell(level_label)} | {escape_table_cell(school)} | {escape_table_cell(spell_lists)} | {escape_table_cell(casting_time)} | {escape_table_cell(range_val)} | {escape_table_cell(components)} | {escape_table_cell(duration)} |"
+
+
+def render_tabbed_tables(spells_by_level: dict[int, list[dict]], school_filter: str | None = None, include_all_tab: bool = False) -> str:
+    """Render level tabs; each tab has a table. If school_filter is set, only include that school.
+    If include_all_tab is True, add an All tab first listing all spells with a Level column."""
     out: list[str] = []
+
+    if include_all_tab:
+        all_rows: list[tuple[int, dict]] = []
+        for level in range(10):
+            rows = spells_by_level.get(level, [])
+            if school_filter:
+                rows = [r for r in rows if r["school"] == school_filter]
+            for r in rows:
+                all_rows.append((level, r))
+        all_rows.sort(key=lambda x: (x[0], x[1]["name"].lower(), x[1]["slug"]))
+        out.append('=== "All"\n')
+        out.append("    | Name | Level | School | Spell lists | Casting Time | Range | Components | Duration |\n")
+        out.append("    |------|-------|--------|-------------|--------------|-------|------------|----------|\n")
+        for level, r in all_rows:
+            out.append("    " + table_row_with_level(
+                r["name"], r["slug"], LEVEL_LABELS[level], r["school"], r["spell_lists"],
+                r["casting_time"], r["range"], r["components"], r["duration"]
+            ) + "\n")
+
     for level in range(10):
         rows = spells_by_level.get(level, [])
         if school_filter:
@@ -289,7 +327,7 @@ def main() -> None:
 
     index_content = "# All Spells\n\n"
     index_content += "Spells by level. Click a spell name to open its page.\n\n"
-    index_content += render_tabbed_tables(spells_by_level, school_filter=None)
+    index_content += render_tabbed_tables(spells_by_level, school_filter=None, include_all_tab=True)
 
     (SPELLS_DIR / "index.md").write_text(index_content, encoding="utf-8")
 
