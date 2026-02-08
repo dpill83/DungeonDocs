@@ -1,11 +1,14 @@
 # Control Water
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Player's Handbook (2024)*
 
+4th Level Transmutation (Cleric, Druid, Wizard)
 
-V, S, M (a mixture of water and dust)
-Duration:
-Concentration, up to 10 minutes
+Casting Time: Action
+Range: 300 feet
+Components: V, S, M
+Duration: Concentration, up to 10 minutes
+
 Until the spell ends, you control any water inside an area you choose that is a Cube up to 100 feet on a side, using one of the following effects. As a Magic action on your later turns, you can repeat the same effect or choose a different one.
 Flood.
 You cause the water level of all standing water in the area to rise by as much as 20 feet. If you choose an area in a large body of water, you instead create a 20-foot tall wave that travels from one side of the area to the other and then crashes. Any Huge or smaller vehicles in the wave’s path are carried with it to the other side. Any Huge or smaller vehicles struck by the wave have a 25 percent chance of capsizing.

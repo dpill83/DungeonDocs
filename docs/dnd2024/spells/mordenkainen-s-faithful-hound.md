@@ -1,7 +1,13 @@
-# Mordenkainen S Faithful Hound
+# Mordenkainen's Faithful Hound
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Player's Handbook (2024)*
 
+4th Level Conjuration (Wizard)
+
+Casting Time: Action
+Range: 30 feet
+Components: V, S, M
+Duration: 8 hours
 
 You conjure a phantom watchdog in an unoccupied space that you can see within range. The hound remains for the duration or until the two of you are more than 300 feet apart from each other.
 No one but you can see the hound, and it is intangible and invulnerable. When a Small or larger creature comes within 30 feet of it without first speaking the password that you specify when you cast this spell, the hound starts barking loudly. The hound has Truesight with a range of 30 feet.

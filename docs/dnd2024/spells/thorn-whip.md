@@ -1,7 +1,13 @@
 # Thorn Whip
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Player's Handbook (2024)*
 
+Cantrip Transmutation (Artificer, Druid)
+
+Casting Time: Action
+Range: 30 feet
+Components: V, S, M
+Duration: Instantaneous
 
 You create a vine-like whip covered in thorns that lashes out at your command toward a creature in range. Make a melee spell attack against the target. On a hit, the target takes 1d6 Piercing damage, and if it is Large or smaller, you can pull it up to 10 feet closer to you.
 Cantrip Upgrade.

@@ -1,7 +1,13 @@
 # Fire Shield
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Player's Handbook (2024)*
 
+4th Level Evocation (Druid, Sorcerer, Wizard)
+
+Casting Time: Action
+Range: Self
+Components: V, S, M
+Duration: 10 minutes
 
 Wispy flames wreathe your body for the duration, shedding Bright Light in a 10-foot radius and Dim Light for an additional 10 feet.
 The flames provide you with a warm shield or a chill shield, as you choose. The warm shield grants you Resistance to Cold damage, and the chill shield grants you Resistance to Fire damage.

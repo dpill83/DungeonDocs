@@ -1,7 +1,13 @@
 # Acid Splash
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Player's Handbook (2024)*
 
+Cantrip Evocation (Artificer, Sorcerer, Wizard)
+
+Casting Time: Action
+Range: 60 feet
+Components: V, S
+Duration: Instantaneous
 
 You create an acidic bubble at a point within range, where it explodes in a 5-foot-radius Sphere. Each creature in that Sphere must succeed on a Dexterity saving throw or take 1d6 Acid damage.
 Cantrip Upgrade.

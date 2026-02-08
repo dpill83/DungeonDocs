@@ -1,11 +1,14 @@
 # Disintegrate
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Player's Handbook (2024)*
 
+6th Level Transmutation (Sorcerer, Wizard)
 
-V, S, M (a lodestone and dust)
-Duration:
-Instantaneous
+Casting Time: Action
+Range: 60 feet
+Components: V, S, M
+Duration: Instantaneous
+
 You launch a green ray at a target you can see within range. The target can be a creature, a nonmagical object, or a creation of magical force, such as the wall created by
 Wall of Force
 .
@@ -15,5 +18,5 @@ or a
 Wish
 spell.
 This spell automatically disintegrates a Large or smaller nonmagical object or a creation of magical force. If such a target is Huge or larger, this spell disintegrates a 10-foot-Cube portion of it.
-Using a Higher-Level Spell Slot.
+**Using a Higher-Level Spell Slot.**            
 The damage increases by 3d6 for each spell slot level above 6.

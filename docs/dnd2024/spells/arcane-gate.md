@@ -1,7 +1,13 @@
 # Arcane Gate
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Player's Handbook (2024)*
 
+6th Level Conjuration (Sorcerer, Warlock, Wizard)
+
+Casting Time: Action
+Range: 500 feet
+Components: V, S
+Duration: Concentration, up to 10 minutes
 
 You create linked teleportation portals. Choose two Large, unoccupied spaces on the ground that you can see, one space within range and the other one within 10 feet of you. A circular portal opens in each of those spaces and remains for the duration.
 The portals are two-dimensional glowing rings filled with mist that blocks sight. They hover inches from the ground and are perpendicular to it.

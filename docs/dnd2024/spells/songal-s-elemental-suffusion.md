@@ -1,7 +1,13 @@
-# Songal S Elemental Suffusion
+# Songal's Elemental Suffusion
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Forgotten Realms Heroes of the Forgotten*
 
+5th Level Transmutation (Druid, Sorcerer, Wizard)
+
+Casting Time: Action
+Range: Self
+Components: V, S, M(C)
+Duration: Concentration, up to 1 minute
 
 You imbue yourself with the elemental power of genies. You gain the following benefits until the spell ends:
 Elemental Immunity.

@@ -14,19 +14,19 @@
 
 | Name                     | School      | Spell Lists                                      | Casting Time     | Range     | Components       | Duration              |
 |--------------------------|-------------|--------------------------------------------------|------------------|-----------|------------------|-----------------------|
-| Detect Evil and Good     | Divination  | Cleric, Paladin                                  | Action           | Self      | V, S             | C, up to 10 minutes   |
-| Detect Magic             | Divination  | Artificer, Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Warlock, Wizard | Action or R      | Self      | V, S             | C, up to 10 minutes   |
-| Detect Poison and Disease| Divination  | Cleric, Druid, Paladin, Ranger                   | Action or R      | Self      | V, S, M          | C, up to 10 minutes   |
-| Divine Favor             | Transmutation | Paladin                                        | Bonus Action     | Self      | V, S             | 1 minute              |
-| Divine Smite             | Evocation   | Paladin                                          | Bonus Action(*)  | Self      | V                | Instantaneous         |
-| Heroism                  | Enchantment | Bard, Paladin                                    | Action           | Touch     | V, S             | C, up to 1 minute     |
-| Protection from Evil and Good | Abjuration | Cleric, Druid, Paladin, Warlock, Wizard      | Action           | Touch     | V, S, M(C*)      | C, up to 10 minutes   |
-| Purify Food and Drink    | Transmutation | Artificer, Cleric, Druid, Paladin              | Action or R      | 10 feet   | V, S             | Instantaneous         |
-| Searing Smite            | Evocation   | Paladin                                          | Bonus Action(*)  | Self      | V                | 1 minute              |
-| Shield of Faith          | Abjuration  | Cleric, Paladin                                  | Bonus Action     | 60 feet   | V, S, M          | C, up to 10 minutes   |
-| Thunderous Smite         | Evocation   | Paladin                                          | Bonus Action(*)  | Self      | V                | Instantaneous         |
-| Wardaway                 | Abjuration  | Bard, Cleric, Paladin, Wizard                    | Action           | 60 feet   | V, S, M          | Instantaneous         |
-| Wrathful Smite           | Necromancy  | Paladin                                          | Bonus Action(*)  | Self      | V                | 1 minute              |
+| [Detect Evil and Good](../../spells/detect-evil-and-good.md) | Divination | Cleric, Paladin | Action | Self | V, S | C, up to 10 minutes |
+| [Detect Magic](../../spells/detect-magic.md) | Divination | Artificer, Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Warlock, Wizard | Action or R | Self | V, S | C, up to 10 minutes |
+| [Detect Poison and Disease](../../spells/detect-poison-and-disease.md) | Divination | Cleric, Druid, Paladin, Ranger | Action or R | Self | V, S, M | C, up to 10 minutes |
+| [Divine Favor](../../spells/divine-favor.md) | Transmutation | Paladin | Bonus Action | Self | V, S | 1 minute |
+| [Divine Smite](../../spells/divine-smite.md) | Evocation | Paladin | Bonus Action(*) | Self | V | Instantaneous |
+| [Heroism](../../spells/heroism.md) | Enchantment | Bard, Paladin | Action | Touch | V, S | C, up to 1 minute |
+| [Protection from Evil and Good](../../spells/protection-from-evil-and-good.md) | Abjuration | Cleric, Druid, Paladin, Warlock, Wizard | Action | Touch | V, S, M(C*) | C, up to 10 minutes |
+| [Purify Food and Drink](../../spells/purify-food-and-drink.md) | Transmutation | Artificer, Cleric, Druid, Paladin | Action or R | 10 feet | V, S | Instantaneous |
+| [Searing Smite](../../spells/searing-smite.md) | Evocation | Paladin | Bonus Action(*) | Self | V | 1 minute |
+| [Shield of Faith](../../spells/shield-of-faith.md) | Abjuration | Cleric, Paladin | Bonus Action | 60 feet | V, S, M | C, up to 10 minutes |
+| [Thunderous Smite](../../spells/thunderous-smite.md) | Evocation | Paladin | Bonus Action(*) | Self | V | Instantaneous |
+| [Wardaway](../../spells/wardaway.md) | Abjuration | Bard, Cleric, Paladin, Wizard | Action | 60 feet | V, S, M | Instantaneous |
+| [Wrathful Smite](../../spells/wrathful-smite.md) | Necromancy | Paladin | Bonus Action(*) | Self | V | 1 minute |
 
 ## 2nd-Level Spells
 
@@ -36,17 +36,17 @@
 
 | Name                     | School      | Spell Lists                                      | Casting Time     | Range     | Components       | Duration              |
 |--------------------------|-------------|--------------------------------------------------|------------------|-----------|------------------|-----------------------|
-| Aid                      | Abjuration  | Artificer, Bard, Cleric, Druid, Paladin, Ranger  | Action           | 30 feet   | V, S, M          | 8 hours               |
-| Find Steed               | Conjuration | Paladin                                          | Action           | 30 feet   | V, S             | Instantaneous         |
-| Gentle Repose            | Necromancy  | Cleric, Paladin, Wizard                          | Action or R      | Touch     | V, S, M(C)       | 10 days               |
-| Lesser Restoration       | Abjuration  | Artificer, Bard, Cleric, Druid, Paladin, Ranger  | Bonus Action     | Touch     | V, S             | Instantaneous         |
-| Locate Object            | Divination  | Bard, Cleric, Druid, Paladin, Ranger, Wizard     | Action           | Self      | V, S, M          | C, up to 10 minutes   |
-| Magic Weapon             | Transmutation | Artificer, Paladin, Ranger, Sorcerer, Wizard   | Bonus Action     | Touch     | V, S             | 1 hour                |
-| Prayer of Healing        | Abjuration  | Cleric, Paladin                                  | 10 minutes       | 30 feet   | V                | Instantaneous         |
-| Protection from Poison   | Abjuration  | Artificer, Cleric, Druid, Paladin, Ranger         | Action           | Touch     | V, S             | 1 hour                |
-| Shining Smite            | Transmutation | Paladin                                        | Bonus Action(*)  | Self      | V                | C, up to 1 minute     |
-| Warding Bond             | Abjuration  | Cleric, Paladin                                  | Action           | Touch     | V, S, M          | 1 hour                |
-| Zone of Truth            | Enchantment | Bard, Cleric, Paladin                            | Action           | 60 feet   | V, S             | 10 minutes            |
+| [Aid](../../spells/aid.md) | Abjuration | Artificer, Bard, Cleric, Druid, Paladin, Ranger | Action | 30 feet | V, S, M | 8 hours |
+| [Find Steed](../../spells/find-steed.md) | Conjuration | Paladin | Action | 30 feet | V, S | Instantaneous |
+| [Gentle Repose](../../spells/gentle-repose.md) | Necromancy | Cleric, Paladin, Wizard | Action or R | Touch | V, S, M(C) | 10 days |
+| [Lesser Restoration](../../spells/lesser-restoration.md) | Abjuration | Artificer, Bard, Cleric, Druid, Paladin, Ranger | Bonus Action | Touch | V, S | Instantaneous |
+| [Locate Object](../../spells/locate-object.md) | Divination | Bard, Cleric, Druid, Paladin, Ranger, Wizard | Action | Self | V, S, M | C, up to 10 minutes |
+| [Magic Weapon](../../spells/magic-weapon.md) | Transmutation | Artificer, Paladin, Ranger, Sorcerer, Wizard | Bonus Action | Touch | V, S | 1 hour |
+| [Prayer of Healing](../../spells/prayer-of-healing.md) | Abjuration | Cleric, Paladin | 10 minutes | 30 feet | V | Instantaneous |
+| [Protection from Poison](../../spells/protection-from-poison.md) | Abjuration | Artificer, Cleric, Druid, Paladin, Ranger | Action | Touch | V, S | 1 hour |
+| [Shining Smite](../../spells/shining-smite.md) | Transmutation | Paladin | Bonus Action(*) | Self | V | C, up to 1 minute |
+| [Warding Bond](../../spells/warding-bond.md) | Abjuration | Cleric, Paladin | Action | Touch | V, S, M | 1 hour |
+| [Zone of Truth](../../spells/zone-of-truth.md) | Enchantment | Bard, Cleric, Paladin | Action | 60 feet | V, S | 10 minutes |
 
 ## 3rd-Level Spells
 
@@ -56,16 +56,16 @@
 
 | Name                     | School      | Spell Lists                                      | Casting Time     | Range     | Components       | Duration              |
 |--------------------------|-------------|--------------------------------------------------|------------------|-----------|------------------|-----------------------|
-| Aura of Vitality         | Abjuration  | Cleric, Druid, Paladin                           | Action           | Self      | V                | C, up to 1 minute     |
-| Blinding Smite           | Evocation   | Paladin                                          | Bonus Action     | Self      | V                | 1 minute              |
-| Create Food and Water    | Conjuration | Artificer, Cleric, Paladin                       | Action           | 30 feet   | V, S             | Instantaneous         |
-| Crusader's Mantle        | Evocation   | Paladin                                          | Action           | Self      | V                | C, up to 1 minute     |
-| Daylight                 | Evocation   | Cleric, Druid, Paladin, Ranger, Sorcerer         | Action           | 60 feet   | V, S             | 1 hour                |
-| Dispel Magic             | Abjuration  | Artificer, Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Warlock, Wizard | Action           | 120 feet  | V, S             | Instantaneous         |
-| Elemental Weapon         | Transmutation | Artificer, Druid, Paladin, Ranger              | Action           | Touch     | V, S             | C, up to 1 hour       |
-| Magic Circle             | Abjuration  | Cleric, Paladin, Warlock, Wizard                 | 1 minute         | 10 feet   | V, S, M(C*)      | 1 hour                |
-| Remove Curse             | Abjuration  | Cleric, Paladin, Warlock, Wizard                 | Action           | Touch     | V, S             | Instantaneous         |
-| Revivify                 | Necromancy  | Artificer, Cleric, Druid, Paladin, Ranger         | Action           | Touch     | V, S, M(C*)      | Instantaneous         |
+| [Aura of Vitality](../../spells/aura-of-vitality.md) | Abjuration | Cleric, Druid, Paladin | Action | Self | V | C, up to 1 minute |
+| [Blinding Smite](../../spells/blinding-smite.md) | Evocation | Paladin | Bonus Action | Self | V | 1 minute |
+| [Create Food and Water](../../spells/create-food-and-water.md) | Conjuration | Artificer, Cleric, Paladin | Action | 30 feet | V, S | Instantaneous |
+| [Crusader's Mantle](../../spells/crusader-s-mantle.md) | Evocation | Paladin | Action | Self | V | C, up to 1 minute |
+| [Daylight](../../spells/daylight.md) | Evocation | Cleric, Druid, Paladin, Ranger, Sorcerer | Action | 60 feet | V, S | 1 hour |
+| [Dispel Magic](../../spells/dispel-magic.md) | Abjuration | Artificer, Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Warlock, Wizard | Action | 120 feet | V, S | Instantaneous |
+| [Elemental Weapon](../../spells/elemental-weapon.md) | Transmutation | Artificer, Druid, Paladin, Ranger | Action | Touch | V, S | C, up to 1 hour |
+| [Magic Circle](../../spells/magic-circle.md) | Abjuration | Cleric, Paladin, Warlock, Wizard | 1 minute | 10 feet | V, S, M(C*) | 1 hour |
+| [Remove Curse](../../spells/remove-curse.md) | Abjuration | Cleric, Paladin, Warlock, Wizard | Action | Touch | V, S | Instantaneous |
+| [Revivify](../../spells/revivify.md) | Necromancy | Artificer, Cleric, Druid, Paladin, Ranger | Action | Touch | V, S, M(C*) | Instantaneous |
 
 ## 4th-Level Spells
 
@@ -75,12 +75,12 @@
 
 | Name                     | School      | Spell Lists                                      | Casting Time     | Range     | Components       | Duration              |
 |--------------------------|-------------|--------------------------------------------------|------------------|-----------|------------------|-----------------------|
-| Aura of Life             | Abjuration  | Cleric, Paladin                                  | Action           | Self      | V                | C, up to 10 minutes   |
-| Aura of Purity           | Abjuration  | Cleric, Paladin                                  | Action           | Self      | V                | C, up to 10 minutes   |
-| Banishment               | Abjuration  | Cleric, Paladin, Sorcerer, Warlock, Wizard       | Action           | 30 feet   | V, S, M          | C, up to 1 minute     |
-| Death Ward               | Abjuration  | Cleric, Paladin                                  | Action           | Touch     | V, S             | 8 hours               |
-| Locate Creature          | Divination  | Bard, Cleric, Druid, Paladin, Ranger, Wizard     | Action           | Self      | V, S, M          | C, up to 1 hour       |
-| Staggering Smite         | Enchantment | Paladin                                          | Bonus Action(*)  | Self      | V                | Instantaneous         |
+| [Aura of Life](../../spells/aura-of-life.md) | Abjuration | Cleric, Paladin | Action | Self | V | C, up to 10 minutes |
+| [Aura of Purity](../../spells/aura-of-purity.md) | Abjuration | Cleric, Paladin | Action | Self | V | C, up to 10 minutes |
+| [Banishment](../../spells/banishment.md) | Abjuration | Cleric, Paladin, Sorcerer, Warlock, Wizard | Action | 30 feet | V, S, M | C, up to 1 minute |
+| [Death Ward](../../spells/death-ward.md) | Abjuration | Cleric, Paladin | Action | Touch | V, S | 8 hours |
+| [Locate Creature](../../spells/locate-creature.md) | Divination | Bard, Cleric, Druid, Paladin, Ranger, Wizard | Action | Self | V, S, M | C, up to 1 hour |
+| [Staggering Smite](../../spells/staggering-smite.md) | Enchantment | Paladin | Bonus Action(*) | Self | V | Instantaneous |
 
 ## 5th-Level Spells
 
@@ -90,11 +90,11 @@
 
 | Name                     | School      | Spell Lists                                      | Casting Time     | Range     | Components       | Duration              |
 |--------------------------|-------------|--------------------------------------------------|------------------|-----------|------------------|-----------------------|
-| Banishing Smite          | Conjuration | Paladin                                          | Bonus Action     | Self      | V                | C, up to 1 minute     |
-| Circle of Power          | Abjuration  | Artificer, Cleric, Paladin, Wizard                | Action           | Self      | V                | C, up to 10 minutes   |
-| Destructive Wave         | Evocation   | Paladin                                          | Action           | Self      | V                | Instantaneous         |
-| Dispel Evil and Good     | Abjuration  | Cleric, Paladin                                  | Action           | Self      | V, S, M          | C, up to 1 minute     |
-| Geas                     | Enchantment | Bard, Cleric, Druid, Paladin, Wizard             | 1 minute         | 60 feet   | V                | 30 days               |
-| Greater Restoration      | Abjuration  | Artificer, Bard, Cleric, Druid, Paladin, Ranger  | Action           | Touch     | V, S, M(C*)      | Instantaneous         |
-| Raise Dead               | Necromancy  | Bard, Cleric, Paladin                            | 1 hour           | Touch     | V, S, M(C*)      | Instantaneous         |
-| Summon Celestial         | Conjuration | Cleric, Paladin                                  | Action           | 90 feet   | V, S, M(C)       | C, up to 1 hour       |
+| [Banishing Smite](../../spells/banishing-smite.md) | Conjuration | Paladin | Bonus Action | Self | V | C, up to 1 minute |
+| [Circle of Power](../../spells/circle-of-power.md) | Abjuration | Artificer, Cleric, Paladin, Wizard | Action | Self | V | C, up to 10 minutes |
+| [Destructive Wave](../../spells/destructive-wave.md) | Evocation | Paladin | Action | Self | V | Instantaneous |
+| [Dispel Evil and Good](../../spells/dispel-evil-and-good.md) | Abjuration | Cleric, Paladin | Action | Self | V, S, M | C, up to 1 minute |
+| [Geas](../../spells/geas.md) | Enchantment | Bard, Cleric, Druid, Paladin, Wizard | 1 minute | 60 feet | V | 30 days |
+| [Greater Restoration](../../spells/greater-restoration.md) | Abjuration | Artificer, Bard, Cleric, Druid, Paladin, Ranger | Action | Touch | V, S, M(C*) | Instantaneous |
+| [Raise Dead](../../spells/raise-dead.md) | Necromancy | Bard, Cleric, Paladin | 1 hour | Touch | V, S, M(C*) | Instantaneous |
+| [Summon Celestial](../../spells/summon-celestial.md) | Conjuration | Cleric, Paladin | Action | 90 feet | V, S, M(C) | C, up to 1 hour |

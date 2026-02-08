@@ -1,7 +1,13 @@
-# Alustriel S Mooncloak
+# Alustriel's Mooncloak
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Forgotten Realms Heroes of the Forgotten*
 
+5th Level Abjuration (Bard, Druid, Ranger, Wizard)
+
+Casting Time: Action
+Range: Self
+Components: V, S, M(C)
+Duration: Concentration, up to 1 minute
 
 For the duration, moonlight fills a 20-foot Emanation originating from you with Dim Light. While in that area, you and your allies have Half Cover and Resistance to Cold, Lightning, and Radiant damage.
 While the spell lasts, you can use one of the following options, ending the spell immediately:

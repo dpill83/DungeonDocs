@@ -1,7 +1,13 @@
 # Antimagic Field
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Player's Handbook (2024)*
 
+8th Level Abjuration (Cleric, Wizard)
+
+Casting Time: Action
+Range: Self
+Components: V, S, M
+Duration: Concentration, up to 1 hour
 
 An aura of antimagic surrounds you in 10-foot Emanation. No one can cast spells, take Magic actions, or create other magical effects inside the aura, and those things can’t target or otherwise affect anything inside it. Magical properties of magic items don’t work inside the aura or on anything inside it.
 Areas of effect created by spells or other magic can’t extend into the aura, and no one can teleport into or out of it or use planar travel there. Portals close temporarily while in the aura.

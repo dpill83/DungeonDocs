@@ -1,11 +1,14 @@
 # Find Familiar
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Player's Handbook (2024)*
 
+1st Level Conjuration (Wizard)
 
-V, S, M (burning incense worth 10+ GP, which the spell consumes)
-Duration:
-Instantaneous
+Casting Time: 1 hour or R
+Range: 10 feet
+Components: V, S, M(C*)
+Duration: Instantaneous
+
 You gain the service of a familiar, a spirit that takes an animal form you choose: Bat, Cat, Frog, Hawk, Lizard, Octopus, Owl, Rat, Raven, Spider, Weasel, or another Beast that has a Challenge Rating of 0. Appearing in an unoccupied space within range, the familiar has the statistics of the chosen form (see appendix B), though it is a Celestial, Fey, or Fiend (your choice) instead of a Beast. Your familiar acts independently of you, but it obeys your commands.
 Telepathic Connection.
 While your familiar is within 100 feet of you, you can communicate with it telepathically. Additionally, as a Bonus Action, you can see through the familiar’s eyes and hear what it hears until the start of your next turn, gaining the benefits of any special senses it has.

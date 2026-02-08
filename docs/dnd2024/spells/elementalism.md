@@ -1,7 +1,13 @@
 # Elementalism
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Player's Handbook (2024)*
 
+Cantrip Transmutation (Artificer, Druid, Sorcerer, Wizard)
+
+Casting Time: Action
+Range: 30 feet
+Components: V, S
+Duration: Instantaneous
 
 You exert control over the elements, creating one of the following effects within range.
 Beckon Air.

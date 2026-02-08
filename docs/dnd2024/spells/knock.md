@@ -1,7 +1,13 @@
 # Knock
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Player's Handbook (2024)*
 
+2nd Level Transmutation (Bard, Sorcerer, Wizard)
+
+Casting Time: Action
+Range: 60 feet
+Components: V
+Duration: Instantaneous
 
 Choose an object that you can see within range. The object can be a door, a box, a chest, a set of manacles, a padlock, or another object that contains a mundane or magical means that prevents access.
 A target that is held shut by a mundane lock or that is stuck or barred becomes unlocked, unstuck, or unbarred. If the object has multiple locks, only one of them is unlocked.

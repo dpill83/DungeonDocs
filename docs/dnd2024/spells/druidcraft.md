@@ -1,7 +1,13 @@
 # Druidcraft
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Player's Handbook (2024)*
 
+Cantrip Transmutation (Druid)
+
+Casting Time: Action
+Range: 30 feet
+Components: V, S
+Duration: Instantaneous
 
 Whispering to the spirits of nature, you create one of the following effects within range.
 Weather Sensor.

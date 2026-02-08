@@ -1,7 +1,13 @@
 # Prestidigitation
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Player's Handbook (2024)*
 
+Cantrip Transmutation (Artificer, Bard, Sorcerer, Warlock, Wizard)
+
+Casting Time: Action
+Range: 10 feet
+Components: V, S
+Duration: Up to 1 hour
 
 Transmutation Cantrip (Artificer, Bard, Sorcerer, Warlock, Wizard)
 Casting Time:

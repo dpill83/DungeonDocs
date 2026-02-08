@@ -1,7 +1,13 @@
 # Alter Self
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Player's Handbook (2024)*
 
+2nd Level Transmutation (Artificer, Sorcerer, Wizard)
+
+Casting Time: Action
+Range: Self
+Components: V, S
+Duration: Concentration, up to 1 hour
 
 You alter your physical form. Choose one of the following options. Its effects last for the duration, during which you can take a Magic action to replace the option you chose with a different one.
 Aquatic Adaptation.

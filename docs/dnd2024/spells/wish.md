@@ -1,7 +1,13 @@
 # Wish
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Player's Handbook (2024)*
 
+9th Level Conjuration (Sorcerer, Wizard)
+
+Casting Time: Action
+Range: Self
+Components: V
+Duration: Instantaneous
 
 Wish is the mightiest spell a mortal can cast. By simply speaking aloud, you can alter reality itself.
 The basic use of this spell is to duplicate any other spell of level 8 or lower. If you use it this way, you don't need to meet any requirements to cast that spell, including costly components. The spell simply takes effect.

@@ -1,7 +1,13 @@
-# Mordenkainen S Sword
+# Mordenkainen's Sword
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Player's Handbook (2024)*
 
+7th Level Evocation (Bard, Wizard)
+
+Casting Time: Action
+Range: 90 feet
+Components: V, S, M(C)
+Duration: Concentration, up to 1 minute
 
 You create a spectral sword that hovers within range. It lasts for the duration.
 When the sword appears, you make a melee spell attack against a target within 5 feet of the sword. On a hit, the target takes Force damage equal to 4d12 plus your spellcasting ability modifier.

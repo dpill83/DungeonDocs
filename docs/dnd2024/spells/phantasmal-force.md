@@ -1,7 +1,13 @@
 # Phantasmal Force
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Player's Handbook (2024)*
 
+2nd Level Illusion (Bard, Sorcerer, Wizard)
+
+Casting Time: Action
+Range: 60 feet
+Components: V, S, M
+Duration: Concentration, up to 1 minute
 
 You attempt to craft an illusion in the mind of a creature you can see within range. The target makes an Intelligence saving throw. On a failed save, you create a phantasmal object, creature, or other phenomenon that is no larger than a 10-foot Cube and that is perceivable only to the target for the duration. The phantasm includes sound, temperature, and other stimuli.
 The target can take a Study action to examine the phantasm with an Intelligence (Investigation) check against your spell save DC. If the check succeeds, the target realizes that the phantasm is an illusion, and the spell ends.

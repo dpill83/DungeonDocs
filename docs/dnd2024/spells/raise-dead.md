@@ -1,11 +1,14 @@
 # Raise Dead
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Player's Handbook (2024)*
 
+5th Level Necromancy (Bard, Cleric, Paladin)
 
-V, S, M (a diamond worth 500+ GP, which the spell consumes)
-Duration:
-Instantaneous
+Casting Time: 1 hour
+Range: Touch
+Components: V, S, M(C*)
+Duration: Instantaneous
+
 With a touch, you revive a dead creature if it has been dead no longer than 10 days and it wasn’t Undead when it died.
 The creature returns to life with 1 Hit Point. This spell also neutralizes any poisons that affected the creature at the time of death.
 This spell closes all mortal wounds, but it doesn’t restore missing body parts. If the creature is lacking body parts or organs integral for its survival - its head, for instance - the spell automatically fails.

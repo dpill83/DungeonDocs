@@ -1,7 +1,13 @@
 # Mending
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Player's Handbook (2024)*
 
+Cantrip Transmutation (Bard, Cleric, Druid, Sorcerer, Wizard)
+
+Casting Time: 1 minute
+Range: Touch
+Components: V, S, M
+Duration: Instantaneous
 
 Transmutation Cantrip (Bard, Cleric, Druid, Sorcerer, Wizard)
 Casting Time:

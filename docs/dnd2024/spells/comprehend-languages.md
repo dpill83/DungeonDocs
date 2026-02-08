@@ -1,9 +1,12 @@
 # Comprehend Languages
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Player's Handbook (2024)*
 
+1st Level Divination (Bard, Sorcerer, Warlock, Wizard)
 
-V, S, M (a pinch of soot and salt)
-Duration:
-1 hour
+Casting Time: Action or R
+Range: Self
+Components: V, S, M
+Duration: 1 hour
+
 For the duration, you understand the literal meaning of any language that you hear or see signed. You also understand any written language that you see, but you must be touching the surface on which the words are written. It takes about 1 minute to read one page of text. This spell doesn't decode symbols or secret messages.

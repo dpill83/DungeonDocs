@@ -1,7 +1,13 @@
-# Word Of Radiance
+# Word of Radiance
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Player's Handbook (2024)*
 
+Cantrip Evocation (Cleric)
+
+Casting Time: Action
+Range: Self
+Components: V, M
+Duration: Instantaneous
 
 Burning radiance erupts from you in a 5-foot Emanation. Each creature of your choice that you can see in it must succeed on a Constitution saving throw or take 1d6 Radiant damage.
 Cantrip Upgrade.

@@ -1,11 +1,14 @@
-# Dispel Evil And Good
+# Dispel Evil and Good
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Player's Handbook (2024)*
 
+5th Level Abjuration (Cleric, Paladin)
 
-V, S, M (powdered silver and iron)
-Duration:
-Concentration, up to 1 minute
+Casting Time: Action
+Range: Self
+Components: V, S, M
+Duration: Concentration, up to 1 minute
+
 For the duration, Celestials, Elementals, Fey, Fiends, and Undead have Disadvantage on attack rolls against you. You can end the spell early by using either of the following special functions.
 Break Enchantment.
 As a Magic action, you touch a creature that is possessed by or has the Charmed or Frightened condition from one or more creatures of the types above. The target is no longer possessed, Charmed, or Frightened by such creatures.

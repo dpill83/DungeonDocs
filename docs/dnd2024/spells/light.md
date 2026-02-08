@@ -1,7 +1,13 @@
 # Light
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Player's Handbook (2024)*
 
+Cantrip Evocation (Artificer, Bard, Cleric, Sorcerer, Wizard)
+
+Casting Time: Action
+Range: Touch
+Components: V, M
+Duration: 1 hour
 
 Evocation Cantrip (Artificer, Bard, Cleric, Sorcerer, Wizard)
 Casting Time:

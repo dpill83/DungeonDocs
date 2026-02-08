@@ -1,7 +1,13 @@
 # Message
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Player's Handbook (2024)*
 
+Cantrip Transmutation (Artificer, Bard, Druid, Sorcerer, Wizard)
+
+Casting Time: Action
+Range: 120 feet
+Components: S, M
+Duration: 1 round
 
 Transmutation Cantrip (Artificer, Bard, Druid, Sorcerer, Wizard)
 Casting Time:

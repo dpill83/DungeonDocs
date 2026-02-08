@@ -1,7 +1,13 @@
-# Ray Of Frost
+# Ray of Frost
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Player's Handbook (2024)*
 
+Cantrip Evocation (Artificer, Sorcerer, Wizard)
+
+Casting Time: Action
+Range: 60 feet
+Components: V, S
+Duration: Instantaneous
 
 A frigid beam of blue-white light streaks toward a creature within range. Make a ranged spell attack against the target. On a hit, it takes 1d8 Cold damage, and its Speed is reduced by 10 feet until the start of your next turn.
 Cantrip Upgrade.

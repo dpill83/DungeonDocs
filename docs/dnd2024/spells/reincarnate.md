@@ -1,11 +1,14 @@
 # Reincarnate
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Player's Handbook (2024)*
 
+5th Level Necromancy (Druid)
 
-V, S, M (rare oils worth 1,000+ GP, which the spell consumes)
-Duration:
-Instantaneous
+Casting Time: 1 hour
+Range: Touch
+Components: V, S, M(C*)
+Duration: Instantaneous
+
 You touch a dead Humanoid or a piece of one. If the creature has been dead no longer than 10 days, the spell forms a new body for it and calls the soul to enter that body. Roll 1d10 and consult the table below to determine the body’s species, or the DM chooses another playable species.
 1d10
 Species

@@ -1,7 +1,13 @@
 # Shocking Grasp
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Player's Handbook (2024)*
 
+Cantrip Evocation (Artificer, Sorcerer, Wizard)
+
+Casting Time: Action
+Range: Touch
+Components: V, S
+Duration: Instantaneous
 
 Lightning springs from you to a creature that you try to touch. Make a melee spell attack against the target. On a hit, the target takes 1d8 Lightning damage, and it can’t make Opportunity Attacks until the start of its next turn.
 Cantrip Upgrade.

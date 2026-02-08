@@ -1,7 +1,13 @@
 # Mage Hand
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Player's Handbook (2024)*
 
+Cantrip Conjuration (Artificer, Bard, Sorcerer, Warlock, Wizard)
+
+Casting Time: Action
+Range: 30 feet
+Components: V, S
+Duration: 1 minute
 
 Conjuration Cantrip (Artificer, Bard, Sorcerer, Warlock, Wizard)
 Casting Time:

@@ -1,7 +1,13 @@
-# Guards And Wards
+# Guards and Wards
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Player's Handbook (2024)*
 
+6th Level Abjuration (Bard, Wizard)
+
+Casting Time: 1 hour
+Range: Touch
+Components: V, S, M
+Duration: 24 hours
 
 You create a ward that protects up to 2,500 square feet of floor space. The warded area can be up to 20 feet tall, and you shape it as one 50-foot square, one hundred 5-foot squares that are contiguous, or twenty-five 10-foot squares that are contiguous.
 When you cast this spell, you can specify individuals that are unaffected by the spell’s effects. You can also specify a password that, when spoken aloud within 5 feet of the warded area, makes the speaker immune to its effects.

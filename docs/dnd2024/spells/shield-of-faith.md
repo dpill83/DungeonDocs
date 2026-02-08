@@ -1,6 +1,12 @@
-# Shield Of Faith
+# Shield of Faith
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Player's Handbook (2024)*
 
+1st Level Abjuration (Cleric, Paladin)
+
+Casting Time: Bonus Action
+Range: 60 feet
+Components: V, S, M
+Duration: Concentration, up to 10 minutes
 
 A shimmering field surrounds a creature of your choice within range, granting it a +2 bonus to AC for the duration.

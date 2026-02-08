@@ -1,11 +1,14 @@
 # Augury
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Player's Handbook (2024)*
 
+2nd Level Divination (Cleric, Druid, Wizard)
 
-V, S, M (specially marked sticks, bones, cards, or other divinatory tokens worth 25+ GP)
-Duration:
-Instantaneous
+Casting Time: 1 minute or R
+Range: Self
+Components: V, S, M(C*)
+Duration: Instantaneous
+
 You receive an omen from an otherworldly entity about the results of a course of action that you plan to take within the next 30 minutes. The DM chooses the omen from the Omens table.
 Omens
 Omen

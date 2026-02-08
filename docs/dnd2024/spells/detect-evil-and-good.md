@@ -1,7 +1,13 @@
-# Detect Evil And Good
+# Detect Evil and Good
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Player's Handbook (2024)*
 
+1st Level Divination (Cleric, Paladin)
+
+Casting Time: Action
+Range: Self
+Components: V, S
+Duration: Concentration, up to 10 minutes
 
 For the duration, you sense the location of any Aberration, Celestial, Elemental, Fey, Fiend, or Undead within 30 feet of yourself. You also sense whether the
 Hallow

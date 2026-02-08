@@ -1,7 +1,13 @@
-# Mordenkainen S Private Sanctum
+# Mordenkainen's Private Sanctum
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Player's Handbook (2024)*
 
+4th Level Abjuration (Artificer, Wizard)
+
+Casting Time: 10 minutes
+Range: 120 feet
+Components: V, S, M
+Duration: 24 hours
 
 You make an area within range magically secure. The area is a Cube that can be as small as 5 feet to as large as 100 feet on each side. The spell lasts for the duration.
 When you cast the spell, you decide what sort of security the spell provides, choosing any of the following properties:
@@ -12,5 +18,5 @@ Creatures in the area can’t be targeted by Divination spells.
 Nothing can teleport into or out of the warded area.
 Planar travel is blocked within the warded area.
 Casting this spell on the same spot every day for 365 days makes the spell last until dispelled.
-Using a Higher-Level Spell Slot.
+**Using a Higher-Level Spell Slot.**            
 You can increase the size of the Cube by 100 feet for each spell slot level above 4.

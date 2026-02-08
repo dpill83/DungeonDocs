@@ -1,7 +1,13 @@
 # Confusion
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Player's Handbook (2024)*
 
+4th Level Enchantment (Bard, Druid, Sorcerer, Wizard)
+
+Casting Time: Action
+Range: 90 feet
+Components: V, S, M
+Duration: Concentration, up to 1 minute
 
 Each creature in a 10-foot-radius Sphere centered on a point you choose within range must succeed on a Wisdom saving throw, or that target can’t take Bonus Actions or Reactions and must roll 1d10 at the start of each of its turns to determine its behavior for that turn, consulting the table below.
 1d10
@@ -15,5 +21,5 @@ The target doesn’t move, and it takes the Attack action to make one melee atta
 9–10
 The target chooses its behavior.
 At the end of each of its turns, an affected target repeats the save, ending the spell on itself on a success.
-Using a Higher-Level Spell Slot.
+**Using a Higher-Level Spell Slot.**            
 The Sphere’s radius increases by 5 feet for each spell slot level above 4.

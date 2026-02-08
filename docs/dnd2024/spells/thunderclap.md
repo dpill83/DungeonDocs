@@ -1,7 +1,13 @@
 # Thunderclap
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Player's Handbook (2024)*
 
+Cantrip Evocation (Artificer, Bard, Druid, Sorcerer, Warlock, Wizard)
+
+Casting Time: Action
+Range: Self
+Components: S
+Duration: Instantaneous
 
 Evocation Cantrip (Artificer, Bard, Druid, Sorcerer, Warlock, Wizard)
 Casting Time:

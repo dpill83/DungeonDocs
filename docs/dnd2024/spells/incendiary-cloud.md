@@ -1,7 +1,13 @@
 # Incendiary Cloud
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Player's Handbook (2024)*
 
+8th Level Conjuration (Druid, Sorcerer, Wizard)
+
+Casting Time: Action
+Range: 150 feet
+Components: V, S
+Duration: Concentration, up to 1 minute
 
 A swirling cloud of embers and smoke fills a 20-foot-radius Sphere centered on a point within range. The cloud’s area is Heavily Obscured. It lasts for the duration or until a strong wind (like that created by
 Gust of Wind

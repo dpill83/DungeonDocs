@@ -1,7 +1,13 @@
 # Find Traps
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Player's Handbook (2024)*
 
+2nd Level Divination (Cleric, Druid, Ranger)
+
+Casting Time: Action
+Range: 120 feet
+Components: V, S
+Duration: Instantaneous
 
 You sense any trap within range that is within line of sight. A trap, for the purpose of this spell, includes any object or mechanism that was created to cause damage or other danger. Thus, the spell would sense the
 Alarm

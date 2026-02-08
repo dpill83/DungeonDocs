@@ -1,7 +1,13 @@
-# Holy Star Of Mystra
+# Holy Star of Mystra
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Forgotten Realms Heroes of the Forgotten*
 
+8th Level Evocation (Cleric, Wizard)
+
+Casting Time: Bonus Action
+Range: Self
+Components: V, S
+Duration: Concentration, up to 1 minute
 
 You create a glowing mote of energy that hovers above you for the duration. The mote sheds Bright Light in a 5-foot radius and Dim Light for an additional 5 feet.
 When you cast this spell and as a Bonus Action on later turns, you can unleash a shining bolt from the mote, targeting one creature within 120 feet of yourself. Make a ranged spell attack. On a hit, the target takes Force or Radiant damage (your choice) equal to 4d10 plus your spellcasting ability modifier.

@@ -1,6 +1,12 @@
 # Guidance
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Player's Handbook (2024)*
 
+Cantrip Divination (Artificer, Cleric, Druid)
+
+Casting Time: Action
+Range: Touch
+Components: V, S
+Duration: Concentration, up to 1 minute
 
 You touch a willing creature and choose a skill. Until the spell ends, the creature adds 1d4 to any ability check using the chosen skill.

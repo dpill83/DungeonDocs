@@ -1,7 +1,13 @@
-# Mordenkainen S Magnificent Mansion
+# Mordenkainen's Magnificent Mansion
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Player's Handbook (2024)*
 
+7th Level Conjuration (Bard, Wizard)
+
+Casting Time: 1 minute
+Range: 300 feet
+Components: V, S, M
+Duration: 24 hours
 
 You conjure a shimmering door in range that lasts for the duration. The door leads to an extradimensional dwelling and is 5 feet wide and 10 feet tall. You and any creature you designate when you cast the spell can enter the extradimensional dwelling as long as the door remains open. You can open or close it (no action required) if you are within 30 feet of it. While closed, the door is imperceptible.
 Beyond the door is a magnificent foyer with numerous chambers beyond. The dwelling’s atmosphere is clean, fresh, and warm.

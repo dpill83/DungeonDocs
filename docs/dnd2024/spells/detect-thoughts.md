@@ -1,7 +1,13 @@
 # Detect Thoughts
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Player's Handbook (2024)*
 
+2nd Level Divination (Bard, Sorcerer, Wizard)
+
+Casting Time: Action
+Range: Self
+Components: V, S, M
+Duration: Concentration, up to 1 minute
 
 You activate one of the effects below. Until the spell ends, you can activate either effect as a Magic action on your later turns.
 Sense Thoughts.

@@ -1,7 +1,13 @@
 # Web
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Player's Handbook (2024)*
 
+2nd Level Conjuration (Artificer, Sorcerer, Wizard)
+
+Casting Time: Action
+Range: 60 feet
+Components: V, S, M
+Duration: Concentration, up to 1 hour
 
 You conjure a mass of sticky webbing at a point within range. The webs fill a 20-foot Cube there for the duration. The webs are Difficult Terrain, and the area within them is Lightly Obscured.
 If the webs aren’t anchored between two solid masses (such as walls or trees) or layered across a floor, wall, or ceiling, the web collapses on itself, and the spell ends at the start of your next turn. Webs layered over a flat surface have a depth of 5 feet.

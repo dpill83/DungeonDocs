@@ -1,11 +1,14 @@
 # Hallow
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Player's Handbook (2024)*
 
+5th Level Abjuration (Cleric)
 
-V, S, M (incense worth 1,000+ GP, which the spell consumes)
-Duration:
-Until dispelled
+Casting Time: 24 hours
+Range: Touch
+Components: V, S, M(C*)
+Duration: Until dispelled
+
 You touch a point and infuse an area around it with holy or unholy power. The area can have a radius up to 60 feet, and the spell fails if the radius includes an area already under the effect of
 Hallow
 . The affected area has the following effects.

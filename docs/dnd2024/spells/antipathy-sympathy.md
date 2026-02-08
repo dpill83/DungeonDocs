@@ -1,11 +1,14 @@
-# Antipathy Sympathy
+# Antipathy/Sympathy
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Player's Handbook (2024)*
 
+8th Level Enchantment (Bard, Druid, Wizard)
 
-V, S, M (a mix of vinegar and honey)
-Duration:
-10 Days
+Casting Time: 1 hour
+Range: 60 feet
+Components: V, S, M
+Duration: 10 days
+
 As you cast the spell, choose whether it creates antipathy or sympathy, and target one creature or object that is Huge or smaller. Then specify a kind of creature, such as red dragons, goblins, or vampires. A creature of the chosen kind makes a Wisdom saving throw when it comes within 120 feet of the target. Your choice of antipathy or sympathy determines what happens to a creature when it fails that save:
 Antipathy.
 The creature has the Frightened condition. The Frightened creature must use its movement on its turns to get as far away as possible from the target, moving by the safest route.

@@ -1,7 +1,13 @@
-# Nystul S Magic Aura
+# Nystul's Magic Aura
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Player's Handbook (2024)*
 
+2nd Level Illusion (Wizard)
+
+Casting Time: Action
+Range: Touch
+Components: V, S, M
+Duration: 24 hours
 
 With a touch, you place an illusion on a willing creature or an object that isn’t being worn or carried. A creature gains the Mask effect below, and an object gains the False Aura effect below. The effect lasts for the duration. If you cast the spell on the same target every day for 30 days, the illusion lasts until dispelled.
 Mask (Creature).

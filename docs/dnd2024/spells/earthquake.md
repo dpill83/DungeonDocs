@@ -1,7 +1,13 @@
 # Earthquake
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Player's Handbook (2024)*
 
+8th Level Transmutation (Cleric, Druid, Sorcerer)
+
+Casting Time: Action
+Range: 500 feet
+Components: V, S, M
+Duration: Concentration, up to 1 minute
 
 Choose a point on the ground that you can see within range. For the duration, an intense tremor rips through the ground in a 100-foot-radius circle centered on that point. The ground there is Difficult Terrain.
 When you cast this spell and at the end of each of your turns for the duration, each creature on the ground in the area makes a Dexterity saving throw. On a failed save, a creature has the Prone condition, and its Concentration is broken.

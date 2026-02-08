@@ -1,7 +1,13 @@
 # Tsunami
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Player's Handbook (2024)*
 
+8th Level Conjuration (Druid)
+
+Casting Time: 1 minute
+Range: 1 mile
+Components: V, S
+Duration: Concentration, up to 6 rounds
 
 A wall of water springs into existence at a point you choose within range. You can make the wall up to 300 feet long, 300 feet high, and 50 feet thick. The wall lasts for the duration.
 When the wall appears, each creature in its area makes a Strength saving throw, taking 6d10 Bludgeoning damage on a failed save or half as much damage on a successful one.

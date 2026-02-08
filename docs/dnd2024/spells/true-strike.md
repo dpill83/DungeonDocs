@@ -1,7 +1,13 @@
 # True Strike
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Player's Handbook (2024)*
 
+Cantrip Divination (Artificer, Bard, Sorcerer, Warlock, Wizard)
+
+Casting Time: Action
+Range: Self
+Components: S, M
+Duration: Instantaneous
 
 Divination Cantrip (Artificer, Bard, Sorcerer, Warlock, Wizard)
 Casting Time:

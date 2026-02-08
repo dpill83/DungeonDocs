@@ -1,7 +1,13 @@
-# Leomund S Tiny Hut
+# Leomund's Tiny Hut
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Player's Handbook (2024)*
 
+3rd Level Evocation (Bard, Wizard)
+
+Casting Time: 1 minute or R
+Range: Self
+Components: V, S, M
+Duration: 8 hours
 
 A 10-foot Emanation springs into existence around you and remains stationary for the duration. The spell fails when you cast it if the Emanation isn’t big enough to fully encapsulate all creatures in its area.
 Creatures and objects within the Emanation when you cast the spell can move through it freely. All other creatures and objects are barred from passing through it. Spells of level 3 or lower can’t be cast through it, and the effects of such spells can’t extend into it.

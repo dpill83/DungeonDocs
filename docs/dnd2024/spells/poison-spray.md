@@ -1,7 +1,13 @@
 # Poison Spray
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Player's Handbook (2024)*
 
+Cantrip Necromancy (Artificer, Druid, Sorcerer, Warlock, Wizard)
+
+Casting Time: Action
+Range: 30 feet
+Components: V, S
+Duration: Instantaneous
 
 Necromancy Cantrip (Artificer, Druid, Sorcerer, Warlock, Wizard)
 Casting Time:

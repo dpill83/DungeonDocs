@@ -1,11 +1,14 @@
 # Imprisonment
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Player's Handbook (2024)*
 
+9th Level Abjuration (Warlock, Wizard)
 
-V, S, M(a statuette of the target worth 5,000+ GP)
-Duration:
-Until dispelled
+Casting Time: 1 minute
+Range: 30 feet
+Components: V, S, M(C)
+Duration: Until dispelled
+
 You create a magical restraint to hold a creature that you can see within range. The target must make a Wisdom saving throw. On a successful save, the target is unaffected, and it is immune to this spell for the next 24 hours. On a failed save, the target is imprisoned. While imprisoned, the target doesn't need to breathe, eat, or drink, and it doesn't age. Divination spells can't locate or perceive the imprisoned target, and the target can't teleport.
 Until the spell ends, the target is also affected by one of the following effects of your choice:
 Burial.

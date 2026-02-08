@@ -1,7 +1,13 @@
 # Minor Illusion
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Player's Handbook (2024)*
 
+Cantrip Illusion (Bard, Sorcerer, Warlock, Wizard)
+
+Casting Time: Action
+Range: 30 feet
+Components: S, M
+Duration: 1 minute
 
 You create a sound or an image of an object within range that lasts for the duration. See the descriptions below for the effects of each. The illusion ends if you cast this spell again.
 If a creature takes a Study action to examine the sound or image, the creature can determine that it is an illusion with a successful Intelligence (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the illusion becomes faint to the creature.

@@ -1,7 +1,13 @@
 # Forbiddance
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Player's Handbook (2024)*
 
+6th Level Abjuration (Cleric)
+
+Casting Time: 10 minutes or R
+Range: Touch
+Components: V, S, M(C)
+Duration: 1 day
 
 You create a ward against magical travel that protects up to 40,000 square feet of floor space to a height of 30 feet above the floor. For the duration, creatures can’t teleport into the area or use portals, such as those created by the
 Gate

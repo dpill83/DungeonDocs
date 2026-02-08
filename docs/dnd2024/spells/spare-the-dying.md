@@ -1,7 +1,13 @@
-# Spare The Dying
+# Spare the Dying
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Player's Handbook (2024)*
 
+Cantrip Necromancy (Artificer, Cleric, Druid)
+
+Casting Time: Action
+Range: 15 feet
+Components: V, S
+Duration: Instantaneous
 
 Choose a creature within range that has 0 Hit Points and isn’t dead. The creature becomes Stable.
 Cantrip Upgrade.

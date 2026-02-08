@@ -1,7 +1,13 @@
-# Drawmij S Instant Summons
+# Drawmij's Instant Summons
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Player's Handbook (2024)*
 
+6th Level Conjuration (Wizard)
+
+Casting Time: 1 minute or R
+Range: Touch
+Components: V, S, M(C)
+Duration: Until dispelled
 
 You touch the sapphire used in the casting and an object weighing 10 pounds or less whose longest dimension is 6 feet or less. The spell leaves an Invisible mark on that object and invisibly inscribes the object’s name on the sapphire. Each time you cast this spell, you must use a different sapphire.
 Thereafter, you can take a Magic action to speak the object’s name and crush the sapphire. The object instantly appears in your hand regardless of physical or planar distances, and the spell ends.

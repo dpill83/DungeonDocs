@@ -37,6 +37,14 @@
   background: transparent !important;
 }
 
+/* Layout: wider main content, narrower right TOC to avoid horizontal scroll */
+.md-grid {
+  max-width: 100%;
+}
+.md-sidebar--secondary {
+  max-width: 10rem;
+}
+
 /* Table styling for Benefits and other reference tables */
 .md-typeset table {
   width: 100%;

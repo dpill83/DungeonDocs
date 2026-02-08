@@ -44,6 +44,8 @@ markdown_extensions:
       permalink: true
   - attr_list
   - md_in_html
+  - pymdownx.tabbed:
+      alternate_style: true
 
 nav:
   - Home: index.md
@@ -523,6 +525,16 @@ nav:
         - Greater Mark Of Shadow: dnd2024/feats/greater-mark-of-shadow.md
         - Greater Mark Of Storm: dnd2024/feats/greater-mark-of-storm.md
         - Greater Mark Of Warding: dnd2024/feats/greater-mark-of-warding.md
+  - Spells:
+    - All Spells: dnd2024/spells/index.md
+    - Abjuration Spells: dnd2024/spells/abjuration-school.md
+    - Conjuration Spells: dnd2024/spells/conjuration-school.md
+    - Divination Spells: dnd2024/spells/divination-school.md
+    - Enchantment Spells: dnd2024/spells/enchantment-school.md
+    - Evocation Spells: dnd2024/spells/evocation-school.md
+    - Illusion Spells: dnd2024/spells/illusion-school.md
+    - Necromancy Spells: dnd2024/spells/necromancy-school.md
+    - Transmutation Spells: dnd2024/spells/transmutation-school.md
   - Species:
     - All Species: dnd2024/species/all.md
     - Aasimar: dnd2024/species/aasimar.md

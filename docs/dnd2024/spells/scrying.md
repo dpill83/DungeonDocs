@@ -1,11 +1,14 @@
 # Scrying
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Player's Handbook (2024)*
 
+5th Level Divination (Bard, Cleric, Druid, Warlock, Wizard)
 
-V, S, M (a focus worth 1,000+ GP, such as a crystal ball, mirror, or water-filled font)
-Duration:
-Concentration, up to 10 minutes
+Casting Time: 10 minutes
+Range: Self
+Components: V, S, M
+Duration: Concentration, up to 10 minutes
+
 You can see and hear a creature you choose that is on the same plane of existence as you. The target makes a Wisdom saving throw, which is modified (see the tables below) by how well you know the target and the sort of physical connection you have to it. The target doesn’t know what it is making the save against, only that it feels uneasy.
 Your Knowledge of the Target Is…
 Save Modifier

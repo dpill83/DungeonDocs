@@ -1,17 +1,14 @@
 # Greater Restoration
 
-<!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
+Source: *Player's Handbook (2024)*
 
+5th Level Abjuration (Artificer, Bard, Cleric, Druid, Paladin, Ranger)
 
-Level 5 Abjuration (Artificer, Bard, Cleric, Druid, Paladin, Ranger)
-Casting Time:
-Action
-Range:
-Touch
-Components:
-V, S, M (diamond dust worth 100+ GP, which the spell consumes)
-Duration:
-Instantaneous
+Casting Time: Action
+Range: Touch
+Components: V, S, M(C*)
+Duration: Instantaneous
+
 You touch a creature and magically remove one of the following effects from it:
 1 Exhaustion level
 The Charmed or Petrified condition
