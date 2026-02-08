@@ -536,8 +536,10 @@ nav:
     - Currency: dnd2024/equipments/currency.md
     - Trinkets: dnd2024/equipments/trinket.md
     - Crafting: dnd2024/equipments/crafting.md
+    - Services and Expenses: dnd2024/equipments/services.md
   - Magic Items:
-    - All Magic Items: dnd2024/magic-items/all.md
+    - All Magic Items: dnd2024/magic-items/index.md
+    - Using Magic Items: dnd2024/magic-items/using-magic-items.md
     - Consumable Magic Items: dnd2024/magic-items/consumable.md
     - Crafting Magical Items: dnd2024/magic-items/crafting-magical-items.md
   - Spells:
@@ -573,3 +575,6 @@ nav:
     - Shifter: dnd2024/species/shifter.md
     - Tiefling: dnd2024/species/tiefling.md
     - Warforged: dnd2024/species/warforged.md
+  - Reference:
+    - All Reference: dnd2024/reference/index.md
+    - Bastions: dnd2024/reference/bastions.md

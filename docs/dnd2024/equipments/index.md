@@ -19,3 +19,7 @@ Mundane equipment from the D&D rules. Equipment fetches half its cost when sold.
 
 - [Tools](tool.md) – Artisan's tools and other tools
 - [Crafting](crafting.md) – Crafting nonmagical items
+
+## Services
+
+- [Services and Expenses](services.md) – Lifestyle, hirelings, spellcasting services
