@@ -539,7 +539,6 @@ nav:
     - Services and Expenses: dnd2024/equipments/services.md
   - Magic Items:
     - All Magic Items: dnd2024/magic-items/index.md
-    - Using Magic Items: dnd2024/magic-items/using-magic-items.md
     - Armor: dnd2024/magic-items/armor.md
     - Potion: dnd2024/magic-items/potion.md
     - Ring: dnd2024/magic-items/ring.md
@@ -549,6 +548,7 @@ nav:
     - Wand: dnd2024/magic-items/wand.md
     - Weapon: dnd2024/magic-items/weapon.md
     - Wondrous Item: dnd2024/magic-items/wondrous-item.md
+    - Using Magic Items: dnd2024/magic-items/using-magic-items.md
     - Consumable Magic Items: dnd2024/magic-items/consumable.md
     - Crafting Magical Items: dnd2024/magic-items/crafting-magical-items.md
   - Spells:
@@ -576,6 +576,8 @@ nav:
     - Goliath: dnd2024/species/goliath.md
     - Halfling: dnd2024/species/halfling.md
     - Human: dnd2024/species/human.md
+    - Half-Elf (Legacy): dnd2024/species/half-elf.md
+    - Half-Orc (Legacy): dnd2024/species/half-orc.md
     - Kalashtar: dnd2024/species/kalashtar.md
     - Khoravar: dnd2024/species/khoravar.md
     - Lorwyn Changeling: dnd2024/species/lorwyn-changeling.md
@@ -588,3 +590,4 @@ nav:
     - All Reference: dnd2024/reference/index.md
     - Bastions: dnd2024/reference/bastions.md
     - Circle Magic: dnd2024/reference/circle-magic.md
+    - Unearthed Arcana: dnd2024/unearthed-arcana/index.md

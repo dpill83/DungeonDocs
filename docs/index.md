@@ -17,7 +17,7 @@ Searchable reference for D&D rules content.
 - **[Magic Items](dnd2024/magic-items/all.md)** – Magic items by rarity and type
 - **[Feats](dnd2024/feats/index.md)** – Feats from the D&D rules
 - **[Spells](dnd2024/spells/index.md)** – All spells by level and school
-- **[Reference](dnd2024/reference/index.md)** – Optional rules and reference (Bastions, Circle Magic, and more)
+- **[Reference](dnd2024/reference/index.md)** – Optional rules and reference (Bastions, Circle Magic, Unearthed Arcana, and more)
 
 Use the search bar to find content by name.
 
