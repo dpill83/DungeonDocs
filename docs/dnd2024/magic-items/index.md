@@ -9,6 +9,9 @@ Magic items by rarity. Click an item name to open its page. [All Magic Items](al
     | [Adamantine Weapon](adamantine-weapon.md) | Uncommon | Weapon | — | B+400 GP | — |
     | [Adventurer's Ring](adventurer-s-ring.md) | Common | Ring | — | 250 GP | — |
     | [Alchemy Jug](alchemy-jug.md) | Uncommon | Wondrous Item | — | 400 GP | — |
+    | [Alchemical Compendium](tashas-cauldron-of-everything.md#alchemical-compendium) | Rare | Wondrous Item | Requires attunement | — | — |
+    | [All-Purpose Tool](tashas-cauldron-of-everything.md#all-purpose-tool) | Uncommon | Wondrous Item | Requires attunement | Varies | — |
+    | [Amulet of the Devout](tashas-cauldron-of-everything.md#amulet-of-the-devout) | Uncommon | Wondrous Item | Requires attunement | Varies | — |
     | [Ammunition of Slaying](ammunition-of-slaying.md) | Very Rare | Weapon | — | 20,000 GP | Yes |
     | [Ammunition, +1, +2, or +3](ammunition-1-2-or-3.md) | Uncommon | Weapon | — | Varies | Yes |
     | [Ammunition, +1, +2, or +3](ammunition-1-2-or-3.md) | Rare | Weapon | — | Varies | Yes |
@@ -19,6 +22,7 @@ Magic items by rarity. Click an item name to open its page. [All Magic Items](al
     | [Animated Shield](animated-shield.md) | Very Rare | Armor | Requires attunement | B+40,000 GP | — |
     | [Apparatus of Kwalish](apparatus-of-kwalish.md) | Legendary | Wondrous Item | — | 200,000 GP | — |
     | [Arcane Battery](arcane-battery.md) | Uncommon | Wondrous Item | — | 200 GP | — |
+    | [Arcane Grimoire](tashas-cauldron-of-everything.md#arcane-grimoire) | Uncommon | Wondrous Item | Requires attunement | Varies | — |
     | [Armor of Gleaming](armor-of-gleaming.md) | Common | Armor | — | B+100 GP | — |
     | [Armor of Invulnerability](armor-of-invulnerability.md) | Legendary | Armor | Requires attunement | B+200,000 GP | — |
     | [Armor of Resistance](armor-of-resistance.md) | Rare | Armor | Requires attunement | B+4,000 GP | — |
@@ -27,12 +31,17 @@ Magic items by rarity. Click an item name to open its page. [All Magic Items](al
     | [Armor, +1, +2, or +3](armor-1-2-or-3.md) | Very Rare | Armor | — | Varies | — |
     | [Armor, +1, +2, or +3](armor-1-2-or-3.md) | Legendary | Armor | — | Varies | — |
     | [Arrow-Catching Shield](arrow-catching-shield.md) | Rare | Armor | Requires attunement | B+4,000 GP | — |
+    | [Astral Shard](tashas-cauldron-of-everything.md#astral-shard) | Rare | Wondrous Item | Requires attunement | — | — |
+    | [Astromancy Archive](tashas-cauldron-of-everything.md#astromancy-archive) | Rare | Wondrous Item | Requires attunement | — | — |
+    | [Atlas of Endless Horizons](tashas-cauldron-of-everything.md#atlas-of-endless-horizons) | Rare | Wondrous Item | Requires attunement | — | — |
     | [Axe of the Dwarvish Lords](axe-of-the-dwarvish-lords.md) | Artifact | Weapon | Requires attunement | Priceless | — |
+    | [Baba Yaga's Mortar and Pestle](tashas-cauldron-of-everything.md#baba-yagas-mortar-and-pestle) | Artifact | Wondrous Item | Requires attunement | Priceless | — |
     | [Baba Yaga's Dancing Broom](baba-yaga-s-dancing-broom.md) | Uncommon | Wondrous Item | Requires attunement | 400 GP | — |
     | [Bag of Beans](bag-of-beans.md) | Rare | Wondrous Item | — | 2,000 GP | Yes |
     | [Bag of Devouring](bag-of-devouring.md) | Very Rare | Wondrous Item | — | 40,000 GP | — |
     | [Bag of Holding](bag-of-holding.md) | Uncommon | Wondrous Item | — | 400 GP | — |
     | [Bag of Tricks](bag-of-tricks.md) | Uncommon | Wondrous Item | — | 400 GP | — |
+    | [Barrier Tattoo](tashas-cauldron-of-everything.md#barrier-tattoo) | Uncommon | Tattoo | Requires attunement | Varies | — |
     | [Bead of Force](bead-of-force.md) | Rare | Wondrous Item | — | 2,000 GP | Yes |
     | [Bead of Nourishment](bead-of-nourishment.md) | Common | Wondrous Item | — | 50 GP | Yes |
     | [Bead of Refreshment](bead-of-refreshment.md) | Common | Wondrous Item | — | 50 GP | Yes |
@@ -41,7 +50,10 @@ Magic items by rarity. Click an item name to open its page. [All Magic Items](al
     | [Belt of Giant Strength](belt-of-giant-strength.md) | Very Rare | Wondrous Item | Requires attunement | Varies | — |
     | [Belt of Giant Strength](belt-of-giant-strength.md) | Legendary | Wondrous Item | Requires attunement | Varies | — |
     | [Berserker Axe](berserker-axe.md) | Rare | Weapon | Requires attunement | B+4,000 GP | — |
+    | [Bell Branch](tashas-cauldron-of-everything.md#bell-branch) | Rare | Wondrous Item | Requires attunement | — | — |
     | [Blackrazor](blackrazor.md) | Artifact | Weapon | Requires attunement | Priceless | — |
+    | [Blood Fury Tattoo](tashas-cauldron-of-everything.md#blood-fury-tattoo) | Legendary | Tattoo | Requires attunement | — | — |
+    | [Bloodwell Vial](tashas-cauldron-of-everything.md#bloodwell-vial) | Uncommon | Wondrous Item | Requires attunement | Varies | — |
     | [Book of Exalted Deeds](book-of-exalted-deeds.md) | Artifact | Wondrous Item | Requires attunement | Priceless | — |
     | [Book of Vile Darkness](book-of-vile-darkness.md) | Artifact | Wondrous Item | Requires attunement | Priceless | — |
     | [Boots of Elvenkind](boots-of-elvenkind.md) | Uncommon | Wondrous Item | — | 400 GP | — |
@@ -88,6 +100,9 @@ Magic items by rarity. Click an item name to open its page. [All Magic Items](al
     | [Crystal Ball of Telepathy](crystal-ball-of-telepathy.md) | Legendary | Wondrous Item | Requires attunement | 200,000 GP | — |
     | [Crystal Ball of True Seeing](crystal-ball-of-true-seeing.md) | Legendary | Wondrous Item | Requires attunement | 200,000 GP | — |
     | [Cube of Force](cube-of-force.md) | Rare | Wondrous Item | Requires attunement | 4,000 GP | — |
+    | [Coiling Grasp Tattoo](tashas-cauldron-of-everything.md#coiling-grasp-tattoo) | Uncommon | Tattoo | Requires attunement | — | — |
+    | [Crook of Rao](tashas-cauldron-of-everything.md#crook-of-rao) | Artifact | Wondrous Item | Requires attunement | Priceless | — |
+    | [Crystalline Chronicle](tashas-cauldron-of-everything.md#crystalline-chronicle) | Very Rare | Wondrous Item | Requires attunement | — | — |
     | [Cube of Summoning](cube-of-summoning.md) | Rare | Wondrous Item | — | 4,000 GP | — |
     | [Cubic Gate](cubic-gate.md) | Legendary | Wondrous Item | — | 200,000 GP | — |
     | [Daern's Instant Fortress](daern-s-instant-fortress.md) | Rare | Wondrous Item | Requires attunement | 4,000 GP | — |
@@ -101,7 +116,9 @@ Magic items by rarity. Click an item name to open its page. [All Magic Items](al
     | [Defender](defender.md) | Legendary | Weapon | Requires attunement | B+200,000 GP | — |
     | [Demon Armor](demon-armor.md) | Very Rare | Armor | Requires attunement | B+40,000 GP | — |
     | [Demonomicon of Iggwilv](demonomicon-of-iggwilv.md) | Artifact | Wondrous Item | Requires attunement | Priceless | — |
+    | [Duplicitous Manuscript](tashas-cauldron-of-everything.md#duplicitous-manuscript) | Rare | Wondrous Item | Requires attunement | — | — |
     | [Dimensional Shackles](dimensional-shackles.md) | Rare | Wondrous Item | — | 4,000 GP | — |
+    | [Devotee's Censer](tashas-cauldron-of-everything.md#devotees-censer) | Rare | Weapon | Requires attunement | — | — |
     | [Dragon Scale Mail](dragon-scale-mail.md) | Very Rare | Armor | Requires attunement | B+40,000 GP | — |
     | [Dragon Slayer](dragon-slayer.md) | Rare | Weapon | — | B+4,000 GP | — |
     | [Dread Helm](dread-helm.md) | Common | Wondrous Item | — | 100 GP | — |
@@ -115,6 +132,8 @@ Magic items by rarity. Click an item name to open its page. [All Magic Items](al
     | [Efreeti Bottle](efreeti-bottle.md) | Very Rare | Wondrous Item | — | 20,000 GP | — |
     | [Efreeti Chain](efreeti-chain.md) | Legendary | Armor | Requires attunement | B+200,000 GP | — |
     | [Elemental Gem](elemental-gem.md) | Uncommon | Wondrous Item | — | 200 GP | Yes |
+    | [Eldritch Claw Tattoo](tashas-cauldron-of-everything.md#eldritch-claw-tattoo) | Uncommon | Tattoo | Requires attunement | — | — |
+    | [Elemental Essence Shard](tashas-cauldron-of-everything.md#elemental-essence-shard) | Wondrous Item | Requires attunement | — | — |
     | [Elixir of Health](elixir-of-health.md) | Rare | Potion | — | 2,000 GP | Yes |
     | [Elven Chain](elven-chain.md) | Rare | Armor | — | B+4,000 GP | — |
     | [Enduring Spellbook](enduring-spellbook.md) | Common | Wondrous Item | — | 100 GP | — |
@@ -134,6 +153,8 @@ Magic items by rarity. Click an item name to open its page. [All Magic Items](al
     | [Ersatz Eye](ersatz-eye.md) | Common | Wondrous Item | — | 100 GP | — |
     | [Eversmoking Bottle](eversmoking-bottle.md) | Uncommon | Wondrous Item | — | 400 GP | — |
     | [Executioner's Axe](executioner-s-axe.md) | Very Rare | Weapon | — | B+40,000 GP | — |
+    | [Far Realm Shard](tashas-cauldron-of-everything.md#far-realm-shard) | Rare | Wondrous Item | Requires attunement | — | — |
+    | [Feywild Shard](tashas-cauldron-of-everything.md#feywild-shard) | Uncommon | Wondrous Item | Requires attunement | — | — |
     | [Eye and Hand of Vecna](eye-and-hand-of-vecna.md) | Artifact | Wondrous Item | Requires attunement | Priceless | — |
     | [Eyes of Charming](eyes-of-charming.md) | Uncommon | Wondrous Item | Requires attunement | 400 GP | — |
     | [Eyes of Minute Seeing](eyes-of-minute-seeing.md) | Uncommon | Wondrous Item | — | 400 GP | — |
@@ -145,15 +166,18 @@ Magic items by rarity. Click an item name to open its page. [All Magic Items](al
     | [Folding Boat](folding-boat.md) | Rare | Wondrous Item | — | 4,000 GP | — |
     | [Fork of Eddy Summoning](fork-of-eddy-summoning.md) | Rare | Wondrous Item | — | 4,000 GP | — |
     | [Frost Brand](frost-brand.md) | Very Rare | Weapon | Requires attunement | B+40,000 GP | — |
+    | [Fulminating Treatise](tashas-cauldron-of-everything.md#fulminating-treatise) | Rare | Wondrous Item | Requires attunement | — | — |
     | [Gauntlets of Ogre Power](gauntlets-of-ogre-power.md) | Uncommon | Wondrous Item | Requires attunement | 400 GP | — |
     | [Gem of Brightness](gem-of-brightness.md) | Uncommon | Wondrous Item | — | 200 GP | — |
     | [Gem of Seeing](gem-of-seeing.md) | Rare | Wondrous Item | Requires attunement | 4,000 GP | — |
+    | [Ghost Step Tattoo](tashas-cauldron-of-everything.md#ghost-step-tattoo) | Very Rare | Tattoo | Requires attunement | — | — |
     | [Giant Slayer](giant-slayer.md) | Rare | Weapon | — | B+4,000 GP | — |
     | [Glamoured Studded Leather](glamoured-studded-leather.md) | Rare | Armor | — | B+4,000 GP | — |
     | [Gloves of Missile Snaring](gloves-of-missile-snaring.md) | Uncommon | Wondrous Item | Requires attunement | 400 GP | — |
     | [Gloves of Swimming and Climbing](gloves-of-swimming-and-climbing.md) | Uncommon | Wondrous Item | Requires attunement | 400 GP | — |
     | [Gloves of Thievery](gloves-of-thievery.md) | Uncommon | Wondrous Item | — | 400 GP | — |
     | [Goggles of Night](goggles-of-night.md) | Uncommon | Wondrous Item | — | 400 GP | — |
+    | [Guardian Emblem](tashas-cauldron-of-everything.md#guardian-emblem) | Uncommon | Wondrous Item | Requires attunement | — | — |
     | [Hag Eye](hag-eye.md) | Uncommon | Wondrous Item | — | 400 GP | — |
     | [Hammer of Thunderbolts](hammer-of-thunderbolts.md) | Legendary | Weapon | Requires attunement | B+200,000 GP | — |
     | [Harper Pin](harper-pin.md) | Uncommon | Wondrous Item | Requires attunement | Varies | — |
@@ -165,6 +189,7 @@ Magic items by rarity. Click an item name to open its page. [All Magic Items](al
     | [Hat of Wizardry](hat-of-wizardry.md) | Common | Wondrous Item | Requires attunement | 100 GP | — |
     | [Headband of Intellect](headband-of-intellect.md) | Uncommon | Wondrous Item | Requires attunement | 400 GP | — |
     | [Helm of Awareness](helm-of-awareness.md) | Uncommon | Wondrous Item | — | 400 GP | — |
+    | [Heart Weaver's Primer](tashas-cauldron-of-everything.md#heart-weavers-primer) | Rare | Wondrous Item | Requires attunement | — | — |
     | [Helm of Brilliance](helm-of-brilliance.md) | Very Rare | Wondrous Item | Requires attunement | 20,000 GP | — |
     | [Helm of Comprehending Languages](helm-of-comprehending-languages.md) | Uncommon | Wondrous Item | — | 400 GP | — |
     | [Helm of Telepathy](helm-of-telepathy.md) | Uncommon | Wondrous Item | Requires attunement | 400 GP | — |
@@ -180,6 +205,7 @@ Magic items by rarity. Click an item name to open its page. [All Magic Items](al
     | [Horseshoes of a Zephyr](horseshoes-of-a-zephyr.md) | Very Rare | Wondrous Item | — | 40,000 GP | — |
     | [Horseshoes of Speed](horseshoes-of-speed.md) | Rare | Wondrous Item | — | 4,000 GP | — |
     | [Immovable Rod](immovable-rod.md) | Uncommon | Rod | — | 400 GP | — |
+    | [Illuminator's Tattoo](tashas-cauldron-of-everything.md#illuminators-tattoo) | Common | Tattoo | Requires attunement | — | — |
     | [Instrument of Illusions](instrument-of-illusions.md) | Common | Wondrous Item | — | 100 GP | — |
     | [Instrument of Scribing](instrument-of-scribing.md) | Common | Wondrous Item | — | 100 GP | — |
     | [Instrument of the Bards](instrument-of-the-bards.md) | Uncommon | Wondrous Item | Requires attunement | Varies | — |
@@ -195,8 +221,12 @@ Magic items by rarity. Click an item name to open its page. [All Magic Items](al
     | [Keoghtom's Ointment](keoghtom-s-ointment.md) | Uncommon | Wondrous Item | — | 200 GP | Yes |
     | [Lantern of Revealing](lantern-of-revealing.md) | Uncommon | Wondrous Item | — | 400 GP | — |
     | [Lock of Trickery](lock-of-trickery.md) | Common | Wondrous Item | — | 100 GP | — |
+    | [Libram of Souls and Flesh](tashas-cauldron-of-everything.md#libram-of-souls-and-flesh) | Rare | Wondrous Item | Requires attunement | — | — |
+    | [Lifewell Tattoo](tashas-cauldron-of-everything.md#lifewell-tattoo) | Very Rare | Tattoo | Requires attunement | — | — |
     | [Luck Blade](luck-blade.md) | Legendary | Weapon | Requires attunement | B+200,000 GP | — |
+    | [Luba's Tarokka of Souls](tashas-cauldron-of-everything.md#lubas-tarokka-of-souls) | Artifact | Wondrous Item | Requires attunement | Priceless | — |
     | [Lute of Thunderous Thumping](lute-of-thunderous-thumping.md) | Very Rare | Weapon | — | B+40,000 GP | — |
+    | [Lyre of Building](tashas-cauldron-of-everything.md#lyre-of-building) | Rare | Wondrous Item | Requires attunement | — | — |
     | [Mace of Disruption](mace-of-disruption.md) | Rare | Weapon | Requires attunement | B+4,000 GP | — |
     | [Mace of Smiting](mace-of-smiting.md) | Rare | Weapon | — | B+4,000 GP | — |
     | [Mace of Terror](mace-of-terror.md) | Rare | Weapon | Requires attunement | B+4,000 GP | — |
@@ -209,12 +239,15 @@ Magic items by rarity. Click an item name to open its page. [All Magic Items](al
     | [Manual of Quickness of Action](manual-of-quickness-of-action.md) | Very Rare | Wondrous Item | — | 20,000 GP | — |
     | [Mariner's Armor](mariner-s-armor.md) | Uncommon | Armor | — | B+400 GP | — |
     | [Mask of Changed Appearance](mask-of-changed-appearance.md) | Common | Wondrous Item | — | 100 GP | — |
+    | [Masquerade Tattoo](tashas-cauldron-of-everything.md#masquerade-tattoo) | Common | Tattoo | Requires attunement | — | — |
     | [Mechanical Wonder](mechanical-wonder.md) | Common | Wondrous Item | — | Varies | — |
     | [Medallion of Thoughts](medallion-of-thoughts.md) | Uncommon | Wondrous Item | Requires attunement | 400 GP | — |
     | [Mind Sharpener](mind-sharpener.md) | Uncommon | Ring | Requires attunement | 400 GP | — |
+    | [Mighty Servant of Leuk-o](tashas-cauldron-of-everything.md#mighty-servant-of-leuk-o) | Artifact | Wondrous Item | Requires attunement | Priceless | — |
     | [Mirror of Life Trapping](mirror-of-life-trapping.md) | Very Rare | Wondrous Item | — | 40,000 GP | — |
     | [Mithral Armor](mithral-armor.md) | Uncommon | Armor | — | B+400 GP | — |
     | [Moon-Touched Sword](moon-touched-sword.md) | Common | Weapon | — | B+100 GP | — |
+    | [Moon Sickle](tashas-cauldron-of-everything.md#moon-sickle) | Uncommon | Weapon | Requires attunement | Varies | — |
     | [Moonblade](moonblade.md) | Legendary | Weapon | Requires attunement | B+200,000 GP | — |
     | [Mystery Key](mystery-key.md) | Common | Wondrous Item | — | 50 GP | — |
     | [Mythallar Bracelet](mythallar-bracelet.md) | Common | Wondrous Item | — | 100 GP | — |
@@ -234,11 +267,13 @@ Magic items by rarity. Click an item name to open its page. [All Magic Items](al
     | [Orb of Direction](orb-of-direction.md) | Common | Wondrous Item | — | 100 GP | — |
     | [Orb of Dragonkind](orb-of-dragonkind.md) | Artifact | Wondrous Item | Requires attunement | Priceless | — |
     | [Orb of Time](orb-of-time.md) | Common | Wondrous Item | — | 100 GP | — |
+    | [Outer Essence Shard](tashas-cauldron-of-everything.md#outer-essence-shard) | Rare | Wondrous Item | Requires attunement | — | — |
     | [Pearl of Power](pearl-of-power.md) | Uncommon | Wondrous Item | Requires attunement | 400 GP | — |
     | [Perfume of Bewitching](perfume-of-bewitching.md) | Common | Wondrous Item | — | 50 GP | Yes |
     | [Periapt of Health](periapt-of-health.md) | Uncommon | Wondrous Item | Requires attunement | 400 GP | — |
     | [Periapt of Proof against Poison](periapt-of-proof-against-poison.md) | Rare | Wondrous Item | Requires attunement | 4,000 GP | — |
     | [Periapt of Wound Closure](periapt-of-wound-closure.md) | Uncommon | Wondrous Item | Requires attunement | 400 GP | — |
+    | [Protective Verses](tashas-cauldron-of-everything.md#protective-verses) | Rare | Wondrous Item | Requires attunement | — | — |
     | [Philter of Love](philter-of-love.md) | Uncommon | Potion | — | 200 GP | Yes |
     | [Pipe of Smoke Monsters](pipe-of-smoke-monsters.md) | Common | Wondrous Item | — | 100 GP | — |
     | [Pipes of Haunting](pipes-of-haunting.md) | Uncommon | Wondrous Item | — | 400 GP | — |
@@ -248,6 +283,7 @@ Magic items by rarity. Click an item name to open its page. [All Magic Items](al
     | [Poison Soaked Kukri](poison-soaked-kukri.md) | Uncommon | Weapon | Requires attunement | B+400 GP | — |
     | [Pole of Angling](pole-of-angling.md) | Common | Wondrous Item | — | 100 GP | — |
     | [Pole of Collapsing](pole-of-collapsing.md) | Common | Wondrous Item | — | 100 GP | — |
+    | [Planecaller's Codex](tashas-cauldron-of-everything.md#planecallers-codex) | Rare | Wondrous Item | Requires attunement | — | — |
     | [Portable Hole](portable-hole.md) | Rare | Wondrous Item | — | 4,000 GP | — |
     | [Pot of Awakening](pot-of-awakening.md) | Common | Wondrous Item | — | 50 GP | Yes |
     | [Potion of Animal Friendship](potion-of-animal-friendship.md) | Uncommon | Potion | — | 200 GP | Yes |
@@ -312,6 +348,8 @@ Magic items by rarity. Click an item name to open its page. [All Magic Items](al
     | [Ring of Water Walking](ring-of-water-walking.md) | Uncommon | Ring | — | 400 GP | — |
     | [Ring of X-ray Vision](ring-of-x-ray-vision.md) | Rare | Ring | Requires attunement | 4,000 GP | — |
     | [Rival Coin](rival-coin.md) | Common | Wondrous Item | — | 100 GP | — |
+    | [Reveler's Concertina](tashas-cauldron-of-everything.md#revelers-concertina) | Rare | Wondrous Item | Requires attunement | — | — |
+    | [Rhythm-Maker's Drum](tashas-cauldron-of-everything.md#rhythm-makers-drum) | Uncommon | Wondrous Item | Requires attunement | Varies | — |
     | [Robe of Eyes](robe-of-eyes.md) | Rare | Wondrous Item | Requires attunement | 4,000 GP | — |
     | [Robe of Scintillating Colors](robe-of-scintillating-colors.md) | Very Rare | Wondrous Item | Requires attunement | 40,000 GP | — |
     | [Robe of Stars](robe-of-stars.md) | Very Rare | Wondrous Item | Requires attunement | 40,000 GP | — |
@@ -337,6 +375,8 @@ Magic items by rarity. Click an item name to open its page. [All Magic Items](al
     | [Scroll of Titan Summoning](scroll-of-titan-summoning.md) | Legendary | Scroll | — | 100,000 GP | Yes |
     | [Sending Stones](sending-stones.md) | Uncommon | Wondrous Item | — | 400 GP | — |
     | [Sentinel Shield](sentinel-shield.md) | Uncommon | Armor | — | B+400 GP | — |
+    | [Shadowfell Brand Tattoo](tashas-cauldron-of-everything.md#shadowfell-brand-tattoo) | Rare | Tattoo | Requires attunement | — | — |
+    | [Shadowfell Shard](tashas-cauldron-of-everything.md#shadowfell-shard) | Rare | Wondrous Item | Requires attunement | — | — |
     | [Shield of Expression](shield-of-expression.md) | Common | Armor | — | B+100 GP | — |
     | [Shield of Missile Attraction](shield-of-missile-attraction.md) | Rare | Armor | Requires attunement | B+4,000 GP | — |
     | [Shield of the Cavalier](shield-of-the-cavalier.md) | Very Rare | Armor | Requires attunement | B+40,000 GP | — |
@@ -352,6 +392,7 @@ Magic items by rarity. Click an item name to open its page. [All Magic Items](al
     | [Spell Scroll](spell-scroll.md) | Rare | Scroll | — | Varies | Yes |
     | [Spell Scroll](spell-scroll.md) | Very Rare | Scroll | — | Varies | Yes |
     | [Spell Scroll](spell-scroll.md) | Legendary | Scroll | — | Varies | Yes |
+    | [Spellwrought Tattoo](tashas-cauldron-of-everything.md#spellwrought-tattoo) | Common | Tattoo | — | Varies | — |
     | [Spell-Refueling Ring](spell-refueling-ring.md) | Uncommon | Ring | Requires attunement | 400 GP | — |
     | [Spellguard Shield](spellguard-shield.md) | Very Rare | Armor | Requires attunement | B+40,000 GP | — |
     | [Sphere of Annihilation](sphere-of-annihilation.md) | Legendary | Wondrous Item | — | 200,000 GP | — |
@@ -387,6 +428,7 @@ Magic items by rarity. Click an item name to open its page. [All Magic Items](al
     | [Talisman of Ultimate Evil](talisman-of-ultimate-evil.md) | Legendary | Wondrous Item | Requires attunement | 100,000 GP | — |
     | [Talking Doll](talking-doll.md) | Common | Wondrous Item | Requires attunement | 100 GP | — |
     | [Tankard of Sobriety](tankard-of-sobriety.md) | Common | Wondrous Item | — | 100 GP | — |
+    | [Teeth of Dahlver-Nar](tashas-cauldron-of-everything.md#teeth-of-dahlver-nar) | Artifact | Wondrous Item | Requires attunement | Priceless | — |
     | [Tentacle Rod](tentacle-rod.md) | Rare | Rod | Requires attunement | 4,000 GP | — |
     | [Thayan Spell Tattoo](thayan-spell-tattoo.md) | Uncommon | Wondrous Item | Requires attunement | Special | — |
     | [Thunderous Greatclub](thunderous-greatclub.md) | Very Rare | Weapon | Requires attunement | B+40,000 GP | — |
@@ -457,11 +499,13 @@ Magic items by rarity. Click an item name to open its page. [All Magic Items](al
     | [Hat of Wizardry](hat-of-wizardry.md) | Wondrous Item | Requires attunement | 100 GP | — |
     | [Heward's Handy Spice Pouch](heward-s-handy-spice-pouch.md) | Wondrous Item | — | 100 GP | — |
     | [Horn of Silent Alarm](horn-of-silent-alarm.md) | Wondrous Item | — | 100 GP | — |
+    | [Illuminator's Tattoo](tashas-cauldron-of-everything.md#illuminators-tattoo) | Tattoo | Requires attunement | — | — |
     | [Instrument of Illusions](instrument-of-illusions.md) | Wondrous Item | — | 100 GP | — |
     | [Instrument of Scribing](instrument-of-scribing.md) | Wondrous Item | — | 100 GP | — |
     | [Lock of Trickery](lock-of-trickery.md) | Wondrous Item | — | 100 GP | — |
     | [Manifold Tool](manifold-tool.md) | Wondrous Item | Requires attunement | 100 GP | — |
     | [Mask of Changed Appearance](mask-of-changed-appearance.md) | Wondrous Item | — | 100 GP | — |
+    | [Masquerade Tattoo](tashas-cauldron-of-everything.md#masquerade-tattoo) | Tattoo | Requires attunement | — | — |
     | [Mechanical Wonder](mechanical-wonder.md) | Wondrous Item | — | Varies | — |
     | [Moon-Touched Sword](moon-touched-sword.md) | Weapon | — | B+100 GP | — |
     | [Mystery Key](mystery-key.md) | Wondrous Item | — | 50 GP | — |
@@ -484,6 +528,7 @@ Magic items by rarity. Click an item name to open its page. [All Magic Items](al
     | [Silvered Weapon](silvered-weapon.md) | Weapon | — | B+100 GP | — |
     | [Smoldering Armor](smoldering-armor.md) | Armor | — | B+100 GP | — |
     | [Spell Scroll](spell-scroll.md) | Scroll | — | Varies | Yes |
+    | [Spellwrought Tattoo](tashas-cauldron-of-everything.md#spellwrought-tattoo) | Tattoo | — | Varies | — |
     | [Staff of Adornment](staff-of-adornment.md) | Staff | — | 100 GP | — |
     | [Staff of Birdcalls](staff-of-birdcalls.md) | Staff | — | 100 GP | — |
     | [Staff of Flowers](staff-of-flowers.md) | Staff | — | 100 GP | — |
@@ -500,12 +545,17 @@ Magic items by rarity. Click an item name to open its page. [All Magic Items](al
     | [Adamantine Armor](adamantine-armor.md) | Armor | — | B+400 GP | — |
     | [Adamantine Weapon](adamantine-weapon.md) | Weapon | — | B+400 GP | — |
     | [Alchemy Jug](alchemy-jug.md) | Wondrous Item | — | 400 GP | — |
+    | [All-Purpose Tool](tashas-cauldron-of-everything.md#all-purpose-tool) | Wondrous Item | Requires attunement | Varies | — |
+    | [Amulet of the Devout](tashas-cauldron-of-everything.md#amulet-of-the-devout) | Wondrous Item | Requires attunement | Varies | — |
     | [Ammunition, +1, +2, or +3](ammunition-1-2-or-3.md) | Weapon | — | Varies | Yes |
     | [Amulet of Proof against Detection and Location](amulet-of-proof-against-detection-and-location.md) | Wondrous Item | Requires attunement | 400 GP | — |
     | [Arcane Battery](arcane-battery.md) | Wondrous Item | — | 200 GP | — |
+    | [Arcane Grimoire](tashas-cauldron-of-everything.md#arcane-grimoire) | Wondrous Item | Requires attunement | Varies | — |
     | [Baba Yaga's Dancing Broom](baba-yaga-s-dancing-broom.md) | Wondrous Item | Requires attunement | 400 GP | — |
     | [Bag of Holding](bag-of-holding.md) | Wondrous Item | — | 400 GP | — |
     | [Bag of Tricks](bag-of-tricks.md) | Wondrous Item | — | 400 GP | — |
+    | [Barrier Tattoo](tashas-cauldron-of-everything.md#barrier-tattoo) | Tattoo | Requires attunement | Varies | — |
+    | [Bloodwell Vial](tashas-cauldron-of-everything.md#bloodwell-vial) | Wondrous Item | Requires attunement | Varies | — |
     | [Boots of Elvenkind](boots-of-elvenkind.md) | Wondrous Item | — | 400 GP | — |
     | [Boots of Striding and Springing](boots-of-striding-and-springing.md) | Wondrous Item | Requires attunement | 400 GP | — |
     | [Boots of the Winding Path](boots-of-the-winding-path.md) | Wondrous Item | Requires attunement | 400 GP | — |
@@ -517,6 +567,7 @@ Magic items by rarity. Click an item name to open its page. [All Magic Items](al
     | [Cap of Water Breathing](cap-of-water-breathing.md) | Wondrous Item | — | 400 GP | — |
     | [Circlet of Blasting](circlet-of-blasting.md) | Wondrous Item | — | 400 GP | — |
     | [Cloak of Elvenkind](cloak-of-elvenkind.md) | Wondrous Item | Requires attunement | 400 GP | — |
+    | [Coiling Grasp Tattoo](tashas-cauldron-of-everything.md#coiling-grasp-tattoo) | Tattoo | Requires attunement | — | — |
     | [Cloak of Protection](cloak-of-protection.md) | Wondrous Item | Requires attunement | 400 GP | — |
     | [Cloak of the Manta Ray](cloak-of-the-manta-ray.md) | Wondrous Item | Requires attunement | 400 GP | — |
     | [Decanter of Endless Water](decanter-of-endless-water.md) | Wondrous Item | — | 400 GP | — |
@@ -526,6 +577,7 @@ Magic items by rarity. Click an item name to open its page. [All Magic Items](al
     | [Dust of Dryness](dust-of-dryness.md) | Wondrous Item | — | 200 GP | Yes |
     | [Dust of Sneezing and Choking](dust-of-sneezing-and-choking.md) | Wondrous Item | — | 200 GP | Yes |
     | [Elemental Gem](elemental-gem.md) | Wondrous Item | — | 200 GP | Yes |
+    | [Eldritch Claw Tattoo](tashas-cauldron-of-everything.md#eldritch-claw-tattoo) | Tattoo | Requires attunement | — | — |
     | [Enspelled Armor](enspelled-armor.md) | Armor | Requires attunement | Varies | — |
     | [Enspelled Staff](enspelled-staff.md) | Staff | Requires attunement | Varies | — |
     | [Enspelled Weapon](enspelled-weapon.md) | Weapon | Requires attunement | Varies | — |
@@ -533,12 +585,14 @@ Magic items by rarity. Click an item name to open its page. [All Magic Items](al
     | [Eyes of Charming](eyes-of-charming.md) | Wondrous Item | Requires attunement | 400 GP | — |
     | [Eyes of Minute Seeing](eyes-of-minute-seeing.md) | Wondrous Item | — | 400 GP | — |
     | [Eyes of the Eagle](eyes-of-the-eagle.md) | Wondrous Item | — | 400 GP | — |
+    | [Feywild Shard](tashas-cauldron-of-everything.md#feywild-shard) | Wondrous Item | Requires attunement | — | — |
     | [Figurine of Wondrous Power](figurine-of-wondrous-power.md) | Wondrous Item | — | Varies | — |
     | [Gauntlets of Ogre Power](gauntlets-of-ogre-power.md) | Wondrous Item | Requires attunement | 400 GP | — |
     | [Gem of Brightness](gem-of-brightness.md) | Wondrous Item | — | 200 GP | — |
     | [Gloves of Missile Snaring](gloves-of-missile-snaring.md) | Wondrous Item | Requires attunement | 400 GP | — |
     | [Gloves of Swimming and Climbing](gloves-of-swimming-and-climbing.md) | Wondrous Item | Requires attunement | 400 GP | — |
     | [Gloves of Thievery](gloves-of-thievery.md) | Wondrous Item | — | 400 GP | — |
+    | [Guardian Emblem](tashas-cauldron-of-everything.md#guardian-emblem) | Wondrous Item | Requires attunement | — | — |
     | [Goggles of Night](goggles-of-night.md) | Wondrous Item | — | 400 GP | — |
     | [Hag Eye](hag-eye.md) | Wondrous Item | — | 400 GP | — |
     | [Harper Pin](harper-pin.md) | Wondrous Item | Requires attunement | Varies | — |
@@ -557,6 +611,7 @@ Magic items by rarity. Click an item name to open its page. [All Magic Items](al
     | [Medallion of Thoughts](medallion-of-thoughts.md) | Wondrous Item | Requires attunement | 400 GP | — |
     | [Mind Sharpener](mind-sharpener.md) | Ring | Requires attunement | 400 GP | — |
     | [Mithral Armor](mithral-armor.md) | Armor | — | B+400 GP | — |
+    | [Moon Sickle](tashas-cauldron-of-everything.md#moon-sickle) | Weapon | Requires attunement | Varies | — |
     | [Nature's Mantle](nature-s-mantle.md) | Wondrous Item | Requires attunement | 400 GP | — |
     | [Necklace of Adaptation](necklace-of-adaptation.md) | Wondrous Item | Requires attunement | 400 GP | — |
     | [Oil of Slipperiness](oil-of-slipperiness.md) | Potion | — | 200 GP | Yes |
@@ -589,6 +644,7 @@ Magic items by rarity. Click an item name to open its page. [All Magic Items](al
     | [Ring of Swimming](ring-of-swimming.md) | Ring | — | 400 GP | — |
     | [Ring of Warmth](ring-of-warmth.md) | Ring | Requires attunement | 400 GP | — |
     | [Ring of Water Walking](ring-of-water-walking.md) | Ring | — | 400 GP | — |
+    | [Rhythm-Maker's Drum](tashas-cauldron-of-everything.md#rhythm-makers-drum) | Wondrous Item | Requires attunement | Varies | — |
     | [Robe of Useful Items](robe-of-useful-items.md) | Wondrous Item | — | 200 GP | — |
     | [Rod of the Pact Keeper](rod-of-the-pact-keeper.md) | Rod | Requires attunement | Varies | — |
     | [Rope of Climbing](rope-of-climbing.md) | Wondrous Item | — | 400 GP | — |
@@ -619,8 +675,12 @@ Magic items by rarity. Click an item name to open its page. [All Magic Items](al
 === "Rare"
     | Item Name | Type | Attunement | Price | Consumable |
     | --- | --- | --- | --- | --- |
+    | [Alchemical Compendium](tashas-cauldron-of-everything.md#alchemical-compendium) | Wondrous Item | Requires attunement | — | — |
     | [Ammunition, +1, +2, or +3](ammunition-1-2-or-3.md) | Weapon | — | Varies | Yes |
     | [Amulet of Health](amulet-of-health.md) | Wondrous Item | Requires attunement | 4,000 GP | — |
+    | [Astral Shard](tashas-cauldron-of-everything.md#astral-shard) | Wondrous Item | Requires attunement | — | — |
+    | [Astromancy Archive](tashas-cauldron-of-everything.md#astromancy-archive) | Wondrous Item | Requires attunement | — | — |
+    | [Atlas of Endless Horizons](tashas-cauldron-of-everything.md#atlas-of-endless-horizons) | Wondrous Item | Requires attunement | — | — |
     | [Armor of Resistance](armor-of-resistance.md) | Armor | Requires attunement | B+4,000 GP | — |
     | [Armor of Vulnerability](armor-of-vulnerability.md) | Armor | Requires attunement | B+4,000 GP | — |
     | [Armor, +1, +2, or +3](armor-1-2-or-3.md) | Armor | — | Varies | — |
@@ -629,6 +689,7 @@ Magic items by rarity. Click an item name to open its page. [All Magic Items](al
     | [Bead of Force](bead-of-force.md) | Wondrous Item | — | 2,000 GP | Yes |
     | [Belt of Dwarvenkind](belt-of-dwarvenkind.md) | Wondrous Item | Requires attunement | 4,000 GP | — |
     | [Belt of Giant Strength](belt-of-giant-strength.md) | Wondrous Item | Requires attunement | Varies | — |
+    | [Bell Branch](tashas-cauldron-of-everything.md#bell-branch) | Wondrous Item | Requires attunement | — | — |
     | [Berserker Axe](berserker-axe.md) | Weapon | Requires attunement | B+4,000 GP | — |
     | [Boots of Levitation](boots-of-levitation.md) | Wondrous Item | Requires attunement | 4,000 GP | — |
     | [Boots of Speed](boots-of-speed.md) | Wondrous Item | Requires attunement | 4,000 GP | — |
@@ -644,23 +705,28 @@ Magic items by rarity. Click an item name to open its page. [All Magic Items](al
     | [Cube of Force](cube-of-force.md) | Wondrous Item | Requires attunement | 4,000 GP | — |
     | [Cube of Summoning](cube-of-summoning.md) | Wondrous Item | — | 4,000 GP | — |
     | [Daern's Instant Fortress](daern-s-instant-fortress.md) | Wondrous Item | Requires attunement | 4,000 GP | — |
+    | [Devotee's Censer](tashas-cauldron-of-everything.md#devotees-censer) | Weapon | Requires attunement | — | — |
     | [Dagger of Venom](dagger-of-venom.md) | Weapon | — | B+4,000 GP | — |
     | [Dazzling Weapon](dazzling-weapon.md) | Weapon | Requires attunement | B+4,000 GP | — |
     | [Dimensional Shackles](dimensional-shackles.md) | Wondrous Item | — | 4,000 GP | — |
+    | [Duplicitous Manuscript](tashas-cauldron-of-everything.md#duplicitous-manuscript) | Wondrous Item | Requires attunement | — | — |
     | [Dragon Slayer](dragon-slayer.md) | Weapon | — | B+4,000 GP | — |
     | [Elixir of Health](elixir-of-health.md) | Potion | — | 2,000 GP | Yes |
     | [Elven Chain](elven-chain.md) | Armor | — | B+4,000 GP | — |
     | [Enspelled Armor](enspelled-armor.md) | Armor | Requires attunement | Varies | — |
     | [Enspelled Staff](enspelled-staff.md) | Staff | Requires attunement | Varies | — |
     | [Enspelled Weapon](enspelled-weapon.md) | Weapon | Requires attunement | Varies | — |
+    | [Far Realm Shard](tashas-cauldron-of-everything.md#far-realm-shard) | Wondrous Item | Requires attunement | — | — |
     | [Figurine of Wondrous Power](figurine-of-wondrous-power.md) | Wondrous Item | — | Varies | — |
     | [Flame Tongue](flame-tongue.md) | Weapon | Requires attunement | B+4,000 GP | — |
+    | [Fulminating Treatise](tashas-cauldron-of-everything.md#fulminating-treatise) | Wondrous Item | Requires attunement | — | — |
     | [Folding Boat](folding-boat.md) | Wondrous Item | — | 4,000 GP | — |
     | [Fork of Eddy Summoning](fork-of-eddy-summoning.md) | Wondrous Item | — | 4,000 GP | — |
     | [Gem of Seeing](gem-of-seeing.md) | Wondrous Item | Requires attunement | 4,000 GP | — |
     | [Giant Slayer](giant-slayer.md) | Weapon | — | B+4,000 GP | — |
     | [Glamoured Studded Leather](glamoured-studded-leather.md) | Armor | — | B+4,000 GP | — |
     | [Harper Pin](harper-pin.md) | Wondrous Item | Requires attunement | Varies | — |
+    | [Heart Weaver's Primer](tashas-cauldron-of-everything.md#heart-weavers-primer) | Wondrous Item | Requires attunement | — | — |
     | [Helm of Teleportation](helm-of-teleportation.md) | Wondrous Item | Requires attunement | 4,000 GP | — |
     | [Heward's Handy Haversack](heward-s-handy-haversack.md) | Wondrous Item | — | 4,000 GP | — |
     | [Horn of Blasting](horn-of-blasting.md) | Wondrous Item | — | 4,000 GP | — |
@@ -669,6 +735,8 @@ Magic items by rarity. Click an item name to open its page. [All Magic Items](al
     | [Instrument of the Bards](instrument-of-the-bards.md) | Wondrous Item | Requires attunement | Varies | — |
     | [Ioun Stone](ioun-stone.md) | Wondrous Item | Requires attunement | Varies | — |
     | [Iron Bands of Bilarro](iron-bands-of-bilarro.md) | Wondrous Item | — | 4,000 GP | — |
+    | [Libram of Souls and Flesh](tashas-cauldron-of-everything.md#libram-of-souls-and-flesh) | Wondrous Item | Requires attunement | — | — |
+    | [Lyre of Building](tashas-cauldron-of-everything.md#lyre-of-building) | Wondrous Item | Requires attunement | — | — |
     | [Mace of Disruption](mace-of-disruption.md) | Weapon | Requires attunement | B+4,000 GP | — |
     | [Mace of Smiting](mace-of-smiting.md) | Weapon | — | B+4,000 GP | — |
     | [Mace of Terror](mace-of-terror.md) | Weapon | Requires attunement | B+4,000 GP | — |
@@ -679,7 +747,10 @@ Magic items by rarity. Click an item name to open its page. [All Magic Items](al
     | [Necklace of Prayer Beads](necklace-of-prayer-beads.md) | Wondrous Item | Requires attunement | 2,000 GP | — |
     | [Oil of Etherealness](oil-of-etherealness.md) | Potion | — | 2,000 GP | Yes |
     | [Periapt of Proof against Poison](periapt-of-proof-against-poison.md) | Wondrous Item | Requires attunement | 4,000 GP | — |
+    | [Outer Essence Shard](tashas-cauldron-of-everything.md#outer-essence-shard) | Wondrous Item | Requires attunement | — | — |
+    | [Planecaller's Codex](tashas-cauldron-of-everything.md#planecallers-codex) | Wondrous Item | Requires attunement | — | — |
     | [Portable Hole](portable-hole.md) | Wondrous Item | — | 4,000 GP | — |
+    | [Protective Verses](tashas-cauldron-of-everything.md#protective-verses) | Wondrous Item | Requires attunement | — | — |
     | [Potion of Clairvoyance](potion-of-clairvoyance.md) | Potion | — | 2,000 GP | Yes |
     | [Potion of Diminution](potion-of-diminution.md) | Potion | — | 2,000 GP | Yes |
     | [Potion of Gaseous Form](potion-of-gaseous-form.md) | Potion | — | 2,000 GP | Yes |
@@ -699,11 +770,14 @@ Magic items by rarity. Click an item name to open its page. [All Magic Items](al
     | [Ring of Spell Storing](ring-of-spell-storing.md) | Ring | Requires attunement | 4,000 GP | — |
     | [Ring of the Ram](ring-of-the-ram.md) | Ring | Requires attunement | 4,000 GP | — |
     | [Ring of X-ray Vision](ring-of-x-ray-vision.md) | Ring | Requires attunement | 4,000 GP | — |
+    | [Reveler's Concertina](tashas-cauldron-of-everything.md#revelers-concertina) | Wondrous Item | Requires attunement | — | — |
     | [Robe of Eyes](robe-of-eyes.md) | Wondrous Item | Requires attunement | 4,000 GP | — |
     | [Rod of Rulership](rod-of-rulership.md) | Rod | Requires attunement | 4,000 GP | — |
     | [Rod of the Pact Keeper](rod-of-the-pact-keeper.md) | Rod | Requires attunement | Varies | — |
     | [Rope of Entanglement](rope-of-entanglement.md) | Wondrous Item | — | 4,000 GP | — |
     | [Scroll of Protection](scroll-of-protection.md) | Scroll | — | 2,000 GP | Yes |
+    | [Shadowfell Brand Tattoo](tashas-cauldron-of-everything.md#shadowfell-brand-tattoo) | Tattoo | Requires attunement | — | — |
+    | [Shadowfell Shard](tashas-cauldron-of-everything.md#shadowfell-shard) | Wondrous Item | Requires attunement | — | — |
     | [Shield of Missile Attraction](shield-of-missile-attraction.md) | Armor | Requires attunement | B+4,000 GP | — |
     | [Shield, +1, +2, or +3](shield-1-2-or-3.md) | Armor | — | Varies | — |
     | [Spell Scroll](spell-scroll.md) | Scroll | — | Varies | Yes |
@@ -732,6 +806,7 @@ Magic items by rarity. Click an item name to open its page. [All Magic Items](al
 === "Very Rare"
     | Item Name | Type | Attunement | Price | Consumable |
     | --- | --- | --- | --- | --- |
+    | [Absorbing Tattoo](tashas-cauldron-of-everything.md#absorbing-tattoo) | Tattoo | Requires attunement | — | — |
     | [Ammunition of Slaying](ammunition-of-slaying.md) | Weapon | — | 20,000 GP | Yes |
     | [Ammunition, +1, +2, or +3](ammunition-1-2-or-3.md) | Weapon | — | Varies | Yes |
     | [Amulet of the Planes](amulet-of-the-planes.md) | Wondrous Item | Requires attunement | 40,000 GP | — |
@@ -743,7 +818,10 @@ Magic items by rarity. Click an item name to open its page. [All Magic Items](al
     | [Carpet of Flying](carpet-of-flying.md) | Wondrous Item | — | 40,000 GP | — |
     | [Cauldron of Rebirth](cauldron-of-rebirth.md) | Wondrous Item | Requires attunement | 40,000 GP | — |
     | [Cloak of Arachnida](cloak-of-arachnida.md) | Wondrous Item | Requires attunement | 40,000 GP | — |
+    | [Ghost Step Tattoo](tashas-cauldron-of-everything.md#ghost-step-tattoo) | Tattoo | Requires attunement | — | — |
+    | [Lifewell Tattoo](tashas-cauldron-of-everything.md#lifewell-tattoo) | Tattoo | Requires attunement | — | — |
     | [Crystal Ball](crystal-ball.md) | Wondrous Item | Requires attunement | 40,000 GP | — |
+    | [Crystalline Chronicle](tashas-cauldron-of-everything.md#crystalline-chronicle) | Wondrous Item | Requires attunement | — | — |
     | [Dancing Sword](dancing-sword.md) | Weapon | Requires attunement | B+40,000 GP | — |
     | [Demon Armor](demon-armor.md) | Armor | Requires attunement | B+40,000 GP | — |
     | [Dragon Scale Mail](dragon-scale-mail.md) | Armor | Requires attunement | B+40,000 GP | — |
@@ -814,6 +892,7 @@ Magic items by rarity. Click an item name to open its page. [All Magic Items](al
 === "Legendary"
     | Item Name | Type | Attunement | Price | Consumable |
     | --- | --- | --- | --- | --- |
+    | [Blood Fury Tattoo](tashas-cauldron-of-everything.md#blood-fury-tattoo) | Tattoo | Requires attunement | — | — |
     | [Apparatus of Kwalish](apparatus-of-kwalish.md) | Wondrous Item | — | 200,000 GP | — |
     | [Armor of Invulnerability](armor-of-invulnerability.md) | Armor | Requires attunement | B+200,000 GP | — |
     | [Armor, +1, +2, or +3](armor-1-2-or-3.md) | Armor | — | Varies | — |
@@ -865,17 +944,22 @@ Magic items by rarity. Click an item name to open its page. [All Magic Items](al
 === "Artifact"
     | Item Name | Type | Attunement | Price | Consumable |
     | --- | --- | --- | --- | --- |
+    | [Baba Yaga's Mortar and Pestle](tashas-cauldron-of-everything.md#baba-yagas-mortar-and-pestle) | Wondrous Item | Requires attunement | Priceless | — |
     | [Axe of the Dwarvish Lords](axe-of-the-dwarvish-lords.md) | Weapon | Requires attunement | Priceless | — |
     | [Blackrazor](blackrazor.md) | Weapon | Requires attunement | Priceless | — |
     | [Book of Exalted Deeds](book-of-exalted-deeds.md) | Wondrous Item | Requires attunement | Priceless | — |
     | [Book of Vile Darkness](book-of-vile-darkness.md) | Wondrous Item | Requires attunement | Priceless | — |
     | [Calimemnon Crystal](calimemnon-crystal.md) | Wondrous Item | Requires attunement | Priceless | — |
     | [Crown Of Horns](crown-of-horns.md) | Wondrous Item | Requires attunement | Priceless | — |
+    | [Crook of Rao](tashas-cauldron-of-everything.md#crook-of-rao) | Wondrous Item | Requires attunement | Priceless | — |
     | [Demonomicon of Iggwilv](demonomicon-of-iggwilv.md) | Wondrous Item | Requires attunement | Priceless | — |
     | [Eye and Hand of Vecna](eye-and-hand-of-vecna.md) | Wondrous Item | Requires attunement | Priceless | — |
+    | [Luba's Tarokka of Souls](tashas-cauldron-of-everything.md#lubas-tarokka-of-souls) | Wondrous Item | Requires attunement | Priceless | — |
+    | [Mighty Servant of Leuk-o](tashas-cauldron-of-everything.md#mighty-servant-of-leuk-o) | Wondrous Item | Requires attunement | Priceless | — |
     | [Orb of Damara](orb-of-damara.md) | Wondrous Item | Requires attunement | Priceless | — |
     | [Orb of Dragonkind](orb-of-dragonkind.md) | Wondrous Item | Requires attunement | Priceless | — |
     | [Sword of Kas](sword-of-kas.md) | Weapon | Requires attunement | Priceless | — |
+    | [Teeth of Dahlver-Nar](tashas-cauldron-of-everything.md#teeth-of-dahlver-nar) | Wondrous Item | Requires attunement | Priceless | — |
     | [Wand of Orcus](wand-of-orcus.md) | Wand | Requires attunement | Priceless | — |
     | [Wave](wave.md) | Weapon | Requires attunement | Priceless | — |
     | [Whelm](whelm.md) | Weapon | Requires attunement | Priceless | — |

@@ -1,6 +1,6 @@
 # Wondrous Item
 
-Magic items of type Wondrous Item. [All Magic Items](all.md).
+Magic items of type Wondrous Item. [All Magic Items](all.md). Magic items of type *Wondrous item (tattoo)* are listed on the [Tattoo](tattoo.md) page.
 
 === "Common"
     | Item Name | Attunement | Price | Consumable |
