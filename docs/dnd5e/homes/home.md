@@ -1159,6 +1159,8 @@ Way of the Ascendant Dragon
 •
 Way of the Astral Self
 •
+Way of the Kensei
+•
 Way of Mercy
 •
 Way of Tranquility
