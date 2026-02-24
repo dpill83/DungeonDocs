@@ -6,7 +6,7 @@ Source: *Player's Handbook (2024)*
 
 Casting Time: 1 minute
 Range: Touch
-Components: V, S, M(C*)
+Components: V, S, M (Mercury, phosphorus, powdered diamond and opal; 1000gp)
 Duration: Until dispelled or triggered
 
 You inscribe a harmful glyph either on a surface (such as a section of floor or wall) or within an object that can be closed (such as a book or chest). The glyph can cover an area no larger than 10 feet in diameter. If you choose an object, it must remain in place; if it is moved more than 10 feet from where you cast this spell, the glyph is broken, and the spell ends without being triggered.

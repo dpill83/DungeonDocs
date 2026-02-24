@@ -6,7 +6,7 @@ Source: *Player's Handbook (2024)*
 
 Casting Time: Action or R
 Range: Touch
-Components: V, S, M(C)
+Components: V, S, M (Pinch of salt or Copper coin (per eye))
 Duration: 10 days
 
 You touch a corpse or other remains. For the duration, the target is protected from decay and can’t become Undead.

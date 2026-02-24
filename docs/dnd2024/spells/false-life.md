@@ -6,7 +6,7 @@ Source: *Player's Handbook (2024)*
 
 Casting Time: Action
 Range: Self
-Components: V, S, M
+Components: V, S, M (Small amount of alcohol or distilled spirits)
 Duration: Instantaneous
 
 You gain 2d4 + 4 Temporary Hit Points.

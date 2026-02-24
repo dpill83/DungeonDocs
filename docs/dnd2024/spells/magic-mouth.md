@@ -6,7 +6,7 @@ Source: *Player's Handbook (2024)*
 
 Casting Time: 1 minute or R
 Range: 30 feet
-Components: V, S, M(C*)
+Components: V, S, M (Bit of honeycomb or Jade Dust, 10gp)
 Duration: Until dispelled
 
 You implant a message within an object in range - a message that is uttered when a trigger condition is met. Choose an object that you can see and that isn’t being worn or carried by another creature. Then speak the message, which must be 25 words or fewer, though it can be delivered over as long as 10 minutes. Finally, determine the circumstance that will trigger the spell to deliver your message.

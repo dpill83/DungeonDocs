@@ -6,7 +6,7 @@ Source: *Player's Handbook (2024)*
 
 Casting Time: Action
 Range: 60 feet
-Components: V, S, M
+Components: V, S, M (Lodestone or Pinch of dust)
 Duration: Instantaneous
 
 You launch a green ray at a target you can see within range. The target can be a creature, a nonmagical object, or a creation of magical force, such as the wall created by

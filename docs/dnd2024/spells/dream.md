@@ -6,7 +6,7 @@ Source: *Player's Handbook (2024)*
 
 Casting Time: 1 minute
 Range: Special
-Components: V, S, M
+Components: V, S, M (Handful of sand or Dab of ink or Writing Quill plucked from sleeping bird)
 Duration: 8 hours
 
 You target a creature you know on the same plane of existence. You or a willing creature you touch enters a trance state to act as a dream messenger. While in the trance, the messenger is Incapacitated and has a Speed of 0.

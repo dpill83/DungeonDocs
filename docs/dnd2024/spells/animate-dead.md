@@ -6,7 +6,7 @@ Source: *Player's Handbook (2024)*
 
 Casting Time: 1 minute
 Range: 10 feet
-Components: V, S, M
+Components: V, S, M (Drop of Blood or Piece of Flesh or Pinch of Bone Dust)
 Duration: Instantaneous
 
 Choose a pile of bones or a corpse of a Medium or Small Humanoid within range. The target becomes an Undead creature: a Skeleton if you chose bones or a Zombie if you chose a corpse (see appendix B for the stat blocks).

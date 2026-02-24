@@ -6,7 +6,7 @@ Source: *Player's Handbook (2024)*
 
 Casting Time: Action
 Range: 150 feet
-Components: V, S, M
+Components: V, S, M (Tiny ball of bat guano & sulfur)
 Duration: Instantaneous
 
 A bright streak flashes from you to a point you choose within range and then blossoms with a low roar into a fiery explosion. Each creature in a 20-foot-radius Sphere centered on that point makes a Dexterity saving throw, taking 8d6 Fire damage on a failed save or half as much damage on a successful one.

@@ -6,7 +6,7 @@ Source: *Player's Handbook (2024)*
 
 Casting Time: Action
 Range: Self
-Components: V, S, M
+Components: V, S, M (Holy Symbol)
 Duration: Concentration, up to 10 minutes
 
 Protective spirits flit around you in a 15-foot Emanation for the duration. If you are good or neutral, their spectral form appears angelic or fey (your choice). If you are evil, they appear fiendish.

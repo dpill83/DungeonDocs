@@ -6,7 +6,7 @@ Source: *Player's Handbook (2024)*
 
 Casting Time: Action
 Range: 500 feet
-Components: V, S, M
+Components: V, S, M (Pinch of dirt or Piece of rock or Lump of clay)
 Duration: Concentration, up to 1 minute
 
 Choose a point on the ground that you can see within range. For the duration, an intense tremor rips through the ground in a 100-foot-radius circle centered on that point. The ground there is Difficult Terrain.

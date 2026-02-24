@@ -6,7 +6,7 @@ Cantrip Transmutation (Artificer, Druid)
 
 Casting Time: Action
 Range: 30 feet
-Components: V, S, M
+Components: V, S, M (Stem of plant with thorns)
 Duration: Instantaneous
 
 You create a vine-like whip covered in thorns that lashes out at your command toward a creature in range. Make a melee spell attack against the target. On a hit, the target takes 1d6 Piercing damage, and if it is Large or smaller, you can pull it up to 10 feet closer to you.

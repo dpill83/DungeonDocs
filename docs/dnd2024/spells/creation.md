@@ -6,7 +6,7 @@ Source: *Player's Handbook (2024)*
 
 Casting Time: 1 minute
 Range: 30 feet
-Components: V, S, M
+Components: V, S, M (Tiny Piece of Matter (of type created))
 Duration: Special
 
 You pull wisps of shadow material from the Shadowfell to create an object within range. It is either an object of vegetable matter (soft goods, rope, wood, and the like) or mineral matter (stone, crystal, metal, and the like). The object must be no larger than a 5-foot Cube, and the object must be of a form and material that you have seen.

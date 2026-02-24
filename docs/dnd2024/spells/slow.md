@@ -6,7 +6,7 @@ Source: *Player's Handbook (2024)*
 
 Casting Time: Action
 Range: 120 feet
-Components: V, S, M
+Components: V, S, M (Drop of molasses)
 Duration: Concentration, up to 1 minute
 
 You alter time around up to six creatures of your choice in a 40-foot Cube within range. Each target must succeed on a Wisdom saving throw or be affected by this spell for the duration.

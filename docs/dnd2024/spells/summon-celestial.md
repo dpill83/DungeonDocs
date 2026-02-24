@@ -6,7 +6,7 @@ Source: *Player's Handbook (2024)*
 
 Casting Time: Action
 Range: 90 feet
-Components: V, S, M(C)
+Components: V, S, M (Golden reliquary, 500gp)
 Duration: Concentration, up to 1 hour
 
 You call forth a Celestial spirit. It manifests in an angelic form in an unoccupied space that you can see within range and uses the

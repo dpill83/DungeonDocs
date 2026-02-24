@@ -6,7 +6,7 @@ Cantrip Illusion (Bard, Sorcerer, Warlock, Wizard)
 
 Casting Time: Action
 Range: 30 feet
-Components: S, M
+Components: S, M (Bit of fleece)
 Duration: 1 minute
 
 You create a sound or an image of an object within range that lasts for the duration. See the descriptions below for the effects of each. The illusion ends if you cast this spell again.

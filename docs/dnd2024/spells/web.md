@@ -6,7 +6,7 @@ Source: *Player's Handbook (2024)*
 
 Casting Time: Action
 Range: 60 feet
-Components: V, S, M
+Components: V, S, M (Bit of spiderweb)
 Duration: Concentration, up to 1 hour
 
 You conjure a mass of sticky webbing at a point within range. The webs fill a 20-foot Cube there for the duration. The webs are Difficult Terrain, and the area within them is Lightly Obscured.

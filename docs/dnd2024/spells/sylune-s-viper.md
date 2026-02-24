@@ -6,7 +6,7 @@ Source: *Forgotten Realms Heroes of the Forgotten*
 
 Casting Time: Bonus Action
 Range: Self
-Components: V, S, M
+Components: V, S, M (a snake fang)
 Duration: 1 hour
 
 A shimmering, spectral snake encircles your body for the duration. You gain 15 Temporary Hit Points; the spell ends early if you have no Temporary Hit Points left.

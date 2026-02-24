@@ -6,7 +6,7 @@ Source: *Forgotten Realms Heroes of the Forgotten*
 
 Casting Time: Action
 Range: Self
-Components: V, S, M(C)
+Components: V, S, M (a pearl worth at least 100 gp)
 Duration: Concentration, up to 1 minute
 
 You imbue yourself with the elemental power of genies. You gain the following benefits until the spell ends:

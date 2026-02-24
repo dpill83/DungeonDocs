@@ -6,7 +6,7 @@ Source: *Forgotten Realms Heroes of the Forgotten*
 
 Casting Time: Action
 Range: 60 feet
-Components: V, S, M
+Components: V, S, M (a brass cog)
 Duration: Concentration, up to 10 minutes
 
 You conjure a group of intangible, orderly spirits that appear as a Medium group of modrons or other Constructs in an unoccupied space you can see within range. The spirits last for the duration.

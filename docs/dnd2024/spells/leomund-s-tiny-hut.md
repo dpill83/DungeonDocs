@@ -6,7 +6,7 @@ Source: *Player's Handbook (2024)*
 
 Casting Time: 1 minute or R
 Range: Self
-Components: V, S, M
+Components: V, S, M (Small crystal bead)
 Duration: 8 hours
 
 A 10-foot Emanation springs into existence around you and remains stationary for the duration. The spell fails when you cast it if the Emanation isn’t big enough to fully encapsulate all creatures in its area.

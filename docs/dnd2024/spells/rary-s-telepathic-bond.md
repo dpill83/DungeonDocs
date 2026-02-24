@@ -6,7 +6,7 @@ Source: *Player's Handbook (2024)*
 
 Casting Time: Action or R
 Range: 30 feet
-Components: V, S, M
+Components: V, S, M (Piece of eggshell (two types))
 Duration: 1 hour
 
 You forge a telepathic link among up to eight willing creatures of your choice within range, psychically linking each creature to all the others for the duration. Creatures that can’t communicate in any languages aren’t affected by this spell.

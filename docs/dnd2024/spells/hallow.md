@@ -6,7 +6,7 @@ Source: *Player's Handbook (2024)*
 
 Casting Time: 24 hours
 Range: Touch
-Components: V, S, M(C*)
+Components: V, S, M (Herbs, Oils & Incense, 1000gp)
 Duration: Until dispelled
 
 You touch a point and infuse an area around it with holy or unholy power. The area can have a radius up to 60 feet, and the spell fails if the radius includes an area already under the effect of

@@ -6,7 +6,7 @@ Source: *Player's Handbook (2024)*
 
 Casting Time: Action
 Range: 60 feet
-Components: V, S, M(C)
+Components: V, S, M (an object with the image of a dragon engraved on it, worth at least 500 gp)
 Duration: Concentration, up to 1 hour
 
 You call forth a Dragon spirit. It manifests in an unoccupied space that you can see within range and uses the

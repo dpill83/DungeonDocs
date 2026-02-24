@@ -6,7 +6,7 @@ Source: *Player's Handbook (2024)*
 
 Casting Time: 1 minute
 Range: 10 feet
-Components: V, S, M(C*)
+Components: V, S, M (Holy Water or Powdered Silver and Iron, 100gp)
 Duration: 1 hour
 
 You create a 10-foot-radius, 20-foot-tall Cylinder of magical energy centered on a point on the ground that you can see within range. Glowing runes appear wherever the Cylinder intersects with the floor or other surface.

@@ -6,7 +6,7 @@ Source: *Player's Handbook (2024)*
 
 Casting Time: Action
 Range: 60 feet
-Components: V, M
+Components: V, M (Bat Fur or Drop of Pitch or Piece of Coal)
 Duration: Concentration, up to 10 minutes
 
 For the duration, magical Darkness spreads from a point within range and fills a 15-foot-radius Sphere. Darkvision can’t see through it, and nonmagical light can’t illuminate it.

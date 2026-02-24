@@ -6,7 +6,7 @@ Cantrip Transmutation (Bard, Cleric, Druid, Sorcerer, Wizard)
 
 Casting Time: 1 minute
 Range: Touch
-Components: V, S, M
+Components: V, S, M (Two lodestones)
 Duration: Instantaneous
 
 Transmutation Cantrip (Bard, Cleric, Druid, Sorcerer, Wizard)

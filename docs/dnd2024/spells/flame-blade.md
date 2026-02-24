@@ -6,7 +6,7 @@ Source: *Player's Handbook (2024)*
 
 Casting Time: Bonus Action
 Range: Self
-Components: V, S, M
+Components: V, S, M (Leaf of sumac)
 Duration: Concentration, up to 10 minutes
 
 You evoke a fiery blade in your free hand. The blade is similar in size and shape to a scimitar, and it lasts for the duration. If you let go of the blade, it disappears, but you can evoke it again as a Bonus Action.

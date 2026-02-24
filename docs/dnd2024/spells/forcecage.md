@@ -6,7 +6,7 @@ Source: *Player's Handbook (2024)*
 
 Casting Time: Action
 Range: 100 feet
-Components: V, S, M(C*)
+Components: V, S, M (Ruby Dust, 1500gp)
 Duration: Concentration, up to 1 hour
 
 An immobile, Invisible, Cube-shaped prison composed of magical force springs into existence around an area you choose within range. The prison can be a cage or a solid box, as you choose.

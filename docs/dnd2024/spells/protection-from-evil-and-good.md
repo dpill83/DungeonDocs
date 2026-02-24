@@ -6,7 +6,7 @@ Source: *Player's Handbook (2024)*
 
 Casting Time: Action
 Range: Touch
-Components: V, S, M(C*)
+Components: V, S, M (Holy Water or Powdered silver and iron)
 Duration: Concentration, up to 10 minutes
 
 Concentration up to 10 minutes

@@ -6,7 +6,7 @@ Source: *Player's Handbook (2024)*
 
 Casting Time: Action or R
 Range: Self
-Components: V, S, M
+Components: V, S, M (Yew Leaf)
 Duration: Concentration, up to 10 minutes
 
 For the duration, you sense the location of poisons, poisonous or venomous creatures, and magical contagions within 30 feet of yourself. You sense the kind of poison, creature, or contagion in each case.

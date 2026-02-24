@@ -6,7 +6,7 @@ Source: *Player's Handbook (2024)*
 
 Casting Time: Action
 Range: Touch
-Components: V, S, M(C*)
+Components: V, S, M (Powdered diamond, emerald, ruby, and sapphire; 5000gp)
 Duration: Until dispelled
 
 With a touch, you magically sequester an object or a willing creature. For the duration, the target has the Invisible condition and can’t be targeted by Divination spells, detected by magic, or viewed remotely with magic.

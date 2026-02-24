@@ -6,7 +6,7 @@ Source: *Player's Handbook (2024)*
 
 Casting Time: Action
 Range: 30 feet
-Components: V, S, M
+Components: V, S, M (Tiny Strip of White Cloth)
 Duration: 8 hours
 
 Choose up to three creatures within range. Each target’s Hit Point maximum and current Hit Points increase by 5 for the duration.

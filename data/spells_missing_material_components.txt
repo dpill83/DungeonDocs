@@ -1,0 +1,9 @@
+Spells with Material (M) components but no full description.
+Fill in the 'component:' line for each spell. Then run:
+  python scripts/list_spells_missing_material_components.py --apply
+to update the spell pages and index, and regenerate this list.
+
+Format: spellcasting focus can substitute unless there's a cost or consumed note.
+Example: component: diamonds worth 300 gp, which the spell consumes
+
+---

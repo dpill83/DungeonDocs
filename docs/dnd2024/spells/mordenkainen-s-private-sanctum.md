@@ -6,7 +6,7 @@ Source: *Player's Handbook (2024)*
 
 Casting Time: 10 minutes
 Range: 120 feet
-Components: V, S, M
+Components: V, S, M (Thin sheet of lead or Piece of opaque glass or Wad of cotton or Wad of cloth or Powdered chrysolite)
 Duration: 24 hours
 
 You make an area within range magically secure. The area is a Cube that can be as small as 5 feet to as large as 100 feet on each side. The spell lasts for the duration.

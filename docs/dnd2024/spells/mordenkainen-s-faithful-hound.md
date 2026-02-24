@@ -6,7 +6,7 @@ Source: *Player's Handbook (2024)*
 
 Casting Time: Action
 Range: 30 feet
-Components: V, S, M
+Components: V, S, M (Tiny silver whistle or Piece of bone or Thread)
 Duration: 8 hours
 
 You conjure a phantom watchdog in an unoccupied space that you can see within range. The hound remains for the duration or until the two of you are more than 300 feet apart from each other.

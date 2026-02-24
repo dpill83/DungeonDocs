@@ -6,7 +6,7 @@ Source: *Player's Handbook (2024)*
 
 Casting Time: 1 minute
 Range: 10 feet
-Components: V, S, M(C)
+Components: V, S, M (Clay Pot filled with Grave Dirt or Clay Pot filled with Brackish Water or Black Onyx, 150gp)
 Duration: Instantaneous
 
 You can cast this spell only at night. Choose up to three corpses of Medium or Small Humanoids within range. Each one becomes a Ghoul under your control (see the Monster Manual for its stat block).

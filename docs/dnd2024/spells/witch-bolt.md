@@ -6,7 +6,7 @@ Source: *Player's Handbook (2024)*
 
 Casting Time: Action
 Range: 60 feet
-Components: V, S, M
+Components: V, S, M (Twig from tree struck by lightning)
 Duration: Concentration, up to 1 minute
 
 A beam of crackling energy lances toward a creature within range, forming a sustained arc of lightning between you and the target. Make a ranged spell attack against it. On a hit, the target takes 2d12 Lightning damage.

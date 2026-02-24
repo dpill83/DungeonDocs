@@ -6,7 +6,7 @@ Source: *Player's Handbook (2024)*
 
 Casting Time: Action
 Range: Touch
-Components: V, S, M
+Components: V, S, M (Wing feather of any bird)
 Duration: Concentration, up to 10 minutes
 
 You touch a willing creature. For the duration, the target gains a Fly Speed of 60 feet and can hover. When the spell ends, the target falls if it is still aloft unless it can stop the fall.

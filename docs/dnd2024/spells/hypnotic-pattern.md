@@ -6,7 +6,7 @@ Source: *Player's Handbook (2024)*
 
 Casting Time: Action
 Range: 120 feet
-Components: S, M
+Components: S, M (Small glowing stick of incense or Crystal Vial of phosphorescent material)
 Duration: Concentration, up to 1 minute
 
 You create a twisting pattern of colors in a 30-foot Cube within range. The pattern appears for a moment and vanishes. Each creature in the area who can see the pattern must succeed on a Wisdom saving throw or have the Charmed condition for the duration. While Charmed, the creature has the Incapacitated condition and a Speed of 0.

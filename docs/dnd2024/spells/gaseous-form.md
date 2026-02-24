@@ -6,7 +6,7 @@ Source: *Player's Handbook (2024)*
 
 Casting Time: Action
 Range: Touch
-Components: V, S, M
+Components: V, S, M (Bit of gauze or Wisp of smoke)
 Duration: Concentration, up to 1 hour
 
 A willing creature you touch shape-shifts, along with everything it’s wearing and carrying, into a misty cloud for the duration. The spell ends on the target if it drops to 0 Hit Points or if it takes a Magic action to end the spell on itself.

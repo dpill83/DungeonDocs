@@ -6,7 +6,7 @@ Source: *Player's Handbook (2024)*
 
 Casting Time: Action
 Range: 300 feet
-Components: V, S, M
+Components: V, S, M (Few grains of sugar or Some kernels of grain or Smear of fat)
 Duration: Concentration, up to 10 minutes
 
 Swarming locusts fill a 20-foot-radius Sphere centered on a point you choose within range. The Sphere remains for the duration, and its area is Lightly Obscured and Difficult Terrain.

@@ -6,7 +6,7 @@ Source: *Forgotten Realms Heroes of the Forgotten*
 
 Casting Time: Action
 Range: 60 feet
-Components: V, S, M
+Components: V, S, M (a miniature shield)
 Duration: Instantaneous
 
 You hurl a disorienting magical force toward one creature within range. The target makes a Constitution saving throw; Constructs and Undead automatically succeed on this save.

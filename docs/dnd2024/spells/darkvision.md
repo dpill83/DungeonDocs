@@ -6,7 +6,7 @@ Source: *Player's Handbook (2024)*
 
 Casting Time: Action
 Range: Touch
-Components: V, S, M
+Components: V, S, M (Pinch of Dried Carrot or Agate)
 Duration: 8 hours
 
 For the duration, a willing creature you touch has Darkvision with a range of 150 feet.

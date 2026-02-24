@@ -6,7 +6,7 @@ Source: *Player's Handbook (2024)*
 
 Casting Time: Action
 Range: 300 feet
-Components: V, S, M
+Components: V, S, M (Drop of Water or Pinch of Dust)
 Duration: Concentration, up to 10 minutes
 
 Until the spell ends, you control any water inside an area you choose that is a Cube up to 100 feet on a side, using one of the following effects. As a Magic action on your later turns, you can repeat the same effect or choose a different one.

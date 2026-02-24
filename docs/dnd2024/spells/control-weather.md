@@ -6,7 +6,7 @@ Source: *Player's Handbook (2024)*
 
 Casting Time: 10 minutes
 Range: Self
-Components: V, S, M
+Components: V, S, M (Burning Incense or Bits of Earth & Wood mixed in Water)
 Duration: Concentration, up to 8 hours
 
 You take control of the weather within 5 miles of you for the duration. You must be outdoors to cast this spell, and it ends early if you go indoors.

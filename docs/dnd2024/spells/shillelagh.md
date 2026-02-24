@@ -6,7 +6,7 @@ Cantrip Transmutation (Druid)
 
 Casting Time: Bonus Action
 Range: Self
-Components: V, S, M
+Components: V, S, M (Mistletoe or Shamrock leaf or Club or Quarterstaff)
 Duration: 1 minute
 
 A Club or Quarterstaff you are holding is imbued with nature’s power. For the duration, you can use your spellcasting ability instead of Strength for the attack and damage rolls of melee attacks using that weapon, and the weapon’s damage die becomes a d8. If the attack deals damage, it can be Force damage or the weapon’s normal damage type (your choice).

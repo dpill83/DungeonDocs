@@ -6,7 +6,7 @@ Source: *Forgotten Realms Heroes of the Forgotten*
 
 Casting Time: Action
 Range: Self
-Components: V, S, M(C)
+Components: V, S, M (a moonstone)
 Duration: Concentration, up to 1 minute
 
 For the duration, moonlight fills a 20-foot Emanation originating from you with Dim Light. While in that area, you and your allies have Half Cover and Resistance to Cold, Lightning, and Radiant damage.

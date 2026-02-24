@@ -6,7 +6,7 @@ Source: *Player's Handbook (2024)*
 
 Casting Time: Action
 Range: 150 feet
-Components: V, S, M
+Components: V, S, M (a key ring)
 Duration: Instantaneous
 
 You blast the mind of a creature that you can see within range. The target makes an Intelligence saving throw.

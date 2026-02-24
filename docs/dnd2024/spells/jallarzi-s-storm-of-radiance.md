@@ -6,7 +6,7 @@ Source: *Player's Handbook (2024)*
 
 Casting Time: Action
 Range: 120 feet
-Components: V, S, M
+Components: V, S, M (a pinch of sulphur)
 Duration: Concentration, up to 1 minute
 
 You unleash a storm of flashing light and raging thunder in a 10-foot-radius, 40-foot-high Cylinder centered on a point you can see within range. While in this area, creatures have the Blinded and Deafened conditions, and they can’t cast spells with a Verbal component.

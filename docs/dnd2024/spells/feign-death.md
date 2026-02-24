@@ -6,7 +6,7 @@ Source: *Player's Handbook (2024)*
 
 Casting Time: Action or R
 Range: Touch
-Components: V, S, M
+Components: V, S, M (Pinch of graveyard dust)
 Duration: 1 hour
 
 You touch a willing creature and put it into a cataleptic state that is indistinguishable from death.

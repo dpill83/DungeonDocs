@@ -6,7 +6,7 @@ Source: *Player's Handbook (2024)*
 
 Casting Time: Action
 Range: Self
-Components: V, S, M
+Components: V, S, M (White feather or Heart of a hen)
 Duration: Concentration, up to 1 minute
 
 Each creature in a 30-foot Cone must succeed on a Wisdom saving throw or drop whatever it is holding and have the Frightened condition for the duration.

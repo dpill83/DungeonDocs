@@ -6,7 +6,7 @@ Source: *Player's Handbook (2024)*
 
 Casting Time: 10 minutes
 Range: 1 mile
-Components: V, S, M(C)
+Components: V, S, M (Jeweled Horn, 100gp or Glass Eye, 100gp)
 Duration: Concentration, up to 10 minutes
 
 You create an Invisible sensor within range in a location familiar to you (a place you have visited or seen before) or in an obvious location that is unfamiliar to you (such as behind a door, around a corner, or in a grove of trees). The intangible, invulnerable sensor remains in place for the duration.

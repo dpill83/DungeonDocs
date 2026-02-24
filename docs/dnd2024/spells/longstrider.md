@@ -6,7 +6,7 @@ Source: *Player's Handbook (2024)*
 
 Casting Time: Action
 Range: Touch
-Components: V, S, M
+Components: V, S, M (Pinch of dirt)
 Duration: 1 hour
 
 You touch a creature. The target’s Speed increases by 10 feet until the spell ends.

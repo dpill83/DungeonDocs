@@ -6,7 +6,7 @@ Source: *Player's Handbook (2024)*
 
 Casting Time: Action
 Range: Self
-Components: V, S, M
+Components: V, S, M (Copper piece)
 Duration: Concentration, up to 1 minute
 
 You activate one of the effects below. Until the spell ends, you can activate either effect as a Magic action on your later turns.

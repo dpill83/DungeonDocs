@@ -6,7 +6,7 @@ Source: *Player's Handbook (2024)*
 
 Casting Time: Action
 Range: Self
-Components: V, S, M
+Components: V, S, M (Holy Water or Powdered Silver or Powdered Iron)
 Duration: Concentration, up to 1 minute
 
 For the duration, Celestials, Elementals, Fey, Fiends, and Undead have Disadvantage on attack rolls against you. You can end the spell early by using either of the following special functions.

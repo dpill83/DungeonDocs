@@ -6,7 +6,7 @@ Source: *Forgotten Realms Heroes of the Forgotten*
 
 Casting Time: Action
 Range: Self
-Components: V, S, M(C)
+Components: V, S, M (an opal worth at least 50 gp)
 Duration: 1 hour
 
 Six chromatic spheres orbit you for the duration.

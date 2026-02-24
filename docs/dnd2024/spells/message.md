@@ -6,7 +6,7 @@ Cantrip Transmutation (Artificer, Bard, Druid, Sorcerer, Wizard)
 
 Casting Time: Action
 Range: 120 feet
-Components: S, M
+Components: S, M (Short piece of copper wire)
 Duration: 1 round
 
 Transmutation Cantrip (Artificer, Bard, Druid, Sorcerer, Wizard)

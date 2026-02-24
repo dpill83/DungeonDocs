@@ -6,7 +6,7 @@ Source: *Forgotten Realms Heroes of the Forgotten*
 
 Casting Time: Action or R
 Range: Self
-Components: V, S, M(C*)
+Components: V, S, M (powdered ginger)
 Duration: 8 hours
 
 You summon a group of helpful spirits, which lasts for the duration. The spirits appear as homunculi or as another Construct of your choice but are intangible and invulnerable, and they are considered to have proficiency in the Arcana skill and with the set of Artisan’s Tools used in the spell’s casting.

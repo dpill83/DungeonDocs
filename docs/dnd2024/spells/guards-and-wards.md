@@ -6,7 +6,7 @@ Source: *Player's Handbook (2024)*
 
 Casting Time: 1 hour
 Range: Touch
-Components: V, S, M
+Components: V, S, M (Burning Incense or Small measure of brimstone or Small measure of oil or Knotted string or Small amount of umber hulk blood or Small silver rod, 10gp)
 Duration: 24 hours
 
 You create a ward that protects up to 2,500 square feet of floor space. The warded area can be up to 20 feet tall, and you shape it as one 50-foot square, one hundred 5-foot squares that are contiguous, or twenty-five 10-foot squares that are contiguous.

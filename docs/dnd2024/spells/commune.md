@@ -6,7 +6,7 @@ Source: *Player's Handbook (2024)*
 
 Casting Time: 1 minute or R
 Range: Self
-Components: V, S, M
+Components: V, S, M (Incense or Vial of Holy Water or Vial of Unholy Water)
 Duration: 1 minute
 
 You contact a deity or a divine proxy and ask up to three questions that can be answered with yes or no. You must ask your questions before the spell ends. You receive a correct answer for each question.

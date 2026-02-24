@@ -6,7 +6,7 @@ Source: *Player's Handbook (2024)*
 
 Casting Time: 10 minutes
 Range: Self
-Components: V, S, M(C*)
+Components: V, S, M (Incense, 250gp or Ivory strip, 50gp)
 Duration: Instantaneous
 
 Name or describe a famous person, place, or object. The spell brings to your mind a brief summary of the significant lore about that famous thing, as described by the DM.

@@ -6,7 +6,7 @@ Source: *Player's Handbook (2024)*
 
 Casting Time: 12 hours
 Range: Touch
-Components: V, S, M(C*)
+Components: V, S, M (Snow/ice to creature size or Fingernail, hair or body parts of creature or Powdered Ruby, 1500gp)
 Duration: Until dispelled
 
 You create a simulacrum of one Beast or Humanoid that is within 10 feet of you for the entire casting of the spell. You finish the casting by touching both the creature and a pile of ice or snow that is the same size as that creature, and the pile turns into the simulacrum, which is a creature. It uses the game statistics of the original creature at the time of casting, except it is a Construct, its Hit Point maximum is half as much, and it can’t cast this spell.

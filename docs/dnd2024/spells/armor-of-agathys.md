@@ -6,7 +6,7 @@ Source: *Player's Handbook (2024)*
 
 Casting Time: Bonus Action
 Range: Self
-Components: V, S, M
+Components: V, S, M (Cup of Water)
 Duration: 1 hour
 
 Protective magical frost surrounds you. You gain 5 Temporary Hit Points. If a creature hits you with a melee attack roll before the spell ends, the creature takes 5 Cold damage. The spell ends early if you have no Temporary Hit Points.

@@ -6,7 +6,7 @@ Source: *Player's Handbook (2024)*
 
 Casting Time: Action
 Range: 150 feet
-Components: V, S, M
+Components: V, S, M (Pinch of dust or Few drops of water)
 Duration: Concentration, up to 1 minute
 
 Until the spell ends, sleet falls in a 40-foot-tall, 20-foot-radius Cylinder centered on a point you choose within range. The area is Heavily Obscured, and exposed flames in the area are doused.

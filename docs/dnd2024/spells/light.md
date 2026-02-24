@@ -6,7 +6,7 @@ Cantrip Evocation (Artificer, Bard, Cleric, Sorcerer, Wizard)
 
 Casting Time: Action
 Range: Touch
-Components: V, M
+Components: V, M (Firefly or Phosphorescent moss)
 Duration: 1 hour
 
 Evocation Cantrip (Artificer, Bard, Cleric, Sorcerer, Wizard)

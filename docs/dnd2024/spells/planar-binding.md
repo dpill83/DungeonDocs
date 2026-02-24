@@ -6,7 +6,7 @@ Source: *Player's Handbook (2024)*
 
 Casting Time: 1 hour
 Range: 60 feet
-Components: V, S, M(C*)
+Components: V, S, M (Jewel, 1000gp)
 Duration: 24 hours
 
 You attempt to bind a Celestial, an Elemental, a Fey, or a Fiend to your service. The creature must be within range for the entire casting of the spell. (Typically, the creature is first summoned into the center of the inverted version of the
