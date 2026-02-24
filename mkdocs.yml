@@ -37,6 +37,15 @@ plugins:
   - og_meta_plugin
   - search:
       separator: '[\s\-]+'
+  - exclude-search:
+      exclude:
+        - dnd2024/unearthed-arcana/*
+        # Index/listing pages (search index uses URL path, e.g. dnd2024/equipments/)
+        - dnd2024/equipments
+        - dnd2024/equipments/all
+        - dnd2024/magic-items
+        - dnd2024/magic-items/all
+        - dnd2024/magic-items/armor
 
 markdown_extensions:
   - tables

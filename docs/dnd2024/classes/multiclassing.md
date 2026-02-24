@@ -12,7 +12,7 @@ To qualify for a new class, you must have a score of at least 13 in the primary 
 
 ## Experience Points
 
-The Experience Point cost to gain a level is based on your total character level, not your level in a particular class, as shown in the Character Advancement table in this chapter. For example, if you are a level 6 Cleric / level 1 Fighter, you must gain enough XP to reach level 8 before you can take your second level as a Fighter or your seventh level as a Cleric.
+The Experience Point cost to gain a level is based on your total character level, not your level in a particular class. For example, if you are a level 6 Cleric / level 1 Fighter, you must gain enough XP to reach level 8 before you can take your second level as a Fighter or your seventh level as a Cleric.
 
 ## Hit Points and Hit Dice
 
@@ -22,7 +22,7 @@ Add together the Hit Dice granted by all your classes to form your pool of Hit D
 
 ## Proficiency Bonus
 
-Your Proficiency Bonus is based on your total character level, not your level in a particular class, as shown in the Character Advancement table. For example, if you are a level 3 Fighter / level 2 Rogue, you have the Proficiency Bonus of a level 5 character, which is +3.
+Your Proficiency Bonus is based on your total character level, not your level in a particular class. For example, if you are a level 3 Fighter / level 2 Rogue, you have the Proficiency Bonus of a level 5 character, which is +3.
 
 ## Proficiencies
 

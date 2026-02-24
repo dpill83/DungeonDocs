@@ -32,7 +32,7 @@ Gain the Paladin's level 1 features, which are listed in the Paladin Features ta
 
 **As a Multiclass Character**  
 Gain the following traits from the Core Paladin Traits table: Hit Point Die, proficiency with Martial weapons, and training with Light and Medium armor and Shields.  
-Gain the Paladin's level 1 features, which are listed in the Paladin Features table. See the multiclassing rules in multiclassing to determine your available spell slots.
+Gain the Paladin's level 1 features, which are listed in the Paladin Features table. See the [multiclassing](../multiclassing.md) rules to determine your available spell slots.
 
 ## Paladin Features (Part A)
 
@@ -100,7 +100,7 @@ You can also expend 5 Hit Points from the pool of healing power to remove the Po
 
 ## Level 1: Spellcasting
 
-You have learned to cast spells through prayer and meditation. See Chapter 7 for the rules on Spellcasting. The Information below details how you use those rules with Paladin spells, which appear in the Paladin spell list later in the class's description.
+You have learned to cast spells through prayer and meditation. See the [rules on Spellcasting](../../spells/spells.md) for details. The information below details how you use those rules with Paladin spells, which appear in the [Paladin spell list](spell-list.md) later in the class's description.
 
 **Spell Slots.** The Paladin Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.
 
@@ -124,9 +124,9 @@ Whenever you finish a Long Rest, you can change the kinds of weapons you chose. 
 
 ## Level 2: Fighting Style
 
-You gain a Fighting Style feat of your choice (see chapter 5). Instead of choosing one of those feats, you can choose the option below.
+You gain a Fighting Style feat of your choice (see [Fighting Style feats](../../feats/index.md#fighting-style-feats)). Instead of choosing one of those feats, you can choose the option below.
 
-**Blessed Warrior.** You learn two Cleric cantrips of your choice (See the Cleric class's section for a list of Cleric spells). Guidance and Sacred Flame are recommended. The chosen cantrips count as Paladin spells for you, and Charisma is your spellcasting ability for them. Whenever you gain a Paladin level, you can replace one of these cantrips with another Cleric cantrip.
+**Blessed Warrior.** You learn two Cleric cantrips of your choice (see the [Cleric spell list](../../classes/cleric/spell-list.md) for Cleric spells). Guidance and Sacred Flame are recommended. The chosen cantrips count as Paladin spells for you, and Charisma is your spellcasting ability for them. Whenever you gain a Paladin level, you can replace one of these cantrips with another Cleric cantrip.
 
 ## Level 2: Paladin's Smite
 
