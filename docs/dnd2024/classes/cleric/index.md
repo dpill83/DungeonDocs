@@ -117,22 +117,22 @@ You roll an additional d8 when you reach Cleric levels 7 (2d8), 13 (3d8), and 18
 ### Level 3: Cleric Subclass
 You gain a Cleric subclass of your choice. The Arcana, Death, Forge, Grave, Knowledge, Life, Light, Nature, Order, Peace, Tempest, Trickery, Twilight, and War Domain subclasses are detailed after this class’s description. A subclass is a specialization that grants you features at certain Cleric levels. For the rest of your career, you gain each of your subclass’s features that are of your Cleric level or lower.
 
-| Name            |
-|-----------------|
-| Arcana Domain   |
-| Death Domain   |
-| Forge Domain   |
-| Grave Domain   |
-| Knowledge Domain|
-| Life Domain     |
-| Light Domain    |
-| Nature Domain   |
-| Order Domain    |
-| Peace Domain    |
-| Tempest Domain  |
-| Trickery Domain |
-| Twilight Domain |
-| War Domain      |
+| Domain |
+|--------|
+| [Arcana Domain](arcana-domain.md) |
+| [Death Domain](death-domain.md) |
+| [Forge Domain](forge-domain.md) |
+| [Grave Domain](grave-domain.md) |
+| [Knowledge Domain](knowledge-domain.md) |
+| [Life Domain](life-domain.md) |
+| [Light Domain](light-domain.md) |
+| [Nature Domain](nature-domain.md) |
+| [Order Domain](order-domain.md) |
+| [Peace Domain](peace-domain.md) |
+| [Tempest Domain](tempest-domain.md) |
+| [Trickery Domain](trickery-domain.md) |
+| [Twilight Domain](twilight-domain.md) |
+| [War Domain](war-domain.md) |
 
 ### Level 4: Ability Score Improvement
 You gain the Ability Score Improvement feat or another feat of your choice for which you qualify. You gain this feature again at Cleric levels 8, 12, and 16.

@@ -19,4 +19,4 @@ A searchable D&D rules reference.
 - **[Spells](dnd2024/spells/index.md)** – By level and school
 - **[Reference](dnd2024/reference/index.md)** – Optional rules, Bastions, Unearthed Arcana
 
-Search above to find anything by name.
+For my wife.
