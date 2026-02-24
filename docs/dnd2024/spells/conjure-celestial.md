@@ -16,5 +16,5 @@ Searing Light.
 The target makes a Dexterity saving throw, taking 6d12 Radiant damage on a failed save or half as much damage on a successful one.
 Until the spell ends, Bright Light fills the Cylinder, and when you move on your turn, you can also move the Cylinder up to 30 feet.
 Whenever the Cylinder moves into the space of a creature you can see and whenever a creature you can see enters the Cylinder or ends its turn there, you can bathe it in one of the lights. A creature can be affected by this spell only once per turn.
-**Using a Higher-Level Spell Slot.**            
+**Using a Higher-Level Spell Slot.**                
 The healing and damage increase by 1d12 for each spell slot level above 7.

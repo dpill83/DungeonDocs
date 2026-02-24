@@ -6,7 +6,7 @@ Source: *Player's Handbook (2024)*
 
 Casting Time: Action
 Range: Touch
-Components: V, S, M(C*)
+Components: V, S, M (diamond dust worth at least 100 gp, which the spell consumes)
 Duration: Instantaneous
 
 You touch a creature and magically remove one of the following effects from it:

@@ -44,7 +44,7 @@ Spells by level. Click a spell name to open its page.
     | [Armor of Agathys](armor-of-agathys.md) | 1st Level | Abjuration | Warlock | Bonus Action | Self | V, S, M | 1 hour |
     | [Arms of Hadar](arms-of-hadar.md) | 1st Level | Conjuration | Warlock | Action | Self | V, S | Instantaneous |
     | [Bane](bane.md) | 1st Level | Enchantment | Bard, Cleric, Warlock | Action | 30 feet | V, S, M | C, up to 1 minute |
-    | [Bless](bless.md) | 1st Level | Enchantment | Cleric, Paladin | Action | 30 feet | V, S, M(C) | C, up to 1 minute |
+    | [Bless](bless.md) | 1st Level | Enchantment | Cleric, Paladin | Action | 30 feet | V, S, M (a sprinkling of holy water) | C, up to 1 minute |
     | [Burning Hands](burning-hands.md) | 1st Level | Evocation | Sorcerer, Wizard | Action | Self | V, S | Instantaneous |
     | [Charm Person](charm-person.md) | 1st Level | Enchantment | Bard, Druid, Sorcerer, Warlock, Wizard | Action | 30 feet | V, S | 1 hour |
     | [Chromatic Orb](chromatic-orb.md) | 1st Level | Evocation | Sorcerer, Wizard | Action | 90 feet | V, S, M(C) | Instantaneous |
@@ -78,7 +78,7 @@ Spells by level. Click a spell name to open its page.
     | [Hex](hex.md) | 1st Level | Enchantment | Warlock | Bonus Action | 90 feet | V, S, M | C, up to 1 hour |
     | [Hunter's Mark](hunter-s-mark.md) | 1st Level | Divination | Ranger | Bonus Action | 90 feet | V | C, up to 1 hour |
     | [Ice Knife](ice-knife.md) | 1st Level | Conjuration | Druid, Sorcerer, Wizard | Action | 60 feet | S, M | Instantaneous |
-    | [Identify](identify.md) | 1st Level | Divination | Artificer, Bard, Wizard | 1 minute or R | Touch | V, S, M(C) | Instantaneous |
+    | [Identify](identify.md) | 1st Level | Divination | Artificer, Bard, Wizard | 1 minute or R | Touch | V, S, M (a pearl worth at least 100 gp and an owl feather) | Instantaneous |
     | [Illusory Script](illusory-script.md) | 1st Level | Illusion | Bard, Warlock, Wizard | 1 minute or R | Touch | S, M(C*) | 10 days |
     | [Inflict Wounds](inflict-wounds.md) | 1st Level | Necromancy | Cleric | Action | Touch | V, S | Instantaneous |
     | [Jump](jump.md) | 1st Level | Transmutation | Artificer, Druid, Ranger, Sorcerer, Wizard | Bonus Action | Touch | V, S, M | 1 minute |
@@ -107,9 +107,9 @@ Spells by level. Click a spell name to open its page.
     | [Aid](aid.md) | 2nd Level | Abjuration | Artificer, Bard, Cleric, Druid, Paladin, Ranger | Action | 30 feet | V, S, M | 8 hours |
     | [Alter Self](alter-self.md) | 2nd Level | Transmutation | Artificer, Sorcerer, Wizard | Action | Self | V, S | C, up to 1 hour |
     | [Animal Messenger](animal-messenger.md) | 2nd Level | Enchantment | Bard, Druid, Ranger | Action or R | 30 feet | V, S, M | 24 hours |
-    | [Arcane Lock](arcane-lock.md) | 2nd Level | Abjuration | Artificer, Wizard | Action | Touch | V, S, M(C*) | Until dispelled |
+    | [Arcane Lock](arcane-lock.md) | 2nd Level | Abjuration | Artificer, Wizard | Action | Touch | V, S, M (gold dust worth at least 25 gp, which the spell consumes) | Until dispelled |
     | [Arcane Vigor](arcane-vigor.md) | 2nd Level | Abjuration | Artificer, Sorcerer, Wizard | Bonus Action | Self | V, S | Instantaneous |
-    | [Augury](augury.md) | 2nd Level | Divination | Cleric, Druid, Wizard | 1 minute or R | Self | V, S, M(C*) | Instantaneous |
+    | [Augury](augury.md) | 2nd Level | Divination | Cleric, Druid, Wizard | 1 minute or R | Self | V, S, M (specially marked sticks, bones, or similar tokens worth at least 25 gp) | Instantaneous |
     | [Barkskin](barkskin.md) | 2nd Level | Transmutation | Druid, Ranger | Bonus Action | Touch | V, S, M | 1 hour |
     | [Beast Sense](beast-sense.md) | 2nd Level | Divination | Druid, Ranger | Action or R | Touch | S | C, up to 1 hour |
     | [Blindness/Deafness](blindness-deafness.md) | 2nd Level | Transmutation | Bard, Cleric, Sorcerer, Wizard | Action | 120 feet | V | 1 minute |
@@ -210,7 +210,7 @@ Spells by level. Click a spell name to open its page.
     | [Plant Growth](plant-growth.md) | 3rd Level | Transmutation | Bard, Druid, Ranger | Action (Overgrowth) or 8 hours (Enrichment) | 150 feet | V, S | Instantaneous |
     | [Protection from Energy](protection-from-energy.md) | 3rd Level | Abjuration | Artificer, Cleric, Druid, Ranger, Sorcerer, Wizard | Action | Touch | V, S | C, up to 1 hour |
     | [Remove Curse](remove-curse.md) | 3rd Level | Abjuration | Cleric, Paladin, Warlock, Wizard | Action | Touch | V, S | Instantaneous |
-    | [Revivify](revivify.md) | 3rd Level | Necromancy | Artificer, Cleric, Druid, Paladin, Ranger | Action | Touch | V, S, M(C*) | Instantaneous |
+    | [Revivify](revivify.md) | 3rd Level | Necromancy | Artificer, Cleric, Druid, Paladin, Ranger | Action | Touch | V, S, M (diamonds worth 300 gp, which the spell consumes) | Instantaneous |
     | [Sending](sending.md) | 3rd Level | Divination | Bard, Cleric, Wizard | Action | Unlimited | V, S, M | Instantaneous |
     | [Sleet Storm](sleet-storm.md) | 3rd Level | Conjuration | Druid, Sorcerer, Wizard | Action | 150 feet | V, S, M | C, up to 1 minute |
     | [Slow](slow.md) | 3rd Level | Transmutation | Bard, Sorcerer, Wizard | Action | 120 feet | V, S, M | C, up to 1 minute |
@@ -240,7 +240,7 @@ Spells by level. Click a spell name to open its page.
     | [Control Water](control-water.md) | 4th Level | Transmutation | Cleric, Druid, Wizard | Action | 300 feet | V, S, M | C, up to 10 minutes |
     | [Death Ward](death-ward.md) | 4th Level | Abjuration | Cleric, Paladin | Action | Touch | V, S | 8 hours |
     | [Dimension Door](dimension-door.md) | 4th Level | Conjuration | Bard, Sorcerer, Warlock, Wizard | Action | 500 feet | V | Instantaneous |
-    | [Divination](divination.md) | 4th Level | Divination | Cleric, Druid, Wizard | Action or R | Self | V, S, M(C*) | Instantaneous |
+    | [Divination](divination.md) | 4th Level | Divination | Cleric, Druid, Wizard | Action or R | Self | V, S, M (incense and a sacrificial offering appropriate to your religion, together worth at least 25 gp, which the spell consumes) | Instantaneous |
     | [Dominate Beast](dominate-beast.md) | 4th Level | Enchantment | Druid, Ranger, Sorcerer | Action | 60 feet | V, S | C, up to 1 minute |
     | [Doomtide](doomtide.md) | 4th Level | Conjuration | Bard, Cleric, Warlock | Action | 120 feet | V, S, M | C, up to 1 minute |
     | [Evard's Black Tentacles](evard-s-black-tentacles.md) | 4th Level | Conjuration | Wizard | Action | 90 feet | V, S, M | C, up to 1 minute |
@@ -264,7 +264,7 @@ Spells by level. Click a spell name to open its page.
     | [Spellfire Storm](spellfire-storm.md) | 4th Level | Evocation | Sorcerer, Wizard | Action | 60 feet | V, S | C, up to 1 minute |
     | [Staggering Smite](staggering-smite.md) | 4th Level | Enchantment | Paladin | Bonus Action(*) | Self | V | Instantaneous |
     | [Stone Shape](stone-shape.md) | 4th Level | Transmutation | Artificer, Cleric, Druid, Wizard | Action | Touch | V, S, M | Instantaneous |
-    | [Stoneskin](stoneskin.md) | 4th Level | Transmutation | Artificer, Druid, Ranger, Sorcerer, Wizard | Action | Touch | V, S, M(C*) | C, up to 1 hour |
+    | [Stoneskin](stoneskin.md) | 4th Level | Transmutation | Artificer, Druid, Ranger, Sorcerer, Wizard | Action | Touch | V, S, M (diamond dust worth 100 gp, which the spell consumes) | C, up to 1 hour |
     | [Summon Aberration](summon-aberration.md) | 4th Level | Conjuration | Warlock, Wizard | Action | 90 feet | V, S, M(C) | C, up to 1 hour |
     | [Summon Construct](summon-construct.md) | 4th Level | Conjuration | Artificer, Wizard | Action | 90 feet | V, S, M(C) | C, up to 1 hour |
     | [Summon Elemental](summon-elemental.md) | 4th Level | Conjuration | Druid, Ranger, Wizard | Action | 90 feet | V, S, M(C) | C, up to 1 hour |
@@ -292,7 +292,7 @@ Spells by level. Click a spell name to open its page.
     | [Dream](dream.md) | 5th Level | Illusion | Bard, Warlock, Wizard | 1 minute | Special | V, S, M | 8 hours |
     | [Flame Strike](flame-strike.md) | 5th Level | Evocation | Cleric | Action | 60 feet | V, S, M | Instantaneous |
     | [Geas](geas.md) | 5th Level | Enchantment | Bard, Cleric, Druid, Paladin, Wizard | 1 minute | 60 feet | V | 30 days |
-    | [Greater Restoration](greater-restoration.md) | 5th Level | Abjuration | Artificer, Bard, Cleric, Druid, Paladin, Ranger | Action | Touch | V, S, M(C*) | Instantaneous |
+    | [Greater Restoration](greater-restoration.md) | 5th Level | Abjuration | Artificer, Bard, Cleric, Druid, Paladin, Ranger | Action | Touch | V, S, M (diamond dust worth at least 100 gp, which the spell consumes) | Instantaneous |
     | [Hallow](hallow.md) | 5th Level | Abjuration | Cleric | 24 hours | Touch | V, S, M(C*) | Until dispelled |
     | [Hold Monster](hold-monster.md) | 5th Level | Enchantment | Bard, Sorcerer, Warlock, Wizard | Action | 90 feet | V, S, M | C, up to 1 minute |
     | [Insect Plague](insect-plague.md) | 5th Level | Conjuration | Cleric, Druid, Sorcerer | Action | 300 feet | V, S, M | C, up to 10 minutes |
@@ -303,7 +303,7 @@ Spells by level. Click a spell name to open its page.
     | [Modify Memory](modify-memory.md) | 5th Level | Enchantment | Bard, Wizard | Action | 30 feet | V, S | C, up to 1 minute |
     | [Passwall](passwall.md) | 5th Level | Transmutation | Wizard | Action | 30 feet | V, S, M | 1 hour |
     | [Planar Binding](planar-binding.md) | 5th Level | Abjuration | Bard, Cleric, Druid, Warlock, Wizard | 1 hour | 60 feet | V, S, M(C*) | 24 hours |
-    | [Raise Dead](raise-dead.md) | 5th Level | Necromancy | Bard, Cleric, Paladin | 1 hour | Touch | V, S, M(C*) | Instantaneous |
+    | [Raise Dead](raise-dead.md) | 5th Level | Necromancy | Bard, Cleric, Paladin | 1 hour | Touch | V, S, M (a diamond worth at least 500 gp, which the spell consumes) | Instantaneous |
     | [Rary's Telepathic Bond](rary-s-telepathic-bond.md) | 5th Level | Divination | Bard, Wizard | Action or R | 30 feet | V, S, M | 1 hour |
     | [Reincarnate](reincarnate.md) | 5th Level | Necromancy | Druid | 1 hour | Touch | V, S, M(C*) | Instantaneous |
     | [Scrying](scrying.md) | 5th Level | Divination | Bard, Cleric, Druid, Warlock, Wizard | 10 minutes | Self | V, S, M | C, up to 10 minutes |
@@ -332,14 +332,14 @@ Spells by level. Click a spell name to open its page.
     | [Drawmij's Instant Summons](drawmij-s-instant-summons.md) | 6th Level | Conjuration | Wizard | 1 minute or R | Touch | V, S, M(C) | Until dispelled |
     | [Elminster's Effulgent Spheres](elminster-s-effulgent-spheres.md) | 6th Level | Evocation | Druid, Sorcerer, Wizard | Action | Self | V, S, M(C) | 1 hour |
     | [Eyebite](eyebite.md) | 6th Level | Necromancy | Bard, Sorcerer, Warlock, Wizard | Action | Self | V, S | C, up to 1 minute |
-    | [Find the Path](find-the-path.md) | 6th Level | Divination | Bard, Cleric, Druid | 1 minute | Self | V, S, M(C*) | C, up to 1 day |
+    | [Find the Path](find-the-path.md) | 6th Level | Divination | Bard, Cleric, Druid | 1 minute | Self | V, S, M (a set of divinatory tools—such as bones, ivory sticks, cards, teeth, or carved runes— worth 100 gp and an object from the location you wish to find) | C, up to 1 day |
     | [Flesh to Stone](flesh-to-stone.md) | 6th Level | Transmutation | Druid, Sorcerer, Wizard | Action | 60 feet | V, S, M | C, up to 1 minute |
     | [Forbiddance](forbiddance.md) | 6th Level | Abjuration | Cleric | 10 minutes or R | Touch | V, S, M(C) | 1 day |
     | [Globe of Invulnerability](globe-of-invulnerability.md) | 6th Level | Abjuration | Sorcerer, Wizard | Action | Self | V, S, M | C, up to 1 minute |
     | [Guards and Wards](guards-and-wards.md) | 6th Level | Abjuration | Bard, Wizard | 1 hour | Touch | V, S, M | 24 hours |
     | [Harm](harm.md) | 6th Level | Necromancy | Cleric | Action | 60 feet | V, S | Instantaneous |
     | [Heal](heal.md) | 6th Level | Abjuration | Cleric, Druid | Action | 60 feet | V, S | Instantaneous |
-    | [Heroes' Feast](heroes-feast.md) | 6th Level | Conjuration | Bard, Cleric, Druid | 10 minutes | Self | V, S, M(C*) | Instantaneous |
+    | [Heroes' Feast](heroes-feast.md) | 6th Level | Conjuration | Bard, Cleric, Druid | 10 minutes | Self | V, S , M (a gem-encrusted bowl worth at least 1,000 gp, which the spell consumes) | Instantaneous |
     | [Magic Jar](magic-jar.md) | 6th Level | Necromancy | Wizard | 1 minute | Self | V, S, M(C) | Until dispelled |
     | [Mass Suggestion](mass-suggestion.md) | 6th Level | Enchantment | Bard, Sorcerer, Wizard | Action | 60 feet | V, M | 24 hours |
     | [Move Earth](move-earth.md) | 6th Level | Transmutation | Druid, Sorcerer, Wizard | Action | 120 feet | V, S, M | C, up to 2 hours |
@@ -351,7 +351,7 @@ Spells by level. Click a spell name to open its page.
     | [Sunbeam](sunbeam.md) | 6th Level | Evocation | Cleric, Druid, Sorcerer, Wizard | Action | Self | V, S, M | C, up to 1 minute |
     | [Tasha's Bubbling Cauldron](tasha-s-bubbling-cauldron.md) | 6th Level | Conjuration | Warlock, Wizard | Action | 5 feet | V, S, M | 10 minutes |
     | [Transport via Plants](transport-via-plants.md) | 6th Level | Conjuration | Druid | Action | 10 feet | V, S | 1 minute |
-    | [True Seeing](true-seeing.md) | 6th Level | Divination | Bard, Cleric, Sorcerer, Warlock, Wizard | Action | Touch | V, S, M(C*) | 1 hour |
+    | [True Seeing](true-seeing.md) | 6th Level | Divination | Bard, Cleric, Sorcerer, Warlock, Wizard | Action | Touch | V, S, M (an ointment for the eyes that costs 25 gp; is made from mushroom powder, saffron, and fat; and is consumed by the spell) | 1 hour |
     | [Wall of Ice](wall-of-ice.md) | 6th Level | Evocation | Wizard | Action | 120 feet | V, S, M | C, up to 10 minutes |
     | [Wall of Thorns](wall-of-thorns.md) | 6th Level | Conjuration | Druid | Action | 120 feet | V, S, M | C, up to 10 minutes |
     | [Wind Walk](wind-walk.md) | 6th Level | Transmutation | Druid | 1 minute | 30 feet | V, S, M | 8 hours |
@@ -365,13 +365,13 @@ Spells by level. Click a spell name to open its page.
     | [Forcecage](forcecage.md) | 7th Level | Evocation | Bard, Warlock, Wizard | Action | 100 feet | V, S, M(C*) | C, up to 1 hour |
     | [Mirage Arcane](mirage-arcane.md) | 7th Level | Illusion | Bard, Druid, Wizard | 10 minutes | Sight | V, S | 10 days |
     | [Mordenkainen's Magnificent Mansion](mordenkainen-s-magnificent-mansion.md) | 7th Level | Conjuration | Bard, Wizard | 1 minute | 300 feet | V, S, M | 24 hours |
-    | [Mordenkainen's Sword](mordenkainen-s-sword.md) | 7th Level | Evocation | Bard, Wizard | Action | 90 feet | V, S, M(C) | C, up to 1 minute |
+    | [Mordenkainen's Sword](mordenkainen-s-sword.md) | 7th Level | Evocation | Bard, Wizard | Action | 90 feet | V, S, M (a miniature platinum sword with a grip and pommel of copper and zinc, worth 250 gp) | C, up to 1 minute |
     | [Plane Shift](plane-shift.md) | 7th Level | Conjuration | Cleric, Druid, Sorcerer, Warlock, Wizard | Action | Touch | V, S, M(C) | Instantaneous |
     | [Power Word Fortify](power-word-fortify.md) | 7th Level | Enchantment | Bard, Cleric | Action | 60 feet | V | Instantaneous |
     | [Prismatic Spray](prismatic-spray.md) | 7th Level | Evocation | Bard, Sorcerer, Wizard | Action | Self | V, S | Instantaneous |
     | [Project Image](project-image.md) | 7th Level | Illusion | Bard, Wizard | Action | 500 miles | V, S | C, up to 1 day |
     | [Regenerate](regenerate.md) | 7th Level | Transmutation | Bard, Cleric, Druid | 1 minute | Touch | V, S, M | 1 hour |
-    | [Resurrection](resurrection.md) | 7th Level | Necromancy | Bard, Cleric | 1 hour | Touch | V, S, M(C*) | Instantaneous |
+    | [Resurrection](resurrection.md) | 7th Level | Necromancy | Bard, Cleric | 1 hour | Touch | V, S, M (a diamond worth at least 1,000 gp, which the spell consumes) | Instantaneous |
     | [Reverse Gravity](reverse-gravity.md) | 7th Level | Transmutation | Druid, Sorcerer, Wizard | Action | 100 feet | V, S, M | C, up to 1 minute |
     | [Sequester](sequester.md) | 7th Level | Transmutation | Wizard | Action | Touch | V, S, M(C*) | Until dispelled |
     | [Simbul's Synostodweomer](simbul-s-synostodweomer.md) | 7th Level | Transmutation | Sorcerer, Wizard | Action | Touch | V, S | 1 hour |
@@ -388,7 +388,7 @@ Spells by level. Click a spell name to open its page.
     | [Dominate Monster](dominate-monster.md) | 8th Level | Enchantment | Bard, Sorcerer, Warlock, Wizard | Action | 60 feet | V, S | C, up to 1 hour |
     | [Earthquake](earthquake.md) | 8th Level | Transmutation | Cleric, Druid, Sorcerer | Action | 500 feet | V, S, M | C, up to 1 minute |
     | [Glibness](glibness.md) | 8th Level | Enchantment | Bard, Warlock | Action | Self | V | 1 hour |
-    | [Holy Aura](holy-aura.md) | 8th Level | Abjuration | Cleric | Action | Self | V, S, M(C) | C, up to 1 minute |
+    | [Holy Aura](holy-aura.md) | 8th Level | Abjuration | Cleric | Action | Self | V, S, M (a tiny reliquary worth at least 1,000 gp containing a sacred relic, such as a scrap of cloth from a saint’s robe or a piece of parchment from a religious text) | C, up to 1 minute |
     | [Holy Star of Mystra](holy-star-of-mystra.md) | 8th Level | Evocation | Cleric, Wizard | Bonus Action | Self | V, S | C, up to 1 minute |
     | [Incendiary Cloud](incendiary-cloud.md) | 8th Level | Conjuration | Druid, Sorcerer, Wizard | Action | 150 feet | V, S | C, up to 1 minute |
     | [Maze](maze.md) | 8th Level | Conjuration | Wizard | Action | 60 feet | V, S | C, up to 10 minutes |
@@ -397,11 +397,11 @@ Spells by level. Click a spell name to open its page.
     | [Sunburst](sunburst.md) | 8th Level | Evocation | Cleric, Druid, Sorcerer, Wizard | Action | 150 feet | V, S, M | Instantaneous |
     | [Telepathy](telepathy.md) | 8th Level | Divination | Wizard | Action | Unlimited | V, S, M | 24 hours |
     | [Tsunami](tsunami.md) | 8th Level | Conjuration | Druid | 1 minute | 1 mile | V, S | C, up to 6 rounds |
-    | [Astral Projection](astral-projection.md) | 9th Level | Necromancy | Cleric, Warlock, Wizard | 1 hour | 10 feet | V, S, M (C*) | Until dispelled |
+    | [Astral Projection](astral-projection.md) | 9th Level | Necromancy | Cleric, Warlock, Wizard | 1 hour | 10 feet | V, S, M (for each creature you affect with this spell, you must provide one jacinth worth at least | Until dispelled |
     | [Blade Of Disaster](blade-of-disaster.md) | 9th Level | Conjuration | Sorcerer, Warlock, Wizard | Bonus Action | 60 feet | V, S | C, up to 1 minute |
     | [Foresight](foresight.md) | 9th Level | Divination | Bard, Druid, Warlock, Wizard | 1 minute | Touch | V, S, M | 8 hours |
-    | [Gate](gate.md) | 9th Level | Conjuration | Cleric, Sorcerer, Warlock, Wizard | Action | 60 feet | V, S, M(C) | C, up to 1 minute |
-    | [Imprisonment](imprisonment.md) | 9th Level | Abjuration | Warlock, Wizard | 1 minute | 30 feet | V, S, M(C) | Until dispelled |
+    | [Gate](gate.md) | 9th Level | Conjuration | Cleric, Sorcerer, Warlock, Wizard | Action | 60 feet | V, S, M (a diamond worth at least 5,000 gp) | C, up to 1 minute |
+    | [Imprisonment](imprisonment.md) | 9th Level | Abjuration | Warlock, Wizard | 1 minute | 30 feet | V, S, M (a vellum depiction or a carved statuette in the likeness of the target, and a special component that varies according to the version of the spell you choose, worth at least 500 gp per Hit Die of the target) | Until dispelled |
     | [Mass Heal](mass-heal.md) | 9th Level | Abjuration | Cleric | Action | 60 feet | V, S | Instantaneous |
     | [Meteor Swarm](meteor-swarm.md) | 9th Level | Evocation | Sorcerer, Wizard | Action | 1 mile | V, S | Instantaneous |
     | [Power Word Heal](power-word-heal.md) | 9th Level | Enchantment | Bard, Cleric | Action | 60 feet | V | Instantaneous |
@@ -411,7 +411,7 @@ Spells by level. Click a spell name to open its page.
     | [Storm of Vengeance](storm-of-vengeance.md) | 9th Level | Conjuration | Druid | Action | 1 mile | V, S | C, up to 1 minute |
     | [Time Stop](time-stop.md) | 9th Level | Transmutation | Sorcerer, Wizard | Action | Self | V | Instantaneous |
     | [True Polymorph](true-polymorph.md) | 9th Level | Transmutation | Bard, Warlock, Wizard | Action | 30 feet | V, S, M | C, up to 1 hour |
-    | [True Resurrection](true-resurrection.md) | 9th Level | Necromancy | Cleric, Druid | 1 hour | Touch | V, S, M(C*) | Instantaneous |
+    | [True Resurrection](true-resurrection.md) | 9th Level | Necromancy | Cleric, Druid | 1 hour | Touch | V, S, M (a sprinkle of holy water and diamonds worth at least 25,000 gp, which the spell consumes) | Instantaneous |
     | [Weird](weird.md) | 9th Level | Illusion | Warlock, Wizard | Action | 120 feet | V, S | C, up to 1 minute |
     | [Wish](wish.md) | 9th Level | Conjuration | Sorcerer, Wizard | Action | Self | V | Instantaneous |
 === "Cantrip"
@@ -459,7 +459,7 @@ Spells by level. Click a spell name to open its page.
     | [Armor of Agathys](armor-of-agathys.md) | Abjuration | Warlock | Bonus Action | Self | V, S, M | 1 hour |
     | [Arms of Hadar](arms-of-hadar.md) | Conjuration | Warlock | Action | Self | V, S | Instantaneous |
     | [Bane](bane.md) | Enchantment | Bard, Cleric, Warlock | Action | 30 feet | V, S, M | C, up to 1 minute |
-    | [Bless](bless.md) | Enchantment | Cleric, Paladin | Action | 30 feet | V, S, M(C) | C, up to 1 minute |
+    | [Bless](bless.md) | Enchantment | Cleric, Paladin | Action | 30 feet | V, S, M (a sprinkling of holy water) | C, up to 1 minute |
     | [Burning Hands](burning-hands.md) | Evocation | Sorcerer, Wizard | Action | Self | V, S | Instantaneous |
     | [Charm Person](charm-person.md) | Enchantment | Bard, Druid, Sorcerer, Warlock, Wizard | Action | 30 feet | V, S | 1 hour |
     | [Chromatic Orb](chromatic-orb.md) | Evocation | Sorcerer, Wizard | Action | 90 feet | V, S, M(C) | Instantaneous |
@@ -493,7 +493,7 @@ Spells by level. Click a spell name to open its page.
     | [Hex](hex.md) | Enchantment | Warlock | Bonus Action | 90 feet | V, S, M | C, up to 1 hour |
     | [Hunter's Mark](hunter-s-mark.md) | Divination | Ranger | Bonus Action | 90 feet | V | C, up to 1 hour |
     | [Ice Knife](ice-knife.md) | Conjuration | Druid, Sorcerer, Wizard | Action | 60 feet | S, M | Instantaneous |
-    | [Identify](identify.md) | Divination | Artificer, Bard, Wizard | 1 minute or R | Touch | V, S, M(C) | Instantaneous |
+    | [Identify](identify.md) | Divination | Artificer, Bard, Wizard | 1 minute or R | Touch | V, S, M (a pearl worth at least 100 gp and an owl feather) | Instantaneous |
     | [Illusory Script](illusory-script.md) | Illusion | Bard, Warlock, Wizard | 1 minute or R | Touch | S, M(C*) | 10 days |
     | [Inflict Wounds](inflict-wounds.md) | Necromancy | Cleric | Action | Touch | V, S | Instantaneous |
     | [Jump](jump.md) | Transmutation | Artificer, Druid, Ranger, Sorcerer, Wizard | Bonus Action | Touch | V, S, M | 1 minute |
@@ -525,9 +525,9 @@ Spells by level. Click a spell name to open its page.
     | [Aid](aid.md) | Abjuration | Artificer, Bard, Cleric, Druid, Paladin, Ranger | Action | 30 feet | V, S, M | 8 hours |
     | [Alter Self](alter-self.md) | Transmutation | Artificer, Sorcerer, Wizard | Action | Self | V, S | C, up to 1 hour |
     | [Animal Messenger](animal-messenger.md) | Enchantment | Bard, Druid, Ranger | Action or R | 30 feet | V, S, M | 24 hours |
-    | [Arcane Lock](arcane-lock.md) | Abjuration | Artificer, Wizard | Action | Touch | V, S, M(C*) | Until dispelled |
+    | [Arcane Lock](arcane-lock.md) | Abjuration | Artificer, Wizard | Action | Touch | V, S, M (gold dust worth at least 25 gp, which the spell consumes) | Until dispelled |
     | [Arcane Vigor](arcane-vigor.md) | Abjuration | Artificer, Sorcerer, Wizard | Bonus Action | Self | V, S | Instantaneous |
-    | [Augury](augury.md) | Divination | Cleric, Druid, Wizard | 1 minute or R | Self | V, S, M(C*) | Instantaneous |
+    | [Augury](augury.md) | Divination | Cleric, Druid, Wizard | 1 minute or R | Self | V, S, M (specially marked sticks, bones, or similar tokens worth at least 25 gp) | Instantaneous |
     | [Barkskin](barkskin.md) | Transmutation | Druid, Ranger | Bonus Action | Touch | V, S, M | 1 hour |
     | [Beast Sense](beast-sense.md) | Divination | Druid, Ranger | Action or R | Touch | S | C, up to 1 hour |
     | [Blindness/Deafness](blindness-deafness.md) | Transmutation | Bard, Cleric, Sorcerer, Wizard | Action | 120 feet | V | 1 minute |
@@ -631,7 +631,7 @@ Spells by level. Click a spell name to open its page.
     | [Plant Growth](plant-growth.md) | Transmutation | Bard, Druid, Ranger | Action (Overgrowth) or 8 hours (Enrichment) | 150 feet | V, S | Instantaneous |
     | [Protection from Energy](protection-from-energy.md) | Abjuration | Artificer, Cleric, Druid, Ranger, Sorcerer, Wizard | Action | Touch | V, S | C, up to 1 hour |
     | [Remove Curse](remove-curse.md) | Abjuration | Cleric, Paladin, Warlock, Wizard | Action | Touch | V, S | Instantaneous |
-    | [Revivify](revivify.md) | Necromancy | Artificer, Cleric, Druid, Paladin, Ranger | Action | Touch | V, S, M(C*) | Instantaneous |
+    | [Revivify](revivify.md) | Necromancy | Artificer, Cleric, Druid, Paladin, Ranger | Action | Touch | V, S, M (diamonds worth 300 gp, which the spell consumes) | Instantaneous |
     | [Sending](sending.md) | Divination | Bard, Cleric, Wizard | Action | Unlimited | V, S, M | Instantaneous |
     | [Sleet Storm](sleet-storm.md) | Conjuration | Druid, Sorcerer, Wizard | Action | 150 feet | V, S, M | C, up to 1 minute |
     | [Slow](slow.md) | Transmutation | Bard, Sorcerer, Wizard | Action | 120 feet | V, S, M | C, up to 1 minute |
@@ -664,7 +664,7 @@ Spells by level. Click a spell name to open its page.
     | [Control Water](control-water.md) | Transmutation | Cleric, Druid, Wizard | Action | 300 feet | V, S, M | C, up to 10 minutes |
     | [Death Ward](death-ward.md) | Abjuration | Cleric, Paladin | Action | Touch | V, S | 8 hours |
     | [Dimension Door](dimension-door.md) | Conjuration | Bard, Sorcerer, Warlock, Wizard | Action | 500 feet | V | Instantaneous |
-    | [Divination](divination.md) | Divination | Cleric, Druid, Wizard | Action or R | Self | V, S, M(C*) | Instantaneous |
+    | [Divination](divination.md) | Divination | Cleric, Druid, Wizard | Action or R | Self | V, S, M (incense and a sacrificial offering appropriate to your religion, together worth at least 25 gp, which the spell consumes) | Instantaneous |
     | [Dominate Beast](dominate-beast.md) | Enchantment | Druid, Ranger, Sorcerer | Action | 60 feet | V, S | C, up to 1 minute |
     | [Doomtide](doomtide.md) | Conjuration | Bard, Cleric, Warlock | Action | 120 feet | V, S, M | C, up to 1 minute |
     | [Evard's Black Tentacles](evard-s-black-tentacles.md) | Conjuration | Wizard | Action | 90 feet | V, S, M | C, up to 1 minute |
@@ -688,7 +688,7 @@ Spells by level. Click a spell name to open its page.
     | [Spellfire Storm](spellfire-storm.md) | Evocation | Sorcerer, Wizard | Action | 60 feet | V, S | C, up to 1 minute |
     | [Staggering Smite](staggering-smite.md) | Enchantment | Paladin | Bonus Action(*) | Self | V | Instantaneous |
     | [Stone Shape](stone-shape.md) | Transmutation | Artificer, Cleric, Druid, Wizard | Action | Touch | V, S, M | Instantaneous |
-    | [Stoneskin](stoneskin.md) | Transmutation | Artificer, Druid, Ranger, Sorcerer, Wizard | Action | Touch | V, S, M(C*) | C, up to 1 hour |
+    | [Stoneskin](stoneskin.md) | Transmutation | Artificer, Druid, Ranger, Sorcerer, Wizard | Action | Touch | V, S, M (diamond dust worth 100 gp, which the spell consumes) | C, up to 1 hour |
     | [Summon Aberration](summon-aberration.md) | Conjuration | Warlock, Wizard | Action | 90 feet | V, S, M(C) | C, up to 1 hour |
     | [Summon Construct](summon-construct.md) | Conjuration | Artificer, Wizard | Action | 90 feet | V, S, M(C) | C, up to 1 hour |
     | [Summon Elemental](summon-elemental.md) | Conjuration | Druid, Ranger, Wizard | Action | 90 feet | V, S, M(C) | C, up to 1 hour |
@@ -719,7 +719,7 @@ Spells by level. Click a spell name to open its page.
     | [Dream](dream.md) | Illusion | Bard, Warlock, Wizard | 1 minute | Special | V, S, M | 8 hours |
     | [Flame Strike](flame-strike.md) | Evocation | Cleric | Action | 60 feet | V, S, M | Instantaneous |
     | [Geas](geas.md) | Enchantment | Bard, Cleric, Druid, Paladin, Wizard | 1 minute | 60 feet | V | 30 days |
-    | [Greater Restoration](greater-restoration.md) | Abjuration | Artificer, Bard, Cleric, Druid, Paladin, Ranger | Action | Touch | V, S, M(C*) | Instantaneous |
+    | [Greater Restoration](greater-restoration.md) | Abjuration | Artificer, Bard, Cleric, Druid, Paladin, Ranger | Action | Touch | V, S, M (diamond dust worth at least 100 gp, which the spell consumes) | Instantaneous |
     | [Hallow](hallow.md) | Abjuration | Cleric | 24 hours | Touch | V, S, M(C*) | Until dispelled |
     | [Hold Monster](hold-monster.md) | Enchantment | Bard, Sorcerer, Warlock, Wizard | Action | 90 feet | V, S, M | C, up to 1 minute |
     | [Insect Plague](insect-plague.md) | Conjuration | Cleric, Druid, Sorcerer | Action | 300 feet | V, S, M | C, up to 10 minutes |
@@ -730,7 +730,7 @@ Spells by level. Click a spell name to open its page.
     | [Modify Memory](modify-memory.md) | Enchantment | Bard, Wizard | Action | 30 feet | V, S | C, up to 1 minute |
     | [Passwall](passwall.md) | Transmutation | Wizard | Action | 30 feet | V, S, M | 1 hour |
     | [Planar Binding](planar-binding.md) | Abjuration | Bard, Cleric, Druid, Warlock, Wizard | 1 hour | 60 feet | V, S, M(C*) | 24 hours |
-    | [Raise Dead](raise-dead.md) | Necromancy | Bard, Cleric, Paladin | 1 hour | Touch | V, S, M(C*) | Instantaneous |
+    | [Raise Dead](raise-dead.md) | Necromancy | Bard, Cleric, Paladin | 1 hour | Touch | V, S, M (a diamond worth at least 500 gp, which the spell consumes) | Instantaneous |
     | [Rary's Telepathic Bond](rary-s-telepathic-bond.md) | Divination | Bard, Wizard | Action or R | 30 feet | V, S, M | 1 hour |
     | [Reincarnate](reincarnate.md) | Necromancy | Druid | 1 hour | Touch | V, S, M(C*) | Instantaneous |
     | [Scrying](scrying.md) | Divination | Bard, Cleric, Druid, Warlock, Wizard | 10 minutes | Self | V, S, M | C, up to 10 minutes |
@@ -762,14 +762,14 @@ Spells by level. Click a spell name to open its page.
     | [Drawmij's Instant Summons](drawmij-s-instant-summons.md) | Conjuration | Wizard | 1 minute or R | Touch | V, S, M(C) | Until dispelled |
     | [Elminster's Effulgent Spheres](elminster-s-effulgent-spheres.md) | Evocation | Druid, Sorcerer, Wizard | Action | Self | V, S, M(C) | 1 hour |
     | [Eyebite](eyebite.md) | Necromancy | Bard, Sorcerer, Warlock, Wizard | Action | Self | V, S | C, up to 1 minute |
-    | [Find the Path](find-the-path.md) | Divination | Bard, Cleric, Druid | 1 minute | Self | V, S, M(C*) | C, up to 1 day |
+    | [Find the Path](find-the-path.md) | Divination | Bard, Cleric, Druid | 1 minute | Self | V, S, M (a set of divinatory tools—such as bones, ivory sticks, cards, teeth, or carved runes— worth 100 gp and an object from the location you wish to find) | C, up to 1 day |
     | [Flesh to Stone](flesh-to-stone.md) | Transmutation | Druid, Sorcerer, Wizard | Action | 60 feet | V, S, M | C, up to 1 minute |
     | [Forbiddance](forbiddance.md) | Abjuration | Cleric | 10 minutes or R | Touch | V, S, M(C) | 1 day |
     | [Globe of Invulnerability](globe-of-invulnerability.md) | Abjuration | Sorcerer, Wizard | Action | Self | V, S, M | C, up to 1 minute |
     | [Guards and Wards](guards-and-wards.md) | Abjuration | Bard, Wizard | 1 hour | Touch | V, S, M | 24 hours |
     | [Harm](harm.md) | Necromancy | Cleric | Action | 60 feet | V, S | Instantaneous |
     | [Heal](heal.md) | Abjuration | Cleric, Druid | Action | 60 feet | V, S | Instantaneous |
-    | [Heroes' Feast](heroes-feast.md) | Conjuration | Bard, Cleric, Druid | 10 minutes | Self | V, S, M(C*) | Instantaneous |
+    | [Heroes' Feast](heroes-feast.md) | Conjuration | Bard, Cleric, Druid | 10 minutes | Self | V, S , M (a gem-encrusted bowl worth at least 1,000 gp, which the spell consumes) | Instantaneous |
     | [Magic Jar](magic-jar.md) | Necromancy | Wizard | 1 minute | Self | V, S, M(C) | Until dispelled |
     | [Mass Suggestion](mass-suggestion.md) | Enchantment | Bard, Sorcerer, Wizard | Action | 60 feet | V, M | 24 hours |
     | [Move Earth](move-earth.md) | Transmutation | Druid, Sorcerer, Wizard | Action | 120 feet | V, S, M | C, up to 2 hours |
@@ -781,7 +781,7 @@ Spells by level. Click a spell name to open its page.
     | [Sunbeam](sunbeam.md) | Evocation | Cleric, Druid, Sorcerer, Wizard | Action | Self | V, S, M | C, up to 1 minute |
     | [Tasha's Bubbling Cauldron](tasha-s-bubbling-cauldron.md) | Conjuration | Warlock, Wizard | Action | 5 feet | V, S, M | 10 minutes |
     | [Transport via Plants](transport-via-plants.md) | Conjuration | Druid | Action | 10 feet | V, S | 1 minute |
-    | [True Seeing](true-seeing.md) | Divination | Bard, Cleric, Sorcerer, Warlock, Wizard | Action | Touch | V, S, M(C*) | 1 hour |
+    | [True Seeing](true-seeing.md) | Divination | Bard, Cleric, Sorcerer, Warlock, Wizard | Action | Touch | V, S, M (an ointment for the eyes that costs 25 gp; is made from mushroom powder, saffron, and fat; and is consumed by the spell) | 1 hour |
     | [Wall of Ice](wall-of-ice.md) | Evocation | Wizard | Action | 120 feet | V, S, M | C, up to 10 minutes |
     | [Wall of Thorns](wall-of-thorns.md) | Conjuration | Druid | Action | 120 feet | V, S, M | C, up to 10 minutes |
     | [Wind Walk](wind-walk.md) | Transmutation | Druid | 1 minute | 30 feet | V, S, M | 8 hours |
@@ -798,13 +798,13 @@ Spells by level. Click a spell name to open its page.
     | [Forcecage](forcecage.md) | Evocation | Bard, Warlock, Wizard | Action | 100 feet | V, S, M(C*) | C, up to 1 hour |
     | [Mirage Arcane](mirage-arcane.md) | Illusion | Bard, Druid, Wizard | 10 minutes | Sight | V, S | 10 days |
     | [Mordenkainen's Magnificent Mansion](mordenkainen-s-magnificent-mansion.md) | Conjuration | Bard, Wizard | 1 minute | 300 feet | V, S, M | 24 hours |
-    | [Mordenkainen's Sword](mordenkainen-s-sword.md) | Evocation | Bard, Wizard | Action | 90 feet | V, S, M(C) | C, up to 1 minute |
+    | [Mordenkainen's Sword](mordenkainen-s-sword.md) | Evocation | Bard, Wizard | Action | 90 feet | V, S, M (a miniature platinum sword with a grip and pommel of copper and zinc, worth 250 gp) | C, up to 1 minute |
     | [Plane Shift](plane-shift.md) | Conjuration | Cleric, Druid, Sorcerer, Warlock, Wizard | Action | Touch | V, S, M(C) | Instantaneous |
     | [Power Word Fortify](power-word-fortify.md) | Enchantment | Bard, Cleric | Action | 60 feet | V | Instantaneous |
     | [Prismatic Spray](prismatic-spray.md) | Evocation | Bard, Sorcerer, Wizard | Action | Self | V, S | Instantaneous |
     | [Project Image](project-image.md) | Illusion | Bard, Wizard | Action | 500 miles | V, S | C, up to 1 day |
     | [Regenerate](regenerate.md) | Transmutation | Bard, Cleric, Druid | 1 minute | Touch | V, S, M | 1 hour |
-    | [Resurrection](resurrection.md) | Necromancy | Bard, Cleric | 1 hour | Touch | V, S, M(C*) | Instantaneous |
+    | [Resurrection](resurrection.md) | Necromancy | Bard, Cleric | 1 hour | Touch | V, S, M (a diamond worth at least 1,000 gp, which the spell consumes) | Instantaneous |
     | [Reverse Gravity](reverse-gravity.md) | Transmutation | Druid, Sorcerer, Wizard | Action | 100 feet | V, S, M | C, up to 1 minute |
     | [Sequester](sequester.md) | Transmutation | Wizard | Action | Touch | V, S, M(C*) | Until dispelled |
     | [Simbul's Synostodweomer](simbul-s-synostodweomer.md) | Transmutation | Sorcerer, Wizard | Action | Touch | V, S | 1 hour |
@@ -824,7 +824,7 @@ Spells by level. Click a spell name to open its page.
     | [Dominate Monster](dominate-monster.md) | Enchantment | Bard, Sorcerer, Warlock, Wizard | Action | 60 feet | V, S | C, up to 1 hour |
     | [Earthquake](earthquake.md) | Transmutation | Cleric, Druid, Sorcerer | Action | 500 feet | V, S, M | C, up to 1 minute |
     | [Glibness](glibness.md) | Enchantment | Bard, Warlock | Action | Self | V | 1 hour |
-    | [Holy Aura](holy-aura.md) | Abjuration | Cleric | Action | Self | V, S, M(C) | C, up to 1 minute |
+    | [Holy Aura](holy-aura.md) | Abjuration | Cleric | Action | Self | V, S, M (a tiny reliquary worth at least 1,000 gp containing a sacred relic, such as a scrap of cloth from a saint’s robe or a piece of parchment from a religious text) | C, up to 1 minute |
     | [Holy Star of Mystra](holy-star-of-mystra.md) | Evocation | Cleric, Wizard | Bonus Action | Self | V, S | C, up to 1 minute |
     | [Incendiary Cloud](incendiary-cloud.md) | Conjuration | Druid, Sorcerer, Wizard | Action | 150 feet | V, S | C, up to 1 minute |
     | [Maze](maze.md) | Conjuration | Wizard | Action | 60 feet | V, S | C, up to 10 minutes |
@@ -836,11 +836,11 @@ Spells by level. Click a spell name to open its page.
 === "9th Level"
     | Name | School | Spell lists | Casting Time | Range | Components | Duration |
     |------|--------|-------------|--------------|-------|------------|----------|
-    | [Astral Projection](astral-projection.md) | Necromancy | Cleric, Warlock, Wizard | 1 hour | 10 feet | V, S, M (C*) | Until dispelled |
+    | [Astral Projection](astral-projection.md) | Necromancy | Cleric, Warlock, Wizard | 1 hour | 10 feet | V, S, M (for each creature you affect with this spell, you must provide one jacinth worth at least | Until dispelled |
     | [Blade Of Disaster](blade-of-disaster.md) | Conjuration | Sorcerer, Warlock, Wizard | Bonus Action | 60 feet | V, S | C, up to 1 minute |
     | [Foresight](foresight.md) | Divination | Bard, Druid, Warlock, Wizard | 1 minute | Touch | V, S, M | 8 hours |
-    | [Gate](gate.md) | Conjuration | Cleric, Sorcerer, Warlock, Wizard | Action | 60 feet | V, S, M(C) | C, up to 1 minute |
-    | [Imprisonment](imprisonment.md) | Abjuration | Warlock, Wizard | 1 minute | 30 feet | V, S, M(C) | Until dispelled |
+    | [Gate](gate.md) | Conjuration | Cleric, Sorcerer, Warlock, Wizard | Action | 60 feet | V, S, M (a diamond worth at least 5,000 gp) | C, up to 1 minute |
+    | [Imprisonment](imprisonment.md) | Abjuration | Warlock, Wizard | 1 minute | 30 feet | V, S, M (a vellum depiction or a carved statuette in the likeness of the target, and a special component that varies according to the version of the spell you choose, worth at least 500 gp per Hit Die of the target) | Until dispelled |
     | [Mass Heal](mass-heal.md) | Abjuration | Cleric | Action | 60 feet | V, S | Instantaneous |
     | [Meteor Swarm](meteor-swarm.md) | Evocation | Sorcerer, Wizard | Action | 1 mile | V, S | Instantaneous |
     | [Power Word Heal](power-word-heal.md) | Enchantment | Bard, Cleric | Action | 60 feet | V | Instantaneous |
@@ -850,6 +850,6 @@ Spells by level. Click a spell name to open its page.
     | [Storm of Vengeance](storm-of-vengeance.md) | Conjuration | Druid | Action | 1 mile | V, S | C, up to 1 minute |
     | [Time Stop](time-stop.md) | Transmutation | Sorcerer, Wizard | Action | Self | V | Instantaneous |
     | [True Polymorph](true-polymorph.md) | Transmutation | Bard, Warlock, Wizard | Action | 30 feet | V, S, M | C, up to 1 hour |
-    | [True Resurrection](true-resurrection.md) | Necromancy | Cleric, Druid | 1 hour | Touch | V, S, M(C*) | Instantaneous |
+    | [True Resurrection](true-resurrection.md) | Necromancy | Cleric, Druid | 1 hour | Touch | V, S, M (a sprinkle of holy water and diamonds worth at least 25,000 gp, which the spell consumes) | Instantaneous |
     | [Weird](weird.md) | Illusion | Warlock, Wizard | Action | 120 feet | V, S | C, up to 1 minute |
     | [Wish](wish.md) | Conjuration | Sorcerer, Wizard | Action | Self | V | Instantaneous |

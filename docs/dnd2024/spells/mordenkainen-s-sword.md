@@ -6,7 +6,7 @@ Source: *Player's Handbook (2024)*
 
 Casting Time: Action
 Range: 90 feet
-Components: V, S, M(C)
+Components: V, S, M (a miniature platinum sword with a grip and pommel of copper and zinc, worth 250 gp)
 Duration: Concentration, up to 1 minute
 
 You create a spectral sword that hovers within range. It lasts for the duration.

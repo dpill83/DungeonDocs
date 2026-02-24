@@ -49,7 +49,7 @@ Duration: [e.g. Instantaneous, 1 hour, Concentration, up to 1 minute]
 - **Source**: Add `Source: [Book Name]` directly below the title. Include for every spell when the source can be determined.
 - **Level line**: One line: spell level (or "Cantrip"), school name, then class list in parentheses. Example: `Level 1 Enchantment (Cleric, Paladin)`.
 - **Stat block**: One line per field. Use "Casting Time:", "Range:", "Components:", "Duration:" with the value on the same line after a space.
-- **Components**: Use "V" (verbal), "S" (somatic), "M" (material). For material components, add parentheses with the exact description and cost when given, e.g. `M (a Holy Symbol worth 5+ GP)`.
+- **Components**: Use "V" (verbal), "S" (somatic), "M" (material). For material components, add parentheses with the exact description and cost when given, e.g. `M (a Holy Symbol worth 5+ GP)`. If you see "(C)" or "(C*)" in tables or legacy content: (C) = material component; (C*) = material component with cost or consumed—replace these with the full description when the source is known.
 - **Duration**: For concentration spells, write "Concentration, up to [time]" (e.g. `Concentration, up to 1 minute`). Use "C" only in tables or indexes, not in the spell page stat block.
 - **Description**: Exact text from the source. Keep paragraph breaks as in the source.
 - **Optional sections**: If the source has "Using a Higher-Level Spell Slot", "At Higher Levels", or similar, use **bold** for that heading, then the exact description on the next line(s).

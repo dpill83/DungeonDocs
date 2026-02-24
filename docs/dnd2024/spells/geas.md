@@ -19,5 +19,5 @@ Greater Restoration
 , or
 Wish
 spell ends this spell.
-**Using a Higher-Level Spell Slot.**            
+**Using a Higher-Level Spell Slot.**                
 If you use a level 7 or 8 spell slot, the duration is 365 days. If you use a level 9 spell slot, the spell lasts until it is ended by one of the spells mentioned above.

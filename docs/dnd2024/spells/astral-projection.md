@@ -6,7 +6,7 @@ Source: *Player's Handbook (2024)*
 
 Casting Time: 1 hour
 Range: 10 feet
-Components: V, S, M (C*)
+Components: V, S, M (for each creature you affect with this spell, you must provide one jacinth worth at least
 Duration: Until dispelled
 
 You and up to eight willing creatures within range project your astral bodies into the Astral Plane (the spell ends instantly if you are already on that plane). Each target's body is left behind in a state of suspended animation; it has the Unconscious condition, doesn't need food or air, and doesn't age.

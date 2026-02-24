@@ -16,5 +16,5 @@ The target makes a Dexterity saving throw, taking 3d6 Force damage on a failed s
 Orderly Ward.
 The target gains Temporary Hit Points equal to 1d6 plus your spellcasting ability modifier.
 When you move on your turn, you can also move the spirits up to 30 feet to an unoccupied space you can see.
-**Using a Higher-Level Spell Slot.**            
+**Using a Higher-Level Spell Slot.**                
 The damage and Temporary Hit Points both increase by 1d6 for each spell slot level above 3.

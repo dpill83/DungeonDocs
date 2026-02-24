@@ -6,7 +6,7 @@ Source: *Player's Handbook (2024)*
 
 Casting Time: 1 minute or R
 Range: Self
-Components: V, S, M(C*)
+Components: V, S, M (specially marked sticks, bones, or similar tokens worth at least 25 gp)
 Duration: Instantaneous
 
 You receive an omen from an otherworldly entity about the results of a course of action that you plan to take within the next 30 minutes. The DM chooses the omen from the Omens table.

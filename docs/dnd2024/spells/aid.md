@@ -10,5 +10,5 @@ Components: V, S, M
 Duration: 8 hours
 
 Choose up to three creatures within range. Each target’s Hit Point maximum and current Hit Points increase by 5 for the duration.
-**Using a Higher-Level Spell Slot.**            
+**Using a Higher-Level Spell Slot.**                
 Each target’s Hit Points increase by 5 for each spell slot level above 2.

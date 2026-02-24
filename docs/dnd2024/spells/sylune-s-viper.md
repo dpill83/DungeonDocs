@@ -15,5 +15,5 @@ Climbing.
 You gain a Climb Speed equal to your Speed.
 Venomous Bite.
 As a Magic action, you can make a ranged spell attack using the snake against one creature within 50 feet. On a hit, the target takes 1d6 Force damage and has the Poisoned condition until the start of your next turn. While Poisoned, the target has the Incapacitated condition.
-**Using a Higher-Level Spell Slot.**            
+**Using a Higher-Level Spell Slot.**                
 For each spell slot level above 3, the number of Temporary Hit Points you gain from this spell increases by 5, and the damage of Venomous Bite increases by 1d6.

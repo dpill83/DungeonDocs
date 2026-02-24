@@ -14,10 +14,14 @@ from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 SPELLS_DIR = REPO_ROOT / "docs" / "dnd2024" / "spells"
+SPELLS_JSON = SPELLS_DIR / "spells.json"
 DATA_DIR = REPO_ROOT / "data"
 SOURCES_CSV = DATA_DIR / "spell_sources.csv"
 FAILURES_JSON = DATA_DIR / "format_failures.json"
 WARNINGS_CSV = DATA_DIR / "format_warnings.csv"
+
+# Abbreviated material components: M(C) or M(C*) without description
+COMPONENTS_ABBREV_RE = re.compile(r"M\s*\(\s*C\s*\*?\s*\)", re.IGNORECASE)
 
 LEVEL_TAB_TO_LEVEL = {
     "Cantrip": 0,
@@ -108,6 +112,54 @@ def render_source(code: str) -> str:
         if key.upper() == c.upper():
             return f"*{full_name}*"
     return "*Unknown*"
+
+
+def _normalize_name_for_lookup(name: str) -> str:
+    """Normalize spell name for JSON lookup (apostrophe variants)."""
+    if not name:
+        return name
+    # Replace common apostrophe/quote chars with straight quote for matching
+    for c in ("'", "'", "'", "`", "\u2019"):
+        name = name.replace(c, "'")
+    return name
+
+
+def load_components_from_json(json_path: Path) -> dict[str, str]:
+    """
+    Load spells.json and return mapping: normalized spell name -> components string.
+    Only includes entries where components contain full material description (M ().
+    """
+    result: dict[str, str] = {}
+    if not json_path.exists():
+        return result
+    try:
+        data = json.loads(json_path.read_text(encoding="utf-8"))
+    except (json.JSONDecodeError, OSError):
+        return result
+    for spell_name, entry in data.items():
+        if not isinstance(entry, dict):
+            continue
+        comp = entry.get("components")
+        if not isinstance(comp, str) or "M (" not in comp:
+            continue
+        result[_normalize_name_for_lookup(spell_name)] = comp
+    return result
+
+
+def is_abbreviated_components(components: str) -> bool:
+    """True if components string uses M(C) or M(C*) placeholder without description."""
+    return bool(COMPONENTS_ABBREV_RE.search(components))
+
+
+def resolve_components(components: str, spell_name: str, json_components: dict[str, str]) -> str:
+    """
+    If components is abbreviated (M(C) / M(C*)), return full components from json_components
+    when available; otherwise return original.
+    """
+    if not is_abbreviated_components(components):
+        return components
+    key = _normalize_name_for_lookup(spell_name)
+    return json_components.get(key, components)
 
 # Upcast heading variants to normalize
 UPCAST_PATTERN = re.compile(
@@ -336,6 +388,39 @@ def get_spell_files() -> list[Path]:
     return sorted(files)
 
 
+def update_index_components(index_path: Path, spells: dict[str, dict]) -> None:
+    """
+    Rewrite index.md so each table row's Components cell uses the resolved (enriched)
+    components from the spells dict. Preserves table structure and other columns.
+    Handles both 8-column (Name | Level | ... | Components) and 7-column (Name | School | ... | Components) tables.
+    """
+    lines = index_path.read_text(encoding="utf-8").splitlines()
+    out: list[str] = []
+    for line in lines:
+        stripped = line.strip()
+        if not stripped.startswith("|") or not stripped.endswith("|"):
+            out.append(line)
+            continue
+        parts = [p.strip() for p in stripped.split("|")[1:-1]]
+        if len(parts) < 7 or parts[0].lower() == "name":
+            out.append(line)
+            continue
+        link_match = re.match(r"\[([^\]]+)\]\(([^)]+)\.md\)", parts[0])
+        if not link_match:
+            out.append(line)
+            continue
+        slug = link_match.group(2)
+        if slug not in spells:
+            out.append(line)
+            continue
+        # Components: 8-column table -> index 6; 7-column table -> index 5
+        comp_idx = 6 if len(parts) >= 8 else 5
+        parts[comp_idx] = spells[slug]["components"]
+        prefix = line[: len(line) - len(line.lstrip())]
+        out.append(prefix + "| " + " | ".join(parts) + " |")
+    index_path.write_text("\n".join(out) + "\n", encoding="utf-8")
+
+
 def main() -> None:
     parser = argparse.ArgumentParser(description="Format spell markdown files")
     parser.add_argument(
@@ -364,6 +449,17 @@ def main() -> None:
 
     spells = parse_index(index_path)
     print(f"Parsed {len(spells)} spells from index.md")
+
+    # Enrich components from spells.json when index has M(C) / M(C*)
+    json_components = load_components_from_json(SPELLS_JSON)
+    for slug, spell in spells.items():
+        spell["components"] = resolve_components(
+            spell["components"], spell["name"], json_components
+        )
+
+    # Update index.md Components column when writing in place
+    if output_dir is None:
+        update_index_components(index_path, spells)
 
     # Load/create sources
     spell_slugs = set(spells.keys())

@@ -1,4 +1,7 @@
 {
-  "not_in_index": [],
+  "not_in_index": [
+    "compelled-duel",
+    "homunculus-servant"
+  ],
   "parse_errors": []
 }

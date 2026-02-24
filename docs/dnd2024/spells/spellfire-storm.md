@@ -14,7 +14,7 @@ In addition, whenever a creature in the Cylinder casts a spell, that creature ma
 When you cast this spell, you can designate creatures to be unaffected by it.
 Casting as a Circle Spell.
 In addition to the spell’s usual components, you must provide a special component (a blue star sapphire worth 25,000+ GP), which the spell consumes. The spell’s range increases to 1 mile, and it no longer requires Concentration. When the spell is cast, each secondary caster must expend a level 3+ spell slot; otherwise, the spell fails.
-**Using a Higher-Level Spell Slot.**            
+**Using a Higher-Level Spell Slot.**                
 The damage increases by 1d10 for every spell slot level above 4.
 The number of secondary casters determines the spell’s area of effect and duration, as shown in the table below. The spell ends early if any caster who participated in this casting contributes to another casting of Spellfire Storm as a Circle spell.
 Secondary Casters

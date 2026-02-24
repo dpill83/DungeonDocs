@@ -6,7 +6,7 @@ Source: *Player's Handbook (2024)*
 
 Casting Time: 10 minutes
 Range: Self
-Components: V, S, M(C*)
+Components: V, S , M (a gem-encrusted bowl worth at least 1,000 gp, which the spell consumes)
 Duration: Instantaneous
 
 You conjure a feast that appears on a surface in an unoccupied 10-foot Cube next to you. The feast takes 1 hour to consume and disappears at the end of that time, and the beneficial effects don’t set in until this hour is over. Up to twelve creatures can partake of the feast.

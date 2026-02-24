@@ -15,5 +15,5 @@ The creature can’t willingly enter the Cylinder by nonmagical means. If the cr
 The creature has Disadvantage on attack rolls against targets within the Cylinder.
 Targets within the Cylinder can’t be possessed by or gain the Charmed or Frightened condition from the creature.
 Each time you cast this spell, you can cause its magic to operate in the reverse direction, preventing a creature of the specified type from leaving the Cylinder and protecting targets outside it.
-**Using a Higher-Level Spell Slot.**            
+**Using a Higher-Level Spell Slot.**                
 The duration increases by 1 hour for each spell slot level above 3.
