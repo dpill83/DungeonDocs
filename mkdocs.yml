@@ -118,6 +118,7 @@ nav:
     - Wayfarer: dnd2024/backgrounds/wayfarer.md
     - Zhentarim Mercenary: dnd2024/backgrounds/zhentarim-mercenary.md
   - Classes:
+    - All Classes: dnd2024/classes/index.md
     - Artificer:
       - dnd2024/classes/artificer/index.md
       - Alchemist: dnd2024/classes/artificer/alchemist.md
