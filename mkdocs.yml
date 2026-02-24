@@ -46,6 +46,7 @@ plugins:
         - dnd2024/magic-items
         - dnd2024/magic-items/all
         - dnd2024/magic-items/armor
+        - dnd2024/magic-items/wondrous-item
 
 markdown_extensions:
   - tables
@@ -141,10 +142,19 @@ nav:
       - Spell List: dnd2024/classes/bard/spell-list.md
     - Cleric:
       - dnd2024/classes/cleric/index.md
+      - Arcana Domain: dnd2024/classes/cleric/arcana-domain.md
+      - Death Domain: dnd2024/classes/cleric/death-domain.md
+      - Forge Domain: dnd2024/classes/cleric/forge-domain.md
+      - Grave Domain: dnd2024/classes/cleric/grave-domain.md
       - Knowledge Domain: dnd2024/classes/cleric/knowledge-domain.md
       - Life Domain: dnd2024/classes/cleric/life-domain.md
       - Light Domain: dnd2024/classes/cleric/light-domain.md
+      - Nature Domain: dnd2024/classes/cleric/nature-domain.md
+      - Order Domain: dnd2024/classes/cleric/order-domain.md
+      - Peace Domain: dnd2024/classes/cleric/peace-domain.md
+      - Tempest Domain: dnd2024/classes/cleric/tempest-domain.md
       - Trickery Domain: dnd2024/classes/cleric/trickery-domain.md
+      - Twilight Domain: dnd2024/classes/cleric/twilight-domain.md
       - War Domain: dnd2024/classes/cleric/war-domain.md
       - Spell List: dnd2024/classes/cleric/spell-list.md
     - Druid:

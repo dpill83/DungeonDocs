@@ -115,14 +115,23 @@ You roll an additional d8 when you reach Cleric levels 7 (2d8), 13 (3d8), and 18
 **Turn Undead.** As a Magic action, you present your Holy Symbol and censure Undead creatures. Each Undead of your choice within 30 feet of you must make a Wisdom saving throw. If the creature fails its save, it has the Frightened and Incapacitated conditions for 1 minute. For that duration, it tries to move as far from you as it can on its turns. This effect ends early on the creature if it takes any damage, if you have the Incapacitated condition, or if you die.
 
 ### Level 3: Cleric Subclass
-You gain a Cleric subclass of your choice. The Life Domain, Light Domain, Trickery Domain, and War Domain subclasses are detailed after this class’s description. A subclass is a specialization that grants you features at certain Cleric levels. For the rest of your career, you gain each of your subclass’s features that are of your Cleric level or lower.
+You gain a Cleric subclass of your choice. The Arcana, Death, Forge, Grave, Knowledge, Life, Light, Nature, Order, Peace, Tempest, Trickery, Twilight, and War Domain subclasses are detailed after this class’s description. A subclass is a specialization that grants you features at certain Cleric levels. For the rest of your career, you gain each of your subclass’s features that are of your Cleric level or lower.
 
 | Name            |
 |-----------------|
+| Arcana Domain   |
+| Death Domain   |
+| Forge Domain   |
+| Grave Domain   |
 | Knowledge Domain|
 | Life Domain     |
 | Light Domain    |
+| Nature Domain   |
+| Order Domain    |
+| Peace Domain    |
+| Tempest Domain  |
 | Trickery Domain |
+| Twilight Domain |
 | War Domain      |
 
 ### Level 4: Ability Score Improvement
