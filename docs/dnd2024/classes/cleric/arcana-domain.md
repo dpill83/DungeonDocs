@@ -43,4 +43,4 @@ When you restore Hit Points to an ally with a spell of 1st level or higher, you 
 
 You choose four spells from the Wizard spell list, one from each of the following levels: 6th, 7th, 8th, and 9th. You add them to your list of domain spells. Like your other domain spells, they are always prepared and count as Cleric spells for you.
 
-Source: *Sword Coast Adventurer's Guide* (adapted for 2024 rules)
+Source: *Sword Coast Adventurer's Guide* (adapted for 5.5e rules)

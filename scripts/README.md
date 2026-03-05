@@ -2,7 +2,7 @@
 
 ## Spell Formatting
 
-Standardize D&D 2024 spell markdown files to match `dungeondocs-formatting-guide-spells.md`.
+Standardize D&D 2024 (5.5e) spell markdown files to match `dungeondocs-formatting-guide-spells.md`.
 
 ### format_spells.py
 
@@ -32,7 +32,7 @@ python scripts/audit_spells.py
 
 ## Magic Item Formatting
 
-Standardize D&D 2024 magic item markdown files to a consistent format (see `dungeondocs-formatting-guide-magic-items.md`).
+Standardize D&D 2024 (5.5e) magic item markdown files to a consistent format (see `dungeondocs-formatting-guide-magic-items.md`).
 
 ### format_items.py
 

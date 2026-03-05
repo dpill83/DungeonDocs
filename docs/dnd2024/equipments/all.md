@@ -1,6 +1,6 @@
 # Equipment
 
-Mundane equipment from the D&D rules. Equipment fetches half its cost when sold. Trade goods and valuables—like gems and art objects—retain their full value. The Dungeon Master's Guide has prices for magic items.
+Mundane equipment from the D&D 5.5e rules. Equipment fetches half its cost when sold. Trade goods and valuables—like gems and art objects—retain their full value. The Dungeon Master's Guide has prices for magic items.
 
 ## Mundane equipment
 

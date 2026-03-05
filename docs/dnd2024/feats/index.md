@@ -1,6 +1,6 @@
 # D&D Feats
 
-Feats from the D&D rules. Grouped by category for easier browsing.
+Feats from the D&D 5.5e rules. Grouped by category for easier browsing.
 
 ## Origin Feats
 

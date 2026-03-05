@@ -1,6 +1,6 @@
 # DungeonDocs
 
-A **searchable D&D reference** built from [dnd5e.wikidot.com](https://dnd5e.wikidot.com) and the D&D wiki. Content is scraped from Wikidot, converted to Markdown, and served as a static site with MkDocs Material (search, responsive layout, light/dark theme).
+A **searchable D&D reference** built from [dnd5e.wikidot.com](https://dnd5e.wikidot.com) and the D&D wiki. Content is scraped from Wikidot, converted to Markdown, and served as a static site with MkDocs Material (search, responsive layout, light/dark theme). The 2024 revised core rules are also known as D&D 5.5e.
 
 ---
 

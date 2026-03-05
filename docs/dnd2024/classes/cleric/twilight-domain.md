@@ -73,4 +73,4 @@ You can draw on the mystical power of night to rise into the air. As a Bonus Act
 
 The twilight that you summon offers a protective embrace: you and your allies have half cover while in the sphere created by your Twilight Sanctuary.
 
-Source: *Tasha's Cauldron of Everything* (adapted for 2024 rules)
+Source: *Tasha's Cauldron of Everything* (adapted for 5.5e rules)

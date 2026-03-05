@@ -45,4 +45,4 @@ You gain resistance to Fire damage. While wearing heavy armor, you gain a +1 bon
 
 You gain immunity to Fire damage. While wearing heavy armor, you have resistance to bludgeoning, piercing, and slashing damage from nonmagical attacks.
 
-Source: *Xanathar's Guide to Everything* (adapted for 2024 rules)
+Source: *Xanathar's Guide to Everything* (adapted for 5.5e rules)

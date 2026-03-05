@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Standardize D&D 2024 magic item markdown files to a consistent format.
+Standardize D&D 2024 (5.5e) magic item markdown files to a consistent format.
 Uses all.md (index) as source of truth for name, item_type, rarity, attunement.
 Source (book) comes from data/item_sources.csv (default: UNKNOWN).
 Preserves item body text exactly; only changes formatting and headers.

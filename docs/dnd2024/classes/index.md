@@ -1,4 +1,4 @@
-# D&D Classes
+# D&D 5.5e Classes
 
 Your character’s class is the primary definition of their capabilities and role in the party. Each class offers unique features, progressions, and subclasses.
 

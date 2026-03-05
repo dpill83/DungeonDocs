@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Standardize D&D 2024 spell markdown files to match dungeondocs-formatting-guide-spells.md.
+Standardize D&D 2024 (5.5e) spell markdown files to match dungeondocs-formatting-guide-spells.md.
 Uses index.md as source of truth for Name, School, Spell lists, Casting Time, Range,
 Components, Duration. Source (book) comes from data/spell_sources.csv (default: UNKNOWN).
 Preserves spell body text exactly; only changes formatting and headers.

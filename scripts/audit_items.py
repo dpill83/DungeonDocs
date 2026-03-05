@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Audit D&D 2024 magic item markdown files for formatting compliance.
+Audit D&D 2024 (5.5e) magic item markdown files for formatting compliance.
 Validates required structure (title, Source, type/rarity line, body), lists UNKNOWN sources,
 and warns on rarity mismatches (scaling vs single-rarity).
 """

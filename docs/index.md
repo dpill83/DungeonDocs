@@ -6,7 +6,7 @@
 
 # DungeonDocs
 
-A searchable D&D rules reference.
+A searchable D&D rules reference. Rules from the 2024 revised core books (D&D 5.5e).
 
 ## Browse
 

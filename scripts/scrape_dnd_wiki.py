@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Scrape main article text from D&D Wikidot wiki pages (dnd5e.wikidot.com, dnd2024.wikidot.com).
+Scrape main article text from D&D Wikidot wiki pages (dnd5e.wikidot.com, dnd2024.wikidot.com for 5.5e).
 Extracts #page-content / #main-content; outputs plain text to stdout and/or files.
 Use --crawl to follow links and scrape entire site(s) from seed URL(s).
 """

@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Audit D&D 2024 spell markdown files for formatting compliance.
+Audit D&D 2024 (5.5e) spell markdown files for formatting compliance.
 Validates required structure, lists UNKNOWN sources, and optionally checks body integrity.
 """
 

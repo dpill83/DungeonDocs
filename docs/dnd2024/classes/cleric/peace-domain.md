@@ -45,4 +45,4 @@ When a creature affected by your Emboldening Bond is about to take damage, a sec
 
 The benefits of your Emboldening Bond and Protective Bond now work when the creatures are within 60 feet of each other. When a creature uses Protective Bond to take someone else's damage, the creature has resistance to that damage.
 
-Source: *Tasha's Cauldron of Everything* (adapted for 2024 rules)
+Source: *Tasha's Cauldron of Everything* (adapted for 5.5e rules)

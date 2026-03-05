@@ -1,4 +1,4 @@
-# D&D Backgrounds
+# D&D 5.5e Backgrounds
 
 Your character's background represents the formative experiences—the place, people, and occupation—that shaped who they were before embarking on a life of adventure. Each background includes a brief narrative you can customize with your own details and flourishes.
 

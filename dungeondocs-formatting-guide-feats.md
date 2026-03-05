@@ -6,7 +6,7 @@ This document is the **style guide for Feats pages only** on the DungeonDocs MkD
 
 **Your task is formatting.** Apply the structure and conventions below. Stay focused on: title, Source line, "You gain the following benefits.", and **bold** benefit names with exact description text.
 
-**Source:** Look up which D&D book the feat is from (e.g. search for the feat name + "5e source" or "D&D 2024" + book name). Add a **Source:** line (e.g. `Source: Player's Handbook`) for every feat; omit only if you cannot determine the source.
+**Source:** Look up which D&D book the feat is from (e.g. search for the feat name + "5e source" or "D&D 2024" or "D&D 5.5e" + book name). Add a **Source:** line (e.g. `Source: Player's Handbook`) for every feat; omit only if you cannot determine the source.
 
 **Images:** Do **not** use image-generation tools (do not create or generate new images). **Do** search for an existing image on the web and insert its working URL into the `<img src="..."/>` so the feat page has a real image. Never leave `HEADER_IMAGE_URL` or a placeholder in the final output—find and use a real image URL that fits the feat and follows the image rules below.
 

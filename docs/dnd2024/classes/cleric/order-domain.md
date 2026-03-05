@@ -45,4 +45,4 @@ If you cast a spell of the Enchantment school using a spell slot of 1st level or
 
 If you deal your Divine Strike damage (from Blessed Strikes) to a creature on your turn, you can curse that creature until the start of your next turn. The next time one of your allies hits the cursed creature with an attack, the target also takes 2d8 psychic damage, and the curse ends. You can curse a creature in this way only once per turn.
 
-Source: *Guildmaster's Guide to Ravnica*, *Tasha's Cauldron of Everything* (adapted for 2024 rules)
+Source: *Guildmaster's Guide to Ravnica*, *Tasha's Cauldron of Everything* (adapted for 5.5e rules)

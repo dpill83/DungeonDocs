@@ -6,6 +6,8 @@
 Welcome to the D&D 5e wiki.
 Looking for the current D&D rules?
 Current ruleset
+<!-- maintained manually: 5.5e pointer -->
+The current ruleset is D&D 5.5e (2024 revised).
 This wiki hosts DND 5e content that is setting-specific, play-test content, or unofficial 'homebrew' content. Some content found on this page may not be suitable for play at your table. Check with your DM to see if what you find here is a good fit for your table.
 To join the discussion on this site, we now have a
 Discord

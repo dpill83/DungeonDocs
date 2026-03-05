@@ -45,4 +45,4 @@ When you deal lightning damage to a Large or smaller creature, you can also push
 
 You have a flying speed equal to your current walking speed whenever you are not underground or indoors.
 
-Source: *Player's Handbook* (adapted for 2024 rules)
+Source: *Player's Handbook* (adapted for 5.5e rules)

@@ -1,6 +1,6 @@
 # Reference
 
-Optional rules and reference material from the D&D rules.
+Optional rules and reference material from the D&D 5.5e rules.
 
 ## References
 

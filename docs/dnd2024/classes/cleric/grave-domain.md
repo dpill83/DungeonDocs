@@ -45,4 +45,4 @@ As a Reaction when you or an ally that you can see within 30 feet of you suffers
 
 When an enemy you can see dies within 30 feet of you, you or one ally of your choice that is within 30 feet of you regains Hit Points equal to the enemy's number of Hit Dice. You can use this feature only if you aren't Incapacitated. Once you use it, you can't do so again until the start of your next turn.
 
-Source: *Xanathar's Guide to Everything* (adapted for 2024 rules)
+Source: *Xanathar's Guide to Everything* (adapted for 5.5e rules)

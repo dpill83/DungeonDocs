@@ -45,4 +45,4 @@ When you or a creature within 30 feet of you takes acid, cold, fire, lightning, 
 
 While creatures are charmed by your Charm Animals and Plants feature, you can take a Bonus Action on your turn to verbally command what each of those creatures will do on its next turn.
 
-Source: *Player's Handbook* (adapted for 2024 rules)
+Source: *Player's Handbook* (adapted for 5.5e rules)
