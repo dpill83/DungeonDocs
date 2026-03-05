@@ -1,6 +1,6 @@
 # Rune Carver
 
-*Source: Bigby Presents - Glory of the Giants (Legacy).*
+*Source: Bigby Presents - Glory of the Giants (5e 2014).*
 
 You’ve dedicated your life to studying runecraft. Whether you were taught by a master rune carver or learned by poring over ancient engravings, you can tap into the supernatural power held within runes.
 The art of runecraft was initially created by giants, but over time, the practice has been adopted by many peoples. As such, though Giant runes are the most commonly used, many rune carvers incorporate symbols from their native languages into the craft.

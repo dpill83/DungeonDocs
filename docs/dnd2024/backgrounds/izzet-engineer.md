@@ -1,6 +1,6 @@
 # Izzet Engineer
 
-*Source: Guildmaster's Guide to Ravnica (Legacy).*
+*Source: Guildmaster's Guide to Ravnica (5e 2014).*
 
 Armed with an inventive intellect, a love of magical technology, and an unquenchable energy, you are an enthusiastic participant in the research work of the Izzet League. Though you're likely to begin your career as a mere attendant, you can aspire to become a skilled mage or alchemist, a laboratory supervisor, or even a flamethrower-wielding scorchbringer tasked with defending Izzet laboratories. The Izzet are obsessive, brilliant, inspired, and an unpredictable force of chaos in Ravnica, and you epitomize all of those qualities.
 Source: Guildmaster's Guide to Ravnica

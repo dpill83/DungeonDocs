@@ -1,6 +1,6 @@
 # Investigator
 
-*Source: Van Richten's Guide to Ravenloft (Legacy).*
+*Source: Van Richten's Guide to Ravenloft (5e 2014).*
 
 You relentlessly seek the truth. Perhaps you're motivated by belief in the law and a sense of universal justice, or maybe that very law has failed you and you seek to make things right. You could have witnessed something remarkable or terrible, and now you must know more about this hidden truth. Or maybe you're a detective for hire, uncovering secrets for well-paying clients. Whether the mysteries you're embroiled in are local crimes or realm-spanning conspiracies, you're driven by a personal need to hunt down even the most elusive clues and reveal what others would keep hidden in the shadows.
 Source: Van Richten's Guide to Ravenloft

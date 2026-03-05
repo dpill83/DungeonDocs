@@ -1,6 +1,6 @@
 # Phlan Refugee
 
-*Source: Mulmaster Bonds and Backgrounds (Legacy).*
+*Source: Mulmaster Bonds and Backgrounds (5e 2014).*
 
 Source: Mulmaster Bonds and Backgrounds
 Gone are the happier days of walking into the Laughing Goblin Inn after a hard day’s labor. Everything has changed, and you are lucky to be alive. Back in Phlan you could count yourself among those street-wise folks who knew when to pay a bribe and who to work with to make a living. Your ability to listen to the winds of change have saved you before, and this time they allowed you to be one of the lucky few who escaped Phlan with something more than just the shirt on your back.

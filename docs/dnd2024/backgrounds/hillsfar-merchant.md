@@ -1,6 +1,6 @@
 # Hillsfar Merchant
 
-*Source: (Legacy).*
+*Source: (5e 2014).*
 
 Before becoming an adventurer, you were a successful merchant operating out of Hillsfar, the City of Trade. Your family operated warehouses, organized caravans, managed stores, or owned a ship, and has trade contacts throughout the Moonsea region, as well as up and down the length of the Sword Coast. Perhaps they import ore, uncut gems, untreated furs, or grain into the City of Trade, or they export fine cloth, faceted gems, fine furs, or Dragon's Breath, a brandy-like liquor. Regardless, you've largely given that life up for some reason and have chosen to seek adventure instead. Nevertheless, the training you received then, and perhaps the contacts you made, serve you well as an adventurer.
 

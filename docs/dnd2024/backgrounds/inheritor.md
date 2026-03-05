@@ -1,6 +1,6 @@
 # Inheritor
 
-*Source: Sword Coast Adventurer's Guide (Legacy).*
+*Source: Sword Coast Adventurer's Guide (5e 2014).*
 
 You are the heir to something of great value – not mere coin or wealth, but an object that has been entrusted to you and you alone. Your inheritance might have come directly to you from a member of your family, by right of birth, or it could have been left to you by a friend, a mentor, a teacher, or someone else important in your life. The revelation of your inheritance changed your life, and might have set you on the path to adventure, but it could also come with many dangers, including those who covet your gift and want to take it from you – by force, if need be.
 Source: Sword Coast Adventurer's Guide

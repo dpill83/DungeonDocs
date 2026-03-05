@@ -1,6 +1,6 @@
 # Secret Identity
 
-*Source: (Legacy).*
+*Source: (5e 2014).*
 
 Even though you are a non-human, despite Hillsfar's Great Law of Humanity, you continue to live in the City of Trade. You do so by maintaining a secret identity, forging documents, and even wearing a disguise. Few, if any, know you aren't human.
 If you're a halfling or a gnome, you pass as a little person or a child. If you're a half-elf, half-orc, or genasi, you disguise your non-human features. Other races use a combination of disguise and concealing clothing to hide.

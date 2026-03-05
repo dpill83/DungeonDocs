@@ -1,6 +1,6 @@
 # Knight Of Solamnia
 
-*Source: Dragonlance: Shadow of the Dragon Queen (Legacy).*
+*Source: Dragonlance: Shadow of the Dragon Queen (5e 2014).*
 
 You have trained to be a valorous warrior known as a Knight of Solamnia. Strict rules guide your every action, and you work to uphold them as you strive to defend the weak and oppose evil. Your honor is as important to you as your life.
 Source: Dragonlance: Shadow of the Dragon Queen

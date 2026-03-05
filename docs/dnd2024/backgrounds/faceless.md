@@ -1,6 +1,6 @@
 # Faceless
 
-*Source: Baldur's Gate - Descent into Avernus (Legacy).*
+*Source: Baldur's Gate - Descent into Avernus (5e 2014).*
 
 Being who you are, you could never be a hero. Whether due to your class, your people, your family, or your sins, something about you prevents you from effectively pursuing the path you've chosen. Even so, that doesn't stop you. You've left your old face behind, taking on a new persona, becoming something more.
 Characters with the faceless background don a disguise—literally or otherwise—as they adventure. This persona might be dramatic or subtle. In a way, though, many characters have such larger than life personalities. Therefore, this background largely focuses on detailing the hero behind the mask.

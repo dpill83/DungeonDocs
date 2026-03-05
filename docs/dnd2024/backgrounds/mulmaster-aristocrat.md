@@ -1,6 +1,6 @@
 # Mulmaster Aristocrat
 
-*Source: Mulmaster Bonds and Backgrounds (Legacy).*
+*Source: Mulmaster Bonds and Backgrounds (5e 2014).*
 
 Source: Mulmaster Bonds and Backgrounds
 From your hilltop home, you have looked down (literally and perhaps figuratively) on the unwashed masses of Mulmaster for your entire life. Your fur-trimmed robes and training in the visual and performing arts mark you as wealthy and perhaps well-born; you are a member of the City of Danger's aristocracy.

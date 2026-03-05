@@ -1,6 +1,6 @@
-# Athlete (Legacy)
+# Athlete (5e 2014)
 
-*Source: Mythic Odysseys of Theros (Legacy).*
+*Source: Mythic Odysseys of Theros (5e 2014).*
 
 <!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
 

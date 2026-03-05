@@ -1,6 +1,6 @@
 # Trade Sheriff
 
-*Source: (Legacy).*
+*Source: (5e 2014).*
 
 You are one of the many people that make sure the trade routes are clear at ALL times. You assure that the
 Great Law of Trade

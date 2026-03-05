@@ -1,6 +1,6 @@
 # Selesnya Initiate
 
-*Source: Guildmaster's Guide to Ravnica (Legacy).*
+*Source: Guildmaster's Guide to Ravnica (5e 2014).*
 
 You are a member of a blessed community, built on the ideals of harmony. Here, nature and civilization coexist peacefully, living and growing in accordance with the will of the Worldsoul, Mat'Selesnya. As a member of the Selesnya Conclave, you are surrounded by people and other creatures who share your worldview and your longing for deeper spiritual communion with the world, and you have a fervent desire to share the joy you have experienced with Ravnica. Along with the rest of the conclave, you are committed to resisting the ambitions of the other guilds- with military force if necessary.
 Source: Guildmaster's Guide to Ravnica

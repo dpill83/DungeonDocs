@@ -1,6 +1,6 @@
 # Ruined
 
-*Source: (Legacy).*
+*Source: (5e 2014).*
 
 Everything was going so well! You had a life of luxury, love, and comfort when you suddenly lost it all. Perhaps you were framed for crimes you didn’t commit and lost your reputation, fortune, and career. Maybe a rampaging dragon or another monster wiped out everything you had in a single calamitous afternoon. Or you might have sought out a Deck of Many Things, hoping to make your successful life even more glorious—only to draw a destructive card that changed your destiny forever.
 Your desperation has driven you to the career of adventurer. You don’t seek out dark dungeons and their monstrous inhabitants for excitement and glory; you do it because every other path is closed to you. But you have risen high on fortune’s wheel once before, and with luck and fortitude, you could do so again.

@@ -1,6 +1,6 @@
 # Azorius Functionary
 
-*Source: Guildmaster's Guide to Ravnica (Legacy).*
+*Source: Guildmaster's Guide to Ravnica (5e 2014).*
 
 The brutes are at the gate, chaos is looming, and the only thing standing in the way of disaster is the foundation of law and order - as embodied in the Azorius Senate. You're a proud member of the Azorius guild, which both enacts and enforces the laws that make Ravnican society function smoothly and safely.
 Source: Guildmaster's Guide to Ravnica

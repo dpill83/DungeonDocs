@@ -1,6 +1,6 @@
 # Caravan Specialist
 
-*Source: Mulmaster Bonds and Backgrounds (Legacy).*
+*Source: Mulmaster Bonds and Backgrounds (5e 2014).*
 
 Source: Mulmaster Bonds and Backgrounds
 You are used to life on the road. You pride yourself at having traveled every major tradeway in the Moonsea region, including the best back roads and shortcuts. When traveling these roads, you know where the best inns, campsites, and water sources are located, as well as potential locations of danger such as ambush. Having worked the roads as long as you have, you have made many acquaintances and find it easy to pick up information and rumors floating from town to town. You are skilled with beasts of burden and handling and repairing wagons of all kinds.

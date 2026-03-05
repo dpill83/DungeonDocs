@@ -148,23 +148,23 @@ Every background provides the following:
     | [Vampire Devotee](vampire-devotee.md) |
     | [Vampire Survivor](vampire-survivor.md) |
 
-=== "Legacy (2014)"
-    *(Legacy)* indicates backgrounds from the 2014 rules and other sources, not part of the 2024 core.
+=== "5e (2014)"
+    5e (2014) = 2014 rules. 5.5e (2024) = 2024 revised rules. *(5e 2014)* indicates backgrounds from the 2014 rules and other sources, not part of the 2024 core.
 
     #### Common
     | Background |
     |------------|
-    | [Acolyte (Legacy)](acolyte-legacy.md) |
+    | [Acolyte (5e 2014)](acolyte-legacy.md) |
     | [Anthropologist](anthropologist.md) |
-    | [Archaeologist (Legacy)](archaeologist-legacy.md) |
+    | [Archaeologist (5e 2014)](archaeologist-legacy.md) |
     | [Athlete](athlete.md) |
-    | [Charlatan (Legacy)](charlatan-legacy.md) |
+    | [Charlatan (5e 2014)](charlatan-legacy.md) |
     | [City Watch](city-watch.md) |
     | [Clan Crafter](clan-crafter.md) |
     | [Cloistered Scholar](cloistered-scholar.md) |
     | [Courtier](courtier.md) |
-    | [Criminal (Legacy)](criminal-legacy.md) |
-    | [Entertainer (Legacy)](entertainer-legacy.md) |
+    | [Criminal (5e 2014)](criminal-legacy.md) |
+    | [Entertainer (5e 2014)](entertainer-legacy.md) |
     | [Faceless](faceless.md) |
     | [Faction Agent](faction-agent.md) |
     | [Far Traveler](far-traveler.md) |
@@ -174,23 +174,23 @@ Every background provides the following:
     | [Giant Foundling](giant-foundling.md) |
     | [Guild Artisan](guild-artisan.md) |
     | [Haunted One](haunted-one.md) |
-    | [Hermit (Legacy)](hermit-legacy.md) |
-    | [House Agent (Legacy)](house-agent-legacy.md) |
+    | [Hermit (5e 2014)](hermit-legacy.md) |
+    | [House Agent (5e 2014)](house-agent-legacy.md) |
     | [Inheritor](inheritor.md) |
     | [Investigator](investigator.md) |
     | [Knight of the Order](knight-of-the-order.md) |
     | [Marine](marine.md) |
     | [Mercenary Veteran](mercenary-veteran.md) |
-    | [Noble (Legacy)](noble-legacy.md) |
+    | [Noble (5e 2014)](noble-legacy.md) |
     | [Outlander](outlander.md) |
     | [Rewarded](rewarded.md) |
     | [Ruined](ruined.md) |
     | [Rune Carver](rune-carver.md) |
-    | [Sage (Legacy)](sage-legacy.md) |
-    | [Sailor (Legacy)](sailor-legacy.md) |
+    | [Sage (5e 2014)](sage-legacy.md) |
+    | [Sailor (5e 2014)](sailor-legacy.md) |
     | [Shipwright](shipwright.md) |
     | [Smuggler](smuggler.md) |
-    | [Soldier (Legacy)](soldier-legacy.md) |
+    | [Soldier (5e 2014)](soldier-legacy.md) |
     | [Urban Bounty Hunter](urban-bounty-hunter.md) |
     | [Urchin](urchin.md) |
     | [Uthgardt Tribe Member](uthgardt-tribe-member.md) |

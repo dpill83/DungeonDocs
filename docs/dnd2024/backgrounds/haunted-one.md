@@ -1,6 +1,6 @@
 # Haunted One
 
-*Source: Curse of Strahd (Legacy).*
+*Source: Curse of Strahd (5e 2014).*
 
 You are haunted by something so terrible that you dare not speak of it. You’ve tried to bury it and run away from it, to no avail. Whatever this thing is that haunts you can’t be slain with a sword or banished with a spell. It might come to you as a shadow on the wall, a bloodcurdling nightmare, a memory that refuses to die, or a demonic whisper in the dark. The burden has taken its toll, isolating you from most people and making you question your sanity. You must find a way to overcome it before it destroys you.
 Source: Curse of Strahd

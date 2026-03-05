@@ -1,6 +1,6 @@
 # Half-Elf
 
-*Source: 2014 Player's Handbook (Legacy).*
+*Source: 2014 Player's Handbook (5e 2014).*
 
 <div align="center">
   <img src="https://static0.cbrimages.com/wordpress/wp-content/uploads/2020/03/half-elf-dnd-5e.jpg" alt="Half-elf adventurer blending human and elven heritage" width="900"/>

@@ -1,6 +1,6 @@
 # Black Fist Double Agent
 
-*Source: (Legacy).*
+*Source: (5e 2014).*
 
 You are an informant for the Tears of Virulence who now lord over Phlan, but are also a double agent for the original town guard of Phlan, the Black Fist. For the Tears you’ve been tasked with ferreting out the secrets of Phlan's criminal underworld, insurgency, and the common peoples of Phlan. In exchange for reporting on the activities of dissenters, criminals, and other rebel elements, the Tears of Virulence leave you alone to conduct your affairs in peace.
 In reality you work for the deposed Black Fists, sharing misinformation with the Tears of Virulence that often helps the Black Fists and other Phlan insurgents.

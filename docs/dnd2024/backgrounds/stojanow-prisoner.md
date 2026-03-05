@@ -1,6 +1,6 @@
 # Stojanow Prisoner
 
-*Source: (Legacy).*
+*Source: (5e 2014).*
 
 Those words still haunt your dreams at night. When everyone was fleeing Phlan, you chose to stay. Whether out of an emotional attachment, or pursuit of riches, you made the decision that would affect the rest of your life.
 Food became scarcer for those without connections. You became a beggar and to stay alive you bartered information to any interested party with food or gold to spare. You were good at what you did, and thought you were invincible. That changed when you were captured by the Tears of Virulence, the soldiers of Vorgansharax, the Maimed Virulence, for selling secrets to those bent on overthrowing the dragon. They locked you in the cells of Stojanow Gate. The first weeks you hoped to stay alive. As the weeks turned into months, and the interrogations continued, you began to pray for death.

@@ -1,6 +1,6 @@
 # Astral Drifter
 
-*Source: Spelljamer: Adventures in Space - Astral Adventurer's Guide (Legacy).*
+*Source: Spelljamer: Adventures in Space - Astral Adventurer's Guide (5e 2014).*
 
 For longer than you can remember, you have traversed the Astral Sea. There, you experienced firsthand the wonders of the Silver Void: you stopped aging and no longer felt hunger or thirst. Driven by wanderlust, you drifted from one part of the Astral Sea to another, like a mote of dust on the wind. You have lost count of the decades that have passed since you arrived here.
 In your travels, you have camped on the petrified hulks of dead gods and narrowly escaped the psychic winds that sweep across the Astral Sea while also avoiding prolonged contact with the plane’s most dangerous denizens.

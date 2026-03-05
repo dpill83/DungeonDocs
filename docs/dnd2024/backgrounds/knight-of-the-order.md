@@ -1,6 +1,6 @@
 # Knight Of The Order
 
-*Source: Sword Coast Adventurer's Guide (Legacy).*
+*Source: Sword Coast Adventurer's Guide (5e 2014).*
 
 Knights of the Unicorn
 Knights of Myth Drannor

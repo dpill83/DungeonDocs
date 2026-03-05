@@ -1,6 +1,6 @@
 # Inquisitor
 
-*Source: Plane Shift - Innistrad (Legacy).*
+*Source: Plane Shift - Innistrad (5e 2014).*
 
 Historically, inquisitors were cathar detectives who investigated crimes both mundane and supernatural. They were known for traveling to remote parishes plagued by unexplained murders, and for exposing werewolves living among normal humans. During Avacyn’s absence, when the archangel was trapped within the demonic prison known as the Helvault, the inquisitors led a series of brutal forays into Kessig and the Gavony Moorland. They executed suspected lycanthropes with little or no proof, and punished accused heretics in unsanctioned trials. With Avacyn’s madness, this savage form of inquisition has become the norm, and inquisitors who still pry into dark mysteries have become a minority.
 Source: Plane Shift - Innistrad

@@ -1,6 +1,6 @@
 # Gate Urchin
 
-*Source: (Legacy).*
+*Source: (5e 2014).*
 
 All traffic into and out of the City of Trade passes through the Hillsfar Gate, making it the ideal place for the destitute to gather to panhandle, busk, gossip, and pick pockets. You grew up on the streets in the shadow of that great steel edifice, which houses both Red Plumes and Guild Mages. Though you may have moved on, you still have friends among them, and that life has had a lasting impact on you.
 

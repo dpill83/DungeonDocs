@@ -1,6 +1,6 @@
 # Uthgardt Tribe Member
 
-*Source: Sword Coast Adventurer's Guide (Legacy).*
+*Source: Sword Coast Adventurer's Guide (5e 2014).*
 
 Uthgardt Tribes and Their Territories
 Blue Bear

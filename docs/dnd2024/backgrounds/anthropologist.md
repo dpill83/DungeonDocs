@@ -1,6 +1,6 @@
 # Anthropologist
 
-*Source: Tomb of Annihilation (Legacy).*
+*Source: Tomb of Annihilation (5e 2014).*
 
 <!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
 

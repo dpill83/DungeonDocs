@@ -1,6 +1,6 @@
 # Half-Orc
 
-*Source: 2014 Player's Handbook (Legacy).*
+*Source: 2014 Player's Handbook (5e 2014).*
 
 <div align="center">
   <img src="https://static0.srcdn.com/wordpress/wp-content/uploads/2022/01/Half-Orc-Dungeons-Dragons-5e.jpg" alt="Half-orc warrior embodying strength and relentless endurance" width="900"/>

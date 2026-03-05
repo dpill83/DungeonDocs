@@ -1,6 +1,6 @@
 # Cormanthor Refugee
 
-*Source: (Legacy).*
+*Source: (5e 2014).*
 
 You are one of hundreds of refugees who were driven from Hillsfar or who fled the destruction of Myth Drannor and who now shelter in hidden camps under the northern eaves of the Cormanthor Forest. If you grew up in the camps, you have never been to a settlement other than the village of Elventree. As a guest of the elves, you have learned their ways and the ways of the forest. You are also traumatized, as residual wild magic, energies released by the fall of Thultanar upon Myth Drannor, and the constant fear of raids hunting for non-humans to fight in Hillsfar's Arena, have taken their toll on you, as they have on everyone in the camps.
 

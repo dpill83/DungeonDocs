@@ -1,6 +1,6 @@
 # Waterdhavian Noble
 
-*Source: Sword Coast Adventurer's Guide (Legacy).*
+*Source: Sword Coast Adventurer's Guide (5e 2014).*
 
 You are a scion of one of the great noble families of Waterdeep. Human families who jealously guard their privilege and place in the City of Splendors, Waterdhavian nobles have a reputation across Faerûn for being eccentric, spoiled, venal, and, above all else, rich.
 Whether you are a shining example of the reason for this reputation or one who proves the rule by being an exception, people expect things of you when they know your surname and what it means. Your reasons for taking up adventuring likely involve your family in some way: Are you the family rebel, who prefers delving in filthy dungeons to sipping

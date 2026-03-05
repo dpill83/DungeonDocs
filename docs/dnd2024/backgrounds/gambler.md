@@ -1,6 +1,6 @@
 # Gambler
 
-*Source: (Legacy).*
+*Source: (5e 2014).*
 
 All you need to make a lot of gold is a little gold. Except at those times when all you need to have no gold at all is a little gold. Whether you're a good gambler or a bad one rarely matters, because no one can divine the whims of Lady Luck. Sometimes you're up, sometimes you're down. But the thing about gambling is that someone is always willing to take a bet.
 

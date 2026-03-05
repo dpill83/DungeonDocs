@@ -1,6 +1,6 @@
 # Shade Fanatic
 
-*Source: (Legacy).*
+*Source: (5e 2014).*
 
 You grew up at a time when the wizards of Netheril were at war with the elves of Cormanthor. You recall sitting crosslegged hearing the stories of the glorious Thultanthar, also called the Shade Enclave and the City of Shade, and aspired to study there and maybe even did, for a time. Your dreams came crashing down a few years ago when Thultanthar fell from the sky upon Myth Drannor.
 You know that there was a Netherese Garrison stationed near Hillsfar and have heard rumors that its downfall came from traitors within the ranks. You remain loyal to Netheril and seek other Shade loyalists and fanatics in the Cormanthor forest and the areas surrounding Hillsfar.

@@ -1,6 +1,6 @@
 # Volstrucker Agent
 
-*Source: Explorer's Guide to Wildemount (Legacy).*
+*Source: Explorer's Guide to Wildemount (5e 2014).*
 
 The Volstrucker are a clandestine organization of arcane assassins and enforcers in the service of the Cerberus Assembly. Their operatives bear no official title, but are referred to in hushed tones as "scourgers" by residents of large Dwendalian cities such as Zadash and Rexxentrum.
 You are a Volstrucker agent. Your duty is to silence dissidents who would undermine the will of King Dwendal - and more importantly, the will of the Assembly.

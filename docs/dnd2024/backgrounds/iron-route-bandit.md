@@ -1,6 +1,6 @@
 # Iron Route Bandit
 
-*Source: (Legacy).*
+*Source: (5e 2014).*
 
 The Iron Route, once the primary trade route between Phlan and Zhentil Keep, used to be a site of extensive banditry until the Phlan’s recent occupation. Your time as an erstwhile bandit has given you plenty of experience in the saddle and a knack for acquiring and appraising other people’s mounts, pets, and vehicles among other things. This particular set of skills has become very lucrative for you by working for the underground as a horse thief for a local guild of thieves and other shadowy organizations.
 

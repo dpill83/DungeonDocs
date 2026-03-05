@@ -1,6 +1,6 @@
 # Gate Warden
 
-*Source: Planescape - Adventures in the Multiverse (Legacy).*
+*Source: Planescape - Adventures in the Multiverse (5e 2014).*
 
 You spent a significant amount of time somewhere influenced by intense planar forces or a portal to another plane of existence, such as one of the gate-towns in the Outlands. You're accustomed to experiences that would leave others reeling in terror or enraptured by otherworldly beauty, and you're as comfortable dealing with Celestials and Fiends as you are with vendors in town (who might be one and the same).
 Source: Planescape - Adventures in the Multiverse

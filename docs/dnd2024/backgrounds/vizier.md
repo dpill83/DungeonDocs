@@ -1,6 +1,6 @@
 # Vizier
 
-*Source: Plane Shift - Amonkhet (Legacy).*
+*Source: Plane Shift - Amonkhet (5e 2014).*
 
 You are a vizier, a servant of your god. You perform tasks that are essential to facilitating the initiates’ journey, so the gods reward you with entry into the afterlife with the God-Pharaoh’s blessing. You hope to achieve the most honored status in the afterlife by being the best possible servant to your god.
 As a vizier, you can have any class, but you are especially likely to be a cleric, a druid (particularly if you serve Rhonas), or a paladin.

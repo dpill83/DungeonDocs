@@ -1,6 +1,6 @@
 # Silverquill Student
 
-*Source: Strixhaven: A Curriculum of Chaos (Legacy).*
+*Source: Strixhaven: A Curriculum of Chaos (5e 2014).*
 
 You have spent years practicing your writing and oration in the hope of becoming a student of Silverquill College. Your studies focus on language, literature, and the power of words, both magical and otherwise. The metaphorical power of words to illuminate or conceal is joined with the literal ability of magic to do the same in your academic pursuits.
 Source: Strixhaven: A Curriculum of Chaos

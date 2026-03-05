@@ -1,6 +1,6 @@
 # Shipwright
 
-*Source: (Legacy).*
+*Source: (5e 2014).*
 
 You have sailed into war on the decks of great ships, patching their hulls with soup bowls and prayers. You once helped build a fishing vessel that single-handedly saved a town from starvation. You have seen a majestic prow in your dreams that you have not been able to replicate in wood. Since childhood, you have loved the water and have been captivated by the many vessels that travel on it.
 

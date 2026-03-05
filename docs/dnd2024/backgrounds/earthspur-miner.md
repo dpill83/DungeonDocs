@@ -1,6 +1,6 @@
 # Earthspur Miner
 
-*Source: Mulmaster Bonds and Backgrounds (Legacy).*
+*Source: Mulmaster Bonds and Backgrounds (5e 2014).*
 
 Source: Mulmaster Bonds and Backgrounds
 You are a down-on-your-luck miner from the Earthspur Mountains who is no stranger to hardship. You have spent a great deal of time living among the dwarves, goliaths, and denizens of the Underdark who also work mines in the area. At this point, you're just as comfortable working underground as above. You know how to read a seam, dicker for supplies with the deep gnomes, party with dwarves, and find your way back to the surface afterward. Unfortunately, you haven't struck it rich… yet. Although you've come to Mulmaster looking for work, the tall peaks and deep mines of the Earthspurs still call to you.

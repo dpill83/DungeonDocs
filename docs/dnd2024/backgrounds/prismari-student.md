@@ -1,6 +1,6 @@
 # Prismari Student
 
-*Source: Strixhaven: A Curriculum of Chaos (Legacy).*
+*Source: Strixhaven: A Curriculum of Chaos (5e 2014).*
 
 You are an artist, and you have been preparing to hone your craft according to the traditions of Prismari College. Whatever your medium-sculpture, dance, paint, music, drama, architecture, or any other field-you have grand visions of bringing your art to life in a fusion of magic and creativity.
 Source: Strixhaven: A Curriculum of Chaos

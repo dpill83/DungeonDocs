@@ -1,6 +1,6 @@
 # Gruul Anarch
 
-*Source: Guildmaster's Guide to Ravnica (Legacy).*
+*Source: Guildmaster's Guide to Ravnica (5e 2014).*
 
 The entire world of Ravnica is a sprawling metropolis, but you are a native of the wild areas that still exist - the abandoned districts, the rubblebelts, the overgrown parks, and the crumbling ruins. You are part of a savage society that clings desperately to the Old Ways - attuned to nature, full of primal rage, and given short shrift by a world consumed with continuing civilization's march of progress.
 Source: Guildmaster's Guide to Ravnica

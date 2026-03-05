@@ -8,7 +8,7 @@ When you choose your character's species, you determine whether they're human or
 
 Species in the D&D multiverse originate from different worlds, planes, and gods, though members have spread across the realms and contributed to many cultures. Most species members live roughly 80 years (with exceptions noted in their descriptions), and all species reach physical maturity at approximately the same age. Your character can be any age within their species' normal life span.
 
-*(Legacy)* indicates an option from the 2014 rules that is not part of the 2024 core.
+*(5e 2014)* indicates an option from the 2014 rules that is not part of the 2024 core. 5e (2014) = 2014 rules. 5.5e (2024) = 2024 revised rules.
 
 ## Parts of a Species
 
@@ -41,77 +41,77 @@ Every species provides the following:
 ## Exotic Species
 
 - **[Aasimar](aasimar.md)**
-- Aarakocra *(Legacy)*
-- **[Changeling](changeling.md)** *(Legacy)*
-- Deep Gnome *(Legacy)*
-- Duergar *(Legacy)*
-- Eladrin *(Legacy)*
-- **[Faerie](faerie.md)** *(Legacy)*
-- Firbolg *(Legacy)*
-- Genasi (Air, Earth, Fire, Water) *(Legacy)*
-- Githyanki *(Legacy)*
-- Githzerai *(Legacy)*
+- Aarakocra *(5e 2014)*
+- **[Changeling](changeling.md)** *(5e 2014)*
+- Deep Gnome *(5e 2014)*
+- Duergar *(5e 2014)*
+- Eladrin *(5e 2014)*
+- **[Faerie](faerie.md)** *(5e 2014)*
+- Firbolg *(5e 2014)*
+- Genasi (Air, Earth, Fire, Water) *(5e 2014)*
+- Githyanki *(5e 2014)*
+- Githzerai *(5e 2014)*
 - **[Goliath](goliath.md)**
-- Harengon *(Legacy)*
-- Kenku *(Legacy)*
-- Locathah *(Legacy)*
-- Owlin *(Legacy)*
-- Satyr *(Legacy)*
-- Sea Elf *(Legacy)*
-- Shadar-Kai *(Legacy)*
-- Tabaxi *(Legacy)*
-- Tortle *(Legacy)*
-- Triton *(Legacy)*
-- Verdan *(Legacy)*
+- Harengon *(5e 2014)*
+- Kenku *(5e 2014)*
+- Locathah *(5e 2014)*
+- Owlin *(5e 2014)*
+- Satyr *(5e 2014)*
+- Sea Elf *(5e 2014)*
+- Shadar-Kai *(5e 2014)*
+- Tabaxi *(5e 2014)*
+- Tortle *(5e 2014)*
+- Triton *(5e 2014)*
+- Verdan *(5e 2014)*
 
 ## Monstrous Species
 
-- Bugbear *(Legacy)*
-- Centaur *(Legacy)*
-- Goblin *(Legacy)*
-- Grung *(Legacy)*
-- Hobgoblin *(Legacy)*
-- Kobold *(Legacy)*
-- Lizardfolk *(Legacy)*
-- Minotaur *(Legacy)*
+- Bugbear *(5e 2014)*
+- Centaur *(5e 2014)*
+- Goblin *(5e 2014)*
+- Grung *(5e 2014)*
+- Hobgoblin *(5e 2014)*
+- Kobold *(5e 2014)*
+- Lizardfolk *(5e 2014)*
+- Minotaur *(5e 2014)*
 - **[Orc](orc.md)**
-- **[Shifter](shifter.md)** *(Legacy)*
-- Yuan-Ti *(Legacy)*
+- **[Shifter](shifter.md)** *(5e 2014)*
+- Yuan-Ti *(5e 2014)*
 
 ## Setting Specific
 
 ### Dragonlance
 
-- Kender *(Legacy)*
+- Kender *(5e 2014)*
 
 ### Eberron
 
-- **[Changeling](changeling.md)** *(Legacy)*
-- **[Kalashtar](kalashtar.md)** *(Legacy)*
-- **[Khoravar](khoravar.md)** *(Legacy)*
-- **[Shifter](shifter.md)** *(Legacy)*
-- **[Warforged](warforged.md)** *(Legacy)*
+- **[Changeling](changeling.md)** *(5e 2014)*
+- **[Kalashtar](kalashtar.md)** *(5e 2014)*
+- **[Khoravar](khoravar.md)** *(5e 2014)*
+- **[Shifter](shifter.md)** *(5e 2014)*
+- **[Warforged](warforged.md)** *(5e 2014)*
 
 ### Plane Shift
 
-- Aetherborn, Aven, Khenra, Kor, Merfolk, Naga, Siren, Vampire *(Legacy)*
+- Aetherborn, Aven, Khenra, Kor, Merfolk, Naga, Siren, Vampire *(5e 2014)*
 
 ### Ravenloft
 
-- **[Dhampir](dhampir.md)** *(Legacy)*
-- Hexblood, Reborn *(Legacy)*
+- **[Dhampir](dhampir.md)** *(5e 2014)*
+- Hexblood, Reborn *(5e 2014)*
 
 ### Ravnica
 
-- Loxodon, Simic Hybrid, Vedalken *(Legacy)*
+- Loxodon, Simic Hybrid, Vedalken *(5e 2014)*
 
 ### Spelljammer
 
-- Astral Elf, Autognome, Giff, Hadozee, Plasmoid, Thri-Kreen *(Legacy)*
+- Astral Elf, Autognome, Giff, Hadozee, Plasmoid, Thri-Kreen *(5e 2014)*
 
 ### Theros
 
-- Leonin *(Legacy)*
+- Leonin *(5e 2014)*
 
 ## Lorwyn Species
 
@@ -134,4 +134,4 @@ Species from the 2014 Player's Handbook and related 2014-era rules that are not 
 
 ## Exotic (Other)
 
-- **[Dhampir](dhampir.md)** *(Legacy)*
+- **[Dhampir](dhampir.md)** *(5e 2014)*

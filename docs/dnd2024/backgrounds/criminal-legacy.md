@@ -1,6 +1,6 @@
-# Criminal (Legacy)
+# Criminal (5e 2014)
 
-*Source: 2014 Player's Handbook (Legacy).*
+*Source: 2014 Player's Handbook (5e 2014).*
 
 <!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
 

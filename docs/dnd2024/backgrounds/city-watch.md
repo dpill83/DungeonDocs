@@ -1,6 +1,6 @@
-# City Watch (Legacy)
+# City Watch (5e 2014)
 
-*Source: Sword Coast Adventurer's Guide (Legacy).*
+*Source: Sword Coast Adventurer's Guide (5e 2014).*
 
 <!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
 

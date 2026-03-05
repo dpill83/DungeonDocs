@@ -1,6 +1,6 @@
 # Hillsfar Smuggler
 
-*Source: (Legacy).*
+*Source: (5e 2014).*
 
 Hillsfar is the City of Trade. However, the Great Law of Trade only protects "legitimate" trade, trade that passes through the city's sole gate, which the Red Plumes monitor and tax. And the Great Law of Humanity banishes non-humans from the city altogether. The two Great Laws create great demand and great risk for smugglers, who shepherd illicit goods and non-humans into and out of the city by secret routes. The Rogues' Guild tightly controls all of this activity, taking its cut from sanctioned jobs and exacting punishment for independent jobs.
 Perhaps you trafficked Dragon's Breath (a brandy-like liquor) to avoid tariffs, or contraband to avoid seizure, or maybe you are a human who sympathizes with the non-humans and worked as part of the network of secret routes and safe houses that helps them pass through Hillsfar. Either way, you have contacts in the smuggling community who can help you slip into and out of the city unnoticed, for a price.

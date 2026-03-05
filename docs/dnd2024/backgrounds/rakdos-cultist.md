@@ -1,6 +1,6 @@
 # Rakdos Cultist
 
-*Source: Guildmaster's Guide to Ravnica (Legacy).*
+*Source: Guildmaster's Guide to Ravnica (5e 2014).*
 
 A Flair for the Dramatic
 Fearsome Reputation

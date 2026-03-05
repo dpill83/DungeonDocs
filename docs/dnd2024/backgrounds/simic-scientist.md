@@ -1,6 +1,6 @@
 # Simic Scientist
 
-*Source: Guildmaster's Guide to Ravnica (Legacy).*
+*Source: Guildmaster's Guide to Ravnica (5e 2014).*
 
 Clades and Projects
 Researcher

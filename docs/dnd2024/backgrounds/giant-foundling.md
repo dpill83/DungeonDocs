@@ -1,6 +1,6 @@
 # Giant Foundling
 
-*Source: Bigby Presents - Glory of the Giants (Legacy).*
+*Source: Bigby Presents - Glory of the Giants (5e 2014).*
 
 Strike of the Giants
 Building a Giant Foundling Character

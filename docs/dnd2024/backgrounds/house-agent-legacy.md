@@ -1,6 +1,6 @@
-# House Agent (Legacy)
+# House Agent (5e 2014)
 
-*Source: Eberron - Rising from the Last War (Legacy).*
+*Source: Eberron - Rising from the Last War (5e 2014).*
 
 <!-- generated-by: scripts/txt_to_mkdocs.py v2026-02-03 -->
 

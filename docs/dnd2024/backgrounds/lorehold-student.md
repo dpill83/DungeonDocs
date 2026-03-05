@@ -1,6 +1,6 @@
 # Lorehold Student
 
-*Source: Strixhaven: A Curriculum of Chaos (Legacy).*
+*Source: Strixhaven: A Curriculum of Chaos (5e 2014).*
 
 You have spent your youth preparing to be a student of Lorehold College, reading every book on the college's recommended reading list for prospective students. Your academic passions are in the broad field of history. You might dream of using magic to contact great historical figures or your own ancestors or of recreating the mighty magic of a distant age.
 Source: Strixhaven: A Curriculum of Chaos

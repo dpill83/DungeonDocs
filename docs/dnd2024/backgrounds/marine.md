@@ -1,6 +1,6 @@
 # Marine
 
-*Source: (Legacy).*
+*Source: (5e 2014).*
 
 You were trained for battle on sandy beaches and rocky shores. You have launched midnight raids from swift ships whose names evoke terror in the hearts of your adversaries. The water is your second home, the rain your shelter, and the crashing waves your battle cry.
 

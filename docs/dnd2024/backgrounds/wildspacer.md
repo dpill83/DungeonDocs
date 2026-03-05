@@ -1,6 +1,6 @@
 # Wildspacer
 
-*Source: Spelljamer: Adventures in Space - Astral Adventurer's Guide (Legacy).*
+*Source: Spelljamer: Adventures in Space - Astral Adventurer's Guide (5e 2014).*
 
 You were raised in the void of Wildspace—home to asteroid miners, moon farmers, and other hardy folk. Perhaps you grew up in a far-flung settlement such as the Rock of Bral, or you spent your early years on the crew of a spelljamming ship, performing helpful chores such as swabbing the deck, loading and offloading cargo, and scraping barnacles off the hull.
 Whatever your history, life in Wildspace has toughened you so well that you are as brave as a miniature giant space hamster when it comes to facing the terrors and other challenges of the airless night.

@@ -1,6 +1,6 @@
 # Faction Agent
 
-*Source: Sword Coast Adventurer's Guide (Legacy).*
+*Source: Sword Coast Adventurer's Guide (5e 2014).*
 
 Factions of the Sword Coast
 The Harpers

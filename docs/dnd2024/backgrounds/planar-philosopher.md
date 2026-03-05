@@ -1,6 +1,6 @@
 # Planar Philosopher
 
-*Source: Planescape - Adventures in the Multiverse (Legacy).*
+*Source: Planescape - Adventures in the Multiverse (5e 2014).*
 
 You subscribe to a philosophy that seeks to understand the nature of the planes or some hidden truth of the multiverse. You draw strength from your conviction and, perhaps, a network of like-minded thinkers, such as the factions of Sigil (summarized below). In your travels, you explore the depths of your understanding and spread your philosophy wherever you go.
 Source: Planescape - Adventures in the Multiverse

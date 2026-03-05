@@ -1,6 +1,6 @@
 # Witherbloom Student
 
-*Source: Strixhaven: A Curriculum of Chaos (Legacy).*
+*Source: Strixhaven: A Curriculum of Chaos (5e 2014).*
 
 You filled your childhood with rudimentary alchemical experiments, all in the hope of becoming a student of Witherbloom College. The life sciences are the focus of your reading, which include biology and necromancy. Brewing strange concoctions with medicinal properties, exploring the anatomies of monsters, and cataloging swamp flora are the kinds of studies you might pursue at Witherbloom College.
 Source: Strixhaven: A Curriculum of Chaos

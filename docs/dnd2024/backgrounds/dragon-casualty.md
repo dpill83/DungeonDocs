@@ -1,6 +1,6 @@
 # Dragon Casualty
 
-*Source: (Legacy).*
+*Source: (5e 2014).*
 
 When the Maimed Virulence descended upon Phlan, you were one of the unfortunate casualties of war. Captured during the initial assault, you have spent the last year of your life as a plaything of a capricious and malevolent overlord.
 While many of your fellow prisoners fell to the dragon's insatiable fury over the coming months, you and your fellow "survivors" were spared only for a worse fate as one of the dragon's magical experiments, leaving you and those who survived the torture scarred and disfigured.

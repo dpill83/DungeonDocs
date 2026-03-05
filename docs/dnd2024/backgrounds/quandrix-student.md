@@ -1,6 +1,6 @@
 # Quandrix Student
 
-*Source: Strixhaven: A Curriculum of Chaos (Legacy).*
+*Source: Strixhaven: A Curriculum of Chaos (5e 2014).*
 
 In preparation to become a student of Quandrix College, you have spent years working through the college's math problems for prospective students. Your interests concentrate on the mathematical principles and patterns found in the natural world. You might lean more toward mathematics or physics, or you delve into more abstract studies of metaphysics, arcana, or logic.
 Source: Strixhaven: A Curriculum of Chaos

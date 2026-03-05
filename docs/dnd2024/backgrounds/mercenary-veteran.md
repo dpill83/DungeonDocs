@@ -1,6 +1,6 @@
 # Mercenary Veteran
 
-*Source: Sword Coast Adventurer's Guide (Legacy).*
+*Source: Sword Coast Adventurer's Guide (5e 2014).*
 
 Mercenaries of the North
 The Chill

@@ -1,6 +1,6 @@
 # Smuggler
 
-*Source: (Legacy).*
+*Source: (5e 2014).*
 
 On a rickety barge, you carried a hundred longswords in fish barrels right past the dock master's oblivious lackeys. You have paddled a riverboat filled with stolen elven wine under the gaze of the moon and sold it for twice its value in the morning. In your more charitable times, you have transported innocents out of war zones or helped guide herd animals to safety on the banks of a burning river.
 

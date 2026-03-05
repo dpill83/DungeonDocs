@@ -1,6 +1,6 @@
 # Mage Of High Sorcery
 
-*Source: Dragonlance: Shadow of the Dragon Queen (Legacy).*
+*Source: Dragonlance: Shadow of the Dragon Queen (5e 2014).*
 
 Your talent for magic came to the attention of the Mages of High Sorcery, an organization of spellcasters that studies magic and prevent its misuse. You've trained among the Mages, but whether you'll face the dangerous tests required to become a full member of the group remains to be determined. Your passion for studying magic has likely already predisposed you toward one of the organization's three orders: the benevolent Order of the White Robes, the balance-pursuing Order of the Red Robes, or the ruthless Order of the Black Robes.
 In the world of Krynn, many refer to the Mages of High Sorcery as the Wizards of High Sorcery. The organization accepts more than wizards, though, with sorcerers, warlocks, and other spellcasters included among their ranks.

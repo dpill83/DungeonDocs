@@ -1,6 +1,6 @@
 # Grinner
 
-*Source: Explorer's Guide to Wildemount (Legacy).*
+*Source: Explorer's Guide to Wildemount (5e 2014).*
 
 Ballad of the Grinning Fool
 Suggested Characteristics

@@ -1,6 +1,6 @@
 # Folk Hero
 
-*Source: 2014 Player's Handbook (Legacy).*
+*Source: 2014 Player's Handbook (5e 2014).*
 
 You come from a humble social rank, but you are destined for so much more. Already the people of your home village regard you as their champion, and your destiny calls you to stand against the tyrants and monsters that threaten the common folk everywhere.
 Source: Player's Handbook

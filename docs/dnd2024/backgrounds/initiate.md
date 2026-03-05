@@ -1,6 +1,6 @@
 # Initiate
 
-*Source: Plane Shift - Amonkhet (Legacy).*
+*Source: Plane Shift - Amonkhet (5e 2014).*
 
 Trial of the Five Gods
 Suggested Characteristics
