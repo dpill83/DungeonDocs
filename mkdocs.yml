@@ -26,6 +26,7 @@ theme:
 
 extra_css:
   - stylesheets/extra.css
+  - stylesheets/stat-block.css
 
 extra:
   generator: false
@@ -47,6 +48,11 @@ plugins:
         - dnd2024/magic-items/all
         - dnd2024/magic-items/armor
         - dnd2024/magic-items/wondrous-item
+        - dnd2024/monsters
+        - dnd2024/monsters/index
+        - dnd2024/monsters/by-name
+        - dnd2024/monsters/by-cr
+        - dnd2024/monsters/by-type
 
 markdown_extensions:
   - tables
@@ -701,6 +707,12 @@ nav:
     - Shifter: dnd2024/species/shifter.md
     - Tiefling: dnd2024/species/tiefling.md
     - Warforged: dnd2024/species/warforged.md
+  - Monsters:
+    - Monsters: dnd2024/monsters/index.md
+    - Stat blocks: dnd2024/monsters/stat-blocks.md
+    - By Name: dnd2024/monsters/by-name.md
+    - By CR: dnd2024/monsters/by-cr.md
+    - By Type: dnd2024/monsters/by-type.md
   - Reference:
     - All Reference: dnd2024/reference/index.md
     - Bastions: dnd2024/reference/bastions.md

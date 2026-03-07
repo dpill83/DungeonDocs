@@ -1,0 +1,2117 @@
+[
+  {
+    "name": "Awakened Shrub",
+    "slug": "awakened-shrub",
+    "cr": "0",
+    "type": "plant",
+    "size": "Small",
+    "alignment": "neutral",
+    "path": "docs/dnd2024/monsters/awakened-shrub.md"
+  },
+  {
+    "name": "Commoner",
+    "slug": "commoner",
+    "cr": "0",
+    "type": "humanoid",
+    "size": "Medium",
+    "alignment": "neutral",
+    "path": "docs/dnd2024/monsters/commoner.md"
+  },
+  {
+    "name": "Homunculus",
+    "slug": "homunculus",
+    "cr": "0",
+    "type": "construct",
+    "size": "Tiny",
+    "alignment": "neutral",
+    "path": "docs/dnd2024/monsters/homunculus.md"
+  },
+  {
+    "name": "Lemure",
+    "slug": "lemure",
+    "cr": "0",
+    "type": "(devil)",
+    "size": "Medium",
+    "alignment": "lawful evil",
+    "path": "docs/dnd2024/monsters/lemure.md"
+  },
+  {
+    "name": "Shrieker Fungus",
+    "slug": "shrieker-fungus",
+    "cr": "0",
+    "type": "plant",
+    "size": "Medium",
+    "alignment": "unaligned",
+    "path": "docs/dnd2024/monsters/shrieker-fungus.md"
+  },
+  {
+    "name": "Bandit",
+    "slug": "bandit",
+    "cr": "1/8",
+    "type": "humanoid",
+    "size": "Medium",
+    "alignment": "neutral",
+    "path": "docs/dnd2024/monsters/bandit.md"
+  },
+  {
+    "name": "Cultist",
+    "slug": "cultist",
+    "cr": "1/8",
+    "type": "humanoid",
+    "size": "Medium",
+    "alignment": "neutral",
+    "path": "docs/dnd2024/monsters/cultist.md"
+  },
+  {
+    "name": "Goblin Minion",
+    "slug": "goblin-minion",
+    "cr": "1/8",
+    "type": "(goblinoid)",
+    "size": "Small",
+    "alignment": "chaotic neutral",
+    "path": "docs/dnd2024/monsters/goblin-minion.md"
+  },
+  {
+    "name": "Guard",
+    "slug": "guard",
+    "cr": "1/8",
+    "type": "humanoid",
+    "size": "Medium",
+    "alignment": "neutral",
+    "path": "docs/dnd2024/monsters/guard.md"
+  },
+  {
+    "name": "Kobold Warrior",
+    "slug": "kobold-warrior",
+    "cr": "1/8",
+    "type": "dragon",
+    "size": "Small",
+    "alignment": "neutral",
+    "path": "docs/dnd2024/monsters/kobold-warrior.md"
+  },
+  {
+    "name": "Merfolk Skirmisher",
+    "slug": "merfolk-skirmisher",
+    "cr": "1/8",
+    "type": "elemental",
+    "size": "Medium",
+    "alignment": "neutral",
+    "path": "docs/dnd2024/monsters/merfolk-skirmisher.md"
+  },
+  {
+    "name": "Noble",
+    "slug": "noble",
+    "cr": "1/8",
+    "type": "humanoid",
+    "size": "Medium",
+    "alignment": "neutral",
+    "path": "docs/dnd2024/monsters/noble.md"
+  },
+  {
+    "name": "Stirge",
+    "slug": "stirge",
+    "cr": "1/8",
+    "type": "monstrosity",
+    "size": "Tiny",
+    "alignment": "unaligned",
+    "path": "docs/dnd2024/monsters/stirge.md"
+  },
+  {
+    "name": "Warrior Infantry",
+    "slug": "warrior-infantry",
+    "cr": "1/8",
+    "type": "humanoid",
+    "size": "Medium",
+    "alignment": "neutral",
+    "path": "docs/dnd2024/monsters/warrior-infantry.md"
+  },
+  {
+    "name": "Animated Flying Sword",
+    "slug": "animated-flying-sword",
+    "cr": "1/4",
+    "type": "construct",
+    "size": "Small",
+    "alignment": "unaligned",
+    "path": "docs/dnd2024/monsters/animated-flying-sword.md"
+  },
+  {
+    "name": "Axe Beak",
+    "slug": "axe-beak",
+    "cr": "1/4",
+    "type": "monstrosity",
+    "size": "Large",
+    "alignment": "unaligned",
+    "path": "docs/dnd2024/monsters/axe-beak.md"
+  },
+  {
+    "name": "Blink Dog",
+    "slug": "blink-dog",
+    "cr": "1/4",
+    "type": "fey",
+    "size": "Medium",
+    "alignment": "lawful good",
+    "path": "docs/dnd2024/monsters/blink-dog.md"
+  },
+  {
+    "name": "Dretch",
+    "slug": "dretch",
+    "cr": "1/4",
+    "type": "(demon)",
+    "size": "Small",
+    "alignment": "chaotic evil",
+    "path": "docs/dnd2024/monsters/dretch.md"
+  },
+  {
+    "name": "Goblin Warrior",
+    "slug": "goblin-warrior",
+    "cr": "1/4",
+    "type": "(goblinoid)",
+    "size": "Small",
+    "alignment": "chaotic neutral",
+    "path": "docs/dnd2024/monsters/goblin-warrior.md"
+  },
+  {
+    "name": "Grimlock",
+    "slug": "grimlock",
+    "cr": "1/4",
+    "type": "aberration",
+    "size": "Medium",
+    "alignment": "neutral evil",
+    "path": "docs/dnd2024/monsters/grimlock.md"
+  },
+  {
+    "name": "Priest Acolyte",
+    "slug": "priest-acolyte",
+    "cr": "1/4",
+    "type": "(cleric)",
+    "size": "Medium",
+    "alignment": "neutral",
+    "path": "docs/dnd2024/monsters/priest-acolyte.md"
+  },
+  {
+    "name": "Pseudodragon",
+    "slug": "pseudodragon",
+    "cr": "1/4",
+    "type": "dragon",
+    "size": "Tiny",
+    "alignment": "neutral good",
+    "path": "docs/dnd2024/monsters/pseudodragon.md"
+  },
+  {
+    "name": "Skeleton",
+    "slug": "skeleton",
+    "cr": "1/4",
+    "type": "undead",
+    "size": "Medium",
+    "alignment": "lawful evil",
+    "path": "docs/dnd2024/monsters/skeleton.md"
+  },
+  {
+    "name": "Sprite",
+    "slug": "sprite",
+    "cr": "1/4",
+    "type": "fey",
+    "size": "Tiny",
+    "alignment": "neutral good",
+    "path": "docs/dnd2024/monsters/sprite.md"
+  },
+  {
+    "name": "Steam Mephit",
+    "slug": "steam-mephit",
+    "cr": "1/4",
+    "type": "elemental",
+    "size": "Small",
+    "alignment": "neutral evil",
+    "path": "docs/dnd2024/monsters/steam-mephit.md"
+  },
+  {
+    "name": "Violet Fungus",
+    "slug": "violet-fungus",
+    "cr": "1/4",
+    "type": "plant",
+    "size": "Medium",
+    "alignment": "unaligned",
+    "path": "docs/dnd2024/monsters/violet-fungus.md"
+  },
+  {
+    "name": "Zombie",
+    "slug": "zombie",
+    "cr": "1/4",
+    "type": "undead",
+    "size": "Medium",
+    "alignment": "neutral evil",
+    "path": "docs/dnd2024/monsters/zombie.md"
+  },
+  {
+    "name": "Cockatrice",
+    "slug": "cockatrice",
+    "cr": "1/2",
+    "type": "monstrosity",
+    "size": "Small",
+    "alignment": "unaligned",
+    "path": "docs/dnd2024/monsters/cockatrice.md"
+  },
+  {
+    "name": "Darkmantle",
+    "slug": "darkmantle",
+    "cr": "1/2",
+    "type": "aberration",
+    "size": "Small",
+    "alignment": "unaligned",
+    "path": "docs/dnd2024/monsters/darkmantle.md"
+  },
+  {
+    "name": "Dust Mephit",
+    "slug": "dust-mephit",
+    "cr": "1/2",
+    "type": "elemental",
+    "size": "Small",
+    "alignment": "neutral evil",
+    "path": "docs/dnd2024/monsters/dust-mephit.md"
+  },
+  {
+    "name": "Gnoll Warrior",
+    "slug": "gnoll-warrior",
+    "cr": "1/2",
+    "type": "fiend",
+    "size": "Medium",
+    "alignment": "chaotic evil",
+    "path": "docs/dnd2024/monsters/gnoll-warrior.md"
+  },
+  {
+    "name": "Gray Ooze",
+    "slug": "gray-ooze",
+    "cr": "1/2",
+    "type": "ooze",
+    "size": "Medium",
+    "alignment": "unaligned",
+    "path": "docs/dnd2024/monsters/gray-ooze.md"
+  },
+  {
+    "name": "Hobgoblin Warrior",
+    "slug": "hobgoblin-warrior",
+    "cr": "1/2",
+    "type": "(goblinoid)",
+    "size": "Medium",
+    "alignment": "lawful evil",
+    "path": "docs/dnd2024/monsters/hobgoblin-warrior.md"
+  },
+  {
+    "name": "Ice Mephit",
+    "slug": "ice-mephit",
+    "cr": "1/2",
+    "type": "elemental",
+    "size": "Small",
+    "alignment": "neutral evil",
+    "path": "docs/dnd2024/monsters/ice-mephit.md"
+  },
+  {
+    "name": "Magma Mephit",
+    "slug": "magma-mephit",
+    "cr": "1/2",
+    "type": "elemental",
+    "size": "Small",
+    "alignment": "neutral evil",
+    "path": "docs/dnd2024/monsters/magma-mephit.md"
+  },
+  {
+    "name": "Magmin",
+    "slug": "magmin",
+    "cr": "1/2",
+    "type": "elemental",
+    "size": "Small",
+    "alignment": "chaotic neutral",
+    "path": "docs/dnd2024/monsters/magmin.md"
+  },
+  {
+    "name": "Rust Monster",
+    "slug": "rust-monster",
+    "cr": "1/2",
+    "type": "monstrosity",
+    "size": "Medium",
+    "alignment": "unaligned",
+    "path": "docs/dnd2024/monsters/rust-monster.md"
+  },
+  {
+    "name": "Sahuagin Warrior",
+    "slug": "sahuagin-warrior",
+    "cr": "1/2",
+    "type": "fiend",
+    "size": "Medium",
+    "alignment": "lawful evil",
+    "path": "docs/dnd2024/monsters/sahuagin-warrior.md"
+  },
+  {
+    "name": "Satyr",
+    "slug": "satyr",
+    "cr": "1/2",
+    "type": "fey",
+    "size": "Medium",
+    "alignment": "chaotic neutral",
+    "path": "docs/dnd2024/monsters/satyr.md"
+  },
+  {
+    "name": "Scout",
+    "slug": "scout",
+    "cr": "1/2",
+    "type": "humanoid",
+    "size": "Medium",
+    "alignment": "neutral",
+    "path": "docs/dnd2024/monsters/scout.md"
+  },
+  {
+    "name": "Shadow",
+    "slug": "shadow",
+    "cr": "1/2",
+    "type": "undead",
+    "size": "Medium",
+    "alignment": "chaotic evil",
+    "path": "docs/dnd2024/monsters/shadow.md"
+  },
+  {
+    "name": "Tough",
+    "slug": "tough",
+    "cr": "1/2",
+    "type": "humanoid",
+    "size": "Medium",
+    "alignment": "neutral",
+    "path": "docs/dnd2024/monsters/tough.md"
+  },
+  {
+    "name": "Troll Limb",
+    "slug": "troll-limb",
+    "cr": "1/2",
+    "type": "giant",
+    "size": "Small",
+    "alignment": "chaotic evil",
+    "path": "docs/dnd2024/monsters/troll-limb.md"
+  },
+  {
+    "name": "Warhorse Skeleton",
+    "slug": "warhorse-skeleton",
+    "cr": "1/2",
+    "type": "undead",
+    "size": "Large",
+    "alignment": "lawful evil",
+    "path": "docs/dnd2024/monsters/warhorse-skeleton.md"
+  },
+  {
+    "name": "Worg",
+    "slug": "worg",
+    "cr": "1/2",
+    "type": "fey",
+    "size": "Large",
+    "alignment": "neutral evil",
+    "path": "docs/dnd2024/monsters/worg.md"
+  },
+  {
+    "name": "Animated Armor",
+    "slug": "animated-armor",
+    "cr": "1",
+    "type": "construct",
+    "size": "Medium",
+    "alignment": "unaligned",
+    "path": "docs/dnd2024/monsters/animated-armor.md"
+  },
+  {
+    "name": "Brass Dragon Wyrmling",
+    "slug": "brass-dragon-wyrmling",
+    "cr": "1",
+    "type": "(metallic)",
+    "size": "Medium",
+    "alignment": "chaotic good",
+    "path": "docs/dnd2024/monsters/brass-dragon-wyrmling.md"
+  },
+  {
+    "name": "Bugbear Warrior",
+    "slug": "bugbear-warrior",
+    "cr": "1",
+    "type": "(goblinoid)",
+    "size": "Medium",
+    "alignment": "chaotic evil",
+    "path": "docs/dnd2024/monsters/bugbear-warrior.md"
+  },
+  {
+    "name": "Copper Dragon Wyrmling",
+    "slug": "copper-dragon-wyrmling",
+    "cr": "1",
+    "type": "(metallic)",
+    "size": "Medium",
+    "alignment": "chaotic good",
+    "path": "docs/dnd2024/monsters/copper-dragon-wyrmling.md"
+  },
+  {
+    "name": "Death Dog",
+    "slug": "death-dog",
+    "cr": "1",
+    "type": "monstrosity",
+    "size": "Medium",
+    "alignment": "neutral evil",
+    "path": "docs/dnd2024/monsters/death-dog.md"
+  },
+  {
+    "name": "Dryad",
+    "slug": "dryad",
+    "cr": "1",
+    "type": "fey",
+    "size": "Medium",
+    "alignment": "neutral",
+    "path": "docs/dnd2024/monsters/dryad.md"
+  },
+  {
+    "name": "Ghoul",
+    "slug": "ghoul",
+    "cr": "1",
+    "type": "undead",
+    "size": "Medium",
+    "alignment": "chaotic evil",
+    "path": "docs/dnd2024/monsters/ghoul.md"
+  },
+  {
+    "name": "Goblin Boss",
+    "slug": "goblin-boss",
+    "cr": "1",
+    "type": "(goblinoid)",
+    "size": "Small",
+    "alignment": "chaotic neutral",
+    "path": "docs/dnd2024/monsters/goblin-boss.md"
+  },
+  {
+    "name": "Harpy",
+    "slug": "harpy",
+    "cr": "1",
+    "type": "monstrosity",
+    "size": "Medium",
+    "alignment": "chaotic evil",
+    "path": "docs/dnd2024/monsters/harpy.md"
+  },
+  {
+    "name": "Hippogriff",
+    "slug": "hippogriff",
+    "cr": "1",
+    "type": "monstrosity",
+    "size": "Large",
+    "alignment": "unaligned",
+    "path": "docs/dnd2024/monsters/hippogriff.md"
+  },
+  {
+    "name": "Imp",
+    "slug": "imp",
+    "cr": "1",
+    "type": "(devil)",
+    "size": "Tiny",
+    "alignment": "lawful evil",
+    "path": "docs/dnd2024/monsters/imp.md"
+  },
+  {
+    "name": "Pirate",
+    "slug": "pirate",
+    "cr": "1",
+    "type": "humanoid",
+    "size": "Medium",
+    "alignment": "neutral",
+    "path": "docs/dnd2024/monsters/pirate.md"
+  },
+  {
+    "name": "Quasit",
+    "slug": "quasit",
+    "cr": "1",
+    "type": "(demon)",
+    "size": "Tiny",
+    "alignment": "chaotic evil",
+    "path": "docs/dnd2024/monsters/quasit.md"
+  },
+  {
+    "name": "Specter",
+    "slug": "specter",
+    "cr": "1",
+    "type": "undead",
+    "size": "Medium",
+    "alignment": "chaotic evil",
+    "path": "docs/dnd2024/monsters/specter.md"
+  },
+  {
+    "name": "Sphinx of Wonder",
+    "slug": "sphinx-of-wonder",
+    "cr": "1",
+    "type": "celestial",
+    "size": "Tiny",
+    "alignment": "lawful good",
+    "path": "docs/dnd2024/monsters/sphinx-of-wonder.md"
+  },
+  {
+    "name": "Spy",
+    "slug": "spy",
+    "cr": "1",
+    "type": "humanoid",
+    "size": "Medium",
+    "alignment": "neutral",
+    "path": "docs/dnd2024/monsters/spy.md"
+  },
+  {
+    "name": "Animated Rug of Smothering",
+    "slug": "animated-rug-of-smothering",
+    "cr": "2",
+    "type": "construct",
+    "size": "Large",
+    "alignment": "unaligned",
+    "path": "docs/dnd2024/monsters/animated-rug-of-smothering.md"
+  },
+  {
+    "name": "Ankheg",
+    "slug": "ankheg",
+    "cr": "2",
+    "type": "monstrosity",
+    "size": "Large",
+    "alignment": "unaligned",
+    "path": "docs/dnd2024/monsters/ankheg.md"
+  },
+  {
+    "name": "Awakened Tree",
+    "slug": "awakened-tree",
+    "cr": "2",
+    "type": "plant",
+    "size": "Huge",
+    "alignment": "neutral",
+    "path": "docs/dnd2024/monsters/awakened-tree.md"
+  },
+  {
+    "name": "Azer Sentinel",
+    "slug": "azer-sentinel",
+    "cr": "2",
+    "type": "elemental",
+    "size": "Medium",
+    "alignment": "lawful neutral",
+    "path": "docs/dnd2024/monsters/azer-sentinel.md"
+  },
+  {
+    "name": "Bandit Captain",
+    "slug": "bandit-captain",
+    "cr": "2",
+    "type": "humanoid",
+    "size": "Medium",
+    "alignment": "neutral",
+    "path": "docs/dnd2024/monsters/bandit-captain.md"
+  },
+  {
+    "name": "Berserker",
+    "slug": "berserker",
+    "cr": "2",
+    "type": "humanoid",
+    "size": "Medium",
+    "alignment": "neutral",
+    "path": "docs/dnd2024/monsters/berserker.md"
+  },
+  {
+    "name": "Black Dragon Wyrmling",
+    "slug": "black-dragon-wyrmling",
+    "cr": "2",
+    "type": "(chromatic)",
+    "size": "Medium",
+    "alignment": "chaotic evil",
+    "path": "docs/dnd2024/monsters/black-dragon-wyrmling.md"
+  },
+  {
+    "name": "Bronze Dragon Wyrmling",
+    "slug": "bronze-dragon-wyrmling",
+    "cr": "2",
+    "type": "(metallic)",
+    "size": "Medium",
+    "alignment": "lawful good",
+    "path": "docs/dnd2024/monsters/bronze-dragon-wyrmling.md"
+  },
+  {
+    "name": "Centaur Trooper",
+    "slug": "centaur-trooper",
+    "cr": "2",
+    "type": "fey",
+    "size": "Large",
+    "alignment": "neutral good",
+    "path": "docs/dnd2024/monsters/centaur-trooper.md"
+  },
+  {
+    "name": "Cultist Fanatic",
+    "slug": "cultist-fanatic",
+    "cr": "2",
+    "type": "humanoid",
+    "size": "Medium",
+    "alignment": "neutral",
+    "path": "docs/dnd2024/monsters/cultist-fanatic.md"
+  },
+  {
+    "name": "Druid",
+    "slug": "druid",
+    "cr": "2",
+    "type": "(druid)",
+    "size": "Medium",
+    "alignment": "neutral",
+    "path": "docs/dnd2024/monsters/druid.md"
+  },
+  {
+    "name": "Ettercap",
+    "slug": "ettercap",
+    "cr": "2",
+    "type": "monstrosity",
+    "size": "Medium",
+    "alignment": "neutral evil",
+    "path": "docs/dnd2024/monsters/ettercap.md"
+  },
+  {
+    "name": "Gargoyle",
+    "slug": "gargoyle",
+    "cr": "2",
+    "type": "elemental",
+    "size": "Medium",
+    "alignment": "chaotic evil",
+    "path": "docs/dnd2024/monsters/gargoyle.md"
+  },
+  {
+    "name": "Gelatinous Cube",
+    "slug": "gelatinous-cube",
+    "cr": "2",
+    "type": "ooze",
+    "size": "Large",
+    "alignment": "unaligned",
+    "path": "docs/dnd2024/monsters/gelatinous-cube.md"
+  },
+  {
+    "name": "Ghast",
+    "slug": "ghast",
+    "cr": "2",
+    "type": "undead",
+    "size": "Medium",
+    "alignment": "chaotic evil",
+    "path": "docs/dnd2024/monsters/ghast.md"
+  },
+  {
+    "name": "Gibbering Mouther",
+    "slug": "gibbering-mouther",
+    "cr": "2",
+    "type": "aberration",
+    "size": "Medium",
+    "alignment": "chaotic neutral",
+    "path": "docs/dnd2024/monsters/gibbering-mouther.md"
+  },
+  {
+    "name": "Green Dragon Wyrmling",
+    "slug": "green-dragon-wyrmling",
+    "cr": "2",
+    "type": "(chromatic)",
+    "size": "Medium",
+    "alignment": "lawful evil",
+    "path": "docs/dnd2024/monsters/green-dragon-wyrmling.md"
+  },
+  {
+    "name": "Grick",
+    "slug": "grick",
+    "cr": "2",
+    "type": "aberration",
+    "size": "Medium",
+    "alignment": "unaligned",
+    "path": "docs/dnd2024/monsters/grick.md"
+  },
+  {
+    "name": "Griffon",
+    "slug": "griffon",
+    "cr": "2",
+    "type": "monstrosity",
+    "size": "Large",
+    "alignment": "unaligned",
+    "path": "docs/dnd2024/monsters/griffon.md"
+  },
+  {
+    "name": "Merrow",
+    "slug": "merrow",
+    "cr": "2",
+    "type": "monstrosity",
+    "size": "Large",
+    "alignment": "chaotic evil",
+    "path": "docs/dnd2024/monsters/merrow.md"
+  },
+  {
+    "name": "Mimic",
+    "slug": "mimic",
+    "cr": "2",
+    "type": "monstrosity",
+    "size": "Medium",
+    "alignment": "neutral",
+    "path": "docs/dnd2024/monsters/mimic.md"
+  },
+  {
+    "name": "Minotaur Skeleton",
+    "slug": "minotaur-skeleton",
+    "cr": "2",
+    "type": "undead",
+    "size": "Large",
+    "alignment": "lawful evil",
+    "path": "docs/dnd2024/monsters/minotaur-skeleton.md"
+  },
+  {
+    "name": "Ochre Jelly",
+    "slug": "ochre-jelly",
+    "cr": "2",
+    "type": "ooze",
+    "size": "Large",
+    "alignment": "unaligned",
+    "path": "docs/dnd2024/monsters/ochre-jelly.md"
+  },
+  {
+    "name": "Ogre",
+    "slug": "ogre",
+    "cr": "2",
+    "type": "giant",
+    "size": "Large",
+    "alignment": "chaotic evil",
+    "path": "docs/dnd2024/monsters/ogre.md"
+  },
+  {
+    "name": "Ogre Zombie",
+    "slug": "ogre-zombie",
+    "cr": "2",
+    "type": "undead",
+    "size": "Large",
+    "alignment": "neutral evil",
+    "path": "docs/dnd2024/monsters/ogre-zombie.md"
+  },
+  {
+    "name": "Pegasus",
+    "slug": "pegasus",
+    "cr": "2",
+    "type": "celestial",
+    "size": "Large",
+    "alignment": "chaotic good",
+    "path": "docs/dnd2024/monsters/pegasus.md"
+  },
+  {
+    "name": "Priest",
+    "slug": "priest",
+    "cr": "2",
+    "type": "(cleric)",
+    "size": "Medium",
+    "alignment": "neutral",
+    "path": "docs/dnd2024/monsters/priest.md"
+  },
+  {
+    "name": "Sea Hag",
+    "slug": "sea-hag",
+    "cr": "2",
+    "type": "fey",
+    "size": "Medium",
+    "alignment": "chaotic evil",
+    "path": "docs/dnd2024/monsters/sea-hag.md"
+  },
+  {
+    "name": "Silver Dragon Wyrmling",
+    "slug": "silver-dragon-wyrmling",
+    "cr": "2",
+    "type": "(metallic)",
+    "size": "Medium",
+    "alignment": "lawful good",
+    "path": "docs/dnd2024/monsters/silver-dragon-wyrmling.md"
+  },
+  {
+    "name": "Wererat",
+    "slug": "wererat",
+    "cr": "2",
+    "type": "(lycanthrope)",
+    "size": "Medium",
+    "alignment": "lawful evil",
+    "path": "docs/dnd2024/monsters/wererat.md"
+  },
+  {
+    "name": "White Dragon Wyrmling",
+    "slug": "white-dragon-wyrmling",
+    "cr": "2",
+    "type": "(chromatic)",
+    "size": "Medium",
+    "alignment": "chaotic evil",
+    "path": "docs/dnd2024/monsters/white-dragon-wyrmling.md"
+  },
+  {
+    "name": "Will-o'-Wisp",
+    "slug": "will-o-wisp",
+    "cr": "2",
+    "type": "undead",
+    "size": "Tiny",
+    "alignment": "chaotic evil",
+    "path": "docs/dnd2024/monsters/will-o-wisp.md"
+  },
+  {
+    "name": "Basilisk",
+    "slug": "basilisk",
+    "cr": "3",
+    "type": "monstrosity",
+    "size": "Medium",
+    "alignment": "unaligned",
+    "path": "docs/dnd2024/monsters/basilisk.md"
+  },
+  {
+    "name": "Bearded Devil",
+    "slug": "bearded-devil",
+    "cr": "3",
+    "type": "(devil)",
+    "size": "Medium",
+    "alignment": "lawful evil",
+    "path": "docs/dnd2024/monsters/bearded-devil.md"
+  },
+  {
+    "name": "Blue Dragon Wyrmling",
+    "slug": "blue-dragon-wyrmling",
+    "cr": "3",
+    "type": "(chromatic)",
+    "size": "Medium",
+    "alignment": "lawful evil",
+    "path": "docs/dnd2024/monsters/blue-dragon-wyrmling.md"
+  },
+  {
+    "name": "Bugbear Stalker",
+    "slug": "bugbear-stalker",
+    "cr": "3",
+    "type": "(goblinoid)",
+    "size": "Medium",
+    "alignment": "chaotic evil",
+    "path": "docs/dnd2024/monsters/bugbear-stalker.md"
+  },
+  {
+    "name": "Doppelganger",
+    "slug": "doppelganger",
+    "cr": "3",
+    "type": "monstrosity",
+    "size": "Medium",
+    "alignment": "neutral",
+    "path": "docs/dnd2024/monsters/doppelganger.md"
+  },
+  {
+    "name": "Gold Dragon Wyrmling",
+    "slug": "gold-dragon-wyrmling",
+    "cr": "3",
+    "type": "(metallic)",
+    "size": "Medium",
+    "alignment": "lawful good",
+    "path": "docs/dnd2024/monsters/gold-dragon-wyrmling.md"
+  },
+  {
+    "name": "Green Hag",
+    "slug": "green-hag",
+    "cr": "3",
+    "type": "fey",
+    "size": "Medium",
+    "alignment": "neutral evil",
+    "path": "docs/dnd2024/monsters/green-hag.md"
+  },
+  {
+    "name": "Hell Hound",
+    "slug": "hell-hound",
+    "cr": "3",
+    "type": "fiend",
+    "size": "Medium",
+    "alignment": "lawful evil",
+    "path": "docs/dnd2024/monsters/hell-hound.md"
+  },
+  {
+    "name": "Hobgoblin Captain",
+    "slug": "hobgoblin-captain",
+    "cr": "3",
+    "type": "(goblinoid)",
+    "size": "Medium",
+    "alignment": "lawful evil",
+    "path": "docs/dnd2024/monsters/hobgoblin-captain.md"
+  },
+  {
+    "name": "Knight",
+    "slug": "knight",
+    "cr": "3",
+    "type": "humanoid",
+    "size": "Medium",
+    "alignment": "neutral",
+    "path": "docs/dnd2024/monsters/knight.md"
+  },
+  {
+    "name": "Manticore",
+    "slug": "manticore",
+    "cr": "3",
+    "type": "monstrosity",
+    "size": "Large",
+    "alignment": "lawful evil",
+    "path": "docs/dnd2024/monsters/manticore.md"
+  },
+  {
+    "name": "Minotaur of Baphomet",
+    "slug": "minotaur-of-baphomet",
+    "cr": "3",
+    "type": "monstrosity",
+    "size": "Large",
+    "alignment": "chaotic evil",
+    "path": "docs/dnd2024/monsters/minotaur-of-baphomet.md"
+  },
+  {
+    "name": "Mummy",
+    "slug": "mummy",
+    "cr": "3",
+    "type": "undead",
+    "size": "Medium",
+    "alignment": "lawful evil",
+    "path": "docs/dnd2024/monsters/mummy.md"
+  },
+  {
+    "name": "Nightmare",
+    "slug": "nightmare",
+    "cr": "3",
+    "type": "fiend",
+    "size": "Large",
+    "alignment": "neutral evil",
+    "path": "docs/dnd2024/monsters/nightmare.md"
+  },
+  {
+    "name": "Owlbear",
+    "slug": "owlbear",
+    "cr": "3",
+    "type": "monstrosity",
+    "size": "Large",
+    "alignment": "unaligned",
+    "path": "docs/dnd2024/monsters/owlbear.md"
+  },
+  {
+    "name": "Phase Spider",
+    "slug": "phase-spider",
+    "cr": "3",
+    "type": "monstrosity",
+    "size": "Large",
+    "alignment": "unaligned",
+    "path": "docs/dnd2024/monsters/phase-spider.md"
+  },
+  {
+    "name": "Swarm of Crawling Claws",
+    "slug": "swarm-of-crawling-claws",
+    "cr": "3",
+    "type": "undead",
+    "size": "Medium",
+    "alignment": "neutral evil",
+    "path": "docs/dnd2024/monsters/swarm-of-crawling-claws.md"
+  },
+  {
+    "name": "Vampire Familiar",
+    "slug": "vampire-familiar",
+    "cr": "3",
+    "type": "humanoid",
+    "size": "Medium",
+    "alignment": "neutral evil",
+    "path": "docs/dnd2024/monsters/vampire-familiar.md"
+  },
+  {
+    "name": "Warrior Veteran",
+    "slug": "warrior-veteran",
+    "cr": "3",
+    "type": "humanoid",
+    "size": "Medium",
+    "alignment": "neutral",
+    "path": "docs/dnd2024/monsters/warrior-veteran.md"
+  },
+  {
+    "name": "Werewolf",
+    "slug": "werewolf",
+    "cr": "3",
+    "type": "(lycanthrope)",
+    "size": "Medium",
+    "alignment": "chaotic evil",
+    "path": "docs/dnd2024/monsters/werewolf.md"
+  },
+  {
+    "name": "Wight",
+    "slug": "wight",
+    "cr": "3",
+    "type": "undead",
+    "size": "Medium",
+    "alignment": "neutral evil",
+    "path": "docs/dnd2024/monsters/wight.md"
+  },
+  {
+    "name": "Winter Wolf",
+    "slug": "winter-wolf",
+    "cr": "3",
+    "type": "monstrosity",
+    "size": "Large",
+    "alignment": "neutral evil",
+    "path": "docs/dnd2024/monsters/winter-wolf.md"
+  },
+  {
+    "name": "Black Pudding",
+    "slug": "black-pudding",
+    "cr": "4",
+    "type": "ooze",
+    "size": "Large",
+    "alignment": "unaligned",
+    "path": "docs/dnd2024/monsters/black-pudding.md"
+  },
+  {
+    "name": "Chuul",
+    "slug": "chuul",
+    "cr": "4",
+    "type": "aberration",
+    "size": "Large",
+    "alignment": "chaotic evil",
+    "path": "docs/dnd2024/monsters/chuul.md"
+  },
+  {
+    "name": "Couatl",
+    "slug": "couatl",
+    "cr": "4",
+    "type": "celestial",
+    "size": "Medium",
+    "alignment": "lawful good",
+    "path": "docs/dnd2024/monsters/couatl.md"
+  },
+  {
+    "name": "Ettin",
+    "slug": "ettin",
+    "cr": "4",
+    "type": "giant",
+    "size": "Large",
+    "alignment": "chaotic evil",
+    "path": "docs/dnd2024/monsters/ettin.md"
+  },
+  {
+    "name": "Ghost",
+    "slug": "ghost",
+    "cr": "4",
+    "type": "undead",
+    "size": "Medium",
+    "alignment": "neutral",
+    "path": "docs/dnd2024/monsters/ghost.md"
+  },
+  {
+    "name": "Guard Captain",
+    "slug": "guard-captain",
+    "cr": "4",
+    "type": "humanoid",
+    "size": "Medium",
+    "alignment": "neutral",
+    "path": "docs/dnd2024/monsters/guard-captain.md"
+  },
+  {
+    "name": "Incubus",
+    "slug": "incubus",
+    "cr": "4",
+    "type": "fiend",
+    "size": "Medium",
+    "alignment": "neutral evil",
+    "path": "docs/dnd2024/monsters/incubus.md"
+  },
+  {
+    "name": "Lamia",
+    "slug": "lamia",
+    "cr": "4",
+    "type": "fiend",
+    "size": "Large",
+    "alignment": "chaotic evil",
+    "path": "docs/dnd2024/monsters/lamia.md"
+  },
+  {
+    "name": "Red Dragon Wyrmling",
+    "slug": "red-dragon-wyrmling",
+    "cr": "4",
+    "type": "(chromatic)",
+    "size": "Medium",
+    "alignment": "chaotic evil",
+    "path": "docs/dnd2024/monsters/red-dragon-wyrmling.md"
+  },
+  {
+    "name": "Succubus",
+    "slug": "succubus",
+    "cr": "4",
+    "type": "fiend",
+    "size": "Medium",
+    "alignment": "neutral evil",
+    "path": "docs/dnd2024/monsters/succubus.md"
+  },
+  {
+    "name": "Tough Boss",
+    "slug": "tough-boss",
+    "cr": "4",
+    "type": "humanoid",
+    "size": "Medium",
+    "alignment": "neutral",
+    "path": "docs/dnd2024/monsters/tough-boss.md"
+  },
+  {
+    "name": "Wereboar",
+    "slug": "wereboar",
+    "cr": "4",
+    "type": "(lycanthrope)",
+    "size": "Medium",
+    "alignment": "neutral evil",
+    "path": "docs/dnd2024/monsters/wereboar.md"
+  },
+  {
+    "name": "Weretiger",
+    "slug": "weretiger",
+    "cr": "4",
+    "type": "(lycanthrope)",
+    "size": "Medium",
+    "alignment": "neutral",
+    "path": "docs/dnd2024/monsters/weretiger.md"
+  },
+  {
+    "name": "Air Elemental",
+    "slug": "air-elemental",
+    "cr": "5",
+    "type": "elemental",
+    "size": "Large",
+    "alignment": "neutral",
+    "path": "docs/dnd2024/monsters/air-elemental.md"
+  },
+  {
+    "name": "Barbed Devil",
+    "slug": "barbed-devil",
+    "cr": "5",
+    "type": "(devil)",
+    "size": "Medium",
+    "alignment": "lawful evil",
+    "path": "docs/dnd2024/monsters/barbed-devil.md"
+  },
+  {
+    "name": "Bulette",
+    "slug": "bulette",
+    "cr": "5",
+    "type": "monstrosity",
+    "size": "Large",
+    "alignment": "unaligned",
+    "path": "docs/dnd2024/monsters/bulette.md"
+  },
+  {
+    "name": "Earth Elemental",
+    "slug": "earth-elemental",
+    "cr": "5",
+    "type": "elemental",
+    "size": "Large",
+    "alignment": "neutral",
+    "path": "docs/dnd2024/monsters/earth-elemental.md"
+  },
+  {
+    "name": "Fire Elemental",
+    "slug": "fire-elemental",
+    "cr": "5",
+    "type": "elemental",
+    "size": "Large",
+    "alignment": "neutral",
+    "path": "docs/dnd2024/monsters/fire-elemental.md"
+  },
+  {
+    "name": "Flesh Golem",
+    "slug": "flesh-golem",
+    "cr": "5",
+    "type": "construct",
+    "size": "Medium",
+    "alignment": "neutral",
+    "path": "docs/dnd2024/monsters/flesh-golem.md"
+  },
+  {
+    "name": "Gladiator",
+    "slug": "gladiator",
+    "cr": "5",
+    "type": "humanoid",
+    "size": "Medium",
+    "alignment": "neutral",
+    "path": "docs/dnd2024/monsters/gladiator.md"
+  },
+  {
+    "name": "Gorgon",
+    "slug": "gorgon",
+    "cr": "5",
+    "type": "construct",
+    "size": "Large",
+    "alignment": "unaligned",
+    "path": "docs/dnd2024/monsters/gorgon.md"
+  },
+  {
+    "name": "Half-Dragon",
+    "slug": "half-dragon",
+    "cr": "5",
+    "type": "dragon",
+    "size": "Medium",
+    "alignment": "neutral",
+    "path": "docs/dnd2024/monsters/half-dragon.md"
+  },
+  {
+    "name": "Hill Giant",
+    "slug": "hill-giant",
+    "cr": "5",
+    "type": "giant",
+    "size": "Huge",
+    "alignment": "chaotic evil",
+    "path": "docs/dnd2024/monsters/hill-giant.md"
+  },
+  {
+    "name": "Night Hag",
+    "slug": "night-hag",
+    "cr": "5",
+    "type": "fiend",
+    "size": "Medium",
+    "alignment": "neutral evil",
+    "path": "docs/dnd2024/monsters/night-hag.md"
+  },
+  {
+    "name": "Otyugh",
+    "slug": "otyugh",
+    "cr": "5",
+    "type": "aberration",
+    "size": "Large",
+    "alignment": "neutral",
+    "path": "docs/dnd2024/monsters/otyugh.md"
+  },
+  {
+    "name": "Roper",
+    "slug": "roper",
+    "cr": "5",
+    "type": "aberration",
+    "size": "Large",
+    "alignment": "neutral evil",
+    "path": "docs/dnd2024/monsters/roper.md"
+  },
+  {
+    "name": "Salamander",
+    "slug": "salamander",
+    "cr": "5",
+    "type": "elemental",
+    "size": "Large",
+    "alignment": "neutral evil",
+    "path": "docs/dnd2024/monsters/salamander.md"
+  },
+  {
+    "name": "Shambling Mound",
+    "slug": "shambling-mound",
+    "cr": "5",
+    "type": "plant",
+    "size": "Large",
+    "alignment": "unaligned",
+    "path": "docs/dnd2024/monsters/shambling-mound.md"
+  },
+  {
+    "name": "Troll",
+    "slug": "troll",
+    "cr": "5",
+    "type": "giant",
+    "size": "Large",
+    "alignment": "chaotic evil",
+    "path": "docs/dnd2024/monsters/troll.md"
+  },
+  {
+    "name": "Unicorn",
+    "slug": "unicorn",
+    "cr": "5",
+    "type": "celestial",
+    "size": "Large",
+    "alignment": "lawful good",
+    "path": "docs/dnd2024/monsters/unicorn.md"
+  },
+  {
+    "name": "Vampire Spawn",
+    "slug": "vampire-spawn",
+    "cr": "5",
+    "type": "undead",
+    "size": "Medium",
+    "alignment": "neutral evil",
+    "path": "docs/dnd2024/monsters/vampire-spawn.md"
+  },
+  {
+    "name": "Water Elemental",
+    "slug": "water-elemental",
+    "cr": "5",
+    "type": "elemental",
+    "size": "Large",
+    "alignment": "neutral",
+    "path": "docs/dnd2024/monsters/water-elemental.md"
+  },
+  {
+    "name": "Werebear",
+    "slug": "werebear",
+    "cr": "5",
+    "type": "(lycanthrope)",
+    "size": "Medium",
+    "alignment": "neutral good",
+    "path": "docs/dnd2024/monsters/werebear.md"
+  },
+  {
+    "name": "Wraith",
+    "slug": "wraith",
+    "cr": "5",
+    "type": "undead",
+    "size": "Medium",
+    "alignment": "neutral evil",
+    "path": "docs/dnd2024/monsters/wraith.md"
+  },
+  {
+    "name": "Xorn",
+    "slug": "xorn",
+    "cr": "5",
+    "type": "elemental",
+    "size": "Medium",
+    "alignment": "neutral",
+    "path": "docs/dnd2024/monsters/xorn.md"
+  },
+  {
+    "name": "Chimera",
+    "slug": "chimera",
+    "cr": "6",
+    "type": "monstrosity",
+    "size": "Large",
+    "alignment": "chaotic evil",
+    "path": "docs/dnd2024/monsters/chimera.md"
+  },
+  {
+    "name": "Drider",
+    "slug": "drider",
+    "cr": "6",
+    "type": "monstrosity",
+    "size": "Large",
+    "alignment": "chaotic evil",
+    "path": "docs/dnd2024/monsters/drider.md"
+  },
+  {
+    "name": "Invisible Stalker",
+    "slug": "invisible-stalker",
+    "cr": "6",
+    "type": "elemental",
+    "size": "Large",
+    "alignment": "neutral",
+    "path": "docs/dnd2024/monsters/invisible-stalker.md"
+  },
+  {
+    "name": "Mage",
+    "slug": "mage",
+    "cr": "6",
+    "type": "(wizard)",
+    "size": "Medium",
+    "alignment": "neutral",
+    "path": "docs/dnd2024/monsters/mage.md"
+  },
+  {
+    "name": "Medusa",
+    "slug": "medusa",
+    "cr": "6",
+    "type": "monstrosity",
+    "size": "Medium",
+    "alignment": "lawful evil",
+    "path": "docs/dnd2024/monsters/medusa.md"
+  },
+  {
+    "name": "Pirate Captain",
+    "slug": "pirate-captain",
+    "cr": "6",
+    "type": "humanoid",
+    "size": "Medium",
+    "alignment": "neutral",
+    "path": "docs/dnd2024/monsters/pirate-captain.md"
+  },
+  {
+    "name": "Vrock",
+    "slug": "vrock",
+    "cr": "6",
+    "type": "(demon)",
+    "size": "Large",
+    "alignment": "chaotic evil",
+    "path": "docs/dnd2024/monsters/vrock.md"
+  },
+  {
+    "name": "Wyvern",
+    "slug": "wyvern",
+    "cr": "6",
+    "type": "dragon",
+    "size": "Large",
+    "alignment": "unaligned",
+    "path": "docs/dnd2024/monsters/wyvern.md"
+  },
+  {
+    "name": "Young Brass Dragon",
+    "slug": "young-brass-dragon",
+    "cr": "6",
+    "type": "(metallic)",
+    "size": "Large",
+    "alignment": "chaotic good",
+    "path": "docs/dnd2024/monsters/young-brass-dragon.md"
+  },
+  {
+    "name": "Young White Dragon",
+    "slug": "young-white-dragon",
+    "cr": "6",
+    "type": "(chromatic)",
+    "size": "Large",
+    "alignment": "chaotic evil",
+    "path": "docs/dnd2024/monsters/young-white-dragon.md"
+  },
+  {
+    "name": "Oni",
+    "slug": "oni",
+    "cr": "7",
+    "type": "fiend",
+    "size": "Large",
+    "alignment": "lawful evil",
+    "path": "docs/dnd2024/monsters/oni.md"
+  },
+  {
+    "name": "Shield Guardian",
+    "slug": "shield-guardian",
+    "cr": "7",
+    "type": "construct",
+    "size": "Large",
+    "alignment": "unaligned",
+    "path": "docs/dnd2024/monsters/shield-guardian.md"
+  },
+  {
+    "name": "Stone Giant",
+    "slug": "stone-giant",
+    "cr": "7",
+    "type": "giant",
+    "size": "Huge",
+    "alignment": "neutral",
+    "path": "docs/dnd2024/monsters/stone-giant.md"
+  },
+  {
+    "name": "Young Black Dragon",
+    "slug": "young-black-dragon",
+    "cr": "7",
+    "type": "(chromatic)",
+    "size": "Large",
+    "alignment": "chaotic evil",
+    "path": "docs/dnd2024/monsters/young-black-dragon.md"
+  },
+  {
+    "name": "Young Copper Dragon",
+    "slug": "young-copper-dragon",
+    "cr": "7",
+    "type": "(metallic)",
+    "size": "Large",
+    "alignment": "chaotic good",
+    "path": "docs/dnd2024/monsters/young-copper-dragon.md"
+  },
+  {
+    "name": "Assassin",
+    "slug": "assassin",
+    "cr": "8",
+    "type": "humanoid",
+    "size": "Medium",
+    "alignment": "neutral",
+    "path": "docs/dnd2024/monsters/assassin.md"
+  },
+  {
+    "name": "Chain Devil",
+    "slug": "chain-devil",
+    "cr": "8",
+    "type": "(devil)",
+    "size": "Medium",
+    "alignment": "lawful evil",
+    "path": "docs/dnd2024/monsters/chain-devil.md"
+  },
+  {
+    "name": "Cloaker",
+    "slug": "cloaker",
+    "cr": "8",
+    "type": "aberration",
+    "size": "Large",
+    "alignment": "chaotic neutral",
+    "path": "docs/dnd2024/monsters/cloaker.md"
+  },
+  {
+    "name": "Frost Giant",
+    "slug": "frost-giant",
+    "cr": "8",
+    "type": "giant",
+    "size": "Huge",
+    "alignment": "neutral evil",
+    "path": "docs/dnd2024/monsters/frost-giant.md"
+  },
+  {
+    "name": "Hezrou",
+    "slug": "hezrou",
+    "cr": "8",
+    "type": "(demon)",
+    "size": "Large",
+    "alignment": "chaotic evil",
+    "path": "docs/dnd2024/monsters/hezrou.md"
+  },
+  {
+    "name": "Hydra",
+    "slug": "hydra",
+    "cr": "8",
+    "type": "monstrosity",
+    "size": "Huge",
+    "alignment": "unaligned",
+    "path": "docs/dnd2024/monsters/hydra.md"
+  },
+  {
+    "name": "Spirit Naga",
+    "slug": "spirit-naga",
+    "cr": "8",
+    "type": "fiend",
+    "size": "Large",
+    "alignment": "chaotic evil",
+    "path": "docs/dnd2024/monsters/spirit-naga.md"
+  },
+  {
+    "name": "Young Bronze Dragon",
+    "slug": "young-bronze-dragon",
+    "cr": "8",
+    "type": "(metallic)",
+    "size": "Large",
+    "alignment": "lawful good",
+    "path": "docs/dnd2024/monsters/young-bronze-dragon.md"
+  },
+  {
+    "name": "Young Green Dragon",
+    "slug": "young-green-dragon",
+    "cr": "8",
+    "type": "(chromatic)",
+    "size": "Large",
+    "alignment": "lawful evil",
+    "path": "docs/dnd2024/monsters/young-green-dragon.md"
+  },
+  {
+    "name": "Bone Devil",
+    "slug": "bone-devil",
+    "cr": "9",
+    "type": "(devil)",
+    "size": "Large",
+    "alignment": "lawful evil",
+    "path": "docs/dnd2024/monsters/bone-devil.md"
+  },
+  {
+    "name": "Clay Golem",
+    "slug": "clay-golem",
+    "cr": "9",
+    "type": "construct",
+    "size": "Large",
+    "alignment": "unaligned",
+    "path": "docs/dnd2024/monsters/clay-golem.md"
+  },
+  {
+    "name": "Cloud Giant",
+    "slug": "cloud-giant",
+    "cr": "9",
+    "type": "giant",
+    "size": "Huge",
+    "alignment": "neutral",
+    "path": "docs/dnd2024/monsters/cloud-giant.md"
+  },
+  {
+    "name": "Fire Giant",
+    "slug": "fire-giant",
+    "cr": "9",
+    "type": "giant",
+    "size": "Huge",
+    "alignment": "lawful evil",
+    "path": "docs/dnd2024/monsters/fire-giant.md"
+  },
+  {
+    "name": "Glabrezu",
+    "slug": "glabrezu",
+    "cr": "9",
+    "type": "(demon)",
+    "size": "Large",
+    "alignment": "chaotic evil",
+    "path": "docs/dnd2024/monsters/glabrezu.md"
+  },
+  {
+    "name": "Treant",
+    "slug": "treant",
+    "cr": "9",
+    "type": "plant",
+    "size": "Huge",
+    "alignment": "chaotic good",
+    "path": "docs/dnd2024/monsters/treant.md"
+  },
+  {
+    "name": "Young Blue Dragon",
+    "slug": "young-blue-dragon",
+    "cr": "9",
+    "type": "(chromatic)",
+    "size": "Large",
+    "alignment": "lawful evil",
+    "path": "docs/dnd2024/monsters/young-blue-dragon.md"
+  },
+  {
+    "name": "Young Silver Dragon",
+    "slug": "young-silver-dragon",
+    "cr": "9",
+    "type": "(metallic)",
+    "size": "Large",
+    "alignment": "lawful good",
+    "path": "docs/dnd2024/monsters/young-silver-dragon.md"
+  },
+  {
+    "name": "Aboleth",
+    "slug": "aboleth",
+    "cr": "10",
+    "type": "aberration",
+    "size": "Large",
+    "alignment": "lawful evil",
+    "path": "docs/dnd2024/monsters/aboleth.md"
+  },
+  {
+    "name": "Deva",
+    "slug": "deva",
+    "cr": "10",
+    "type": "(angel)",
+    "size": "Medium",
+    "alignment": "lawful good",
+    "path": "docs/dnd2024/monsters/deva.md"
+  },
+  {
+    "name": "Guardian Naga",
+    "slug": "guardian-naga",
+    "cr": "10",
+    "type": "celestial",
+    "size": "Large",
+    "alignment": "lawful good",
+    "path": "docs/dnd2024/monsters/guardian-naga.md"
+  },
+  {
+    "name": "Stone Golem",
+    "slug": "stone-golem",
+    "cr": "10",
+    "type": "construct",
+    "size": "Large",
+    "alignment": "unaligned",
+    "path": "docs/dnd2024/monsters/stone-golem.md"
+  },
+  {
+    "name": "Young Gold Dragon",
+    "slug": "young-gold-dragon",
+    "cr": "10",
+    "type": "(metallic)",
+    "size": "Large",
+    "alignment": "lawful good",
+    "path": "docs/dnd2024/monsters/young-gold-dragon.md"
+  },
+  {
+    "name": "Young Red Dragon",
+    "slug": "young-red-dragon",
+    "cr": "10",
+    "type": "(chromatic)",
+    "size": "Large",
+    "alignment": "chaotic evil",
+    "path": "docs/dnd2024/monsters/young-red-dragon.md"
+  },
+  {
+    "name": "Behir",
+    "slug": "behir",
+    "cr": "11",
+    "type": "monstrosity",
+    "size": "Huge",
+    "alignment": "neutral evil",
+    "path": "docs/dnd2024/monsters/behir.md"
+  },
+  {
+    "name": "Djinni",
+    "slug": "djinni",
+    "cr": "11",
+    "type": "(genie)",
+    "size": "Large",
+    "alignment": "neutral",
+    "path": "docs/dnd2024/monsters/djinni.md"
+  },
+  {
+    "name": "Efreeti",
+    "slug": "efreeti",
+    "cr": "11",
+    "type": "(genie)",
+    "size": "Large",
+    "alignment": "neutral",
+    "path": "docs/dnd2024/monsters/efreeti.md"
+  },
+  {
+    "name": "Horned Devil",
+    "slug": "horned-devil",
+    "cr": "11",
+    "type": "(devil)",
+    "size": "Large",
+    "alignment": "lawful evil",
+    "path": "docs/dnd2024/monsters/horned-devil.md"
+  },
+  {
+    "name": "Remorhaz",
+    "slug": "remorhaz",
+    "cr": "11",
+    "type": "monstrosity",
+    "size": "Huge",
+    "alignment": "unaligned",
+    "path": "docs/dnd2024/monsters/remorhaz.md"
+  },
+  {
+    "name": "Roc",
+    "slug": "roc",
+    "cr": "11",
+    "type": "monstrosity",
+    "size": "Gargantuan",
+    "alignment": "unaligned",
+    "path": "docs/dnd2024/monsters/roc.md"
+  },
+  {
+    "name": "Sphinx of Lore",
+    "slug": "sphinx-of-lore",
+    "cr": "11",
+    "type": "celestial",
+    "size": "Large",
+    "alignment": "lawful neutral",
+    "path": "docs/dnd2024/monsters/sphinx-of-lore.md"
+  },
+  {
+    "name": "Archmage",
+    "slug": "archmage",
+    "cr": "12",
+    "type": "(wizard)",
+    "size": "Medium",
+    "alignment": "neutral",
+    "path": "docs/dnd2024/monsters/archmage.md"
+  },
+  {
+    "name": "Erinyes",
+    "slug": "erinyes",
+    "cr": "12",
+    "type": "(devil)",
+    "size": "Medium",
+    "alignment": "lawful evil",
+    "path": "docs/dnd2024/monsters/erinyes.md"
+  },
+  {
+    "name": "Adult Brass Dragon",
+    "slug": "adult-brass-dragon",
+    "cr": "13",
+    "type": "(metallic)",
+    "size": "Huge",
+    "alignment": "chaotic good",
+    "path": "docs/dnd2024/monsters/adult-brass-dragon.md"
+  },
+  {
+    "name": "Adult White Dragon",
+    "slug": "adult-white-dragon",
+    "cr": "13",
+    "type": "(chromatic)",
+    "size": "Huge",
+    "alignment": "chaotic evil",
+    "path": "docs/dnd2024/monsters/adult-white-dragon.md"
+  },
+  {
+    "name": "Nalfeshnee",
+    "slug": "nalfeshnee",
+    "cr": "13",
+    "type": "(demon)",
+    "size": "Large",
+    "alignment": "chaotic evil",
+    "path": "docs/dnd2024/monsters/nalfeshnee.md"
+  },
+  {
+    "name": "Rakshasa",
+    "slug": "rakshasa",
+    "cr": "13",
+    "type": "fiend",
+    "size": "Medium",
+    "alignment": "lawful evil",
+    "path": "docs/dnd2024/monsters/rakshasa.md"
+  },
+  {
+    "name": "Storm Giant",
+    "slug": "storm-giant",
+    "cr": "13",
+    "type": "giant",
+    "size": "Huge",
+    "alignment": "chaotic good",
+    "path": "docs/dnd2024/monsters/storm-giant.md"
+  },
+  {
+    "name": "Vampire",
+    "slug": "vampire",
+    "cr": "13",
+    "type": "undead",
+    "size": "Medium",
+    "alignment": "lawful evil",
+    "path": "docs/dnd2024/monsters/vampire.md"
+  },
+  {
+    "name": "Adult Black Dragon",
+    "slug": "adult-black-dragon",
+    "cr": "14",
+    "type": "(chromatic)",
+    "size": "Huge",
+    "alignment": "chaotic evil",
+    "path": "docs/dnd2024/monsters/adult-black-dragon.md"
+  },
+  {
+    "name": "Adult Copper Dragon",
+    "slug": "adult-copper-dragon",
+    "cr": "14",
+    "type": "(metallic)",
+    "size": "Huge",
+    "alignment": "chaotic good",
+    "path": "docs/dnd2024/monsters/adult-copper-dragon.md"
+  },
+  {
+    "name": "Ice Devil",
+    "slug": "ice-devil",
+    "cr": "14",
+    "type": "(devil)",
+    "size": "Large",
+    "alignment": "lawful evil",
+    "path": "docs/dnd2024/monsters/ice-devil.md"
+  },
+  {
+    "name": "Adult Bronze Dragon",
+    "slug": "adult-bronze-dragon",
+    "cr": "15",
+    "type": "(metallic)",
+    "size": "Huge",
+    "alignment": "lawful good",
+    "path": "docs/dnd2024/monsters/adult-bronze-dragon.md"
+  },
+  {
+    "name": "Adult Green Dragon",
+    "slug": "adult-green-dragon",
+    "cr": "15",
+    "type": "(chromatic)",
+    "size": "Huge",
+    "alignment": "lawful evil",
+    "path": "docs/dnd2024/monsters/adult-green-dragon.md"
+  },
+  {
+    "name": "Mummy Lord",
+    "slug": "mummy-lord",
+    "cr": "15",
+    "type": "(cleric)",
+    "size": "Medium",
+    "alignment": "lawful evil",
+    "path": "docs/dnd2024/monsters/mummy-lord.md"
+  },
+  {
+    "name": "Purple Worm",
+    "slug": "purple-worm",
+    "cr": "15",
+    "type": "monstrosity",
+    "size": "Gargantuan",
+    "alignment": "unaligned",
+    "path": "docs/dnd2024/monsters/purple-worm.md"
+  },
+  {
+    "name": "Adult Blue Dragon",
+    "slug": "adult-blue-dragon",
+    "cr": "16",
+    "type": "(chromatic)",
+    "size": "Huge",
+    "alignment": "lawful evil",
+    "path": "docs/dnd2024/monsters/adult-blue-dragon.md"
+  },
+  {
+    "name": "Adult Silver Dragon",
+    "slug": "adult-silver-dragon",
+    "cr": "16",
+    "type": "(metallic)",
+    "size": "Huge",
+    "alignment": "lawful good",
+    "path": "docs/dnd2024/monsters/adult-silver-dragon.md"
+  },
+  {
+    "name": "Iron Golem",
+    "slug": "iron-golem",
+    "cr": "16",
+    "type": "construct",
+    "size": "Large",
+    "alignment": "unaligned",
+    "path": "docs/dnd2024/monsters/iron-golem.md"
+  },
+  {
+    "name": "Marilith",
+    "slug": "marilith",
+    "cr": "16",
+    "type": "(demon)",
+    "size": "Large",
+    "alignment": "chaotic evil",
+    "path": "docs/dnd2024/monsters/marilith.md"
+  },
+  {
+    "name": "Planetar",
+    "slug": "planetar",
+    "cr": "16",
+    "type": "(angel)",
+    "size": "Large",
+    "alignment": "lawful good",
+    "path": "docs/dnd2024/monsters/planetar.md"
+  },
+  {
+    "name": "Adult Gold Dragon",
+    "slug": "adult-gold-dragon",
+    "cr": "17",
+    "type": "(metallic)",
+    "size": "Huge",
+    "alignment": "lawful good",
+    "path": "docs/dnd2024/monsters/adult-gold-dragon.md"
+  },
+  {
+    "name": "Adult Red Dragon",
+    "slug": "adult-red-dragon",
+    "cr": "17",
+    "type": "(chromatic)",
+    "size": "Huge",
+    "alignment": "chaotic evil",
+    "path": "docs/dnd2024/monsters/adult-red-dragon.md"
+  },
+  {
+    "name": "Dragon Turtle",
+    "slug": "dragon-turtle",
+    "cr": "17",
+    "type": "dragon",
+    "size": "Gargantuan",
+    "alignment": "neutral",
+    "path": "docs/dnd2024/monsters/dragon-turtle.md"
+  },
+  {
+    "name": "Sphinx of Valor",
+    "slug": "sphinx-of-valor",
+    "cr": "17",
+    "type": "celestial",
+    "size": "Large",
+    "alignment": "lawful neutral",
+    "path": "docs/dnd2024/monsters/sphinx-of-valor.md"
+  },
+  {
+    "name": "Balor",
+    "slug": "balor",
+    "cr": "19",
+    "type": "(demon)",
+    "size": "Huge",
+    "alignment": "chaotic evil",
+    "path": "docs/dnd2024/monsters/balor.md"
+  },
+  {
+    "name": "Ancient Brass Dragon",
+    "slug": "ancient-brass-dragon",
+    "cr": "20",
+    "type": "(metallic)",
+    "size": "Gargantuan",
+    "alignment": "chaotic good",
+    "path": "docs/dnd2024/monsters/ancient-brass-dragon.md"
+  },
+  {
+    "name": "Ancient White Dragon",
+    "slug": "ancient-white-dragon",
+    "cr": "20",
+    "type": "(chromatic)",
+    "size": "Gargantuan",
+    "alignment": "chaotic evil",
+    "path": "docs/dnd2024/monsters/ancient-white-dragon.md"
+  },
+  {
+    "name": "Pit Fiend",
+    "slug": "pit-fiend",
+    "cr": "20",
+    "type": "(devil)",
+    "size": "Large",
+    "alignment": "lawful evil",
+    "path": "docs/dnd2024/monsters/pit-fiend.md"
+  },
+  {
+    "name": "Ancient Black Dragon",
+    "slug": "ancient-black-dragon",
+    "cr": "21",
+    "type": "(chromatic)",
+    "size": "Gargantuan",
+    "alignment": "chaotic evil",
+    "path": "docs/dnd2024/monsters/ancient-black-dragon.md"
+  },
+  {
+    "name": "Ancient Copper Dragon",
+    "slug": "ancient-copper-dragon",
+    "cr": "21",
+    "type": "(metallic)",
+    "size": "Gargantuan",
+    "alignment": "chaotic good",
+    "path": "docs/dnd2024/monsters/ancient-copper-dragon.md"
+  },
+  {
+    "name": "Lich",
+    "slug": "lich",
+    "cr": "21",
+    "type": "(wizard)",
+    "size": "Medium",
+    "alignment": "neutral evil",
+    "path": "docs/dnd2024/monsters/lich.md"
+  },
+  {
+    "name": "Solar",
+    "slug": "solar",
+    "cr": "21",
+    "type": "(angel)",
+    "size": "Large",
+    "alignment": "lawful good",
+    "path": "docs/dnd2024/monsters/solar.md"
+  },
+  {
+    "name": "Ancient Bronze Dragon",
+    "slug": "ancient-bronze-dragon",
+    "cr": "22",
+    "type": "(metallic)",
+    "size": "Gargantuan",
+    "alignment": "lawful good",
+    "path": "docs/dnd2024/monsters/ancient-bronze-dragon.md"
+  },
+  {
+    "name": "Ancient Green Dragon",
+    "slug": "ancient-green-dragon",
+    "cr": "22",
+    "type": "(chromatic)",
+    "size": "Gargantuan",
+    "alignment": "lawful evil",
+    "path": "docs/dnd2024/monsters/ancient-green-dragon.md"
+  },
+  {
+    "name": "Ancient Blue Dragon",
+    "slug": "ancient-blue-dragon",
+    "cr": "23",
+    "type": "(chromatic)",
+    "size": "Gargantuan",
+    "alignment": "lawful evil",
+    "path": "docs/dnd2024/monsters/ancient-blue-dragon.md"
+  },
+  {
+    "name": "Ancient Silver Dragon",
+    "slug": "ancient-silver-dragon",
+    "cr": "23",
+    "type": "(metallic)",
+    "size": "Gargantuan",
+    "alignment": "lawful good",
+    "path": "docs/dnd2024/monsters/ancient-silver-dragon.md"
+  },
+  {
+    "name": "Kraken",
+    "slug": "kraken",
+    "cr": "23",
+    "type": "(titan)",
+    "size": "Gargantuan",
+    "alignment": "chaotic evil",
+    "path": "docs/dnd2024/monsters/kraken.md"
+  },
+  {
+    "name": "Ancient Gold Dragon",
+    "slug": "ancient-gold-dragon",
+    "cr": "24",
+    "type": "(metallic)",
+    "size": "Gargantuan",
+    "alignment": "lawful good",
+    "path": "docs/dnd2024/monsters/ancient-gold-dragon.md"
+  },
+  {
+    "name": "Ancient Red Dragon",
+    "slug": "ancient-red-dragon",
+    "cr": "24",
+    "type": "(chromatic)",
+    "size": "Gargantuan",
+    "alignment": "chaotic evil",
+    "path": "docs/dnd2024/monsters/ancient-red-dragon.md"
+  },
+  {
+    "name": "Tarrasque",
+    "slug": "tarrasque",
+    "cr": "30",
+    "type": "(titan)",
+    "size": "Gargantuan",
+    "alignment": "unaligned",
+    "path": "docs/dnd2024/monsters/tarrasque.md"
+  }
+]

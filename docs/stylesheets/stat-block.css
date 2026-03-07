@@ -1,0 +1,158 @@
+/* Monster stat block: reference-card style, dense, scannable */
+
+.monster-stat-block {
+  --stat-block-border: 1px solid var(--md-default-fg-color--lightest, #eee);
+  --stat-block-rule: 1px solid var(--md-default-fg-color--lightest, #eee);
+  --stat-block-bg: var(--md-default-fg-color--lightest);
+  max-width: 44rem;
+  margin: 0 0 1rem;
+  padding: 0.75rem 1rem;
+  border: var(--stat-block-border);
+  border-radius: 0.2rem;
+  background: color-mix(in srgb, var(--stat-block-bg) 10%, transparent);
+  box-shadow: 0 1px 3px color-mix(in srgb, currentColor 6%, transparent);
+}
+
+/* Header: name + size/type/alignment */
+.monster-stat-block .monster-header {
+  margin-bottom: 0.5rem;
+  padding-bottom: 0.4rem;
+  border-bottom: var(--stat-block-rule);
+}
+.monster-stat-block .monster-title {
+  margin: 0 0 0.15em;
+  font-size: 1.35rem;
+  font-weight: 700;
+  letter-spacing: 0.01em;
+}
+.monster-stat-block .monster-subtitle {
+  margin: 0;
+  font-size: 0.85rem;
+  font-style: italic;
+  opacity: 0.88;
+}
+
+/* Top summary: AC, Initiative, HP, Speed — tight row */
+.monster-summary {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem 1rem;
+  margin-bottom: 0.6rem;
+  font-size: 0.85rem;
+}
+.monster-summary-item {
+  white-space: nowrap;
+}
+.monster-summary-item strong {
+  margin-right: 0.2em;
+  font-weight: 600;
+}
+
+/* 6-ability grid: abbreviation dominant, score secondary */
+.monster-abilities {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 0.35rem 0.5rem;
+  margin-bottom: 0.6rem;
+}
+@media (max-width: 400px) {
+  .monster-abilities {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+.monster-ability {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0.3rem 0.4rem;
+  border: var(--stat-block-rule);
+  border-radius: 0.15rem;
+  font-size: 0.8rem;
+  background: color-mix(in srgb, var(--stat-block-bg) 6%, transparent);
+}
+.monster-ability-name {
+  font-size: 0.95rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  line-height: 1.2;
+  margin-bottom: 0.2rem;
+  color: var(--md-default-fg-color--light, inherit);
+}
+.monster-ability-score {
+  font-size: 0.75rem;
+  font-weight: 500;
+  opacity: 0.88;
+}
+.monster-ability-mod,
+.monster-ability-save {
+  font-size: 0.68rem;
+  opacity: 0.82;
+}
+.monster-ability-save::before {
+  content: "Save ";
+  font-weight: 500;
+  opacity: 0.8;
+}
+
+/* Details: Skills, Senses, etc. — CR emphasized */
+.monster-details {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 0.15em 0.85rem;
+  margin: 0 0 0.5rem;
+  font-size: 0.85rem;
+}
+.monster-details dt {
+  margin: 0;
+  font-weight: 600;
+  grid-column: 1;
+  font-size: 0.8rem;
+}
+.monster-details dd {
+  margin: 0;
+  grid-column: 2;
+}
+.monster-details dd + dt {
+  margin-top: 0.25em;
+}
+/* CR row: stand out (last dt/dd in details) */
+.monster-stat-block .monster-details dt:last-of-type,
+.monster-stat-block .monster-details dd:last-of-type {
+  margin-top: 0.35em;
+  padding-top: 0.35em;
+  border-top: var(--stat-block-rule);
+}
+.monster-stat-block .monster-details dt:last-of-type {
+  font-size: 0.85rem;
+  font-weight: 700;
+}
+.monster-stat-block .monster-details dd:last-of-type {
+  font-weight: 600;
+  font-size: 0.9rem;
+}
+
+/* Section blocks: integrated headings, tighter */
+.monster-section {
+  margin-top: 0.6rem;
+  padding-top: 0.5rem;
+  border-top: var(--stat-block-rule);
+}
+.monster-section-title {
+  margin: 0 0 0.35rem;
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  opacity: 0.92;
+  line-height: 1.3;
+}
+.monster-section-content {
+  font-size: 0.85rem;
+  line-height: 1.45;
+}
+.monster-section-content p {
+  margin: 0 0 0.4em;
+}
+.monster-section-content p:last-child {
+  margin-bottom: 0;
+}

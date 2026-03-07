@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <base href="/">
+  <title>Chapter references – DungeonDocs</title>
+  <style>
+    :root {
+      --bg: #1a1b26;
+      --surface: #24283b;
+      --text: #c0caf5;
+      --muted: #565f89;
+      --accent: #7aa2f7;
+      --link: #7dcfff;
+    }
+    * { box-sizing: border-box; }
+    body {
+      font-family: system-ui, -apple-system, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      margin: 0;
+      padding: 1.5rem 2rem 2rem;
+      line-height: 1.5;
+    }
+    h1 { font-size: 1.5rem; margin-top: 0; color: var(--accent); }
+    p.help { color: var(--muted); font-size: 0.9rem; margin-bottom: 1rem; }
+    .toolbar {
+      display: flex;
+      gap: 1rem;
+      align-items: center;
+      margin-bottom: 1rem;
+      flex-wrap: wrap;
+    }
+    .toolbar label { color: var(--muted); font-size: 0.9rem; }
+    .toolbar input {
+      background: var(--surface);
+      border: 1px solid var(--muted);
+      color: var(--text);
+      padding: 0.4rem 0.6rem;
+      border-radius: 4px;
+      min-width: 200px;
+    }
+    .toolbar input:focus {
+      outline: none;
+      border-color: var(--accent);
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      background: var(--surface);
+      border-radius: 8px;
+      overflow: hidden;
+    }
+    th, td {
+      padding: 0.5rem 0.75rem;
+      text-align: left;
+      border-bottom: 1px solid var(--muted);
+    }
+    th {
+      background: var(--bg);
+      color: var(--accent);
+      font-weight: 600;
+      cursor: pointer;
+      -webkit-user-select: none;
+      user-select: none;
+      white-space: nowrap;
+    }
+    th:hover { background: #2a2d42; }
+    th[data-sort-dir]::after {
+      content: " ▾";
+      opacity: 0.7;
+    }
+    th[data-sort-dir="asc"]::after { content: " ▾"; }
+    th[data-sort-dir="desc"]::after { content: " ▴"; }
+    tr:hover td { background: rgba(122, 162, 247, 0.06); }
+    a {
+      color: var(--link);
+      text-decoration: none;
+    }
+    a:hover { text-decoration: underline; }
+    .legend { margin-top: 1.5rem; font-size: 0.85rem; color: var(--muted); }
+    .count { color: var(--muted); font-size: 0.9rem; }
+  </style>
+</head>
+<body>
+  <h1>Chapter references in documentation</h1>
+  <p class="help">Every “see chapter X” (or similar) in the docs. <strong>Exact phrase on page</strong> shows the wording to replace with DungeonDocs links (e.g. "see chapter 5" → link to Feats). Click a source link to open that file. Use the filter and column headers to analyze.</p>
+  <div class="toolbar">
+    <label for="filter">Filter:</label>
+    <input type="text" id="filter" placeholder="Source, chapter, or context…" autocomplete="off">
+    <span class="count" id="count"></span>
+  </div>
+  <table>
+    <thead>
+      <tr>
+        <th data-col="source">Source (click to open)</th>
+        <th data-col="chapter">Chapter reference</th>
+        <th data-col="phrase">Exact phrase on page</th>
+        <th data-col="context">Context</th>
+      </tr>
+    </thead>
+    <tbody id="tbody">
+      <tr><td><a href="dnd2024/equipments/adventuring-gear.md">adventuring-gear</a></td><td>chapter 3, DMG</td><td>See chapter 3 of the Dungeon Master's Guide for rules on extreme heat.</td><td>Extreme heat rules (Desert Clothing)</td></tr>
+      <tr><td><a href="dnd2024/equipments/adventuring-gear.md">adventuring-gear</a></td><td>chapter 3, DMG</td><td>See chapter 3 of the Dungeon Master's Guide for rules on extreme cold.</td><td>Extreme cold rules (Warm Fungal Clothing)</td></tr>
+      <tr><td><a href="dnd2024/backgrounds/index.md">backgrounds index</a></td><td>chapter 5</td><td><em>now links to Feats</em></td><td>Origin feat</td></tr>
+      <tr><td><a href="dnd2024/classes/bard/index.md">bard</a></td><td>chapter 7</td><td>See chapter 7 for the rules on spellcasting.</td><td>Rules on spellcasting</td></tr>
+      <tr><td><a href="dnd2024/reference/bastions.md">bastions</a></td><td>chapter 2, DMG</td><td>(see chapter 2 of the Dungeon Master's Guide)</td><td>Long-distance travel (Zhentarim)</td></tr>
+      <tr><td><a href="dnd2024/reference/bastions.md">bastions</a></td><td>chapter 7</td><td>(see chapter 7)</td><td>Lyrandar Helm / crew station</td></tr>
+      <tr><td><a href="dnd2024/reference/bastions.md">bastions</a></td><td>chapter 7, PHB</td><td>using the rules in the Player's Handbook and chapter 7 of this book</td><td>Craft: Alchemist’s Supplies</td></tr>
+      <tr><td><a href="dnd2024/reference/bastions.md">bastions</a></td><td>chapter 6, PHB; chapter 7</td><td>Trade Goods table, Storehouse</td></tr>
+      <tr><td><a href="dnd2024/reference/bastions.md">bastions</a></td><td>chapter 8, DMG</td><td>in chapter 8 of the Dungeon Master's Guide</td><td>Archive, reference books</td></tr>
+      <tr><td><a href="dnd2024/magic-items/calimemnon-crystal.md">calimemnon-crystal</a></td><td>chapter 7, DMG</td><td>(see chapter 7 of the Dungeon Master's Guide)</td><td>Artifact random properties</td></tr>
+      <tr><td><a href="dnd2024/classes/cleric/index.md">cleric</a></td><td>chapter 7</td><td>See chapter 7 for the rules on spellcasting.</td><td>Rules on spellcasting</td></tr>
+      <tr><td><a href="dnd2024/magic-items/crown-of-horns.md">crown-of-horns</a></td><td>chapter 7, DMG</td><td>(see chapter 7 of the Dungeon Master's Guide)</td><td>Artifact random properties</td></tr>
+      <tr><td><a href="dnd2024/feats/cult-of-the-dragon-initiate.md">cult-of-the-dragon-initiate</a></td><td>chapter 2</td><td>language tables in the Player's Handbook or chapter 2 of this book</td><td>Language tables (PHB or this book)</td></tr>
+      <tr><td><a href="dnd5e/wondrous-items/deck-of-many-things.md">deck-of-many-things</a></td><td>chapter 9</td><td>(see chapter 9 for its stat block)</td><td>Deck defender stat block</td></tr>
+      <tr><td><a href="dnd2024/classes/druid/index.md">druid</a></td><td>chapter 7</td><td>See chapter 7 for the rules on spellcasting.</td><td>Rules on spellcasting</td></tr>
+      <tr><td><a href="dnd2024/classes/fighter/eldritch-knight.md">eldritch-knight</a></td><td>chapter 7</td><td>See chapter 7 for the rules on spellcasting.</td><td>Rules on spellcasting</td></tr>
+      <tr><td><a href="dnd2024/magic-items/eye-and-hand-of-vecna.md">eye-and-hand-of-vecna</a></td><td>chapter 3</td><td>(see chapter 3)</td><td>Green slime</td></tr>
+      <tr><td><a href="dnd2024/classes/fighter/index.md">fighter</a></td><td>chapter 5</td><td>(see chapter 5)</td><td>Fighting Style feat</td></tr>
+      <tr><td><a href="dnd2024/classes/ranger/index.md">ranger</a></td><td>Chapter 7</td><td>See Chapter 7 for the rules on Spellcasting.</td><td>Rules on Spellcasting</td></tr>
+      <tr><td><a href="dnd2024/classes/ranger/index.md">ranger</a></td><td>chapter 2</td><td>language tables in chapter 2</td><td>Language tables</td></tr>
+      <tr><td><a href="dnd2024/classes/ranger/index.md">ranger</a></td><td>chapter 5</td><td>(see chapter 5)</td><td>Fighting Style feat</td></tr>
+      <tr><td><a href="dnd2024/classes/rogue/index.md">rogue</a></td><td>Chapter 2</td><td>language tables in Chapter 2</td><td>Language tables</td></tr>
+      <tr><td><a href="dnd2024/classes/rogue/arcane-trickster.md">arcane-trickster</a></td><td>chapter 7</td><td>See chapter 7 for the rules on spellcasting.</td><td>Rules on spellcasting</td></tr>
+      <tr><td><a href="dnd2024/classes/sorcerer/index.md">sorcerer</a></td><td>chapter 7</td><td>See chapter 7 for the rules on spellcasting.</td><td>Rules on spellcasting</td></tr>
+      <tr><td><a href="dnd2024/classes/warlock/index.md">warlock</a></td><td>chapter 7</td><td>See chapter 7 for the rules on spellcasting.</td><td>Rules on spellcasting</td></tr>
+      <tr><td><a href="dnd2024/classes/wizard/index.md">wizard</a></td><td>chapter 7</td><td>See chapter 7 for the rules on spellcasting.</td><td>Rules on spellcasting</td></tr>
+      <tr><td><a href="dnd2024/magic-items/lock-of-trickery.md">lock-of-trickery</a></td><td>chapter 6, PHB</td><td>(of the type described in chapter 6 of the Player's Handbook)</td><td>Lock type</td></tr>
+      <tr><td><a href="dnd2024/magic-items/orb-of-damara.md">orb-of-damara</a></td><td>chapter 7, DMG</td><td>(see chapter 7 of the Dungeon Master's Guide)</td><td>Artifact random properties</td></tr>
+      <tr><td><a href="dnd5e/wondrous-items/akmon.md">akmon</a></td><td>chapter 7</td><td>See "Artifacts" in chapter 7 of the</td><td>Artifacts</td></tr>
+      <tr><td><a href="dnd5e/wizard/artificer-ua.md">artificer-ua</a></td><td>chapter 7, DMG</td><td>chapter 7 of the Dungeon Master's Guide</td><td>Potions; crafting</td></tr>
+      <tr><td><a href="dnd5e/wondrous-items/black-crystal-tablet.md">black-crystal-tablet</a></td><td>chapter 8, DMG</td><td>(see "Madness" in chapter 8 of the Dungeon Master's Guide)</td><td>Madness</td></tr>
+      <tr><td><a href="dnd5e/wondrous-items/blade-of-avernus.md">blade-of-avernus</a></td><td>chapter 7, DMG</td><td>as described in chapter 7 of the Dungeon Master's Guide</td><td>Random artifact properties</td></tr>
+      <tr><td><a href="dnd5e/wondrous-items/dekella.md">dekella</a></td><td>chapter 7</td><td>See "Artifacts" in chapter 7 of the</td><td>Artifacts</td></tr>
+      <tr><td><a href="dnd5e/wondrous-items/dekella.md">dekella</a></td><td>chapter 5</td><td>(see "Weather at Sea" in chapter 5 of the</td><td>Weather at Sea</td></tr>
+      <tr><td><a href="dnd5e/wondrous-items/devastation-orb.md">devastation-orb</a></td><td>chapter 5</td><td>as detailed in chapter 5 of the</td><td>Strong wind; extreme heat; heavy precipitation</td></tr>
+      <tr><td><a href="dnd5e/monk/four-elements.md">four-elements</a></td><td>chapter 10</td><td>See chapter 10 for the general rules of spellcasting</td><td>General rules of spellcasting</td></tr>
+      <tr><td><a href="dnd5e/wondrous-items/guild-keyrune.md">guild-keyrune</a></td><td>chapter 6</td><td>(see chapter 6 for the stat block)</td><td>Stat blocks (multiple creature forms)</td></tr>
+      <tr><td><a href="dnd5e/wondrous-items/gulthias-staff.md">gulthias-staff</a></td><td>chapter 8</td><td>(see "Madness" in chapter 8 of the</td><td>Madness</td></tr>
+      <tr><td><a href="dnd5e/ranger/horizon-walker.md">horizon-walker</a></td><td>chapter 2, DMG</td><td>See the "Planar Travel" section in chapter 2 of the Dungeon Master's Guide</td><td>Planar Travel, planar portals</td></tr>
+      <tr><td><a href="dnd5e/lineage/human.md">human (lineage)</a></td><td>chapter 5</td><td>optional feat rules from chapter 5 of the / as described in chapter 5 of the</td><td>Optional feats; cold climate adaptation</td></tr>
+      <tr><td><a href="dnd5e/wondrous-items/the-infernal-machine-of-lum-the-mad.md">infernal-machine</a></td><td>chapter 3</td><td>(see the sorcerer section in chapter 3 of the</td><td>Wild Magic Surge (sorcerer)</td></tr>
+      <tr><td><a href="dnd5e/thiss/is-your-life.md">is-your-life</a></td><td>Chapter 5, PHB</td><td>Chapter 5 of the player's handbook has more information about lifestyles</td><td>Lifestyles</td></tr>
+      <tr><td><a href="dnd5e/wondrous-items/khrusor.md">khrusor</a></td><td>chapter 7</td><td>See "Artifacts" in chapter 7 of the</td><td>Artifacts</td></tr>
+      <tr><td><a href="dnd5e/wondrous-items/lock-of-trickery.md">lock-of-trickery</a></td><td>chapter 5</td><td>(of the type described in chapter 5 of the</td><td>Lock type</td></tr>
+      <tr><td><a href="dnd5e/wondrous-items/mastix.md">mastix</a></td><td>chapter 7</td><td>See "Artifacts" in chapter 7 of the</td><td>Artifacts</td></tr>
+      <tr><td><a href="dnd5e/mystic/disciplines.md">mystic disciplines</a></td><td>chapter 10</td><td>See chapter 10, "Spellcasting," in the</td><td>Spellcasting (concentration; targets/areas)</td></tr>
+      <tr><td><a href="dnd5e/wondrous-items/pressure-capsule.md">pressure-capsule</a></td><td>chapter 5</td><td>(see "Unusual Environments" in chapter 5 of the</td><td>Unusual Environments</td></tr>
+      <tr><td><a href="dnd5e/wondrous-items/ring-of-winter.md">ring-of-winter</a></td><td>chapter 7</td><td>(see "Sentient Magic Items" in chapter 7 of the</td><td>Sentient Magic Items</td></tr>
+      <tr><td><a href="dnd5e/wondrous-items/ring-of-winter.md">ring-of-winter</a></td><td>chapter 5</td><td>(see chapter 5 of the</td><td>Extreme cold</td></tr>
+      <tr><td><a href="dnd5e/wondrous-items/scorpion-armor.md">scorpion-armor</a></td><td>chapter 5</td><td>(see chapter 5 of the</td><td>Extreme heat</td></tr>
+      <tr><td><a href="dnd5e/wondrous-items/stone-of-golorr.md">stone-of-golorr</a></td><td>chapter 7</td><td>"Artifacts" section in chapter 7 / (see "Sentient Magic Items" in chapter 7 of the</td><td>Artifacts; Sentient Magic Items</td></tr>
+      <tr><td><a href="dnd5e/wondrous-items/sword-of-zariel.md">sword-of-zariel</a></td><td>chapter 7</td><td>Minor Beneficial Properties table in chapter 7 of the</td><td>Minor Beneficial Properties table</td></tr>
+      <tr><td><a href="dnd5e/backgrounds/sword-coast-heroic-chronicle.md">sword-coast-heroic-chronicle</a></td><td>chapter 2, SCAG</td><td>described in chapter 2 of the Sword Coast Adventurer's Guide</td><td>Regions</td></tr>
+      <tr><td><a href="dnd5e/backgrounds/sword-coast-heroic-chronicle.md">sword-coast-heroic-chronicle</a></td><td>chapter 8</td><td>Indefinite Madness table in chapter 8 of the</td><td>Indefinite Madness table</td></tr>
+      <tr><td><a href="dnd5e/backgrounds/sword-coast-heroic-chronicle.md">sword-coast-heroic-chronicle</a></td><td>chapter 7</td><td>as detailed in chapter 7 of the</td><td>Weapon special features</td></tr>
+      <tr><td><a href="dnd5e/reference/tools.md">tools (reference)</a></td><td>chapter 10</td><td>as described in chapter 10 of the</td><td>Musical instrument as spellcasting focus</td></tr>
+      <tr><td><a href="dnd5e/wondrous-items/voidwalker-armor.md">voidwalker-armor</a></td><td>chapter 18</td><td>(see chapter 18)</td><td>House of Cards</td></tr>
+      <tr><td><a href="dnd5e/backgrounds/wildemount-heroic-chronicle.md">wildemount-heroic-chronicle</a></td><td>chapter 7</td><td>as detailed in chapter 7 of the</td><td>Weapon special features</td></tr>
+      <tr><td><a href="dnd5e/backgrounds/wildemount-heroic-chronicle.md">wildemount-heroic-chronicle</a></td><td>chapter 8</td><td>Indefinite Madness table in chapter 8 of the / see chapter 8 of the</td><td>Indefinite Madness; diseases (cackle fever, etc.)</td></tr>
+      <tr><td><a href="dnd5e/wizard/order-of-scribes-ua.md">order-of-scribes-ua</a></td><td>chapter 7, DMG</td><td>described in chapter 7 of the Dungeon Master's Guide</td><td>Spell scrolls</td></tr>
+      <tr><td><a href="dnd5e/reference/bard.md">bard (5e reference)</a></td><td>chapter 5</td><td>(found in chapter 5)</td><td>Musical instrument as spellcasting focus</td></tr>
+      <tr><td><a href="dnd5e/reference/mystic.md">mystic (5e reference)</a></td><td>chapter 5, PHB</td><td>buy from chapter 5 in the Player's Handbook</td><td>Equipment</td></tr>
+      <tr><td><a href="items_formatted/calimemnon-crystal.md">items: calimemnon-crystal</a></td><td>chapter 7, DMG</td><td>(see chapter 7 of the Dungeon Master's Guide)</td><td>Artifact random properties</td></tr>
+      <tr><td><a href="items_formatted/crown-of-horns.md">items: crown-of-horns</a></td><td>chapter 7, DMG</td><td>(see chapter 7 of the Dungeon Master's Guide)</td><td>Artifact random properties</td></tr>
+      <tr><td><a href="items_formatted/eye-and-hand-of-vecna.md">items: eye-and-hand-of-vecna</a></td><td>chapter 3</td><td>(see chapter 3)</td><td>Green slime</td></tr>
+      <tr><td><a href="items_formatted/lock-of-trickery.md">items: lock-of-trickery</a></td><td>chapter 6, PHB</td><td>(chapter 6 of the Player's Handbook)</td><td>Lock type</td></tr>
+      <tr><td><a href="items_formatted/orb-of-damara.md">items: orb-of-damara</a></td><td>chapter 7, DMG</td><td>(see chapter 7 of the Dungeon Master's Guide)</td><td>Artifact random properties</td></tr>
+    </tbody>
+  </table>
+  <p class="legend">DMG = Dungeon Master’s Guide; PHB = Player’s Handbook; SCAG = Sword Coast Adventurer’s Guide.</p>
+
+  <script>
+    (function() {
+      var tbody = document.getElementById('tbody');
+      var rows = Array.from(tbody.querySelectorAll('tr'));
+      var total = rows.length;
+      var filterEl = document.getElementById('filter');
+      var countEl = document.getElementById('count');
+      var ths = document.querySelectorAll('th[data-col]');
+      var sortCol = null;
+      var sortDir = 1;
+
+      function updateCount(visible) {
+        countEl.textContent = visible + ' of ' + total + ' rows';
+      }
+
+      function filter() {
+        var q = (filterEl.value || '').toLowerCase();
+        rows.forEach(function(tr) {
+          var text = (tr.textContent || '').toLowerCase();
+          tr.style.display = q === '' || text.indexOf(q) !== -1 ? '' : 'none';
+        });
+        updateCount(rows.filter(function(r) { return r.style.display !== 'none'; }).length);
+      }
+
+      function sort(colIndex) {
+        var dir = sortCol === colIndex ? -sortDir : 1;
+        sortCol = colIndex;
+        sortDir = dir;
+        ths.forEach(function(th) { th.removeAttribute('data-sort-dir'); });
+        ths[colIndex].setAttribute('data-sort-dir', dir === 1 ? 'asc' : 'desc');
+
+        rows.sort(function(a, b) {
+          var ac = a.cells[colIndex].textContent.trim();
+          var bc = b.cells[colIndex].textContent.trim();
+          return dir * (ac.localeCompare(bc, undefined, { numeric: true }));
+        });
+        rows.forEach(function(r) { tbody.appendChild(r); });
+      }
+
+      filterEl.addEventListener('input', filter);
+      ths.forEach(function(th, i) {
+        th.addEventListener('click', function() { sort(i); });
+      });
+
+      updateCount(total);
+    })();
+  </script>
+</body>
+</html>

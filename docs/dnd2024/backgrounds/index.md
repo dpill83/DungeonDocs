@@ -9,7 +9,7 @@ Every background provides the following:
 | Component | Details |
 |-----------|---------|
 | **Ability Scores** | Choose how to distribute three ability score increases: boost one score by 2 and another by 1, or increase all three by 1. No score can exceed 20. |
-| **Feat** | You gain a specified Origin feat (see chapter 5). |
+| **Feat** | You gain a specified Origin feat ([Feats](../feats/index.md)). |
 | **Skill Proficiencies** | You become proficient in two specified skills. |
 | **Tool Proficiency** | You gain proficiency with one tool, either a specific one or one selected from the Artisan's Tools category. |
 | **Equipment** | You choose either a specific equipment package or 50 GP to spend as you wish. |

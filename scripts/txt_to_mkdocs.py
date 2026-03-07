@@ -62,6 +62,8 @@ CATEGORY_TO_FOLDER = {
     "wizard": "wizard",
     "reference": "reference",
     "ua": "unearthed-arcana",
+    "monster": "monsters",
+    "creatures": "monsters",
 }
 
 # Section headers to convert to ##
