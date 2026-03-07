@@ -17,6 +17,7 @@ A searchable D&D rules reference. Rules from the 2024 revised core books (D&D 5.
 - **[Magic Items](dnd2024/magic-items/all.md)** – By rarity and category
 - **[Feats](dnd2024/feats/index.md)** – Abilities and character options
 - **[Spells](dnd2024/spells/index.md)** – By level and school
+- **[Monsters](dnd2024/monsters/index.md)** – Bestiary by name, CR, or type
 - **[Reference](dnd2024/reference/index.md)** – Optional rules, Bastions, Unearthed Arcana
 
 For my wife.

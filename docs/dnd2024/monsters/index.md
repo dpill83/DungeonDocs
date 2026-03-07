@@ -1,3 +1,8 @@
 # Monsters
 
-Browse the bestiary by [name](by-name.md), [Challenge Rating](by-cr.md), or [creature type](by-type.md). See [Stat blocks](stat-blocks.md) for rules.
+Browse the bestiary or read the rules:
+
+- **[By Name](by-name.md)** – Alphabetical list of all monsters
+- **[By CR](by-cr.md)** – Grouped by Challenge Rating
+- **[By Type](by-type.md)** – Grouped by creature type (aberration, beast, etc.)
+- **[Stat blocks](stat-blocks.md)** – How to read and use monster stat blocks
